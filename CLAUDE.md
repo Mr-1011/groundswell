@@ -20,9 +20,16 @@ The JSON files in `map/data/` are the contract, specified in `map/README.md`. A 
 ## Commands
 
 ```sh
-python3 -m http.server 8000 -d map              # serve the dashboard on :8000
+cd map && npm install && npm run dev             # dashboard on :5173, proxies /api -> agent on :8787 (AGENT_URL)
+cd map && npm run typecheck                      # tsc --noEmit; npm run build also typechecks
 cd agent && npm install                          # agent deps (Node 24+, runs .ts natively, no build step)
-cd agent && npm start -- AL TX                   # run the orchestrator for a scope; loads agent/.env if present
+cd agent && npm start -- AL TX                   # orchestrator for a scope (states, 2- or 5-digit FIPS); loads agent/.env
+cd agent && npm start -- --direct 01097          # one region-researcher without the orchestrator (debug)
+cd agent && npm start -- --dedupe                # merge duplicate project rows, re-export
+cd agent && npm start -- --geocode               # lat/lon for projects from their source text (Nominatim), re-export
+cd agent && npm run cases -- 36                  # research labeled past decisions -> agent/loop/cases.json
+cd agent && npm run backtest -- --rounds 5       # learning loop -> rounds, predictions, rulebook rewrites
+cd agent && npm run serve                        # POST /chat on :8787
 cd agent && npm run typecheck                    # tsc --noEmit
 sqlite3 db/groundswell.sqlite < db/schema.sql    # create the DB
 python3 db/export.py                             # DB -> map/data/{counties,projects,states,rounds}.json
@@ -35,9 +42,10 @@ No tests and no linter exist yet.
 Data flows one way: sources -> `documents` table -> extractor -> `items`, `projects`, `reasons` -> classifier -> scorer -> `counties`, `states` -> `db/export.py` -> `map/data/` -> dashboard.
 
 - Sources (`agent/sources/`): one file per source (Tavily news, Exa, Apify Reddit/TikTok, Oriane TikTok, Supadata YouTube, county minutes). Each returns the same `SourceDocument` shape from `agent/sources/types.ts`, so the extractor and classifier never see source specifics. A source is switched on in `agent/config/sources.json`. Adding a source = one file + one config line.
-- Models: Opus 5.5 orchestrator, Sonnet 5.5 subagents per region (Claude Agent SDK). Stance classifier later moves to a Fireworks LoRA model called as a custom tool (serverless training, never dataset upload).
-- Learning loop (`agent/loop/`): backtest on 38 real past decisions (26 train, 12 held out). Each prediction uses only evidence from before the decision date. Accuracy per round goes to `rounds` -> `map/data/rounds.json`. The reflector rewrites `agent/loop/rulebook.md` between rounds. Target label: blocked yes/no.
-- Chat: the agent exposes `POST /chat`. It returns an answer plus map actions as structured output: `fly_to`, `highlight`, `set_filter`, `open_window`. The dashboard executes them.
+- Models (`agent/config/models.json`): Opus 5.5 orchestrator, scorer and reflector; Sonnet 5.5 region-researcher subagents, extractor, classifier and chat (Claude Agent SDK; direct Messages API calls with structured outputs for extractor/classifier/scorer). Stance classifier: `stance_provider` switches from Anthropic to any OpenAI-compatible endpoint (Fireworks, GMI Cloud) for a fine-tuned model; `agent/loop/export-labels.ts` writes the training JSONL.
+- Learning loop (`agent/loop/`): backtest on real past decisions in `cases.json` (built by `build-cases.ts` with web research; every third case held out). Research per case happens once with evidence before the decision date; rounds differ only in the rulebook. Accuracy per round goes to `rounds` -> `map/data/rounds.json`. The reflector rewrites `agent/loop/rulebook.md` between rounds. Target label: blocked yes/no.
+- Chat: the agent exposes `POST /chat` on :8787. It returns an answer plus map actions as structured output: `fly_to`, `highlight`, `set_filter`, `open_window`. The dashboard executes them in `runAction` (`map/src/App.tsx`). Request/response shapes are in `map/README.md`.
+- Dashboard (`map/`): Vite serves `map/data/` as its static root (`publicDir`), so the dashboard fetches `/counties.json` etc. County/state shapes come from `us-atlas` and get scores joined on FIPS in `map/src/data.ts`. MapLibre is excluded from Vite pre-bundling and its worker URL is set in `main.tsx`; without both the map stays blank ("Worker failed to load").
 - Storage: SQLite now (`db/groundswell.sqlite`, gitignored), Postgres later.
 
 ## Hard rules

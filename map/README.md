@@ -4,12 +4,29 @@ The dashboard reads only from `map/data/`. The agent writes `map/data/` (through
 
 The files in the repo now are SAMPLE DATA (example.com URLs). They exist so the UI works before real data exists. `db/export.py` overwrites them.
 
+## Run
+
+```sh
+cd map
+npm install
+npm run dev          # http://localhost:5173, serves map/data/ at the site root
+AGENT_URL=http://localhost:9000 npm run dev   # if the agent does not run on :8787
+npm run build        # dist/, includes a copy of map/data/
+```
+
+Stack: Vite + React + TypeScript, MapLibre GL (CARTO dark basemap), county and state shapes from `us-atlas` (2017 Census FIPS). Data changes in `map/data/` show after a browser reload.
+
+Infrastructure layers (transmission lines, substations, power plants, gas and liquids pipelines, long-haul fiber, OSM data centers) are live OpenInfraMap vector tiles (OpenStreetMap data). They are not files in `map/data/`, and the agent does not need to write them. A click on a plant, substation or data center opens a window with its OpenStreetMap source. The map stays inside the lower 48 (Alaska and Hawaii are out of reach).
+
+The map also shows `counties.json` `prediction: "blocked"` as a hatch, and the number of projects per county ("11 PRJ"). Projects need `lat`/`lon` to get a marker and a site view (z13.5, 1/3/5 km range rings).
+
 ## Rules for all files
 
 - Dates: ISO 8601 (`2026-10-01` or `2026-11-08T12:00:00Z`).
 - Unknown values: `null`. Never guessed.
 - Every news item, social post, quote and project has a source URL.
 - FIPS codes are strings with leading zeros (`"01097"`, not `1097`).
+- County shapes use 2017 Census FIPS. Connecticut's 2022 planning regions (091xx) have no shape and do not show on the map.
 
 ## counties.json
 
@@ -28,6 +45,7 @@ Object keyed by 5-digit county FIPS.
     "social": [{ "platform": "reddit", "url": "...", "text": "...", "date": "2026-10-02", "stance": "oppose" }],
     "quotes": [{ "text": "...", "source": "speaker, context", "url": "...", "date": "2026-09-15" }],
     "facts": ["..."],
+    "groups": [{ "name": "Friends of the Tensaw River", "url": "...", "date": "2026-07-06" }],
     "updated": "2026-11-08T12:00:00Z"
   }
 }
@@ -38,19 +56,23 @@ Object keyed by 5-digit county FIPS.
 | score | number 0-1 or null | resistance; 1 = strong local opposition |
 | label | `low` \| `medium` \| `high` or null | |
 | reasons[].weight | number 0-1 | sorted high to low |
-| stance | `oppose` \| `support` \| `neutral` | news and social |
+| stance | `oppose` \| `support` \| `neutral` | news, social and quotes |
+| emotion | `anger` \| `fear` \| `distrust` \| `frustration` \| `sadness` \| `hope` \| `pride` \| `none` or null | social and quotes; dominant emotion of the community voice |
 | news, social, quotes | arrays | newest first; can be empty |
+| groups | array | community groups and organizations named in the sources (opposing and supporting), one entry per name, newest first; can be empty |
 
 ## projects.json
 
 Array of data center projects.
 
 ```json
-[{ "name": "...", "developer": "...", "fips": "01097", "state": "AL", "lat": 30.69, "lon": -88.04,
+[{ "name": "...", "developer": "...", "fips": "01097", "state": "AL", "lat": 30.69, "lon": -88.04, "geo_precision": "address",
    "status": "planned", "size_mw": 300, "date": "2026-06-01", "source_url": "..." }]
 ```
 
 `status`: `operating` | `planned` | `approved` | `rejected` | `withdrawn` | `moratorium`. `date` is the date of the last status change. `size_mw`, `lat`, `lon` can be null.
+
+`geo_precision`: how exact `lat`/`lon` is: `address` (building, parcel, named facility or industrial park), `road` (a point on the named road), `place` (centroid of the named town or community; show as approximate, no range rings), or null when there is no point. The point comes from the site the source text names, geocoded with Nominatim and kept only inside the project's county; a county or state centroid is never used.
 
 ## states.json
 
@@ -94,4 +116,28 @@ One GeoJSON FeatureCollection per context layer. A missing file means the layer 
 | `layers/landing-points.geojson` | Point | name, source_url (TeleGeography) |
 | `layers/county-results-2024.geojson` | null | fips, pres_2024_margin; the UI joins on fips to county shapes |
 
-Adding a layer: one data file here + one entry in the frontend layer registry.
+Adding a layer: one data file here + one entry in the frontend layer registry (`LAYERS` in `map/src/data.ts`).
+
+## Chat endpoint (AGENT tab)
+
+Served by the agent harness: `cd agent && npm run serve` (port 8787, CORS open).
+
+```
+POST http://localhost:8787/chat
+{ "message": "where in Texas is resistance rising?", "session_id": "<from last reply, optional>", "context": { "state": "TX", "fips": null, "zoom": 6, "layers": ["pred-blocked", "transmission", "plants", "gas", "osm-dc"] } }
+
+-> { "answer": "...", "actions": [...], "session_id": "..." }
+```
+
+`actions` is a list the dashboard executes in order:
+
+| type | fields | meaning |
+|---|---|---|
+| `fly_to` | `fips` (5-digit) or `state` (2-letter); the other is null | zoom to a county or a state |
+| `highlight` | `fips: [..]` | highlight counties (max 20) |
+| `set_filter` | `status: [..]`, `stance: [..]`, `layers: [..]`, `since: date` (each null = unchanged) | change the filter drawer. `layers` is the full list that is on (start from `context.layers`). Ids: `pred-blocked`, `transmission`, `substations`, `plants`, `gas`, `liquids`, `fiber`, `osm-dc`; unknown ids are dropped |
+| `open_window` | `kind: county\|project\|news\|chart`, `fips`, `project` (name), `url` | open a floating window |
+
+Pass `session_id` back to keep the conversation. `GET /health` returns `{ok: true}`.
+
+Dashboard behavior: `fly_to` also selects the region (the INFO tab follows). `open_window` `news` opens a window with the article (found by `url` in `counties.json`) and its link; `chart` opens the learning-loop window. `**bold**` in `answer` shows as bold. A non-2xx answer shows "Agent not reachable" in the chat.
