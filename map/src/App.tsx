@@ -149,6 +149,11 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
           context: { state: stateId ?? null, fips: selection?.kind === "county" ? selection.id : null, zoom: map?.getZoom() ?? null, layers: filters.layers },
         }),
       });
+      if (res.status === 429) {
+        // the public agent has a per-IP rate limit (Vercel firewall)
+        setMessages((m) => [...m, { role: "assistant", content: "Too many questions in a short time. Wait a minute, then ask again.", error: true }]);
+        return;
+      }
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const body: { answer: string; actions?: Action[] } = await res.json(); // stateless: no session_id, every question stands alone
       body.actions?.forEach(runAction);
@@ -156,7 +161,11 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
     } catch (e) {
       setMessages((m) => [
         ...m,
-        { role: "assistant", content: `Agent not reachable (${(e as Error).message}). Is the agent server running?`, error: true },
+        {
+          role: "assistant",
+          content: `Agent not reachable (${(e as Error).message}). ${import.meta.env.DEV ? "Is the agent server running?" : "Try again in a moment."}`,
+          error: true,
+        },
       ]);
     } finally {
       setBusy(false);
