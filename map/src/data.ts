@@ -182,7 +182,7 @@ export const INFRA: { id: string; label: string; swatch: SwatchKind }[] = [
   { id: "gas", label: "Gas pipelines", swatch: "dashed" },
   { id: "liquids", label: "Oil + liquids pipelines", swatch: "dashdot" },
   { id: "fiber", label: "Long-haul fiber", swatch: "dotted" },
-  { id: "osm-dc", label: "Data centers (OSM)", swatch: "dc" },
+  { id: "osm-dc", label: "Existing data centers (OSM)", swatch: "dc" },
 ];
 
 export async function loadLayer(id: string): Promise<FeatureCollection | null> {
