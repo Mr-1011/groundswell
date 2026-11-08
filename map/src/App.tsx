@@ -25,8 +25,30 @@ export default function App() {
   }, []);
 
   if (error) return <div className="fatal mono">Could not load map data: {error}</div>;
-  if (!loaded) return <div className="fatal mono muted">loading…</div>;
+  if (!loaded) return <Skeleton />;
   return <Dashboard data={loaded.data} geo={loaded.geo} layerData={layerData} />;
+}
+
+// Static outline of the layout while the data loads (no shimmer: the look rules forbid pulsing).
+function Skeleton() {
+  return (
+    <div className="app" aria-busy="true">
+      <main className="map-area skel-map">
+        <span className="mono muted">loading county data…</span>
+      </main>
+      <aside className="side">
+        <div className="tabs">
+          <button className="on">info</button>
+        </div>
+        <div className="side-body">
+          <div className="skel skel-stats" />
+          {[40, 100, 30, 90, 80, 85, 70, 60].map((w, i) => (
+            <div key={i} className="skel skel-line" style={{ width: `${w}%` }} />
+          ))}
+        </div>
+      </aside>
+    </div>
+  );
 }
 
 function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: Record<string, FeatureCollection | null> }) {

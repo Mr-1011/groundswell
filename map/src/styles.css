@@ -88,6 +88,26 @@ h3 {
   padding: 24px;
 }
 
+/* loading skeleton: static blocks in the panel tone */
+.skel-map {
+  display: grid;
+  place-items: center;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.skel {
+  background: var(--panel-2);
+}
+.skel-stats {
+  height: 46px;
+  margin: 12px 0 18px;
+}
+.skel-line {
+  height: 8px;
+  margin-top: 14px;
+}
+
 /* layout */
 .app {
   display: grid;
