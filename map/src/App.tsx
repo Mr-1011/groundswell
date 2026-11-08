@@ -8,6 +8,10 @@ import { CountyView, InfraView, NationalView, NewsView, ProjectView, RoundsView,
 import { Chat, FilterDrawer, FloatingWindow, type ChatMessage } from "./Chrome";
 import { Swatch } from "./shapes";
 
+// Chat endpoint: the dev proxy, or VITE_AGENT_URL baked in at build time. A public build without it has no AGENT tab.
+const AGENT_URL: string | null = import.meta.env.VITE_AGENT_URL || (import.meta.env.DEV ? "/api" : null);
+const TABS = AGENT_URL ? (["info", "agent"] as const) : (["info"] as const);
+
 const KNOWN_LAYERS = new Set([...MODEL_LAYERS, ...INFRA, ...LAYERS].map((l) => l.id));
 
 export default function App() {
@@ -116,7 +120,7 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
     setBusy(true);
     try {
       const map = mapRef.current;
-      const res = await fetch("/api/chat", {
+      const res = await fetch(`${AGENT_URL}/chat`, {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify({
@@ -262,7 +266,7 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
 
       <aside className="side">
         <div className="tabs" role="tablist">
-          {(["info", "agent"] as const).map((t) => (
+          {TABS.map((t) => (
             <button key={t} role="tab" aria-selected={tab === t} className={tab === t ? "on" : ""} onClick={() => setTab(t)}>
               {t}
             </button>
