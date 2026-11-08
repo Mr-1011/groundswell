@@ -552,6 +552,30 @@ h3 {
   align-items: center;
   gap: 8px;
 }
+/* project status by shape: two columns, progress left to right (built, approved / planned, moratorium / withdrawn, rejected) */
+.legend-projects {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 4px 14px;
+  padding: 5px 0 4px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.legend-head {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+.legend-status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--ink);
+}
+.legend-status .muted {
+  margin-left: auto;
+}
 .swatches {
   display: flex;
   gap: 1px;
@@ -696,6 +720,9 @@ h3 {
   .desktop-only,
   .legend-row:not(:first-child) {
     display: none;
+  }
+  .legend-projects {
+    border-bottom: 0; /* the layer rows below it are hidden here */
   }
   .filter-btn {
     top: 8px;

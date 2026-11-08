@@ -1,12 +1,12 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { MapRef } from "react-map-gl/maplibre";
 import type { FeatureCollection } from "geojson";
-import { INFRA, LAYERS, MODEL_LAYERS, RAMP, bbox, loadData, loadLayer, type Data, type Geo, type RegionFeature, type Status } from "./data";
-import { DEFAULT_FILTERS, type Action, type Selection, type WindowSpec } from "./state";
+import { INFRA, LAYERS, MODEL_LAYERS, RAMP, STATUSES, STATUS_LABEL, bbox, loadData, loadLayer, type Data, type Geo, type RegionFeature, type Status } from "./data";
+import { DEFAULT_FILTERS, inWindow, type Action, type Selection, type WindowSpec } from "./state";
 import MapView, { US_BOUNDS } from "./MapView";
 import { CountyView, InfraView, NationalView, NewsView, ProjectView, RoundsView, StateView, type ViewProps } from "./Panels";
 import { Chat, FilterDrawer, FloatingWindow, type ChatMessage } from "./Chrome";
-import { Swatch } from "./shapes";
+import { Shape, Swatch } from "./shapes";
 
 // Chat endpoint: the dev proxy, or VITE_AGENT_URL baked in at build time. A public build without it has no AGENT tab.
 const AGENT_URL: string | null = import.meta.env.VITE_AGENT_URL || (import.meta.env.DEV ? "/api" : null);
@@ -168,6 +168,13 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
     for (const p of data.projects) c[p.status] = (c[p.status] ?? 0) + 1;
     return c;
   }, [data]);
+  // Markers on the map: projects with a site point, inside the time window (the legend counts these, not all projects).
+  const onMap = useMemo(() => {
+    const c: Partial<Record<Status, number>> = {};
+    for (const p of data.projects) if (p.lat != null && p.lon != null && inWindow(p.date, filters.since)) c[p.status] = (c[p.status] ?? 0) + 1;
+    return c;
+  }, [data, filters.since]);
+  const shownStatuses = STATUSES.filter((s) => filters.statuses.includes(s));
 
   const activeFilters =
     filters.layers.filter((l) => !DEFAULT_FILTERS.layers.includes(l)).length +
@@ -255,6 +262,21 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
                 </button>
               )}
             </div>
+            {shownStatuses.length > 0 && (
+              <div className="legend-projects">
+                <div className="legend-head">
+                  <span>data center projects</span>
+                  <span className="muted">{shownStatuses.reduce((a, s) => a + (onMap[s] ?? 0), 0)} on map</span>
+                </div>
+                {shownStatuses.map((s) => (
+                  <span key={s} className="legend-status">
+                    <Shape status={s} />
+                    <span>{STATUS_LABEL[s]}</span>
+                    <span className="muted">{onMap[s] ?? 0}</span>
+                  </span>
+                ))}
+              </div>
+            )}
             {[...MODEL_LAYERS, ...INFRA].filter((l) => filters.layers.includes(l.id)).map((l) => (
               <div key={l.id} className="legend-row">
                 <Swatch kind={l.swatch} />
