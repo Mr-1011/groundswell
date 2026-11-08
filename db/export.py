@@ -29,18 +29,25 @@ def main():
         def pick(kind, *keys):
             return [{k: i[k] for k in keys} for i in items if i["kind"] == kind]
 
+        groups, seen = [], set()  # one entry per group name (the extractor stores the plain name in `source`)
+        for i in items:
+            if i["kind"] == "group" and i["source"] and i["source"].lower() not in seen:
+                seen.add(i["source"].lower())
+                groups.append({"name": i["source"], "url": i["url"], "date": i["date"]})
+
         counties[fips] = {
             **c,
             "reasons": rows(con, "SELECT reason, weight FROM reasons WHERE fips = ? ORDER BY weight DESC", fips),
             "news": pick("news", "title", "url", "date", "source", "stance"),
-            "social": pick("social", "platform", "url", "text", "date", "stance"),
-            "quotes": pick("quote", "text", "source", "url", "date"),
-            "facts": [i["text"] for i in items if i["kind"] == "fact"],
+            "social": pick("social", "platform", "url", "text", "date", "stance", "emotion"),
+            "quotes": pick("quote", "text", "source", "url", "date", "stance", "emotion"),
+            "facts": [i["text"] for i in items if i["kind"] == "fact"][:40],  # newest first; the DB keeps all
+            "groups": groups,
         }
 
     projects = rows(
         con,
-        "SELECT name, developer, fips, state, lat, lon, status, size_mw, date, source_url FROM projects ORDER BY state, name",
+        "SELECT name, developer, fips, state, lat, lon, geo_precision, status, size_mw, date, source_url FROM projects WHERE fips IS NOT NULL ORDER BY state, name",
     )
 
     states = {}

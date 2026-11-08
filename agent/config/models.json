@@ -1,0 +1,18 @@
+{
+  "orchestrator": "claude-opus-5-5",
+  "researcher": "claude-sonnet-5-5",
+  "extractor": "claude-sonnet-5-5",
+  "classifier": "claude-sonnet-5-5",
+  "scorer": "claude-opus-5-5",
+  "reflector": "claude-opus-5-5",
+  "chat": "claude-sonnet-5-5",
+  "stance_provider": "anthropic",
+  "parallel_regions": 4,
+  "max_counties_per_state": 12,
+  "max_budget_usd_per_run": 25,
+  "openai_compatible": {
+    "base_url": "https://api.fireworks.ai/inference/v1",
+    "model": "",
+    "env": "FIREWORKS_API_KEY"
+  }
+}

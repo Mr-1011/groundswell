@@ -27,8 +27,11 @@ cd agent && npm start -- AL TX                   # orchestrator for a scope (sta
 cd agent && npm start -- --direct 01097          # one region-researcher without the orchestrator (debug)
 cd agent && npm start -- --dedupe                # merge duplicate project rows, re-export
 cd agent && npm start -- --geocode               # lat/lon for projects from their source text (Nominatim), re-export
+cd agent && npm start -- --trends                # communication patterns per county, merged across counties, re-export
+cd agent && npm start -- --fill AL TX            # score for every county of the states (web search each; state baseline where no evidence), re-export
 cd agent && npm run cases -- 36                  # research labeled past decisions -> agent/loop/cases.json
 cd agent && npm run backtest -- --rounds 5       # learning loop -> rounds, predictions, rulebook rewrites
+cd agent && node loop/export-labels.ts train.jsonl holdout.jsonl && python3 loop/train_stance.py train.jsonl holdout.jsonl  # Fireworks LoRA stance model (header has setup)
 cd agent && npm run serve                        # POST /chat on :8787
 cd agent && npm run typecheck                    # tsc --noEmit
 sqlite3 db/groundswell.sqlite < db/schema.sql    # create the DB

@@ -55,6 +55,8 @@ Object keyed by 5-digit county FIPS.
 |---|---|---|
 | score | number 0-1 or null | resistance; 1 = strong local opposition |
 | label | `low` \| `medium` \| `high` or null | |
+| prediction | `blocked` \| `approved` or null | null when the county has a score but no local evidence (see confidence) |
+| confidence | number 0-1 or null | how much local evidence supports the score. 0 = none found: the score is the state baseline (mean of the state's counties scored on evidence), the summary says so, reasons are empty |
 | reasons[].weight | number 0-1 | sorted high to low |
 | stance | `oppose` \| `support` \| `neutral` | news, social and quotes |
 | emotion | `anger` \| `fear` \| `distrust` \| `frustration` \| `sadness` \| `hope` \| `pride` \| `none` or null | social and quotes; dominant emotion of the community voice |
@@ -124,9 +126,9 @@ Served by the agent harness: `cd agent && npm run serve` (port 8787, CORS open).
 
 ```
 POST http://localhost:8787/chat
-{ "message": "where in Texas is resistance rising?", "session_id": "<from last reply, optional>", "context": { "state": "TX", "fips": null, "zoom": 6, "layers": ["pred-blocked", "transmission", "plants", "gas", "osm-dc"] } }
+{ "message": "where in Texas is resistance rising?", "context": { "state": "TX", "fips": null, "zoom": 6, "layers": ["pred-blocked", "transmission", "plants", "gas", "osm-dc"] } }
 
--> { "answer": "...", "actions": [...], "session_id": "..." }
+-> { "answer": "...", "actions": [...] }
 ```
 
 `actions` is a list the dashboard executes in order:
@@ -138,6 +140,6 @@ POST http://localhost:8787/chat
 | `set_filter` | `status: [..]`, `stance: [..]`, `layers: [..]`, `since: date` (each null = unchanged) | change the filter drawer. `layers` is the full list that is on (start from `context.layers`). Ids: `pred-blocked`, `transmission`, `substations`, `plants`, `gas`, `liquids`, `fiber`, `osm-dc`; unknown ids are dropped |
 | `open_window` | `kind: county\|project\|news\|chart`, `fips`, `project` (name), `url` | open a floating window |
 
-Pass `session_id` back to keep the conversation. `GET /health` returns `{ok: true}`.
+The chat is stateless: every request stands alone (message plus the current map context), no conversation is kept and nothing is stored on the agent side. `GET /health` returns `{ok: true}`.
 
 Dashboard behavior: `fly_to` also selects the region (the INFO tab follows). `open_window` `news` opens a window with the article (found by `url` in `counties.json`) and its link; `chart` opens the learning-loop window. `**bold**` in `answer` shows as bold. A non-2xx answer shows "Agent not reachable" in the chat.
