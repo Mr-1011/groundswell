@@ -1,0 +1,9 @@
+{
+  "news-tavily": { "enabled": true, "max_docs_per_region": 20 },
+  "exa": { "enabled": false, "max_docs_per_region": 20 },
+  "apify-reddit": { "enabled": false, "max_docs_per_region": 50 },
+  "apify-tiktok": { "enabled": false, "max_docs_per_region": 20 },
+  "oriane-tiktok": { "enabled": false, "max_docs_per_region": 20 },
+  "youtube-supadata": { "enabled": false, "max_docs_per_region": 10 },
+  "county-minutes": { "enabled": false, "max_docs_per_region": 10 }
+}

@@ -1,0 +1,22 @@
+{
+  "AL": {
+    "name": "Alabama",
+    "score": 0.42,
+    "counties_scored": 2,
+    "projects_by_status": { "approved": 1, "planned": 1 },
+    "moratoria": 0,
+    "top_reasons": ["water use", "tax breaks", "jobs"],
+    "politics": { "midterm_2026": null, "pres_2024_margin": 30.5 },
+    "summary": "SAMPLE DATA. Replace with agent output."
+  },
+  "TX": {
+    "name": "Texas",
+    "score": 0.63,
+    "counties_scored": 2,
+    "projects_by_status": { "operating": 1, "withdrawn": 1 },
+    "moratoria": 1,
+    "top_reasons": ["noise", "power bills", "land use"],
+    "politics": { "midterm_2026": null, "pres_2024_margin": 13.7 },
+    "summary": "SAMPLE DATA. Replace with agent output."
+  }
+}

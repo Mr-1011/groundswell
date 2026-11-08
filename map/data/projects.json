@@ -1,0 +1,6 @@
+[
+  { "name": "Sample Project Huntsville", "developer": "Sample Developer A", "fips": "01089", "state": "AL", "lat": 34.73, "lon": -86.59, "status": "approved", "size_mw": 120, "date": "2026-03-10", "source_url": "https://example.com/projects/1" },
+  { "name": "Sample Project Mobile", "developer": "Sample Developer B", "fips": "01097", "state": "AL", "lat": 30.69, "lon": -88.04, "status": "planned", "size_mw": 300, "date": "2026-06-01", "source_url": "https://example.com/projects/2" },
+  { "name": "Sample Project Granbury", "developer": "Sample Developer C", "fips": "48221", "state": "TX", "lat": 32.44, "lon": -97.79, "status": "withdrawn", "size_mw": null, "date": "2026-08-30", "source_url": "https://example.com/projects/3" },
+  { "name": "Sample Project Austin", "developer": "Sample Developer D", "fips": "48453", "state": "TX", "lat": 30.27, "lon": -97.74, "status": "operating", "size_mw": 80, "date": "2024-11-01", "source_url": "https://example.com/projects/4" }
+]

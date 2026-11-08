@@ -1,0 +1,84 @@
+{
+  "01089": {
+    "name": "Madison County",
+    "state": "AL",
+    "score": 0.21,
+    "label": "low",
+    "summary": "SAMPLE DATA. Replace with agent output.",
+    "reasons": [
+      { "reason": "jobs", "weight": 0.5 },
+      { "reason": "power bills", "weight": 0.2 }
+    ],
+    "news": [
+      { "title": "Sample news item: county board welcomes data center", "url": "https://example.com/news/01089-1", "date": "2026-09-20", "source": "Example Daily", "stance": "support" }
+    ],
+    "social": [],
+    "quotes": [
+      { "text": "Sample quote in support.", "source": "Sample commissioner, board meeting", "url": "https://example.com/minutes/01089-1", "date": "2026-09-18" }
+    ],
+    "facts": ["Sample fact: one approved project since 2025."],
+    "updated": "2026-11-08T12:00:00Z"
+  },
+  "01097": {
+    "name": "Mobile County",
+    "state": "AL",
+    "score": 0.62,
+    "label": "medium",
+    "summary": "SAMPLE DATA. Replace with agent output.",
+    "reasons": [
+      { "reason": "water use", "weight": 0.4 },
+      { "reason": "tax breaks", "weight": 0.3 },
+      { "reason": "noise", "weight": 0.1 }
+    ],
+    "news": [
+      { "title": "Sample news item: residents question water use", "url": "https://example.com/news/01097-2", "date": "2026-10-14", "source": "Example Gazette", "stance": "oppose" },
+      { "title": "Sample news item: developer files site plan", "url": "https://example.com/news/01097-1", "date": "2026-10-01", "source": "Example Daily", "stance": "neutral" }
+    ],
+    "social": [
+      { "platform": "reddit", "url": "https://example.com/social/01097-1", "text": "Sample social post against the project.", "date": "2026-10-02", "stance": "oppose" }
+    ],
+    "quotes": [
+      { "text": "Sample quote against the project.", "source": "Sample resident, public comment", "url": "https://example.com/minutes/01097-1", "date": "2026-09-15" }
+    ],
+    "facts": ["Sample fact: one planned project, 300 MW."],
+    "updated": "2026-11-08T12:00:00Z"
+  },
+  "48221": {
+    "name": "Hood County",
+    "state": "TX",
+    "score": 0.81,
+    "label": "high",
+    "summary": "SAMPLE DATA. Replace with agent output.",
+    "reasons": [
+      { "reason": "noise", "weight": 0.5 },
+      { "reason": "land use", "weight": 0.3 }
+    ],
+    "news": [
+      { "title": "Sample news item: commissioners vote on moratorium", "url": "https://example.com/news/48221-1", "date": "2026-08-30", "source": "Example Times", "stance": "oppose" }
+    ],
+    "social": [
+      { "platform": "tiktok", "url": "https://example.com/social/48221-1", "text": "Sample video caption from a packed meeting.", "date": "2026-08-29", "stance": "oppose" }
+    ],
+    "quotes": [],
+    "facts": ["Sample fact: county-wide moratorium vote."],
+    "updated": "2026-11-08T12:00:00Z"
+  },
+  "48453": {
+    "name": "Travis County",
+    "state": "TX",
+    "score": 0.45,
+    "label": "medium",
+    "summary": "SAMPLE DATA. Replace with agent output.",
+    "reasons": [
+      { "reason": "power bills", "weight": 0.4 },
+      { "reason": "environment", "weight": 0.2 }
+    ],
+    "news": [
+      { "title": "Sample news item: grid strain debate", "url": "https://example.com/news/48453-1", "date": "2026-07-11", "source": "Example Herald", "stance": "neutral" }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "updated": "2026-11-08T12:00:00Z"
+  }
+}
