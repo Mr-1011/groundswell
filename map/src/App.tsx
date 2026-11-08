@@ -39,7 +39,6 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
   const [tab, setTab] = useState<"info" | "agent">("info");
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [busy, setBusy] = useState(false);
-  const [session, setSession] = useState<string | null>(null);
 
   const regions = useMemo(() => {
     const m = new Map<string, RegionFeature>();
@@ -125,13 +124,11 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
         headers: { "content-type": "application/json" },
         body: JSON.stringify({
           message: text,
-          session_id: session ?? undefined,
           context: { state: stateId ?? null, fips: selection?.kind === "county" ? selection.id : null, zoom: map?.getZoom() ?? null, layers: filters.layers },
         }),
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const body: { answer: string; actions?: Action[]; session_id?: string } = await res.json();
-      if (body.session_id) setSession(body.session_id);
+      const body: { answer: string; actions?: Action[] } = await res.json(); // stateless: no session_id, every question stands alone
       body.actions?.forEach(runAction);
       setMessages((m) => [...m, { role: "assistant", content: body.answer, actions: body.actions }]);
     } catch (e) {
