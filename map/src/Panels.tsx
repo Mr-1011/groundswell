@@ -1,6 +1,6 @@
 // Detail views for the INFO tab and the floating windows.
 import { Fragment, useState, type ReactNode } from "react";
-import { STATUSES, rampColor, type County, type Data, type Stance, type Status } from "./data";
+import { STATUSES, STATUS_LABEL, rampColor, type County, type Data, type Stance, type Status } from "./data";
 import { inWindow, type Filters, type Selection, type WindowSpec } from "./state";
 import { Meter, OutcomeBar, RoundsChart, ScoreHistogram, StanceBar, Timeline } from "./charts";
 import { Shape } from "./shapes";
@@ -103,7 +103,7 @@ function StatusBars({ counts }: { counts: Partial<Record<Status, number>> }) {
       {shown.map((s) => (
         <div key={s} className="row">
           <Shape status={s} />
-          <span className="row-label">{s}</span>
+          <span className="row-label">{STATUS_LABEL[s]}</span>
           <Meter value={counts[s]!} max={max} />
           <span className="mono num">{counts[s]}</span>
         </div>
@@ -506,7 +506,7 @@ export function ProjectView({ id, data, regionName, onSelect, onSite }: ViewProp
       <Meta items={[["pos", at && `${fmtLat(at[1])} ${fmtLon(at[0])}`], ["fips", p.fips]]} />
       <Stats
         items={[
-          ["status", <span className="score"><Shape status={p.status} />{p.status}</span>],
+          ["status", <span className="score"><Shape status={p.status} />{STATUS_LABEL[p.status]}</span>],
           ["size", p.size_mw != null ? `${p.size_mw} MW` : "-"],
         ]}
       />

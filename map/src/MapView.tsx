@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState, type RefObject } from "react";
 import Map, { Layer, ScaleControl, Source, useMap, type MapLayerMouseEvent, type MapRef } from "react-map-gl/maplibre";
 import type { ExpressionSpecification, MapMouseEvent } from "maplibre-gl";
 import type { FeatureCollection } from "geojson";
-import { LAYERS, OIM_ATTRIBUTION, OIM_TILES, RAMP, STATUSES, bbox, type Data, type Geo, type Project } from "./data";
+import { LAYERS, OIM_ATTRIBUTION, OIM_TILES, RAMP, STATUSES, STATUS_LABEL, bbox, type Data, type Geo, type Project } from "./data";
 import { inWindow, type Filters, type Selection } from "./state";
 import { hatchImage, infraImage, shapeImage } from "./shapes";
 import { GRATICULE, fmtLat, fmtLon, rangeRings } from "./overlays";
@@ -106,7 +106,7 @@ export default function MapView(p: Props) {
           properties: {
             name: x.name,
             status: x.status,
-            sub: `${x.status.toUpperCase()}${x.size_mw != null ? ` · ${x.size_mw} MW` : ""}${x.geo_precision === "place" ? " · APPROX. TOWN" : ""}`,
+            sub: `${STATUS_LABEL[x.status].toUpperCase()}${x.size_mw != null ? ` · ${x.size_mw} MW` : ""}${x.geo_precision === "place" ? " · APPROX. TOWN" : ""}`,
           },
         })),
     }),

@@ -1,7 +1,7 @@
 // Filter drawer, floating windows and the agent chat.
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import type { FeatureCollection } from "geojson";
-import { INFRA, LAYERS, MODEL_LAYERS, STANCES, STATUSES, type Status } from "./data";
+import { INFRA, LAYERS, MODEL_LAYERS, STANCES, STATUSES, STATUS_LABEL, type Status } from "./data";
 import { DEFAULT_FILTERS, FEED_SOURCES, type Action, type Filters } from "./state";
 import { Shape, Swatch } from "./shapes";
 
@@ -76,7 +76,7 @@ export function FilterDrawer(p: {
           <label key={s}>
             <input type="checkbox" checked={f.statuses.includes(s)} onChange={() => set({ statuses: toggle(f.statuses, s) })} />
             <Shape status={s} />
-            <span>{s}</span>
+            <span>{STATUS_LABEL[s]}</span>
             <span className="mono muted">{p.statusCounts[s] ?? 0}</span>
           </label>
         ))}

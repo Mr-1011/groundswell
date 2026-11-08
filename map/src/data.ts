@@ -8,6 +8,15 @@ export type Stance = "oppose" | "support" | "neutral";
 export type Emotion = "anger" | "fear" | "distrust" | "frustration" | "sadness" | "hope" | "pride" | "none";
 export type Status = "operating" | "planned" | "approved" | "rejected" | "withdrawn" | "moratorium";
 export const STATUSES: Status[] = ["operating", "approved", "planned", "moratorium", "withdrawn", "rejected"];
+// What the UI says; the contract keeps the ids ("operating" reads as "built" to a visitor).
+export const STATUS_LABEL: Record<Status, string> = {
+  operating: "built",
+  approved: "approved",
+  planned: "planned",
+  moratorium: "moratorium",
+  withdrawn: "withdrawn",
+  rejected: "rejected",
+};
 export const STANCES: Stance[] = ["oppose", "support", "neutral"];
 
 export type County = {
