@@ -5,6 +5,7 @@ import { feature } from "topojson-client";
 import atlasUrl from "us-atlas/counties-10m.json?url";
 
 export type Stance = "oppose" | "support" | "neutral";
+export type Emotion = "anger" | "fear" | "distrust" | "frustration" | "sadness" | "hope" | "pride" | "none";
 export type Status = "operating" | "planned" | "approved" | "rejected" | "withdrawn" | "moratorium";
 export const STATUSES: Status[] = ["operating", "approved", "planned", "moratorium", "withdrawn", "rejected"];
 export const STANCES: Stance[] = ["oppose", "support", "neutral"];
@@ -17,8 +18,8 @@ export type County = {
   summary: string | null;
   reasons: { reason: string; weight: number }[];
   news: { title: string; url: string; date: string | null; source: string | null; stance: Stance | null }[];
-  social: { platform: string; url: string; text: string; date: string | null; stance: Stance | null }[];
-  quotes: { text: string; source: string | null; url: string; date: string | null }[];
+  social: { platform: string; url: string; text: string; date: string | null; stance: Stance | null; emotion?: Emotion | null }[];
+  quotes: { text: string; source: string | null; url: string; date: string | null; emotion?: Emotion | null }[];
   facts: string[];
   groups?: { name: string; url: string; date: string | null }[]; // newest first; opposing and supporting groups mixed
   updated: string | null;

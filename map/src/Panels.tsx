@@ -207,6 +207,31 @@ function Groups({ counties, withCounty }: { counties: County[]; withCounty?: boo
   );
 }
 
+// Emotion labels on social posts and quotes; "none" and unlabeled items are left out.
+function Emotions({ counties, filters }: { counties: County[]; filters: Filters }) {
+  const n: Record<string, number> = {};
+  for (const c of counties) {
+    const f = feed(c, filters);
+    for (const i of [...f.social, ...f.quotes]) if (i.emotion && i.emotion !== "none") n[i.emotion] = (n[i.emotion] ?? 0) + 1;
+  }
+  const rows = Object.entries(n).sort((a, b) => b[1] - a[1]);
+  if (!rows.length) return null;
+  const total = rows.reduce((a, [, v]) => a + v, 0);
+  return (
+    <Section title={`Emotion · ${total} posts + quotes`}>
+      <div className="rows">
+        {rows.map(([e, v]) => (
+          <div key={e} className="row" title={`${e}: ${v} of ${total}`}>
+            <span className="row-label">{e}</span>
+            <Meter value={v} max={rows[0][1]} />
+            <span className="mono num">{Math.round((v / total) * 100)}%</span>
+          </div>
+        ))}
+      </div>
+    </Section>
+  );
+}
+
 // County table: resistance meter, predicted outcome glyph, project count. Click selects.
 function CountyRows({ ids, data, withState, onPick }: { ids: string[]; data: Data; withState?: boolean; onPick: (fips: string) => void }) {
   return (
@@ -270,6 +295,7 @@ export function NationalView({ data, filters, onSelect, onOpen }: ViewProps) {
         <CountyRows ids={top} data={data} withState onPick={(fips) => onSelect({ kind: "county", id: fips })} />
       </Section>
       <Coverage counties={all} filters={filters} />
+      <Emotions counties={all} filters={filters} />
       <Section title="Resistance by county">
         <ScoreHistogram scores={scores} />
       </Section>
@@ -312,6 +338,7 @@ export function StateView({ id, data, filters, onSelect, regionCenter }: ViewPro
         <CountyRows ids={ids} data={data} onPick={(fips) => onSelect({ kind: "county", id: fips })} />
       </Section>
       <Coverage counties={counties} filters={filters} />
+      <Emotions counties={counties} filters={filters} />
       <Groups key={id} counties={counties} withCounty />
       <Section title="Projects by status">
         <StatusBars counts={s.projects_by_status} />
@@ -380,6 +407,7 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
         </Section>
       )}
       <Coverage key={id} counties={[c]} filters={filters} />
+      <Emotions counties={[c]} filters={filters} />
       <Groups key={`g${id}`} counties={[c]} />
       {projects.length > 0 && (
         <Section title="Projects">
