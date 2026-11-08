@@ -655,14 +655,64 @@ h3 {
   border: 0;
 }
 
+/* phones: map on top, INFO below; windows and drawer span the map; no hover-only chrome */
 @media (max-width: 760px) {
+  :root {
+    --hud: 0px;
+  }
   .app {
+    height: 100dvh;
     grid-template-columns: 1fr;
-    grid-template-rows: 55vh 1fr;
+    grid-template-rows: 52dvh minmax(0, 1fr);
   }
   .side {
     border-left: 0;
     border-top: 1px solid var(--line);
+  }
+  .tabs button {
+    padding: 12px 0;
+  }
+  .hud,
+  .desktop-only,
+  .legend-row:not(:first-child) {
+    display: none;
+  }
+  .filter-btn {
+    top: 8px;
+    left: 8px;
+    padding: 9px 12px;
+  }
+  .drawer {
+    top: 52px;
+    left: 8px;
+    right: 8px;
+    width: auto;
+    max-height: calc(100% - 96px);
+  }
+  .map-ctrl {
+    top: 8px;
+    right: 8px;
+  }
+  .map-ctrl .seg button {
+    padding: 8px 7px;
+  }
+  .legend-box {
+    left: 8px;
+    bottom: 8px;
+  }
+  /* inline drag positions would put windows off screen */
+  .window {
+    left: 8px !important;
+    right: 8px;
+    top: 52px !important; /* below the filter button */
+    width: auto;
+    max-height: calc(100% - 60px);
+  }
+  .window > header {
+    cursor: default;
+  }
+  .chat-input input {
+    font-size: 16px; /* iOS zooms into smaller inputs on focus */
   }
 }
 

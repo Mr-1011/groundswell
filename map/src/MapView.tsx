@@ -702,7 +702,7 @@ function MapControls(p: {
           3d
         </button>
       </div>
-      <div className="seg">
+      <div className="seg desktop-only">
         <button className={p.grid ? "on" : ""} aria-pressed={p.grid} onClick={() => p.setGrid(!p.grid)}>
           grid
         </button>
