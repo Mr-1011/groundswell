@@ -214,7 +214,7 @@ export function Chat({ messages, busy, onSend }: { messages: ChatMessage[]; busy
           submit(text);
         }}
       >
-        <input value={text} onChange={(e) => setText(e.target.value)} placeholder="Ask the agent" aria-label="Message to the agent" />
+        <input value={text} onChange={(e) => setText(e.target.value)} maxLength={500} placeholder="Ask the agent" aria-label="Message to the agent" />
         <button type="submit" disabled={busy || !text.trim()}>
           send
         </button>
