@@ -40,6 +40,17 @@ npm run dev
 
 Open http://localhost:5173. The AGENT tab needs the agent's `POST /chat` server on :8787 (contract in `map/README.md`).
 
+### Deploy (public, static)
+
+Live at https://groundswell-dun.vercel.app (Vercel project `fluid-labs/groundswell`, linked in `map/.vercel`). The data in `map/data/` is baked in at build time, so redeploy after each export:
+
+```sh
+cd map
+npx vercel build --prod && npx vercel deploy --prebuilt --prod
+```
+
+The public build has no AGENT tab. To enable it, build with `VITE_AGENT_URL=https://<public agent host>`; the chat server is stateless (no sessions, nothing stored). The first request after a deploy is slow per Vercel edge location; one `curl` of each file warms it.
+
 ## Run the agent
 
 Needs Node 24+.
