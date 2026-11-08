@@ -25,6 +25,10 @@ export type Param = SQLInputValue | undefined;
 const clean = (p: Param[]): SQLInputValue[] => p.map((v) => (v === undefined ? null : v));
 
 export const all = (sql: string, ...p: Param[]) => getDb().prepare(sql).all(...clean(p)) as Row[];
+
+let ro: DatabaseSync | undefined;
+/** SQL written by a model (db_query) runs on a read-only connection: SQLite rejects every write on it, CTE tricks included. */
+export const readOnlyAll = (sql: string) => (ro ??= (getDb(), new DatabaseSync(DB_PATH, { readOnly: true, timeout: 5000 }))).prepare(sql).all() as Row[];
 export const get = (sql: string, ...p: Param[]) => getDb().prepare(sql).get(...clean(p)) as Row | undefined;
 export const run = (sql: string, ...p: Param[]) => getDb().prepare(sql).run(...clean(p));
 export const now = () => new Date().toISOString();

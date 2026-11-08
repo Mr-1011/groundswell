@@ -1,7 +1,7 @@
 // db_query (read-only SQL) and region_info (what is stored for a region).
 import { tool } from "@anthropic-ai/claude-agent-sdk";
 import { z } from "zod";
-import { all, get } from "../db/client.ts";
+import { all, get, readOnlyAll } from "../db/client.ts";
 import { COUNTIES, fips2OfState, regionName } from "../db/regions.ts";
 import { ok, fail } from "./result.ts";
 import { trendsElsewhere } from "./trends.ts";
@@ -14,7 +14,7 @@ export const dbQueryTool = tool(
     const s = sql.trim().replace(/;$/, "");
     if (!/^(select|with)\b/i.test(s) || /;/.test(s)) return fail("only a single SELECT statement is allowed");
     try {
-      const rows = all(/\blimit\b/i.test(s) ? s : `${s} LIMIT 200`);
+      const rows = readOnlyAll(/\blimit\b/i.test(s) ? s : `${s} LIMIT 200`);
       return ok(JSON.stringify(rows));
     } catch (e) {
       return fail((e as Error).message);
