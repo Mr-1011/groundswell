@@ -46,10 +46,10 @@ Live at https://groundswell-dun.vercel.app (Vercel project `fluid-labs/groundswe
 
 ```sh
 cd map
-npx vercel build --prod && npx vercel deploy --prebuilt --prod
+VITE_AGENT_URL=https://groundswell-agent.vercel.app npx vercel build --prod && npx vercel deploy --prebuilt --prod
 ```
 
-The public build has no AGENT tab. To enable it, build with `VITE_AGENT_URL=https://<public agent host>`; the chat server is stateless (no sessions, nothing stored). The first request after a deploy is slow per Vercel edge location; one `curl` of each file warms it.
+`VITE_AGENT_URL` is baked in at build time; a build without it has no AGENT tab. The chat server runs as a container in the Vercel project `fluid-labs/groundswell-agent` (read-only DB snapshot, non-root, per-IP rate limits in the Vercel firewall); it is stateless (no sessions, nothing stored). The first request after a deploy is slow per Vercel edge location; one `curl` of each file warms it.
 
 ## Run the agent
 
