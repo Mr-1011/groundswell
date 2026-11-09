@@ -1,17 +1,17 @@
 {
   "AL": {
     "name": "Alabama",
-    "score": 0.7570270270270275,
+    "score": 0.7594871794871798,
     "counties_scored": 67,
     "projects_by_status": {
-      "approved": 12,
-      "moratorium": 23,
-      "operating": 15,
-      "planned": 35,
+      "approved": 13,
+      "moratorium": 24,
+      "operating": 14,
+      "planned": 36,
       "rejected": 1,
       "withdrawn": 2
     },
-    "moratoria": 23,
+    "moratoria": 24,
     "top_reasons": [
       "county-wide base rate (R1)",
       "county-wide case base rate (R1)",
@@ -23,7 +23,7 @@
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Alabama shows widespread resistance, with 23 moratoria logged and most scored counties rated high. The strongest cases are Morgan County (county and city moratoria, with Somerville and Trinity also pausing), Baldwin County (a 180-day county moratorium plus Foley), Jefferson County (Homewood, Pinson, Tarrant and Birmingham pauses, plus the Bessemer backlash that unseated two councilmembers) and Shelby County (Chelsea, Helena and Westover moratoria). Lowndes County stands out for organized opposition and two lawsuits despite a 3-2 commission vote granting tax abatements, while Tuscaloosa County is the clearest counterexample, with approvals and abatements moving forward, and Chilton County rescinded its moratorium; many other counties score high mainly on a county-wide base rate with little local evidence."
+    "summary": "Alabama shows widespread resistance to data centers, with 24 moratoria noted and most counties scored high for a block. Morgan (a 12-month moratorium extended by six months), Baldwin (a 180-day countywide pause), Cullman, Jefferson (Homewood, Pinson, Tarrant, and Bessemer's electoral backlash), Shelby, and Calhoun (Anniston's 12-month pause) stand out for concrete local action and organized opposition. Lowndes (organized opposition and two lawsuits, but a 3-2 commission vote for tax abatements), Tuscaloosa (Brookwood's approvals and abatements), and Chilton (which rescinded its moratorium) are the clearest exceptions, while many other counties rest on a county-wide base rate or a statewide average with no local evidence."
   },
   "AR": {
     "name": "Arkansas",
@@ -80,7 +80,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 2,
-      "moratorium": 2,
+      "moratorium": 3,
       "planned": 3,
       "withdrawn": 1
     },
@@ -97,11 +97,11 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 7,
-      "moratorium": 5,
-      "operating": 5,
-      "planned": 20,
-      "rejected": 1
+      "approved": 9,
+      "moratorium": 8,
+      "operating": 6,
+      "planned": 25,
+      "rejected": 3
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -169,7 +169,7 @@
       "approved": 1,
       "moratorium": 3,
       "operating": 1,
-      "planned": 12,
+      "planned": 13,
       "withdrawn": 2
     },
     "moratoria": 0,
@@ -186,7 +186,8 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 1,
-      "planned": 3
+      "planned": 5,
+      "withdrawn": 1
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -201,7 +202,8 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "planned": 1
+      "operating": 3,
+      "planned": 8
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -216,7 +218,7 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "moratorium": 1,
+      "moratorium": 2,
       "withdrawn": 2
     },
     "moratoria": 0,
@@ -252,7 +254,7 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 1,
+      "approved": 2,
       "moratorium": 1,
       "operating": 1
     },
@@ -269,9 +271,9 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
+      "approved": 2,
       "moratorium": 2,
-      "operating": 1,
-      "planned": 5,
+      "planned": 8,
       "withdrawn": 1
     },
     "moratoria": 0,
@@ -288,7 +290,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "operating": 1,
-      "planned": 1
+      "planned": 3
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -319,9 +321,9 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 2,
-      "moratorium": 6,
-      "operating": 2,
-      "planned": 8,
+      "moratorium": 7,
+      "operating": 3,
+      "planned": 9,
       "rejected": 2,
       "withdrawn": 4
     },
@@ -353,7 +355,8 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "operating": 3
+      "operating": 2,
+      "planned": 1
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -383,10 +386,26 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
+      "approved": 2,
       "moratorium": 1,
       "operating": 1,
-      "planned": 8,
+      "planned": 9,
       "withdrawn": 1
+    },
+    "moratoria": 0,
+    "top_reasons": [],
+    "politics": {
+      "midterm_2026": null,
+      "pres_2024_margin": null
+    },
+    "summary": null
+  },
+  "NV": {
+    "name": "Nevada",
+    "score": null,
+    "counties_scored": 0,
+    "projects_by_status": {
+      "approved": 1
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -419,7 +438,7 @@
     "projects_by_status": {
       "approved": 2,
       "operating": 5,
-      "planned": 4,
+      "planned": 5,
       "withdrawn": 1
     },
     "moratoria": 0,
@@ -435,9 +454,10 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
+      "approved": 1,
       "moratorium": 1,
       "operating": 1,
-      "planned": 1
+      "planned": 2
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -470,7 +490,7 @@
     "projects_by_status": {
       "approved": 3,
       "operating": 1,
-      "planned": 30,
+      "planned": 31,
       "rejected": 2,
       "withdrawn": 4
     },
@@ -487,6 +507,7 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
+      "moratorium": 2,
       "operating": 1,
       "planned": 1
     },
@@ -504,7 +525,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "operating": 4,
-      "planned": 4
+      "planned": 6
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -516,17 +537,17 @@
   },
   "TX": {
     "name": "Texas",
-    "score": 0.7197872340425514,
+    "score": 0.7211822660098522,
     "counties_scored": 254,
     "projects_by_status": {
-      "approved": 84,
-      "moratorium": 21,
-      "operating": 79,
-      "planned": 283,
-      "rejected": 13,
+      "approved": 105,
+      "moratorium": 27,
+      "operating": 89,
+      "planned": 397,
+      "rejected": 22,
       "withdrawn": 13
     },
-    "moratoria": 22,
+    "moratoria": 25,
     "top_reasons": [
       "county-wide base rate (R1)",
       "county-wide case base rate (R1)",
@@ -538,13 +559,14 @@
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Texas shows the strongest documented resistance in a cluster of counties that have formally acted: Hays (5-0 suspension of discretionary approvals and incentives after San Marcos rejected the 380 MW Highlander project), Denton (unanimous move toward a moratorium, with Prosper's Project Tomahawk withdrawn), Cameron (Brownsville and Harlingen moratoria), Austin County (a countywide moratorium on AI data centers and battery storage), and Lubbock (a 5-2 vote to begin a 90-day moratorium after a 3,900-signature petition). Fort Worth in Tarrant County, Caldwell, Somervell, Henderson, Hood and Archer counties also stand out for moratoria, incentive suspensions, withdrawn projects or denied permits, though Texas counties' limited zoning power and the Hill County lawsuit that forced a moratorium's rescission temper what they can enforce. Many other counties score high mainly on a county-wide base rate with little local evidence, while places like Williamson, Young, Carson, Armstrong, Pecos and Nolan show approvals despite organized opposition."
+    "summary": "Resistance in Texas is strongest in Hays, Denton, Cameron, Austin, Lubbock, Caldwell and Tarrant counties, all scored 0.86 to 0.9. Hays County voted 5-0 to suspend discretionary approvals through Dec. 31, Denton and Lubbock are advancing moratoria after packed hearings and petitions, and Brownsville in Cameron County approved a 90-day moratorium, while Austin and Caldwell counties adopted moratoria or incentive suspensions. Across the state, 25 moratoria are noted, and many counties score high mainly on a county-wide base rate with thin local evidence, whereas counties such as Pecos, Armstrong, Williamson, Young, Carson and Nolan lean toward approval because commissioners keep granting abatements."
   },
   "UT": {
     "name": "Utah",
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
+      "approved": 1,
       "operating": 1,
       "planned": 2
     },
@@ -562,8 +584,8 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 6,
-      "operating": 9,
-      "planned": 15,
+      "operating": 10,
+      "planned": 16,
       "rejected": 1,
       "withdrawn": 1
     },
@@ -596,6 +618,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "operating": 1,
+      "planned": 2,
       "withdrawn": 1
     },
     "moratoria": 0,
@@ -612,7 +635,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 1,
-      "planned": 2
+      "planned": 7
     },
     "moratoria": 0,
     "top_reasons": [],
