@@ -136,14 +136,40 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
     }
   };
 
+  // fly first, then open the sources one by one once the camera settles
+  const play = (actions: Action[]) => {
+    let t = 0;
+    for (const a of actions) {
+      setTimeout(() => runAction(a), t);
+      t += a.type === "fly_to" ? 1300 : a.type === "open_window" ? 300 : 0;
+    }
+  };
+
+  // bold names in answers ("Name County, ST", state names) become buttons that select the region
+  const names = useMemo(() => {
+    const m = new Map<string, Selection>();
+    for (const [id, s] of Object.entries(data.states)) m.set(s.name.toLowerCase(), { kind: "state", id });
+    for (const [id, c] of Object.entries(data.counties)) {
+      m.set(`${c.name}, ${c.state}`.toLowerCase(), { kind: "county", id });
+      if (data.states[c.state]) m.set(`${c.name}, ${data.states[c.state].name}`.toLowerCase(), { kind: "county", id });
+    }
+    return m;
+  }, [data]);
+  const link = (t: string) => {
+    const s = names.get(t.trim().toLowerCase());
+    return s ? () => select(s) : undefined;
+  };
+
   const send = async (text: string) => {
-    setMessages((m) => [...m, { role: "user", content: text }]);
+    const started = Date.now();
+    const patchLast = (f: (x: ChatMessage) => ChatMessage) => setMessages((m) => m.map((x, i) => (i === m.length - 1 ? f(x) : x)));
+    setMessages((m) => [...m, { role: "user", content: text }, { role: "assistant", content: "", steps: [], started }]);
     setBusy(true);
     try {
       const map = mapRef.current;
       const res = await fetch(`${AGENT_URL}/chat`, {
         method: "POST",
-        headers: { "content-type": "application/json" },
+        headers: { "content-type": "application/json", accept: "application/x-ndjson" },
         body: JSON.stringify({
           message: text,
           context: { state: stateId ?? null, fips: selection?.kind === "county" ? selection.id : null, zoom: map?.getZoom() ?? null, layers: filters.layers },
@@ -151,26 +177,46 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
       });
       if (res.status === 429) {
         // the public agent has a per-IP rate limit (Vercel firewall)
-        setMessages((m) => [...m, { role: "assistant", content: "Too many questions in a short time. Wait a minute, then ask again.", error: true }]);
+        patchLast((x) => ({ ...x, content: "Too many questions in a short time. Wait a minute, then ask again.", error: true, ms: Date.now() - started }));
         return;
       }
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const body: { answer: string; actions?: Action[] } = await res.json(); // stateless: no session_id, every question stands alone
-      body.actions?.forEach(runAction);
-      setMessages((m) => [...m, { role: "assistant", content: body.answer, actions: body.actions }]);
+      let body = null as { answer: string; actions?: Action[] } | null; // stateless: no session_id, every question stands alone
+      if (res.headers.get("content-type")?.includes("ndjson") && res.body) {
+        // one JSON event per line: a tool event per tool call while the agent works, then done or error
+        const reader = res.body.pipeThrough(new TextDecoderStream()).getReader();
+        let buf = "";
+        for (;;) {
+          const r = await reader.read();
+          buf += r.value ?? "";
+          const lines = buf.split("\n");
+          buf = r.done ? "" : (lines.pop() ?? "");
+          for (const line of lines) {
+            if (!line.trim()) continue;
+            const ev = JSON.parse(line);
+            if (ev.type === "tool") patchLast((x) => ({ ...x, steps: [...(x.steps ?? []), { tool: ev.name, input: ev.input ?? {} }] }));
+            else if (ev.type === "done") body = ev;
+            else if (ev.type === "error") throw new Error(ev.error);
+          }
+          if (r.done) break;
+        }
+      } else body = await res.json();
+      if (!body) throw new Error("no answer");
+      const { answer, actions } = body;
+      patchLast((x) => ({ ...x, content: answer, actions, ms: Date.now() - started }));
+      play(actions ?? []);
     } catch (e) {
-      setMessages((m) => [
-        ...m,
-        {
-          role: "assistant",
-          content: `Agent not reachable (${(e as Error).message}). ${import.meta.env.DEV ? "Is the agent server running?" : "Try again in a moment."}`,
-          error: true,
-        },
-      ]);
+      patchLast((x) => ({
+        ...x,
+        content: `Agent not reachable (${(e as Error).message}). ${import.meta.env.DEV ? "Is the agent server running?" : "Try again in a moment."}`,
+        error: true,
+        ms: Date.now() - started,
+      }));
     } finally {
       setBusy(false);
     }
   };
+
 
   const statusCounts = useMemo(() => {
     const c: Partial<Record<Status, number>> = {};
@@ -332,7 +378,7 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
               <NationalView {...view} />
             )
           ) : (
-            <Chat messages={messages} busy={busy} onSend={send} />
+            <Chat messages={messages} busy={busy} onSend={send} onAction={runAction} regionName={regionName} link={link} />
           )}
         </div>
       </aside>

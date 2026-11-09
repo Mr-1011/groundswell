@@ -155,25 +155,75 @@ export function FloatingWindow(p: {
   );
 }
 
-export type ChatMessage = { role: "user" | "assistant"; content: string; actions?: Action[]; error?: boolean };
+export type ChatStep = { tool: string; input: Record<string, unknown> };
+export type ChatMessage = {
+  role: "user" | "assistant";
+  content: string;
+  actions?: Action[];
+  steps?: ChatStep[]; // tool calls streamed while the agent works
+  error?: boolean;
+  started?: number;
+  ms?: number; // set when the answer is complete
+};
+type RegionName = (kind: "state" | "county", id: string) => string;
 
-const SUGGESTIONS = ["Where in Texas is resistance rising?", "Which counties have a moratorium?", "Show me the learning loop."];
+const SUGGESTIONS = ["What is happening in Texas?", "Which Alabama counties push back hardest?", "Which counties have a moratorium?", "Show me the learning loop."];
 
-const describe = (a: Action) =>
+const host = (u: string | null) => (u && URL.canParse(u) ? new URL(u).hostname.replace(/^www\./, "") : "source");
+// tables a query reads, as a one-line hint next to the step
+const tables = (sql: string) => [...new Set([...sql.matchAll(/\b(?:from|join)\s+([a-z_]+)/gi)].map((m) => m[1].toLowerCase()))].join(", ");
+const region = (r: string, name: RegionName) => (/^\d{5}$/.test(r) ? name("county", r) : /^[a-z]{2}$/i.test(r) ? name("state", r.toUpperCase()) : r);
+
+const stepLabel = (s: ChatStep, name: RegionName): [string, string] =>
+  s.tool === "db_query"
+    ? ["Query database", tables(String(s.input.sql ?? ""))]
+    : s.tool === "region_info"
+      ? ["Read region", region(String(s.input.region ?? ""), name)]
+      : [s.tool.replace(/_/g, " "), ""];
+
+const actionLabel = (a: Action, name: RegionName) =>
   a.type === "fly_to"
-    ? `fly_to ${a.fips ?? a.state}`
+    ? `Fly to ${a.fips ? name("county", a.fips) : name("state", (a.state ?? "").toUpperCase())}`
     : a.type === "highlight"
-      ? `highlight ${a.fips.length} counties`
+      ? `Highlight ${a.fips.length} ${a.fips.length === 1 ? "county" : "counties"}`
       : a.type === "set_filter"
-        ? `set_filter ${(["status", "stance", "layers", "since"] as const).filter((k) => a[k] != null).join(",")}`
-        : `open_window ${a.kind} ${a.fips ?? a.project ?? a.url ?? ""}`;
+        ? `Set filter: ${(["status", "stance", "layers", "since"] as const).filter((k) => a[k] != null).join(", ")}`
+        : a.kind === "news"
+          ? `Open source ${host(a.url)}`
+          : a.kind === "county" && a.fips
+            ? `Open ${name("county", a.fips)}`
+            : a.kind === "project"
+              ? `Open project ${a.project}`
+              : "Open learning loop";
 
-export function Chat({ messages, busy, onSend }: { messages: ChatMessage[]; busy: boolean; onSend: (text: string) => void }) {
+const secs = (m: ChatMessage) => Math.max(1, Math.round((m.ms ?? Date.now() - (m.started ?? Date.now())) / 1000));
+
+export function Chat({
+  messages,
+  busy,
+  onSend,
+  onAction,
+  regionName,
+  link,
+}: {
+  messages: ChatMessage[];
+  busy: boolean;
+  onSend: (text: string) => void;
+  onAction: (a: Action) => void;
+  regionName: RegionName;
+  link: (text: string) => (() => void) | undefined; // bold county or state names become buttons
+}) {
   const [text, setText] = useState("");
+  const [, tick] = useState(0);
   const end = useRef<HTMLDivElement>(null);
   useEffect(() => {
     end.current?.scrollIntoView({ block: "end" }); // newer browsers return a Promise here; never return it to React
   }, [messages, busy]);
+  useEffect(() => {
+    if (!busy) return;
+    const t = setInterval(() => tick((n) => n + 1), 1000); // elapsed seconds on the running step
+    return () => clearInterval(t);
+  }, [busy]);
 
   const submit = (t: string) => {
     if (!t.trim() || busy) return;
@@ -181,30 +231,85 @@ export function Chat({ messages, busy, onSend }: { messages: ChatMessage[]; busy
     setText("");
   };
 
+  const rich = (t: string) =>
+    t.split("**").map((s, k) => {
+      if (k % 2 === 0) return s;
+      const go = link(s);
+      return go ? (
+        <button key={k} className="msg-link" onClick={go}>
+          {s}
+        </button>
+      ) : (
+        <b key={k}>{s}</b>
+      );
+    });
+
+  const steps = (m: ChatMessage) =>
+    (m.steps ?? []).map((s, j) => {
+      const [label, detail] = stepLabel(s, regionName);
+      return (
+        <li key={j} title={s.tool === "db_query" ? String(s.input.sql ?? "") : undefined}>
+          <span>{label}</span>
+          {detail && <span className="step-detail">{detail}</span>}
+        </li>
+      );
+    });
+
   return (
     <div className="chat">
       <div className="chat-log">
         {messages.length === 0 && (
-          <div className="suggest">
+          <div className="chat-empty">
+            <p>Ask about resistance in a state or county. The agent reads the database, moves the map and opens the sources.</p>
             {SUGGESTIONS.map((s) => (
-              <button key={s} className="link" onClick={() => submit(s)}>
+              <button key={s} className="suggest" onClick={() => submit(s)}>
                 {s}
               </button>
             ))}
           </div>
         )}
-        {messages.map((m, i) => (
-          <div key={i} className={`msg ${m.role}${m.error ? " error" : ""}`}>
-            <div className="msg-role mono">{m.role === "user" ? "you" : "agent"}</div>
-            <div className="msg-text">{m.content.split("**").map((s, k) => (k % 2 ? <b key={k}>{s}</b> : s))}</div>
-            {m.actions?.map((a, j) => (
-              <div key={j} className="msg-action mono">
-                → {describe(a)}
+        {messages.map((m, i) => {
+          if (m.role === "user")
+            return (
+              <div key={i} className="msg user">
+                {m.content}
               </div>
-            ))}
-          </div>
-        ))}
-        {busy && <div className="msg assistant mono muted">working…</div>}
+            );
+          const pending = m.ms == null;
+          const n = m.steps?.length ?? 0;
+          return (
+            <div key={i} className={`msg assistant${m.error ? " error" : ""}`}>
+              {pending ? (
+                <ol className="steps">
+                  {steps(m)}
+                  <li className="step-live">
+                    <span>{n ? "Working" : "Thinking"}</span>
+                    <span className="step-detail mono">{secs(m)}s</span>
+                  </li>
+                </ol>
+              ) : n ? (
+                <details className="steps-done">
+                  <summary className="mono">
+                    {n} {n === 1 ? "step" : "steps"} · {secs(m)}s
+                  </summary>
+                  <ol className="steps">{steps(m)}</ol>
+                </details>
+              ) : (
+                <div className="steps-done mono">{secs(m)}s</div>
+              )}
+              {m.content && <div className="msg-text">{rich(m.content)}</div>}
+              {!!m.actions?.length && (
+                <div className="msg-actions">
+                  {m.actions.map((a, j) => (
+                    <button key={j} className="msg-action" title="Run again" onClick={() => onAction(a)}>
+                      <span className="mono">→</span> {actionLabel(a, regionName)}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
+          );
+        })}
         <div ref={end} />
       </div>
       <form
@@ -214,9 +319,9 @@ export function Chat({ messages, busy, onSend }: { messages: ChatMessage[]; busy
           submit(text);
         }}
       >
-        <input value={text} onChange={(e) => setText(e.target.value)} maxLength={500} placeholder="Ask the agent" aria-label="Message to the agent" />
-        <button type="submit" disabled={busy || !text.trim()}>
-          send
+        <input value={text} onChange={(e) => setText(e.target.value)} maxLength={500} placeholder="Ask about a state or county" aria-label="Message to the agent" />
+        <button type="submit" disabled={busy || !text.trim()} aria-label="Send">
+          ↑
         </button>
       </form>
     </div>
