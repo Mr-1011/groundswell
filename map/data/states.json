@@ -1,29 +1,29 @@
 {
   "AL": {
     "name": "Alabama",
-    "score": 0.7388235294117645,
-    "counties_scored": 17,
+    "score": 0.7570270270270275,
+    "counties_scored": 67,
     "projects_by_status": {
-      "approved": 9,
-      "moratorium": 18,
-      "operating": 12,
-      "planned": 20,
+      "approved": 12,
+      "moratorium": 23,
+      "operating": 15,
+      "planned": 35,
       "rejected": 1,
-      "withdrawn": 1
+      "withdrawn": 2
     },
-    "moratoria": 18,
+    "moratoria": 23,
     "top_reasons": [
       "county-wide base rate (R1)",
-      "county-wide case base rate",
       "county-wide case base rate (R1)",
-      "county-wide moratorium in force",
-      "county-wide case with active municipal moratoria"
+      "county-wide case base rate",
+      "no local opposition evidence",
+      "county-wide base rate"
     ],
     "politics": {
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "In Alabama, resistance to data centers is strongest in Morgan County (score 0.92), where the commission passed a 12-month moratorium that it later extended and Somerville and Trinity added their own, and in Baldwin County (0.90), where a 180-day moratorium on rezonings and new data centers is in place. Jefferson County (0.88) and Shelby County (0.88) also stand out, with moratoria in Homewood, Pinson, Tarrant, Chelsea, Helena and Westover, and Bessemer's Project Marvel backlash unseated two councilmembers. Resistance is weaker in Lowndes County, where a 3-2 commission majority granted Project Red Clay tax abatements despite organized opposition and lawsuits, in Jackson and Montgomery counties, where local leaders back Google and Meta, and in Tuscaloosa County (0.40), the only county predicted to approve, as Brookwood and the abatement board advanced Applied Digital's project."
+    "summary": "Alabama shows widespread resistance, with 23 moratoria logged and most scored counties rated high. The strongest cases are Morgan County (county and city moratoria, with Somerville and Trinity also pausing), Baldwin County (a 180-day county moratorium plus Foley), Jefferson County (Homewood, Pinson, Tarrant and Birmingham pauses, plus the Bessemer backlash that unseated two councilmembers) and Shelby County (Chelsea, Helena and Westover moratoria). Lowndes County stands out for organized opposition and two lawsuits despite a 3-2 commission vote granting tax abatements, while Tuscaloosa County is the clearest counterexample, with approvals and abatements moving forward, and Chilton County rescinded its moratorium; many other counties score high mainly on a county-wide base rate with little local evidence."
   },
   "AR": {
     "name": "Arkansas",
@@ -81,7 +81,7 @@
     "projects_by_status": {
       "approved": 2,
       "moratorium": 2,
-      "planned": 2,
+      "planned": 3,
       "withdrawn": 1
     },
     "moratoria": 0,
@@ -97,10 +97,10 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 6,
-      "moratorium": 4,
+      "approved": 7,
+      "moratorium": 5,
       "operating": 5,
-      "planned": 18,
+      "planned": 20,
       "rejected": 1
     },
     "moratoria": 0,
@@ -185,6 +185,7 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
+      "approved": 1,
       "planned": 3
     },
     "moratoria": 0,
@@ -268,7 +269,8 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "moratorium": 1,
+      "moratorium": 2,
+      "operating": 1,
       "planned": 5,
       "withdrawn": 1
     },
@@ -383,7 +385,7 @@
     "projects_by_status": {
       "moratorium": 1,
       "operating": 1,
-      "planned": 7,
+      "planned": 8,
       "withdrawn": 1
     },
     "moratoria": 0,
@@ -415,7 +417,7 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 1,
+      "approved": 2,
       "operating": 5,
       "planned": 4,
       "withdrawn": 1
@@ -485,7 +487,8 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "operating": 1
+      "operating": 1,
+      "planned": 1
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -501,7 +504,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "operating": 4,
-      "planned": 2
+      "planned": 4
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -513,29 +516,29 @@
   },
   "TX": {
     "name": "Texas",
-    "score": 0.6962500000000004,
-    "counties_scored": 32,
+    "score": 0.7197872340425514,
+    "counties_scored": 254,
     "projects_by_status": {
-      "approved": 54,
-      "moratorium": 18,
-      "operating": 31,
-      "planned": 95,
-      "rejected": 8,
-      "withdrawn": 8
+      "approved": 84,
+      "moratorium": 21,
+      "operating": 79,
+      "planned": 283,
+      "rejected": 13,
+      "withdrawn": 13
     },
-    "moratoria": 18,
+    "moratoria": 22,
     "top_reasons": [
       "county-wide base rate (R1)",
+      "county-wide case base rate (R1)",
       "county-wide case base rate",
       "county-wide base rate",
-      "organized local groups",
-      "councils approving despite outcry"
+      "no local opposition evidence"
     ],
     "politics": {
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Texas resistance is strongest in Hays, Denton, Cameron and Lubbock counties (each scored 0.88-0.9), where local bodies have adopted or begun moratoria or suspensions: Hays commissioners voted 5-0 to suspend discretionary approvals and San Marcos rejected the 380 MW Highlander project, Denton's council started the moratorium process, Brownsville gave final approval to a 90-day pause, and Lubbock moved toward a moratorium after a petition with 3,900+ signatures. Caldwell, Tarrant, Somervell, Brazoria, Hood and Val Verde also scored high on moratoria, incentive suspensions or denials, and Hood, Leon and Brazoria rejected specific projects or abatements. Counties like Pecos, Williamson, Young and Carson scored lowest because their officials approved projects despite organized opposition, and many counties note that Texas law limits their power to block projects in unincorporated areas."
+    "summary": "Texas shows the strongest documented resistance in a cluster of counties that have formally acted: Hays (5-0 suspension of discretionary approvals and incentives after San Marcos rejected the 380 MW Highlander project), Denton (unanimous move toward a moratorium, with Prosper's Project Tomahawk withdrawn), Cameron (Brownsville and Harlingen moratoria), Austin County (a countywide moratorium on AI data centers and battery storage), and Lubbock (a 5-2 vote to begin a 90-day moratorium after a 3,900-signature petition). Fort Worth in Tarrant County, Caldwell, Somervell, Henderson, Hood and Archer counties also stand out for moratoria, incentive suspensions, withdrawn projects or denied permits, though Texas counties' limited zoning power and the Hill County lawsuit that forced a moratorium's rescission temper what they can enforce. Many other counties score high mainly on a county-wide base rate with little local evidence, while places like Williamson, Young, Carson, Armstrong, Pecos and Nolan show approvals despite organized opposition."
   },
   "UT": {
     "name": "Utah",
@@ -608,7 +611,8 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "planned": 1
+      "approved": 1,
+      "planned": 2
     },
     "moratoria": 0,
     "top_reasons": [],
