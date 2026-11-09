@@ -143,10 +143,10 @@ function RankedRegions({ items, onPick }: { items: { id: string; name: string; s
 }
 
 // Clamped to three lines; the full text is one click away.
-function Brief({ text }: { text: string }) {
+function Brief({ text, title = "Brief" }: { text: string; title?: string }) {
   const [open, setOpen] = useState(false);
   return (
-    <Section title="Brief">
+    <Section title={title}>
       <p className={open ? "brief" : "brief clamp"}>{text}</p>
       {text.length > 220 && (
         <button className="link more" onClick={() => setOpen(!open)}>
@@ -619,7 +619,6 @@ export function NewsView({ id, data, regionName, onSelect, onOpen }: ViewProps &
         ]}
       />
       {item?.title && <p className="src-title">{item.title}</p>}
-      {item?.text && <p className="brief">{item.text}</p>}
       {embed && (
         <iframe
           className="embed"
@@ -632,6 +631,8 @@ export function NewsView({ id, data, regionName, onSelect, onOpen }: ViewProps &
           referrerPolicy="strict-origin-when-cross-origin"
         />
       )}
+      {/* after the player: video descriptions can be long */}
+      {item?.text && <Brief key={id} title="Post" text={item.text} />}
       {quotes.size > 0 && (
         <Section title={`Quotes from this source (${quotes.size})`}>
           <More key={id} items={[...quotes.values()]}>
