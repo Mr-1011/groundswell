@@ -194,10 +194,12 @@ export default function MapView(p: Props) {
     const zoom = e.target.getZoom();
     const fs = e.features ?? [];
     const first = (ids: string[]) => fs.find((f) => ids.includes(f.layer.id));
+    // inside the selected state counties act at any zoom; a state fit can land just below STATE_ZOOM
+    const inSelected = p.selection?.kind === "state" && first(["county-hit"])?.properties.state === p.selection.id;
     return (
       first(["projects"]) ??
       (infra ? (first(INFRA_POINTS) ?? (zoom >= 7 ? first(INFRA_LINES) : undefined)) : undefined) ??
-      first([zoom < STATE_ZOOM ? "state-hit" : "county-hit"])
+      first([zoom < STATE_ZOOM && !inSelected ? "state-hit" : "county-hit"])
     );
   };
 
