@@ -1,4 +1,5 @@
-// YouTube via Supadata: search, then the spoken transcript per video (one credit each). https://docs.supadata.ai
+// YouTube via Supadata: search, then the spoken transcript and the upload date per video (one credit per call). https://docs.supadata.ai
+// shortcut: videos already in the DB are fetched again before the URL dedupe in search_region; add a URL filter when credits get tight.
 import type { Source, SourceDocument } from "./types.ts";
 
 const headers = () => ({ "x-api-key": process.env.SUPADATA_API_KEY! });
@@ -27,9 +28,10 @@ const source: Source = {
           `https://api.supadata.ai/v1/youtube/transcript?url=${encodeURIComponent(url)}&text=true`,
         );
         if (!t.content || t.content.length < 200) continue;
-        // uploadDate is relative ("8 months ago"), so the date stays unknown unless the extractor finds one in the text.
+        // The search gives the upload date only as text ("8 months ago"); the video endpoint gives the real date (one credit).
+        const meta = await getJson<{ uploadDate?: string }>(`https://api.supadata.ai/v1/youtube/video?id=${v.id}`);
         const text = [v.title, v.channel?.name ? `Channel: ${v.channel.name}` : null, v.description, t.content].filter(Boolean).join("\n");
-        docs.push({ url, title: v.title ?? null, text, published_at: null, platform: "youtube", region_fips: req.region_fips, raw: v });
+        docs.push({ url, title: v.title ?? null, text, published_at: meta.uploadDate ?? null, platform: "youtube", region_fips: req.region_fips, raw: v });
       } catch (e) {
         console.warn(`supadata transcript ${v.id}: ${(e as Error).message}`);
       }
