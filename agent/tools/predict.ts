@@ -1,6 +1,8 @@
 // predict: a county without local evidence gets a prediction from the nearest counties scored on evidence, weighted by
 // 1/distance² between county centroids (same state when it has at least 3 such counties). confidence stays 0, basis is
 // "predicted", predicted_from lists the counties used and the reasons are their contributions. No model call, no web.
+// Contract (map/README.md): reasons[i] belongs to predicted_from[i] (both in distance order, weights strictly decreasing, so
+// the export's ORDER BY weight keeps the order) and the reason text ends in "<NN> km"; the map draws lines from both.
 import centroids from "../db/centroids.json" with { type: "json" };
 import { all, run, now } from "../db/client.ts";
 import { COUNTIES, ensureCounty } from "../db/regions.ts";
@@ -28,7 +30,7 @@ export function predictState(state: string): number {
   const todo = Object.keys(COUNTIES).filter((f) => COUNTIES[f]!.state === state && !evidence.has(f) && C[f]);
   for (const fips of todo) {
     const near = pool
-      .map((s) => ({ ...s, d: Math.max(10, km(C[fips]!, s.at)) }))
+      .map((s) => ({ ...s, d: Math.max(1, km(C[fips]!, s.at)) }))
       .sort((a, b) => a.d - b.d)
       .slice(0, K)
       .map((s) => ({ ...s, w: 1 / s.d ** 2 }));

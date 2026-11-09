@@ -58,7 +58,7 @@ Object keyed by 5-digit county FIPS.
 | prediction | `blocked` \| `approved` or null | also set for `basis: "predicted"` counties (the model's call) |
 | confidence | number 0-1 or null | how much local evidence supports the score. 0 = no local evidence found |
 | basis | `evidence` \| `predicted` \| `baseline` or null | `evidence`: scored on local sources. `predicted`: no local sources; score and prediction are a model prediction from the nearest evidence-scored counties and the county's own data (projects, infrastructure, politics); `summary` says what it is based on, reasons may hold the drivers. `baseline`: old fallback, score = state mean. null = no score |
-| predicted_from | array of FIPS | for `basis: "predicted"`: the evidence-scored counties the prediction leans on, most influential first (max 6); else `[]` |
+| predicted_from | array of FIPS | for `basis: "predicted"`: the evidence-scored counties the prediction leans on, most influential first (max 6); else `[]`. `reasons[i]` belongs to `predicted_from[i]`: text `<County> <score> · <NN> km`, weight = that county's share of the prediction (shares sum to 1); the map draws lines from both |
 | reasons[].weight | number 0-1 | sorted high to low |
 | stance | `oppose` \| `support` \| `neutral` | news, social and quotes |
 | emotion | `anger` \| `fear` \| `distrust` \| `frustration` \| `sadness` \| `hope` \| `pride` \| `none` or null | social and quotes; dominant emotion of the community voice |
