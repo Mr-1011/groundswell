@@ -719,6 +719,32 @@ h3 {
 .steps-done .steps {
   margin-top: 4px;
 }
+/* answer placeholder while the agent works: text-line bars with a slow sweep */
+.skeleton {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  padding: 4px 0 2px;
+}
+.skeleton span {
+  height: 9px;
+  background: linear-gradient(90deg, var(--panel-2) 0%, var(--line-2) 50%, var(--panel-2) 100%) 0 0 / 200% 100%;
+  animation: skeleton 1.8s linear infinite;
+}
+.skeleton span:nth-child(1) { width: 94%; }
+.skeleton span:nth-child(2) { width: 86%; animation-delay: -0.15s; }
+.skeleton span:nth-child(3) { width: 90%; animation-delay: -0.3s; }
+.skeleton span:nth-child(4) { width: 52%; animation-delay: -0.45s; }
+@keyframes skeleton {
+  to {
+    background-position: -200% 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .skeleton span {
+    animation: none;
+  }
+}
 .msg-text {
   color: var(--ink);
   line-height: 1.55;

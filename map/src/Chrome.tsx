@@ -297,6 +297,14 @@ export function Chat({
               ) : (
                 <div className="steps-done mono">{secs(m)}s</div>
               )}
+              {pending && (
+                <div className="skeleton" aria-hidden="true">
+                  <span />
+                  <span />
+                  <span />
+                  <span />
+                </div>
+              )}
               {m.content && <div className="msg-text">{rich(m.content)}</div>}
               {!!m.actions?.length && (
                 <div className="msg-actions">
