@@ -1,0 +1,67 @@
+{
+  "53017": {
+    "news": [
+      {
+        "title": "Data centers on rise in rural areas | IATP",
+        "url": "https://www.iatp.org/news/data-centers-on-rise-in-rural-areas",
+        "date": "2006-08-09T00:00:00.000Z",
+        "source": "Seattle Post-Intelligencer",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "\"Based on the power contracts we have in place today, it is basically a trade-off,\"",
+        "source": "Bill Dobbins, manager of the Douglas PUD",
+        "url": "https://www.iatp.org/news/data-centers-on-rise-in-rural-areas",
+        "date": "2006-08-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "\"It is really a shift and a change into a whole labor market that we have never had before,\"",
+        "source": "Pat Haley, director of the Port of Douglas County",
+        "url": "https://www.iatp.org/news/data-centers-on-rise-in-rural-areas",
+        "date": "2006-08-09",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Sabey planned a 30 MW power contract with the Douglas County PUD over 11 years, making it the county's largest customer",
+      "A $100 million data center was to be built on a 30-acre plot in East Wenatchee over 18 months",
+      "Microsoft began construction on a 74-acre server farm in Quincy in April 2006",
+      "The Sabey facility was expected to generate only 30 to 50 jobs"
+    ],
+    "groups": []
+  },
+  "53043": {
+    "news": [
+      {
+        "title": "Public concerned over data centers - The Odessa Record",
+        "url": "https://www.odessarecord.com/story/2026/10/08/news/public-concerned-over-data-centers/18055.html",
+        "date": "2026-10-08",
+        "source": "The Odessa Record",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We need to get it right,",
+        "source": "Alice Melewski, Wilbur resident",
+        "url": "https://www.odessarecord.com/story/2026/10/08/news/public-concerned-over-data-centers/18055.html",
+        "date": "2026-10-05",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "Lincoln County held a public hearing on Oct. 5, 2026 on a six-month moratorium on new data center and battery-storage permits.",
+      "About 34 more people joined the hearing online.",
+      "Water dominated the testimony."
+    ],
+    "groups": []
+  }
+}

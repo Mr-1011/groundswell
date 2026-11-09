@@ -30,7 +30,7 @@ The map also shows `counties.json` `prediction: "blocked"` as a hatch, and the n
 
 ## counties.json
 
-Object keyed by 5-digit county FIPS.
+Object keyed by 5-digit county FIPS. Everything the map and the US view need; the dashboard loads it first, with `feed.json`.
 
 ```json
 {
@@ -41,15 +41,38 @@ Object keyed by 5-digit county FIPS.
     "label": "medium",
     "summary": "AI brief, 2-4 sentences.",
     "reasons": [{ "reason": "water use", "weight": 0.4 }],
-    "news": [{ "title": "...", "url": "...", "date": "2026-10-01", "source": "outlet name", "stance": "oppose" }],
-    "social": [{ "platform": "reddit", "url": "...", "text": "...", "date": "2026-10-02", "stance": "oppose" }],
-    "quotes": [{ "text": "...", "source": "speaker, context", "url": "...", "date": "2026-09-15" }],
-    "facts": ["..."],
-    "groups": [{ "name": "Friends of the Tensaw River", "url": "...", "date": "2026-07-06" }],
     "updated": "2026-11-08T12:00:00Z"
   }
 }
 ```
+
+## details/<ST>.json
+
+One file per state (`details/TX.json`), keyed by the FIPS codes of that state's counties in `counties.json`: the feeds of each county. The dashboard loads a state's file when the state or one of its counties is selected and joins it on FIPS. A state without counties has no file.
+
+```json
+{
+  "01097": {
+    "news": [{ "title": "...", "url": "...", "date": "2026-10-01", "source": "outlet name", "stance": "oppose" }],
+    "social": [{ "platform": "reddit", "url": "...", "text": "...", "date": "2026-10-02", "stance": "oppose" }],
+    "quotes": [{ "text": "...", "source": "speaker, context", "url": "...", "date": "2026-09-15" }],
+    "facts": ["..."],
+    "groups": [{ "name": "Friends of the Tensaw River", "url": "...", "date": "2026-07-06" }]
+  }
+}
+```
+
+## feed.json
+
+The national totals of the feeds, so the US view needs no details file. One row per kind, day, stance and emotion; `n` = number of items in all counties.
+
+```json
+[{ "kind": "social", "date": "2026-10-02", "stance": "oppose", "emotion": "anger", "n": 3 }]
+```
+
+`kind`: `news` | `social` | `quote`. `date`: day or null. `emotion` is null for news. The rows hold every item of `details/*.json`, so the dashboard filters (time, stance, source) give the same numbers on both.
+
+Fields of `counties.json` and `details/<ST>.json`:
 
 | Field | Type | Notes |
 |---|---|---|
@@ -165,4 +188,4 @@ Predicted scores: a county with `basis: "predicted"` has no local sources; the c
 
 Map actions the chat should return: `fly_to` the most specific region the answer is about, `highlight` the counties it names, and `open_window` `news` for 1 to 3 of the strongest sources (the `url` of a news, social or quote item) when the question is about a region or a topic with sources.
 
-Dashboard behavior: `fly_to` also selects the region (the INFO tab follows). `open_window` `news` opens a window with the article (found by `url` in `counties.json`) and its link; `chart` opens the learning-loop window. `**bold**` in `answer` shows as bold; a bold `Name County, ST` or state name is a button that selects the region. Tool events show as live steps; actions run after the answer (fly first, then windows one by one) and stay in the chat as buttons that run them again. A non-2xx answer shows "Agent not reachable" in the chat.
+Dashboard behavior: the selected region is in the URL (`#county/48453`, `#state/TX`), so a link opens the same region. `fly_to` also selects the region (the INFO tab follows). `open_window` `news` opens a window with the article (found by `url` in the `details/<ST>.json` files loaded so far) and its link; `chart` opens the learning-loop window. `**bold**` in `answer` shows as bold; a bold `Name County, ST` or state name is a button that selects the region. Tool events show as live steps; actions run after the answer (fly first, then windows one by one) and stay in the chat as buttons that run them again. A non-2xx answer shows "Agent not reachable" in the chat.

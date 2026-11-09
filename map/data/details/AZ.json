@@ -1,0 +1,639 @@
+{
+  "04003": {
+    "news": [
+      {
+        "title": "Data center proposal sparks pushback from some Cochise County residents",
+        "url": "https://kyma.com/dsw-living/data-centers/2026/11/05/data-center-proposal-sparks-pushback-from-some-cochise-county-residents/",
+        "date": "2026-11-05T17:45:53.000Z",
+        "source": "KYMA",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "This is not the valley to build this thing in.",
+        "source": "Vincent Fiore, resident",
+        "url": "https://kyma.com/dsw-living/data-centers/2026/11/05/data-center-proposal-sparks-pushback-from-some-cochise-county-residents/",
+        "date": "2026-11-05",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We are committed to living and working and being dedicated, energetic community members,",
+        "source": "Riley Trettle, Head of Energy and Supercomputer Department, SpaceX",
+        "url": "https://kyma.com/dsw-living/data-centers/2026/11/05/data-center-proposal-sparks-pushback-from-some-cochise-county-residents/",
+        "date": "2026-11-05",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "SpaceX proposed a data center campus and battery energy storage system east of U.S. Highway 191 near the Apache Generating Station in rural Cochise County, Arizona",
+      "The application said the campus would include nine computing buildings and need roughly six gigawatts",
+      "The land is currently zoned rural",
+      "The company said the project would create about 1,000 permanent jobs and could lower bills for Sulphur Springs Valley Electric Cooperative customers"
+    ],
+    "groups": []
+  },
+  "04013": {
+    "news": [
+      {
+        "title": "How much water will Chandler's data center project use?",
+        "url": "https://www.phoenixnewtimes.com/news/how-much-water-will-chandlers-data-center-project-use-40627750/",
+        "date": "2025-12-10T16:34:46.000Z",
+        "source": "Phoenix New Times",
+        "stance": "neutral"
+      },
+      {
+        "title": "Chandler City Council rejects controversial AI data center - Phoenix Business Journal",
+        "url": "https://www.bizjournals.com/phoenix/news/2025/12/10/ai-data-center-chandler-sinema.html",
+        "date": "2025-12-10T00:00:00.000Z",
+        "source": "Phoenix Business Journal",
+        "stance": "oppose"
+      },
+      {
+        "title": "Chandler set to vote Thursday on AI data center development championed by Sinema",
+        "url": "https://www.kjzz.org/politics/2025-12-09/chandler-set-to-vote-thursday-on-ai-data-center-development-championed-by-sinema",
+        "date": "2025-12-09T16:28:05.000Z",
+        "source": "KJZZ",
+        "stance": "neutral"
+      },
+      {
+        "title": "NPM - ​ORIGINATION: Copia Power developing two large-scale data center campuses in Arizona",
+        "url": "https://newprojectmedia.com/origination-copia-power-developing-two-large-scale-data-center-campuses-in-arizona-2/",
+        "date": "2025-12-08T10:44:41.000Z",
+        "source": "New Project Media",
+        "stance": "neutral"
+      },
+      {
+        "title": "NPM - ​INTERVIEW: Active Infrastructure CEO talks development challenges behind Chandler, AZ and Loudon County, VA projects",
+        "url": "https://newprojectmedia.com/interview-active-infrastructure-ceo-talks-development-challenges-behind-chandler-az-and-loudon-county-va-projects/",
+        "date": "2025-11-26T11:42:18.000Z",
+        "source": "New Project Media",
+        "stance": "neutral"
+      },
+      {
+        "title": "Council vote on controversial Chandler data center looms | News | chandlernews.com",
+        "url": "https://www.chandlernews.com/santan/news/council-vote-on-controversial-chandler-data-center-looms/article_8cd57fa2-bfe3-4988-b2d4-9ec209844d0c.html",
+        "date": "2025-11-03T07:00:00.000Z",
+        "source": "ChandlerNews.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Chandler data center project draws in former U.S. senator - Queen Creek Independent",
+        "url": "https://www.yourvalley.net/queen-creek-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-27T06:58:00.000Z",
+        "source": "Queen Creek Independent",
+        "stance": "support"
+      },
+      {
+        "title": "Chandler data center project draws in former U.S. senator - Litchfield Park / Goodyear Independent",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-27T06:58:00.000Z",
+        "source": "Litchfield Park / Goodyear Independent",
+        "stance": "neutral"
+      },
+      {
+        "title": "AI data center in Chandler's Price Road Corridor goes to council",
+        "url": "https://ftw.usatoday.com/story/news/local/chandler/2025/10/22/controversial-proposed-ai-data-center-chandler-council/86819305007/",
+        "date": "2025-10-22T12:02:46.000Z",
+        "source": "Arizona Republic",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data Center Plan Sparks Chandler Opposition - AZBEX",
+        "url": "https://azbex.com/planning-development/data-center-plan-sparks-chandler-opposition/",
+        "date": "2025-10-17T16:23:45.000Z",
+        "source": "AZBEX",
+        "stance": "oppose"
+      },
+      {
+        "title": "Chandler data center project moves ahead amid city, resident concerns",
+        "url": "https://www.wmbattorneys.com/chandler-data-center-project-moves-ahead-amid-city-resident-concerns/",
+        "date": "2025-10-16T18:40:06.000Z",
+        "source": "Phoenix Business Journal",
+        "stance": "oppose"
+      },
+      {
+        "title": "Planning commission recommends approval of Price Road Innovation Campus rezoning, with stipulations | Citizen Portal",
+        "url": "https://citizenportal.ai/articles/5960768/arizona/maricopa-county/chandler/planning-commission-recommends-approval-of-price-road-innovation-campus-rezoning-with-stipulations",
+        "date": "2025-10-16T11:29:20.000Z",
+        "source": "Citizen Portal",
+        "stance": "support"
+      },
+      {
+        "title": "Chandler data center project moves ahead amid city, resident concerns - Phoenix Business Journal",
+        "url": "https://www.bizjournals.com/phoenix/news/2025/10/16/chandler-data-center-price-road-advances.html",
+        "date": "2025-10-16T00:00:00.000Z",
+        "source": "Phoenix Business Journal",
+        "stance": "oppose"
+      },
+      {
+        "title": "Petition · Stop Project Baccara/ Project Eagle on southern border of Surprise, AZ in Maricopa County - Surprise, United States · Change.org",
+        "url": "https://www.change.org/p/stop-project-baccara-project-eagle-on-southern-border-of-surprise-az-in-maricopa-county",
+        "date": "2025-09-23T16:34:17.000Z",
+        "source": "Change.org",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data centers a small, but growing factor in Arizona’s water budget",
+        "url": "https://waterdesk.org/2025/04/data-centers-a-small-but-growing-factor-in-arizonas-water-budget/",
+        "date": "2025-04-04T11:58:00.000Z",
+        "source": "Circle of Blue",
+        "stance": "neutral"
+      },
+      {
+        "title": "NTT acquires 173-acre planned data center park in Mesa, Arizona, for $300m - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/ntt-acquires-173-acre-planned-data-center-park-in-mesa-arizona-for-300m/",
+        "date": "2025-03-28T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "neutral"
+      },
+      {
+        "title": "Arizona’s data center growth negatively impacts underserved communities",
+        "url": "https://san.com/cc/arizonas-data-center-growth-negatively-impacts-underserved-communities/",
+        "date": "2024-12-23T20:27:57.000Z",
+        "source": "Straight Arrow News",
+        "stance": "oppose"
+      },
+      {
+        "title": "CBRE gets city approval for data center expansion in Chandler, Arizona - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/cbre-gets-city-approval-for-data-center-expansion-in-chandler-arizona/",
+        "date": "2024-07-02T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "support"
+      },
+      {
+        "title": "Goodyear-area AI data center campus application draws opposition, water - Litchfield Park / Goodyear Independent",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/goodyear-area-529-acre-ai-data-center-campus-application-draws-opposition-water,484602",
+        "date": "2024-03-16T15:15:00.000Z",
+        "source": "Litchfield Park / Goodyear Independent",
+        "stance": "oppose"
+      },
+      {
+        "title": "Holder Construction gets $1.9B Arizona data center job | Construction Dive",
+        "url": "https://www.constructiondive.com/news/holder-construction-arizona-data-center/704098/",
+        "date": "2024-01-10T10:23:00.000Z",
+        "source": "Construction Dive",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "They're not going to save 12 million gallons if they build these other buildings,",
+        "source": "Rick Heumann, former Chandler city councilmember who chairs the planning commission",
+        "url": "https://www.phoenixnewtimes.com/news/how-much-water-will-chandlers-data-center-project-use-40627750/",
+        "date": "2025-12-10T16:34:46.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "It seems like they should be thinking about conserving water across the board,",
+        "source": "Sandy Bahr, director of the Sierra Club's Grand Canyon Chapter",
+        "url": "https://www.phoenixnewtimes.com/news/how-much-water-will-chandlers-data-center-project-use-40627750/",
+        "date": "2025-12-10T16:34:46.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "The city of Chandler is set to take action this week on a data center project that's been touted by former U.S. Sen. Kyrsten Sinema.",
+        "source": "Greg Hahne, KJZZ reporter",
+        "url": "https://www.kjzz.org/politics/2025-12-09/chandler-set-to-vote-thursday-on-ai-data-center-development-championed-by-sinema",
+        "date": "2025-12-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We don’t do easy projects,” Zygler explained. “I’ve never done easy projects because, quite frankly, the easy projects, anyone can do them.",
+        "source": "Jeff Zygler, CEO, Active Infrastructure",
+        "url": "https://newprojectmedia.com/interview-active-infrastructure-ceo-talks-development-challenges-behind-chandler-az-and-loudon-county-va-projects/",
+        "date": "2025-11-26T11:42:18.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "In today’s market, the end users are only focused on certainty,” Zygler said.",
+        "source": "Jeff Zygler, CEO, Active Infrastructure",
+        "url": "https://newprojectmedia.com/interview-active-infrastructure-ceo-talks-development-challenges-behind-chandler-az-and-loudon-county-va-projects/",
+        "date": "2025-11-26T11:42:18.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Calling this a data center is like … comparing a Walkman to an iPhone and saying they are both musical devices,",
+        "source": "Adam Baugh, Attorney on behalf of the developer",
+        "url": "https://www.chandlernews.com/santan/news/council-vote-on-controversial-chandler-data-center-looms/article_8cd57fa2-bfe3-4988-b2d4-9ec209844d0c.html",
+        "date": "2025-11-03T07:00:00.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I don't think it fits right where it's at,",
+        "source": "Rick Heumann, Commission Chairman",
+        "url": "https://www.chandlernews.com/santan/news/council-vote-on-controversial-chandler-data-center-looms/article_8cd57fa2-bfe3-4988-b2d4-9ec209844d0c.html",
+        "date": "2025-11-03T07:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Staff finds that data centers provide significantly lower numbers of jobs after construction is complete, compared to the high-value employment industries that are targeted for the corridor,",
+        "source": "David De La Torre, city planning manager",
+        "url": "https://www.chandlernews.com/santan/news/council-vote-on-controversial-chandler-data-center-looms/article_8cd57fa2-bfe3-4988-b2d4-9ec209844d0c.html",
+        "date": "2025-11-03T07:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We need to know more.",
+        "source": "Karla Hoffer, south Chandler resident",
+        "url": "https://www.yourvalley.net/queen-creek-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-27T06:58:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We do not wish to be a sacrifice zone for the data center boom.",
+        "source": "Unnamed email writer",
+        "url": "https://www.yourvalley.net/queen-creek-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-27T06:58:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We do not wish to be a sacrifice zone for the data center boom,",
+        "source": "Unnamed emailer",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-27T06:58:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Former U.S. Sen. Krysten Sinema urged approval, warning of future federal mandates for such facilities.",
+        "source": "Krysten Sinema, Former U.S. Sen.",
+        "url": "https://ftw.usatoday.com/story/news/local/chandler/2025/10/22/controversial-proposed-ai-data-center-chandler-council/86819305007/",
+        "date": "2025-10-22T12:02:46.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Officials said the City's vision focuses on \"knowledge-based industries,\" such as research & development, manufacturing, biosciences and similar uses.",
+        "source": "City of Chandler officials",
+        "url": "https://azbex.com/planning-development/data-center-plan-sparks-chandler-opposition/",
+        "date": "2025-10-17T16:23:45.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "If we choose not to move forward with this development, the land will continue to sit vacant (Northrup Grumman vacated the building in 2019), until federal pre-emption occurs.",
+        "source": "Kyrsten Sinema, Former U.S. Senator",
+        "url": "https://www.yourvalley.net/queen-creek-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-15",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I would urge Chandler to approach the AI revolution the way you approached the semiconductor revolution.",
+        "source": "Kyrsten Sinema, President and CEO, Arizona Business Roundtable",
+        "url": "https://www.wmbattorneys.com/chandler-data-center-project-moves-ahead-amid-city-resident-concerns/",
+        "date": "2025-10-15",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Staff finds that data centers provide significantly lower numbers of jobs after construction is complete compared to the high-value employment industries that are targeted for the corridor.",
+        "source": "David de la Torre, planning manager for Chandler",
+        "url": "https://www.wmbattorneys.com/chandler-data-center-project-moves-ahead-amid-city-resident-concerns/",
+        "date": "2025-10-15",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "The 9-acre data center here unlocks the remaining 31 acres of this property.",
+        "source": "Adam Baugh, partner, Withey Morris Baugh PLC, representative for the developer",
+        "url": "https://www.wmbattorneys.com/chandler-data-center-project-moves-ahead-amid-city-resident-concerns/",
+        "date": "2025-10-15",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "If we choose not to move forward with this development, the land will continue to sit vacant (Northrup Grumman vacated the building in 2019), until federal pre-emption occurs,",
+        "source": "Kyrsten Sinema, Former U.S. Senator, senior adviser at Hogan Lovells",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-15",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "There's still so much that isn't known about the long-term effects of data centers — even the obsolete ones,",
+        "source": "Karla Hoffer, South Chandler resident",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/chandler-data-center-project-draws-in-former-us-senator,628297",
+        "date": "2025-10-15",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We urge the local government and planning authorities to reconsider the placement of Project Baccara.",
+        "source": "David Kraus, Petition Starter",
+        "url": "https://www.change.org/p/stop-project-baccara-project-eagle-on-southern-border-of-surprise-az-in-maricopa-county",
+        "date": "2025-09-23T16:34:17.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Please find above the invitation to the upcoming open house meeting to discuss Project Baccara. Constituentes are encouraged to attend.",
+        "source": "Chris Judd, Surprise City Council - District 6",
+        "url": "https://www.change.org/p/stop-project-baccara-project-eagle-on-southern-border-of-surprise-az-in-maricopa-county",
+        "date": "2025-09-23T16:34:17.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I’m far more concerned about energy than water,",
+        "source": "Glenn Williamson, CEO of the Canada Arizona Business Council and chairman of EPCOR Water",
+        "url": "https://waterdesk.org/2025/04/data-centers-a-small-but-growing-factor-in-arizonas-water-budget/",
+        "date": "2025-04-04T11:58:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Unlike energy, using water to cool a data center is a choice, not a requirement,",
+        "source": "Alex Setmajer, Equinix",
+        "url": "https://waterdesk.org/2025/04/data-centers-a-small-but-growing-factor-in-arizonas-water-budget/",
+        "date": "2025-04-04T11:58:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "There is opposition from both the City of Buckeye and the City of Goodyear,",
+        "source": "Maricopa County rep, Maricopa County Planning and Development representative",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/goodyear-area-529-acre-ai-data-center-campus-application-draws-opposition-water,484602",
+        "date": "2024-03-16T15:15:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "At this time, Planning and Development are not supportive of this proposal.",
+        "source": "Maricopa County rep, Maricopa County Planning and Development representative",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/goodyear-area-529-acre-ai-data-center-campus-application-draws-opposition-water,484602",
+        "date": "2024-03-16T15:15:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Development agreement allows average 48,631 gallons of water per day, about 17.75 million gallons a year",
+      "Developer initially estimated five additional buildings could each use 52,752 gallons per day, over 96 million gallons a year combined, later listed as unknown",
+      "Chandler already has an ordinance limiting construction of new data centers in the city",
+      "Opposition emails outnumbered support emails by a 10-to-1 margin",
+      "A 422,000-square-foot AI data center was proposed for the South Price Road Corridor in Chandler.",
+      "City planning staff recommended denial because the project doesn't align with the city's vision for high-paying jobs in the corridor.",
+      "The Chandler City Council rejected the controversial AI data center, according to the headline.",
+      "Chandler City Council has a zoning ordinance and developer agreement for Active Infrastructure's AI data center on its agenda for a Thursday vote",
+      "Former U.S. Sen. Kyrsten Sinema appeared at a planning and zoning meeting urging the city to push the project forward",
+      "The site currently holds buildings made for Orbital Sciences in the 1980s",
+      "Maricopa County Board of Supervisors to consider Dec. 10 land use requests for the proposed 917-acre Harquahala campus",
+      "Request would re-designate 638 acres from Rural Development Area to Utilities",
+      "Planning Commission recommended approval of the land use requests Nov. 6",
+      "Copia has another proposed campus in Pinal County and the Monarch Data Center in Lyon County, NV",
+      "Chandler City Council was to consider Active Infrastructure's rezoning and preliminary development plan requests on Nov. 13 after Planning and Zoning Commission recommended approval",
+      "Chandler requirements include a ban on overhead power lines, limits on data center buildings to part of the property, and high standards for noise, water use and community engagement",
+      "Legacy cooling towers at the Chandler site drew more than 12 million gallons annually",
+      "SRP Load Cluster Study grouped 24 projects; Active Infrastructure assigned an estimated USD 242m cost for power upgrades",
+      "Chandler Planning and Zoning Commission voted 5-1 on Oct. 15 to recommend approval of the Price Road Innovation Campus despite staff recommending denial",
+      "City Council scheduled to decide the project at its Nov. 13 meeting",
+      "Chandler passed a 2022 ordinance making it harder to build new data centers; the Price Road project would be the first approved under it if Council approves",
+      "Chandler is already home to 10 data centers",
+      "Chandler Planning and Zoning Commission voted 5-1 on Oct. 15, 2025 to recommend council approve the project with staff's alternative conditions",
+      "Council will likely be asked to approve Active Infrastructure's plan at a November 2025 meeting",
+      "Sinema, a former U.S. senator, is a senior adviser at law firm Hogan Lovells",
+      "Chandler planning staff had encouraged the board to recommend denial of the application",
+      "Chandler Planning and Zoning Commission voted 5-1 on Oct. 15, 2025 to recommend council approve Active Infrastructure's plan",
+      "Council likely to be asked to approve the plan at a November 2025 meeting",
+      "Chandler planning staff had encouraged the commission to recommend denial of the application",
+      "Property owner of record is BA Price Owner LLC, a Connecticut-mailed address",
+      "A 422,000-square-foot AI data center and tech park is proposed for a 40-acre lot in Chandler's Price Road Corridor",
+      "Chandler city officials have raised concerns over jobs and project design",
+      "The project would be Chandler's 11th data center, according to the headline",
+      "Chandler restricted data center development in 2016",
+      "City of Chandler planning staff say the proposal does not meet the City's vision for the South Price Road Corridor",
+      "Planning and Zoning Commission was set to hear the planned area development rezoning request the week of the article",
+      "City Council is expected to take up the matter Nov. 13",
+      "There are currently 10 data centers in the corridor area",
+      "Chandler Planning and Zoning Commission voted 5-1 on Oct. 15, 2025 to recommend City Council approve the rezoning and development plan after city staff recommended denial",
+      "City Council final vote scheduled for Nov. 13 meeting"
+    ],
+    "groups": [
+      {
+        "name": "Chandler residents opposing the data center",
+        "url": "https://www.phoenixnewtimes.com/news/how-much-water-will-chandlers-data-center-project-use-40627750/",
+        "date": "2025-12-10T16:34:46.000Z"
+      },
+      {
+        "name": "AI Infrastructure Coalition",
+        "url": "https://www.chandlernews.com/santan/news/council-vote-on-controversial-chandler-data-center-looms/article_8cd57fa2-bfe3-4988-b2d4-9ec209844d0c.html",
+        "date": "2025-11-03T07:00:00.000Z"
+      },
+      {
+        "name": "Stop Project Baccara petition",
+        "url": "https://www.change.org/p/stop-project-baccara-project-eagle-on-southern-border-of-surprise-az-in-maricopa-county",
+        "date": "2025-09-23T16:34:17.000Z"
+      },
+      {
+        "name": "Concerned residents on NextDoor",
+        "url": "https://www.yourvalley.net/litchfield-park-independent/stories/goodyear-area-529-acre-ai-data-center-campus-application-draws-opposition-water,484602",
+        "date": "2024-03-16T15:15:00.000Z"
+      }
+    ]
+  },
+  "04019": {
+    "news": [
+      {
+        "title": "Arizona regulators approve TEP deal to power controversial Pima County data center",
+        "url": "https://www.azpm.org/arizona/2025-12-10/227598-arizona-regulators-approve-tep-deal-to-power-controversial-pima-county-data-center",
+        "date": "2025-12-10T16:49:58.000Z",
+        "source": "AZPM",
+        "stance": "neutral"
+      },
+      {
+        "title": "Thirsty new tech in the dusty Old Pueblo",
+        "url": "https://www.azwateragenda.com/p/thirsty-new-tech-in-the-dusty-old",
+        "date": "2025-06-27T13:02:45.000Z",
+        "source": "Tucson Agenda",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "“This is not an us versus them,” he said, stating that data centers are a necessity of life.",
+        "source": "Rene Lopez, Arizona Corporation Commission Commissioner",
+        "url": "https://www.azpm.org/arizona/2025-12-10/227598-arizona-regulators-approve-tep-deal-to-power-controversial-pima-county-data-center",
+        "date": "2025-12-10",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "“I don’t think this is the last we’re going to hear about this data center or the tariffs when it comes to ratepayer protections related to this project,” he said after declining to discuss the details related to TEP’s upcoming rate case.",
+        "source": "Kevin Thompson, Chair, Arizona Corporation Commission",
+        "url": "https://www.azpm.org/arizona/2025-12-10/227598-arizona-regulators-approve-tep-deal-to-power-controversial-pima-county-data-center",
+        "date": "2025-12-10",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "“We don’t know what the number is going to be at this time,” Arons said.",
+        "source": "Sam Arons, Vice president of energy and sustainability, Beale",
+        "url": "https://www.azpm.org/arizona/2025-12-10/227598-arizona-regulators-approve-tep-deal-to-power-controversial-pima-county-data-center",
+        "date": "2025-12-10",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "\"I'm very concerned about the idea of building it in a hot desert where a lot of cooling is going to be required,\"",
+        "source": "Ed Hendel, AI consulting business owner in Tucson",
+        "url": "https://www.azwateragenda.com/p/thirsty-new-tech-in-the-dusty-old",
+        "date": "2025-06-27T13:02:45.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"I want to be on the right side of this opportunity,\"",
+        "source": "Steve Christy, Pima County Supervisor",
+        "url": "https://www.azwateragenda.com/p/thirsty-new-tech-in-the-dusty-old",
+        "date": "2025-06-27T13:02:45.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "\"It is completely problematic. And in fact, the scope of Project Blue is still so murky and even from the little piece that we decided, it's still unclear,\"",
+        "source": "Jennifer Allen, Pima County Supervisor",
+        "url": "https://www.azwateragenda.com/p/thirsty-new-tech-in-the-dusty-old",
+        "date": "2025-06-27",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Arizona Corporation Commission approved the TEP Energy Supply Agreement for Project Blue last week, with four of five commissioners voting in favor",
+      "Commissioner Rachel Walden cast the lone nay vote",
+      "The contract was filed with regulators in August 2025, after Tucson city officials rejected the project",
+      "Public testimony in opposition lasted nearly two hours at the open meeting",
+      "Beale Infrastructure announced it would match 100% of energy use with renewable energy",
+      "Pima County Board of Supervisors voted on June 17, 2025 on a petition to rezone and sell roughly 300 acres for Project Blue for $20 million",
+      "Project Blue would have up to 10 buildings in three phases, with construction beginning next year",
+      "Two supervisors, Jennifer Allen and Andrés Cano, voted no",
+      "Tucson city government still needs to approve annexation of the land for the project"
+    ],
+    "groups": []
+  },
+  "04021": {
+    "news": [
+      {
+        "title": "Power Demand Is Rewriting the Land Map in Pinal County | Insight Land and Investments",
+        "url": "https://insightland.com/2026/09/24/pinal-county-data-center-land-demand/",
+        "date": "2026-09-24T13:27:55.000Z",
+        "source": "Insight Land and Investments",
+        "stance": "neutral"
+      },
+      {
+        "title": "La Osa Data Center: Where Does the $100 Million Actually Go? - Pinal Post",
+        "url": "https://pinalpost.com/la-osa-data-center-where-does-the-100-million-actually-go/",
+        "date": "2026-05-10T03:17:50.000Z",
+        "source": "Pinal Post",
+        "stance": "neutral"
+      },
+      {
+        "title": "$10 billion data center campus OK'd south of Maricopa - InMaricopa.com",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z",
+        "source": "InMaricopa.com",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "This is, at buildout, you know, this is on the order of $10 billion or more dollars for this project to be built.",
+        "source": "Court Rich, Applicant Attorney",
+        "url": "https://pinalpost.com/la-osa-data-center-where-does-the-100-million-actually-go/",
+        "date": "2026-04-16",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "Avra Valley Fire District Chief Brian Delfs stated at the April 16, 2026 Planning and Zoning hearing that annexing the first two phases of La Osa into the district could possibly cut property tax rates in half for existing district residents.",
+        "source": "Brian Delfs, Avra Valley Fire District Chief",
+        "url": "https://pinalpost.com/la-osa-data-center-where-does-the-100-million-actually-go/",
+        "date": "2026-04-16",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "If this project were in place today … in the City of Maricopa, it would be the third-largest employer in the city with just the direct jobs at that location, if you had 500 jobs there,",
+        "source": "Court Rich, Rose Law Group",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "There's nothing we can do about that and there's a good reason behind that. If we're not growing, we're shrinking,",
+        "source": "Mike Goodman, Supervisor, represents San Tan Valley",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The site itself is known to have a lot of artifacts there and human remains,",
+        "source": "Delia Carlyle, Ak-Chin Vice Chair",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "I really want to make sure that their input is heard … they're interested in the project, but they want to make sure their land's being protected and their artifacts are,",
+        "source": "Rich Vitiello, County Supervisor (R-Maricopa)",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "On April 16, 2026, the Pinal County Planning and Zoning Commission voted 7 to 2 to recommend approval of the La Osa Energy Center rezoning",
+      "In August 2024, Tract acquired 2,069 acres near Buckeye Airport for more than $136 million, with capacity of up to 1.8 gigawatts",
+      "Opposition at the Pinal hearing centered on water",
+      "Pinal County Board of Supervisors is scheduled to consider the La Osa rezoning on May 27, 2026",
+      "La Osa campus covers approximately 3,385 acres south of Eloy, with 2,393 acres proposed to change from General Rural to Industrial I-3 zoning",
+      "Applicant Vermaland seeks to rezone land for up to 59 data center buildings in three phases",
+      "At the October 16, 2025 hearing, applicant attorney Court Rich described only hundreds of megawatts of gas generation",
+      "Under HB2822 (2022), qualifying business personal property is valued at 2.5% of acquisition cost",
+      "Pinal County Board of Supervisors unanimously approved a land-use amendment for a data center just south of Maricopa, the third data center project approved that Wednesday",
+      "The county received a dozen letters of opposition citing jobs, water use, pollution and farmland loss",
+      "Both the county's Citizens Advisory Committee and Planning and Zoning Commission recommended approval",
+      "City of Maricopa expressed neutrality; Electrical District No. 3, AZ Tech Council and several fire districts supported the project",
+      "Ak-Chin Indian Community is not opposed to the project but opposes the site due to artifacts and human remains"
+    ],
+    "groups": [
+      {
+        "name": "Ak-Chin Indian Community",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z"
+      },
+      {
+        "name": "AZ Tech Council",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z"
+      },
+      {
+        "name": "Electrical District No. 3",
+        "url": "https://inmaricopa.com/data-center-okd/",
+        "date": "2025-11-25T05:44:33.000Z"
+      }
+    ]
+  }
+}

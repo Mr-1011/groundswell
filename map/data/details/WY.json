@@ -1,0 +1,438 @@
+{
+  "56005": {
+    "news": [
+      {
+        "title": "Why A Gillette Woman Changed Her Mind About Having Data Centers As Her Neighbor | Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/11/06/why-a-gillette-woman-changed-her-mind-about-having-data-centers-as-her-neighbor/",
+        "date": "2026-11-06T22:58:00.000Z",
+        "source": "Cowboy State Daily",
+        "stance": "support"
+      }
+    ],
+    "social": [
+      {
+        "platform": "x",
+        "url": "https://x.com/AiJobsBoom/status/2118864162600227038",
+        "text": "Gillette, Wyoming. Campbell County is selling Spaeth Ranch, 5,000 county-owned acres southeast of Cam-plex, and all three bidders want a data center on it. Peabody, the coal company, offered $13 million for a 300-megawatt energy and tech park. A Texas developer offered $15 https://t.co/oSvkTYc0gU",
+        "date": "2026-11-07T00:32:37.000Z",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "They have a good plan.",
+        "source": "Kat Halverson, Gillette resident",
+        "url": "https://cowboystatedaily.com/2026/11/06/why-a-gillette-woman-changed-her-mind-about-having-data-centers-as-her-neighbor/",
+        "date": "2026-11-06T22:58:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "The Peabody Energy & Technology Park is far from a done deal.",
+        "source": "Scott Clem, Campbell County Commissioner",
+        "url": "https://cowboystatedaily.com/2026/11/06/why-a-gillette-woman-changed-her-mind-about-having-data-centers-as-her-neighbor/",
+        "date": "2026-11-06T22:58:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "It really looks to be a win-win.",
+        "source": "Travis Deti, executive director of the Wyoming Mining Association",
+        "url": "https://cowboystatedaily.com/2026/11/06/why-a-gillette-woman-changed-her-mind-about-having-data-centers-as-her-neighbor/",
+        "date": "2026-11-06T22:58:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "The successful development of the Peabody Energy & Technology Park would be a valuable 'proof of concept' to begin to realize this vision.",
+        "source": "Patrick Forkin, executive vice president of global strategy and development, Peabody Energy",
+        "url": "https://cowboystatedaily.com/2026/11/06/why-a-gillette-woman-changed-her-mind-about-having-data-centers-as-her-neighbor/",
+        "date": "2026-11-02",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Campbell County is selling Spaeth Ranch, 5,000 county-owned acres southeast of Cam-plex, Gillette, Wyoming",
+      "All three bidders for Spaeth Ranch want a data center on the site",
+      "Peabody offered $13 million for a 300-megawatt energy and tech park",
+      "Peabody offered $13 million for the 5,289-acre Spaeth Ranch near Gillette, where it would build a power plant and two data centers",
+      "Three proposals for the ranch were submitted: Peabody $13 million, Central Southwest Texas Development $15 million, Range Sustain Grange $10.5 million; the county paid $10 million",
+      "A public hearing on Nov. 18 will let residents question each bidder; commissioners plan to ask the chosen bidder to enter a purchase agreement at their Dec. 2 meeting"
+    ],
+    "groups": []
+  },
+  "56021": {
+    "news": [
+      {
+        "title": "Google’s data center investment in Wyoming",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+        "date": "2026-11-05T17:00:00.000Z",
+        "source": "Google",
+        "stance": "support"
+      },
+      {
+        "title": "Google announces $17bn data center campus in Cheyenne, Wyoming - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+        "date": "2026-11-04T22:08:51.000Z",
+        "source": "DCD",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We are investing 17 billion dollars to build our first data center in the state of Wyoming.",
+        "source": "Steve Walter, VP, Global Infrastructure and Energy",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+        "date": "2026-11-05",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "Together, these efforts represent a novel approach to powering data centers efficiently, accelerating the commercialization of CCS, and creating pathways to reduce the carbon emissions associated with natural gas generation,",
+        "source": "Steve Walter, VP, Global Infrastructure and Energy",
+        "url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+        "date": "2026-11-04T22:08:51.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Google announced a $17 billion data center investment in Laramie County, Wyoming, on Nov 5, 2026",
+      "The project is contracted with AEP for a 702 MW fuel cell development with carbon capture and storage",
+      "Google expects hundreds of millions of dollars in local property taxes for Laramie County and School District 1",
+      "Google and partners met with more than 200 residents in Laramie County at a Cheyenne community meeting",
+      "Google, Tallgrass, Black Hills, Related Digital, AEP and Bloom Energy are standing up a Community Council for Cheyenne",
+      "Google announced a $17 billion commitment in Wyoming for a data center campus in Cheyenne, Laramie County",
+      "The campus will be developed on a 716-acre parcel eight miles south of Cheyenne in the Switchgrass Industrial Park",
+      "Crusoe paused work on the site in June at the request of its customer",
+      "Construction is slated to be completed by 2031"
+    ],
+    "groups": [
+      {
+        "name": "Community Council (Cheyenne)",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+        "date": "2026-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  "56031": {
+    "news": [
+      {
+        "title": "Re-zone of land ahead of rumored data center passed by initial committee - Guernsey Gazette",
+        "url": "https://www.guernseygazette.com/stories/re-zone-of-land-ahead-of-rumored-data-center-passed-by-initial-committee,153288",
+        "date": "2026-09-01T06:00:00.000Z",
+        "source": "Guernsey Gazette",
+        "stance": "neutral"
+      },
+      {
+        "title": "Re-zone of land ahead of rumored data center passed by initial committee - Torrington Telegram",
+        "url": "https://www.torringtontelegram.com/stories/re-zone-of-land-ahead-of-rumored-data-center-passed-by-initial-committee,153288",
+        "date": "2026-09-01T06:00:00.000Z",
+        "source": "Torrington Telegram",
+        "stance": "neutral"
+      },
+      {
+        "title": "Hiring Data Center Talent Near the Platte–Goshen County Line, WY: Roles, Pay, and Where the People Actually Are",
+        "url": "https://www.nextdcx.com/blog/hiring-site-layer-4-wyoming-platte-data-center",
+        "date": "2026-08-30T15:32:16.000Z",
+        "source": "NextDCX",
+        "stance": "support"
+      },
+      {
+        "title": "Site Layer 4 Wins Rezoning Recommendation for a 5,344-Acre Data Center Campus Near Wheatland, Wyoming",
+        "url": "https://www.nextdcx.com/blog/site-layer-4-wyoming-platte-data-center",
+        "date": "2026-08-30T12:06:12.000Z",
+        "source": "NextDCX",
+        "stance": "support"
+      },
+      {
+        "title": "Platte County Recommends Rezoning Private Ranchland For Proposed Data Center | Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "date": "2026-08-27T21:40:00.000Z",
+        "source": "Cowboy State Daily",
+        "stance": "neutral"
+      },
+      {
+        "title": "Platte County planning staff to add data‑center rules and hold Sept. 16 public hearing | Citizen Portal",
+        "url": "https://citizenportal.ai/articles/10686818/wyoming/platte-county/platte-county-planning-staff-to-add-datacenter-rules-and-hold-sept-16-public-hearing",
+        "date": "2026-08-21T22:12:44.000Z",
+        "source": "Citizen Portal",
+        "stance": "neutral"
+      },
+      {
+        "title": "Wyoming County Moves to Tighten Data Center Rules - Inside Towers",
+        "url": "https://insidetowers.com/wyoming-county-moves-to-tighten-data-center-rules/",
+        "date": "2026-08-20T11:37:14.000Z",
+        "source": "Inside Towers",
+        "stance": "neutral"
+      },
+      {
+        "title": "Opposition continues for Platte County's planning and zoning board |  | wyomingnews.com",
+        "url": "https://www.wyomingnews.com/opposition-continues-for-platte-countys-planning-and-zoning-board/article_5ec03ce0-481b-4e4c-be8a-a892799ba334.html",
+        "date": "2026-08-19T19:48:00.000Z",
+        "source": "wyomingnews.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Platte County Meeting Gets Contentious Over Proposed Data Center | Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/08/12/platte-county-meeting-gets-loud-over-data-center-cell-towers-and-public-comment/",
+        "date": "2026-08-12T21:56:00.000Z",
+        "source": "Cowboy State Daily",
+        "stance": "oppose"
+      },
+      {
+        "title": "Public Notice #12145 - Platte County Record-Times",
+        "url": "https://www.pcrecordtimes.com/stories/public-notice-12145,150276",
+        "date": "2026-08-05T00:00:00.000Z",
+        "source": "Platte County Record-Times",
+        "stance": "neutral"
+      },
+      {
+        "title": "Residents press Platte County for answers on data-center rezoning, propose developer remediation fund | Citizen Portal",
+        "url": "https://citizenportal.ai/articles/8578801/wyoming/platte-county/residents-press-platte-county-for-answers-on-data-center-rezoning-propose-developer-remediation-fund",
+        "date": "2026-07-22T11:25:11.000Z",
+        "source": "Citizen Portal",
+        "stance": "oppose"
+      },
+      {
+        "title": "Public Notice #12133 - Platte County Record-Times",
+        "url": "https://www.pcrecordtimes.com/stories/public-notice-12133,148382",
+        "date": "2026-07-22T01:16:00.000Z",
+        "source": "Platte County Record-Times",
+        "stance": "neutral"
+      },
+      {
+        "title": "Petition update · Meeting Date Change · Change.org",
+        "url": "https://www.change.org/p/stop-the-building-of-data-centers-in-platte-county-wyoming/u/34990994",
+        "date": "2026-07-18T00:00:00.000Z",
+        "source": "Change.org",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data center rezoning proposed on 5,344 acres near Goshen County line - Torrington Telegram",
+        "url": "https://www.torringtontelegram.com/stories/data_center_rezoning_proposed_on_5344_acres,147440",
+        "date": "2026-07-15T15:30:00.000Z",
+        "source": "Torrington Telegram",
+        "stance": "neutral"
+      },
+      {
+        "title": "Ranchlands Near Wheatland Eyed For $26 Billion 'Transformational' Data Center | Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/",
+        "date": "2026-07-13T00:00:00.000Z",
+        "source": "Cowboy State Daily",
+        "stance": "neutral"
+      },
+      {
+        "title": "Petition · Stop the building of data centers in Platte County, Wyoming - United States · Change.org",
+        "url": "https://www.change.org/p/stop-the-building-of-data-centers-in-platte-county-wyoming",
+        "date": "2026-07-11T21:42:42.000Z",
+        "source": "Change.org",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "Just because these people are here does not mean a project is going to happen,",
+        "source": "Marty Shepard, Planning and Zoning Commission Chairman",
+        "url": "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "date": "2026-08-26",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We need a shot in the arm,",
+        "source": "Steve Sherard, Retired attorney",
+        "url": "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "date": "2026-08-26",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "There is no water in Goshen Hole,",
+        "source": "Rick Teeters, Goshen Hole resident",
+        "url": "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "date": "2026-08-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "What I’m getting from the public [is], in three years, is the town of Wheatland going to double if it goes through?",
+        "source": "Bill Klein, Planning and Zoning Commissioner",
+        "url": "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "date": "2026-08-26",
+        "stance": "neutral",
+        "emotion": "fear"
+      },
+      {
+        "text": "I feel that’s very concerning,",
+        "source": "Amy Miller, Adjacent property owner",
+        "url": "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "date": "2026-08-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We are here to make sure the projects come in front of us meet our regulations,",
+        "source": "Bill Klein, Planning and Zoning Commission board member",
+        "url": "https://cowboystatedaily.com/2026/08/12/platte-county-meeting-gets-loud-over-data-center-cell-towers-and-public-comment/",
+        "date": "2026-08-12",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "If we rezone to commercial industrial and we give these companies free rein, we’re not in favor of that,",
+        "source": "Marty Shepard, Commission Chairman",
+        "url": "https://cowboystatedaily.com/2026/08/12/platte-county-meeting-gets-loud-over-data-center-cell-towers-and-public-comment/",
+        "date": "2026-08-12",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "A million gallons of water is a thimble. A thimble,",
+        "source": "Marty Shepard, Commission Chairman",
+        "url": "https://cowboystatedaily.com/2026/08/12/platte-county-meeting-gets-loud-over-data-center-cell-towers-and-public-comment/",
+        "date": "2026-08-12",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "You’re in this position to look out for us, not the companies and the money,",
+        "source": "Josh Martinez, Resident",
+        "url": "https://cowboystatedaily.com/2026/08/12/platte-county-meeting-gets-loud-over-data-center-cell-towers-and-public-comment/",
+        "date": "2026-08-12",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "If we include data centers within our regulations, then we can regulate them better if they come,",
+        "source": "Bonnie Lockhart, Planning and Zoning Commission board member",
+        "url": "https://cowboystatedaily.com/2026/08/12/platte-county-meeting-gets-loud-over-data-center-cell-towers-and-public-comment/",
+        "date": "2026-08-12",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I notice there is no period of time in which public comments is an agenda item and I believe that that would make this an illegal meeting,",
+        "source": "Rebecca Cohorn, Goshen County resident",
+        "url": "https://cowboystatedaily.com/2026/08/12/platte-county-meeting-gets-loud-over-data-center-cell-towers-and-public-comment/",
+        "date": "2026-08-12",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "If we rezone to commercial industrial and we give these companies free rein, we’re not in favor of that,",
+        "source": "Marty Shepard, Planning and Zoning Commission Chairman",
+        "url": "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "date": "2026-08-11",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "...I wanna make sure that Game and Fish was also involved in looking at the potential impacts,",
+        "source": "Speaker 4, resident",
+        "url": "https://citizenportal.ai/articles/8578801/wyoming/platte-county/residents-press-platte-county-for-answers-on-data-center-rezoning-propose-developer-remediation-fund",
+        "date": "2026-07-22",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I would rather not see it go in at all",
+        "source": "George Gamblin, neighbor",
+        "url": "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/",
+        "date": "2026-07-13",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "Water is life. If you don't protect your water supply, you're going to be real sorry.",
+        "source": "Kathryn Stevens, resident of Chugwater Flats",
+        "url": "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/",
+        "date": "2026-07-13",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I think the sales tax revenue would, gosh, triple our county budget",
+        "source": "Josephine Young, Platte County Economic Development Executive Director",
+        "url": "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/",
+        "date": "2026-07-13",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "The water issue is almost a solved problem to me",
+        "source": "Ian Jolovich, Platte County Commissioner",
+        "url": "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/",
+        "date": "2026-07-13",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "There's some good and bad in everything",
+        "source": "Ian Jolovich, Platte County Commissioner",
+        "url": "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/",
+        "date": "2026-07-13",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Platte County Planning & Zoning board held a public hearing the week before 2026-09-01 on rezoning over 5,000 acres of private land",
+      "Planning & Zoning approved the rezoning for Site Layer 4, with a commissioner hearing to follow",
+      "Platte County Planning & Zoning board held a public hearing last week on rezoning over 5,000 acres of private land",
+      "Planning & Zoning approved the rezoning for Site Layer 4 ahead of a county commissioner hearing",
+      "Site Layer 4, LLC is seeking a rezone of 5,344 acres of ranchland northeast of Wheatland, WY.",
+      "Platte County Planning and Zoning Commission unanimously recommended approval on August 26, 2026.",
+      "Platte County commissioners are scheduled to vote on the rezone on September 2, 2026.",
+      "No megawatt figures, construction timelines or construction application have been filed; project is in Phase 1 site evaluation.",
+      "Platte County Planning and Zoning Commission voted unanimously on Aug 26, 2026 to recommend rezoning 5,344 acres to industrial.",
+      "Platte County commissioners are set to decide on the rezoning on Sept 2, 2026 at 1 p.m.",
+      "The project is in Phase 1 (site evaluation and feasibility); no megawatt figures or square footage have been made public.",
+      "A special-use permit with separate public review is required after rezoning.",
+      "Platte County P&Z unanimously recommended rezoning 5,344 acres northeast of Wheatland from RAM to industrial.",
+      "Rezone request goes before county commissioners at 1 p.m. Sept. 2, 2026.",
+      "Conditions: revert to RAM if construction hasn't begun within five years, subdivision goes to commissioners, special-use permit required.",
+      "Land is owned by Gregor and Cindy Goertz.",
+      "Public comment lasted about two hours with a roughly even split of support and opposition.",
+      "Platte County planning staff proposed adding a definition of \"data center\" to county rules.",
+      "Data centers would require conditional special-use permits under the proposed edits.",
+      "Proposed edits would place data centers in existing industrial and commercial chapters rather than a separate chapter.",
+      "A public hearing is scheduled for Sept. 16 at the Agriplex.",
+      "Commissioners supported using the conditional permit tool.",
+      "Platte County Planning and Zoning Commission voted unanimously on Tuesday to advance rules requiring data centers to obtain special-use permits",
+      "More than 70 residents attended the Planning and Zoning Commission meeting",
+      "Proposed development covers 5,344 acres near Wheatland",
+      "Chairman Marty Shepard said a data center could generate as much as $20 million in property tax revenue",
+      "Platte County Planning & Zoning Commission met Aug. 11, 2026 and discussed potential data-center zoning regulations",
+      "Board stated no official data center application has been made in Platte County",
+      "Residents raised concerns about tax exemptions, water use and regulatory loopholes",
+      "Public hearing scheduled for 1 p.m. Sept. 16 at the Agriplex",
+      "County commissioners to discuss rule-making updates on Aug. 19",
+      "Platte County Planning and Zoning Commission voted unanimously on Aug. 11, 2026 to advance rule changes requiring special-use permits for data centers",
+      "Proposed data center and power complex covers 5,344 acres northeast of Wheatland",
+      "More than 70 people attended the meeting; Platte County has about 6,000 residents",
+      "Special meeting on Site Layer 4 rezone application set for 1 p.m. Aug. 26 at the Agriplex in Wheatland",
+      "Public hearing on proposed land-use regulations scheduled for Sept. 16",
+      "Platte County Planning and Zoning Commission hearing set for September 8, 2026 at 7pm in Wheatland, WY",
+      "Platte County Commissioners hearing set for September 15, 2026 at 10:00 AM",
+      "Public comments by email to planner@plattecountywyoming.com due by noon on September 3, 2026",
+      "Platte County Board of Commissioners heard public comment on July 22, 2026 about rezoning agricultural land to industrial for a possible data center."
+    ],
+    "groups": [
+      {
+        "name": "Stop the Building of Data Centers in Platte County Wyoming petition",
+        "url": "https://www.change.org/p/stop-the-building-of-data-centers-in-platte-county-wyoming/u/34990994",
+        "date": "2026-07-18T00:00:00.000Z"
+      },
+      {
+        "name": "Change.org petition Stop the building of data centers in Platte County, Wyoming",
+        "url": "https://www.change.org/p/stop-the-building-of-data-centers-in-platte-county-wyoming",
+        "date": "2026-07-11T21:42:42.000Z"
+      }
+    ]
+  }
+}

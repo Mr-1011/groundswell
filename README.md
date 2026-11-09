@@ -81,4 +81,4 @@ sqlite3 db/groundswell.sqlite < db/schema.sql
 python3 db/export.py
 ```
 
-`export.py` overwrites `map/data/counties.json`, `projects.json`, `states.json` and `rounds.json`. Layer GeoJSON files go straight to `map/data/layers/`.
+`export.py` overwrites `map/data/counties.json`, `feed.json`, `details/<ST>.json`, `projects.json`, `states.json` and `rounds.json`. Layer GeoJSON files go straight to `map/data/layers/`.

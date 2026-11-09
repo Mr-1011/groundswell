@@ -1,0 +1,83 @@
+{
+  "20055": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "20091": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "20103": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "20121": {
+    "news": [
+      {
+        "title": "Small Kansas towns pushing back against data centers, a growing trend nationwide",
+        "url": "https://www.kshb.com/news/local-news/small-kansas-towns-pushing-back-against-data-centers-a-growing-trend-nationwide",
+        "date": "2026-05-29T05:09:36.000Z",
+        "source": "KSHB 41",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "\"We are feeling under pressure and nervous that the data centers might come back to Spring Hill,\" Burgmaier said.",
+        "source": "Julia Burgmaier, Spring Hill neighbor",
+        "url": "https://www.kshb.com/news/local-news/small-kansas-towns-pushing-back-against-data-centers-a-growing-trend-nationwide",
+        "date": "2026-05-29T05:09:36.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"I don't want sick kids, I don't want a sick community, and I don't want tainted water,\" Johnson County resident Carrie Schmidt said.",
+        "source": "Carrie Schmidt, Johnson County resident",
+        "url": "https://www.kshb.com/news/local-news/small-kansas-towns-pushing-back-against-data-centers-a-growing-trend-nationwide",
+        "date": "2026-05-29T05:09:36.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"Things like road construction, doing new storm water projects that would prevent flooding in people's homes, and upgrade of pipes,\" City Administrator Beth Linn said.",
+        "source": "Beth Linn, Edgerton City Administrator",
+        "url": "https://www.kshb.com/news/local-news/small-kansas-towns-pushing-back-against-data-centers-a-growing-trend-nationwide",
+        "date": "2026-05-29T05:09:36.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "\"If these data centers are so safe, then why are the people that are investing in them putting them so far away from themselves?\" Brings Plenty stated to the council.",
+        "source": "Mo Brings Plenty, Miami County resident",
+        "url": "https://www.kshb.com/news/local-news/small-kansas-towns-pushing-back-against-data-centers-a-growing-trend-nationwide",
+        "date": "2026-05-29T05:09:36.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "Earlier this year, the Miami County Commission approved a data center moratorium",
+      "Osawatomie city entered a predevelopment agreement with Alcove Development in January; option period deadline July 10",
+      "Osawatomie petition against the data center was ruled invalid",
+      "Edgerton City Council will discuss a data center moratorium at its June 11 meeting",
+      "Proposed Osawatomie data center would sit across the street from Osawatomie State Hospital"
+    ],
+    "groups": [
+      {
+        "name": "Meanwhile in Osawatomie",
+        "url": "https://www.kshb.com/news/local-news/small-kansas-towns-pushing-back-against-data-centers-a-growing-trend-nationwide",
+        "date": "2026-05-29T05:09:36.000Z"
+      }
+    ]
+  }
+}

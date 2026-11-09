@@ -104,7 +104,7 @@ export function StanceBar({ counts }: { counts: Record<Stance, number> }) {
 }
 
 // Dated items per month, stacked by stance with oppose on the baseline. Last `months` months up to now.
-export function Timeline({ items, months = 18 }: { items: { date: string | null; stance: Stance | null }[]; months?: number }) {
+export function Timeline({ items, months = 18 }: { items: { date: string | null; stance: Stance | null; n: number }[]; months?: number }) {
   const now = new Date();
   const keys = Array.from({ length: months }, (_, i) =>
     new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - (months - 1 - i), 1)).toISOString().slice(0, 7),
@@ -113,8 +113,8 @@ export function Timeline({ items, months = 18 }: { items: { date: string | null;
   let earlier = 0;
   for (const it of items) {
     const i = it.date ? keys.indexOf(it.date.slice(0, 7)) : -1;
-    if (i >= 0) cols[i][it.stance ?? "neutral"]++; // quotes carry no stance
-    else if (it.date && it.date < keys[0]) earlier++;
+    if (i >= 0) cols[i][it.stance ?? "neutral"] += it.n; // quotes carry no stance
+    else if (it.date && it.date < keys[0]) earlier += it.n;
   }
   const max = Math.max(0, ...cols.map((c) => c.oppose + c.neutral + c.support));
   if (!max) return <div className="muted mono">no dated items in the last {months} months</div>;

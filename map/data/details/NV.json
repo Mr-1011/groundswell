@@ -1,0 +1,27 @@
+{
+  "32003": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "32029": {
+    "news": [
+      {
+        "title": "Kirkland Advises Tract Capital on Lease and Purchase and Sale for Hyperscale Data Center Development | News | Kirkland & Ellis LLP",
+        "url": "https://www.kirkland.com/news/press-release/2026/03/kirkland-advises-tract-capital-on-lease-and-purchase-and-sale-for-hyperscale-data-center-development",
+        "date": "2026-03-02T00:00:00.000Z",
+        "source": "Kirkland & Ellis LLP",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Kirkland & Ellis advised Tract Capital funds on lease and purchase and sale of real property for a 230 MW data center and substation in Storey County, Nevada",
+      "The project has been 100% leased to a AA- investment grade rated tenant under a 197-month triple net lease"
+    ],
+    "groups": []
+  }
+}

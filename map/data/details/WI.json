@@ -1,0 +1,302 @@
+{
+  "55009": {
+    "news": [
+      {
+        "title": "Brown County seeks data center moratorium to give ...",
+        "url": "https://fox11online.com/news/local/brown-county-seeks-data-center-moratorium-to-give-communities-a-little-bit-more-teeth",
+        "date": "2026-05-29T00:30:22.000Z",
+        "source": "FOX 11 News",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We do want industry and everything like that, but we also want people to have control of their own destiny too,",
+        "source": "Christopher Welch, Brown County Supervisor",
+        "url": "https://fox11online.com/news/local/brown-county-seeks-data-center-moratorium-to-give-communities-a-little-bit-more-teeth",
+        "date": "2026-05-29T00:30:22.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "The biggest concern that the Wisconsin Data Center Coalition has isn't so much on a specific moratorium. It's more so the larger amount of false information that's sort of creating a lot of the fear and pushback in data centers,",
+        "source": "Tricia Braun, Wisconsin Data Center Coalition Executive Director",
+        "url": "https://fox11online.com/news/local/brown-county-seeks-data-center-moratorium-to-give-communities-a-little-bit-more-teeth",
+        "date": "2026-05-29T00:30:22.000Z",
+        "stance": "support",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Brown County is considering a data center moratorium that would act as guidance and would not necessarily stop data center construction",
+      "Brown County does not have county-wide zoning, leaving land-use decisions to individual municipalities",
+      "Manitowoc County imposed a data center moratorium in late April 2026",
+      "The Planning, Development and Transportation Committee was expected to vote on the moratorium on Tuesday; if passed it goes to the full County Board",
+      "The Village of Wrightstown voted to put a data center referendum on the August ballot"
+    ],
+    "groups": [
+      {
+        "name": "Wisconsin Data Center Coalition",
+        "url": "https://fox11online.com/news/local/brown-county-seeks-data-center-moratorium-to-give-communities-a-little-bit-more-teeth",
+        "date": "2026-05-29T00:30:22.000Z"
+      }
+    ]
+  },
+  "55025": {
+    "news": [
+      {
+        "title": "Wisconsin can do more on data centers, Dane County lawmakers say | Government | captimes.com",
+        "url": "https://captimes.com/news/government/wisconsin-can-do-more-on-data-centers-dane-county-lawmakers-say/article_4182c7df-4c56-4870-a302-9c237bfadca1.html",
+        "date": "2026-10-07T10:10:00.000Z",
+        "source": "Cap Times",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "Learning about their habit of using NDAs (non-disclosure agreements) when they're talking with community decisionmakers, it's no wonder that there's so much distrust and concern.",
+        "source": "Miles, chair of the Dane County Board",
+        "url": "https://captimes.com/news/government/wisconsin-can-do-more-on-data-centers-dane-county-lawmakers-say/article_4182c7df-4c56-4870-a302-9c237bfadca1.html",
+        "date": "2026-10-07T10:10:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "They like local officials who don't know much because they're kind of easy to persuade when you dangle a big pile of money in front of them, which is sad.",
+        "source": "Cynthia Richson, chair of Middleton's Town Board",
+        "url": "https://captimes.com/news/government/wisconsin-can-do-more-on-data-centers-dane-county-lawmakers-say/article_4182c7df-4c56-4870-a302-9c237bfadca1.html",
+        "date": "2026-10-07T10:10:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I'm under no delusion that a (hypothetical) hyperscale data center that opens on the town of Cottage Grove side of our municipal boundary would have any less of an impact on the power rates we have to pay for the next 30 years.",
+        "source": "Field, Madison City Council member",
+        "url": "https://captimes.com/news/government/wisconsin-can-do-more-on-data-centers-dane-county-lawmakers-say/article_4182c7df-4c56-4870-a302-9c237bfadca1.html",
+        "date": "2026-10-07T10:10:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "Dane County passed an 18-month moratorium on hyperscale data center development in areas where the county has zoning authority",
+      "Sun Prairie passed a moratorium on facilities of 10,000 square feet or larger in September",
+      "Seven hyperscale proposals have been blocked at the local level in Wisconsin",
+      "The state is home to at least 30 data centers, according to the Wisconsin Policy Forum",
+      "Wisconsin local governments cannot mandate community benefit agreements from developers as part of conditional use permitting"
+    ],
+    "groups": []
+  },
+  "55027": {
+    "news": [
+      {
+        "title": "Beaver Dam residents raise water concerns about Meta's AI data center",
+        "url": "https://www.tmj4.com/news/dodge-county/its-really-scary-beaver-dam-residents-raise-water-concerns-about-metas-ai-data-center",
+        "date": "2025-11-19T01:09:39.000Z",
+        "source": "TMJ4 News",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "\"The biggest worry is going to be impact on the water aquifer,\" Jennings said.",
+        "source": "Frances Jennings",
+        "url": "https://www.tmj4.com/news/dodge-county/its-really-scary-beaver-dam-residents-raise-water-concerns-about-metas-ai-data-center",
+        "date": "2025-11-19T01:09:39.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"I feel it was rushed, hushed, and forced on us without any real transparent opportunity to speak up,\" she said.",
+        "source": "Maily Kocinski",
+        "url": "https://www.tmj4.com/news/dodge-county/its-really-scary-beaver-dam-residents-raise-water-concerns-about-metas-ai-data-center",
+        "date": "2025-11-19T01:09:39.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "\"To be honest with you guys, I think you've broken the trust of the city,\" Kate Miller said.",
+        "source": "Kate Miller",
+        "url": "https://www.tmj4.com/news/dodge-county/its-really-scary-beaver-dam-residents-raise-water-concerns-about-metas-ai-data-center",
+        "date": "2025-11-19T01:09:39.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "\"From the city's end, all of those permits were in line and they were following the law just as we assume they will,\" she said.",
+        "source": "Bobbi Marck, Mayor of Beaver Dam",
+        "url": "https://www.tmj4.com/news/dodge-county/its-really-scary-beaver-dam-residents-raise-water-concerns-about-metas-ai-data-center",
+        "date": "2025-11-19T01:09:39.000Z",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Meta confirmed plans to build an AI data center in Beaver Dam the week before the article",
+      "Thirteen other community members spoke at a public meeting Monday night raising concerns",
+      "Mayor Bobbi Marck said the city put out a press release in February that a data center was coming"
+    ],
+    "groups": []
+  },
+  "55055": {
+    "news": [
+      {
+        "title": "JEFFERSON COUNTY PLANNING AND ZONING COMMITTEE",
+        "url": "https://apps.jeffersoncountywi.gov/Minutes/2026/PZ/6-29-2026%20Decision%20Meeting%20Minutes.pdf",
+        "date": "2026-06-29",
+        "source": "apps.jeffersoncountywi.gov",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "Halley Decker spoke to her concerns about data centers, agreeing with comments made by Walt and effects on water, electricity, wildlife and desire to join other counties with moratoriums.",
+        "source": "Halley Decker, Member of the public",
+        "url": "https://apps.jeffersoncountywi.gov/Minutes/2026/PZ/6-29-2026%20Decision%20Meeting%20Minutes.pdf",
+        "date": "2026-06-29",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Sarah Zarling expressed concern about the mistrust and divide created by data centers in areas like Beaver Dam and Port Washington and how it has divided citizens and the mistrust that has come about as a result.",
+        "source": "Sarah Zarling, Member of the public",
+        "url": "https://apps.jeffersoncountywi.gov/Minutes/2026/PZ/6-29-2026%20Decision%20Meeting%20Minutes.pdf",
+        "date": "2026-06-29",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "On June 29, 2026 the Jefferson County Planning and Zoning Committee approved a moratorium on data centers for 18 months or until an ordinance is adopted, by a 5-0 voice vote.",
+      "Zangl said no applications for data centers had been received.",
+      "Residents at the meeting requested a data center moratorium, citing water, electricity, wildlife and farmland concerns."
+    ],
+    "groups": []
+  },
+  "55095": {
+    "news": [
+      {
+        "title": "Data center moratorium to be decided August board meeting",
+        "url": "https://www.theameryfreepress.com/news/data-center-moratorium-to-be-decided-august-board-meeting/article_22200151-6c0d-452a-bcd8-edf8d4e7c546.html",
+        "date": "2026-07-30T14:00:00.000Z",
+        "source": "The Amery Free Press",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We are confident the Polk County Board will pass the moratorium on data centers and then begin the process of creating strong and efficient ordinances to help deter data centers from ruining our county.",
+        "source": "Paulette Adair, Area resident",
+        "url": "https://www.theameryfreepress.com/news/data-center-moratorium-to-be-decided-august-board-meeting/article_22200151-6c0d-452a-bcd8-edf8d4e7c546.html",
+        "date": "2026-07-30T14:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "I encourage you and actually really ask that you vote yes for the moratorium and for a decent length of time.",
+        "source": "Susan Holder, from Eureka Township",
+        "url": "https://www.theameryfreepress.com/news/data-center-moratorium-to-be-decided-august-board-meeting/article_22200151-6c0d-452a-bcd8-edf8d4e7c546.html",
+        "date": "2026-07-30T14:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "My recommendation to this board is that this full board hear the public hearing, the reason being, normally Environmental Services would hear it, but only five members of the board are on that committee.",
+        "source": "Corporation Counsel",
+        "url": "https://www.theameryfreepress.com/news/data-center-moratorium-to-be-decided-august-board-meeting/article_22200151-6c0d-452a-bcd8-edf8d4e7c546.html",
+        "date": "2026-07-30T14:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "A public hearing on a potential one-year data center moratorium in Polk County is set for Tuesday, Aug. 18, 2026",
+      "The Polk County Board voted 12-3 on the motion to enact a temporary data center moratorium and hold its public hearing at the Aug. 18 regular board meeting",
+      "Public comments at the hearing on the resolution were all in favor of a moratorium",
+      "Polk County had between 40,000 and 44,000 head of cattle, according to a dairy farmer who spoke at the meeting",
+      "Resolution 29-26 defines a data center as any facility housing computing and networking equipment for storing, processing, and distributing digital data"
+    ],
+    "groups": []
+  },
+  "55101": {
+    "news": [
+      {
+        "title": "Microsoft data center rejected in Wisconsin village, AI boom hits snag",
+        "url": "https://www.cnbc.com/2025/11/25/microsoft-ai-data-center-rejection-vs-support.html",
+        "date": "2025-11-25T12:00:01.000Z",
+        "source": "CNBC",
+        "stance": "oppose"
+      },
+      {
+        "title": "Caledonia Residents react to data center proposed location",
+        "url": "https://spectrumnews1.com/wi/milwaukee/news/2025/10/03/residents-in-caledonia-react-to-data-center-proposed-location",
+        "date": "2025-10-03T13:43:00.000Z",
+        "source": "Spectrum News 1",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We did seem to have awoken a sleeping giant",
+        "source": "Fran Martin, Caledonia trustee",
+        "url": "https://www.cnbc.com/2025/11/25/microsoft-ai-data-center-rejection-vs-support.html",
+        "date": "2025-11-25T12:00:01.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Why do we have to subsidize a company making billions of dollars a year?",
+        "source": "Mike Kirchner, resident",
+        "url": "https://www.cnbc.com/2025/11/25/microsoft-ai-data-center-rejection-vs-support.html",
+        "date": "2025-11-25T12:00:01.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "They're not thinking it through.",
+        "source": "Barbara Hugier, Caledonia resident",
+        "url": "https://spectrumnews1.com/wi/milwaukee/news/2025/10/03/residents-in-caledonia-react-to-data-center-proposed-location",
+        "date": "2025-10-03",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I can't say that I'm opposed to it or in favor of it.",
+        "source": "Fran Martin, Caledonia Village Board Member",
+        "url": "https://spectrumnews1.com/wi/milwaukee/news/2025/10/03/residents-in-caledonia-react-to-data-center-proposed-location",
+        "date": "2025-10-03",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Microsoft withdrew its plan to rezone 244 acres in Caledonia, Wisconsin, nine days after the September planning commission meeting, before village officials could vote",
+      "At the planning commission meeting, 40 of 49 people who spoke opposed the Microsoft rezoning",
+      "Microsoft expanded a separate AI data center in Mount Pleasant, Wisconsin, in the same Racine County",
+      "Caledonia Village Board final decision on rezoning set for Oct. 14, 2025",
+      "Nearly 2,000 residents signed a petition against the proposed location",
+      "Land is nearly 250 acres owned by We Energies",
+      "Estimates show up to $3.2 million in tax revenue for Caledonia from the project"
+    ],
+    "groups": [
+      {
+        "name": "Caledonia residents petition against rezoning",
+        "url": "https://spectrumnews1.com/wi/milwaukee/news/2025/10/03/residents-in-caledonia-react-to-data-center-proposed-location",
+        "date": "2025-10-03T13:43:00.000Z"
+      }
+    ]
+  },
+  "55105": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

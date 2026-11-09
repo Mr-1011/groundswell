@@ -1,0 +1,3234 @@
+{
+  "42003": {
+    "news": [
+      {
+        "title": "Data Centers Near Baldwin, PA: 26 Within 25 Miles",
+        "url": "https://datacentersnearme.org/places/pennsylvania/baldwin",
+        "date": null,
+        "source": "datacentersnearme.org",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "26 data center campuses are on record within 25 miles of Baldwin, PA",
+      "20 data centers are on record county-wide in Allegheny County, PA",
+      "Coverage is from national sources and assessor parcel records; many directory listings are unverified"
+    ],
+    "groups": []
+  },
+  "42007": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "42013": {
+    "news": [
+      {
+        "title": "Blair County commissioners: No easy answers on data centers -",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/08/blair-commissioners-datacenters-no-easy-answers/",
+        "date": "2026-08-28T00:00:00.000Z",
+        "source": "Altoona Mirror",
+        "stance": null
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "There are all different types of data centers.",
+        "source": "Dave Kessling, Chairman, Blair County commissioners",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/08/blair-commissioners-datacenters-no-easy-answers/",
+        "date": "2026-08-28",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "It's much more complex than saying you're for or against them ... because they're not all the same.",
+        "source": "Laura Burke, Blair County commissioner",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/08/blair-commissioners-datacenters-no-easy-answers/",
+        "date": "2026-08-28",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "With our consumption of data, they're going to have to exist.",
+        "source": "David Reese, Planning commission member, Duncansville",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/08/blair-commissioners-datacenters-no-easy-answers/",
+        "date": "2026-08-28",
+        "stance": null,
+        "emotion": null
+      }
+    ],
+    "facts": [
+      "Gov. Josh Shapiro signed an executive order on Aug. 18 setting stricter environmental and transparency standards for new data center developments.",
+      "The state acknowledged awareness of at least 100 proposed data centers, many not yet meaningfully developed.",
+      "Six municipalities in Blair County have no subdivision and land development ordinances.",
+      "State Reps. Andrea Verobish and Scott Barger plan an informational data center meeting on Sept. 24 at the Blair County Convention Center.",
+      "Blair County Planning Commission's Government Advisory Committee is scheduled to hear from a state DCED representative on Sept. 21."
+    ],
+    "groups": []
+  },
+  "42017": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "42029": {
+    "news": [
+      {
+        "title": "Builder cuts size of proposed East Whiteland data center in half",
+        "url": "https://www.dailylocal.com/2026/04/21/builder-cuts-plans-for-size-of-proposed-east-whiteland-data-center-in-half/",
+        "date": "2026-04-21T17:57:19.000Z",
+        "source": "Daily Local News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Tredyffrin will draft data center ordinance before proposals reach Chesco township",
+        "url": "https://www.inquirer.com/news/pennsylvania/tredyffrin-data-center-ordinance-20260421.html?cx_artPos=3&cx_experienceActionId=showRecommendationsO4T13TH1VN1Q11&cx_experienceId=EXT5K6VEC2ZB&cx_testId=12&cx_testVariant=cx_1",
+        "date": "2026-04-21T14:24:49.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "neutral"
+      },
+      {
+        "title": "Tredyffrin will draft data center ordinance before proposals reach Chesco township",
+        "url": "https://www.inquirer.com/news/pennsylvania/tredyffrin-data-center-ordinance-20260421.html",
+        "date": "2026-04-21T14:24:49.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "neutral"
+      },
+      {
+        "title": "Developer says it will build larger data center if plans for smaller facility near Philadelphia go unapproved - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/developer-says-it-will-build-larger-data-center-if-plans-for-smaller-facility-near-philadelphia-go-unapproved/",
+        "date": "2026-04-20T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "neutral"
+      },
+      {
+        "title": "A controversial 1.6M-square-foot data center in Chesco could shrink after fierce pushback: ‘This is not an act of goodwill’",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-chester-county-data-center-20260415.html",
+        "date": "2026-04-15T16:34:03.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "oppose"
+      },
+      {
+        "title": "Developers looking to expand site of proposed data center in Chester Co. - 6abc Philadelphia",
+        "url": "https://6abc.com/post/developers-looking-expand-site-proposed-data-center-chester/18890610/",
+        "date": "2026-04-15T15:03:00.000Z",
+        "source": "6abc Philadelphia",
+        "stance": "neutral"
+      },
+      {
+        "title": "How a couple in their 30s saved for and bought their West Chester home",
+        "url": "https://www.inquirer.com/news/pennsylvania/west-chester-housing-east-vincent-pennhurst-data-center-20260415.html",
+        "date": "2026-04-15T09:45:00.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "neutral"
+      },
+      {
+        "title": "East Whiteland will revise regulations for data centers",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-zoning-20260401.html",
+        "date": "2026-04-01T18:53:52.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "neutral"
+      },
+      {
+        "title": "Chester County residents push back against proposed data centers",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-no-kings-protest-task-season-2-20260325.html",
+        "date": "2026-03-25T09:45:00.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "oppose"
+      },
+      {
+        "title": "Chester County data center projects see resident opposition",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24T09:01:01.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "oppose"
+      },
+      {
+        "title": "East Whiteland considers proposed data center changes",
+        "url": "https://www.dailylocal.com/2026/03/11/east-whiteland-considers-proposed-data-center-changes/",
+        "date": "2026-03-11T20:15:09.000Z",
+        "source": "Daily Local News",
+        "stance": "neutral"
+      },
+      {
+        "title": "East Whiteland supervisors will consider proposal to make data center bigger",
+        "url": "https://tinyurl.com/yvczvj9e",
+        "date": "2026-03-10T17:52:32.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "neutral"
+      },
+      {
+        "title": "Pennsylvania township residents challenge massive AI data center power demands - The Infrastructure Constellation",
+        "url": "https://theinfrastructureconstellation.com/pennsylvania-township-residents-challenge-massive-ai-data-center-power-demands/",
+        "date": "2026-03-10T15:11:01.000Z",
+        "source": "The Infrastructure Constellation",
+        "stance": "oppose"
+      },
+      {
+        "title": "East Whiteland Twp. residents oppose data center as planners send revised plan back for further review - 6abc Philadelphia",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-10T04:06:00.000Z",
+        "source": "6abc Philadelphia",
+        "stance": "oppose"
+      },
+      {
+        "title": "Chester County community voices concerns over AI data center – NBC10 Philadelphia",
+        "url": "https://www.nbcphiladelphia.com/news/local/residents-of-chester-county-community-voice-concerns-over-massive-ai-data-center/4365878/",
+        "date": "2026-03-10T03:39:53.000Z",
+        "source": "NBC10 Philadelphia",
+        "stance": "oppose"
+      },
+      {
+        "title": "East Whiteland data center plan sparks concerns over home values, noise, and size | FOX 29 Philadelphia",
+        "url": "https://www.fox29.com/news/east-whiteland-data-center-plan-sparks-concerns-over-home-values-noise-size",
+        "date": "2026-03-10T02:46:15.000Z",
+        "source": "FOX 29 Philadelphia",
+        "stance": "oppose"
+      },
+      {
+        "title": "East Whiteland Data Center Expansion: What It Means for Chester County Housing — REAL Chester county",
+        "url": "https://www.realchestercounty.com/east-whiteland-data-center-expansion-update",
+        "date": "2026-03-04T23:16:01.000Z",
+        "source": "REAL Chester county",
+        "stance": "neutral"
+      },
+      {
+        "title": "East Whiteland planning commission postpones data center meeting due to overwhelming turnout.",
+        "url": "https://medianewssource.com/east-whiteland-planning-commission-postpones-data-center-meeting-due-to-overwhelming-turnout/",
+        "date": "2026-02-27T08:59:59.000Z",
+        "source": "MNS",
+        "stance": "oppose"
+      },
+      {
+        "title": "East Whiteland data center developer seeks to expand its proposal",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-20260129.html",
+        "date": "2026-01-29T20:07:05.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "neutral"
+      },
+      {
+        "title": "meeting alerts: green fig wants to make east whiteland data center being built BIGGER! | chestercountyramblings",
+        "url": "https://chestercountyramblings.com/2026/01/25/meeting-alerts-green-fig-wants-to-make-east-whiteland-data-center-being-built-bigger/",
+        "date": "2026-01-25T14:59:11.000Z",
+        "source": "chestercountyramblings",
+        "stance": "neutral"
+      },
+      {
+        "title": "Many Pa. residents don’t want data centers in their communities. State leaders are welcoming them. | Spotlight PA - lehighvalleylive.com",
+        "url": "https://www.lehighvalleylive.com/news/2026/01/many-pa-residents-dont-want-data-centers-in-their-communities-state-leaders-are-welcoming-them-spotlight-pa.html",
+        "date": "2026-01-21T11:00:01.000Z",
+        "source": "lehighvalleylive.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data center opposition is significant in Southeast Pennsylvania, according to a new survey",
+        "url": "https://www.inquirer.com/business/data-centers-philadelphia-pros-cons-opposition-survey-20251215.html",
+        "date": "2025-12-15T16:31:19.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "oppose"
+      },
+      {
+        "title": "Plan to turn Pennhurst into massive data center outrages neighbors",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-10-13T09:00:00.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "oppose"
+      },
+      {
+        "title": "Fifteenfortyseven Critical Systems Realty Unveils Details On Its Hyperscale Data Center Development Project In Pennsylvania | 1547 Critical Systems Realty",
+        "url": "https://www.1547realty.com/resource/fifteenfortyseven-critical-systems-realty-unveils-details-on-its-hyperscale-data-center-development-project-in-pennsylvania/",
+        "date": "2024-01-16T22:33:00.000Z",
+        "source": "1547 Critical Systems Realty",
+        "stance": "support"
+      },
+      {
+        "title": "Former Chester County Superfund site could become massive data center",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-19T10:00:15.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "neutral"
+      },
+      {
+        "title": "With New Incentives, Pennsylvania Makes Pitch for Hyperscale Business | Data Center Frontier",
+        "url": "https://www.datacenterfrontier.com/featured/article/11427087/with-new-incentives-pennsylvania-makes-pitch-for-hyperscale-business",
+        "date": "2022-09-15T19:25:30.000Z",
+        "source": "Data Center Frontier",
+        "stance": "support"
+      },
+      {
+        "title": "NJ firm expands data center offerings by 100+ acres, 150 megawatts",
+        "url": "https://njbiz.com/nj-firm-expands-data-center-offerings-by-100-acres-150-megawatts/",
+        "date": "2022-08-31T12:38:10.000Z",
+        "source": "NJBIZ",
+        "stance": "support"
+      },
+      {
+        "title": "fifteenfortyseven, Green Fig Land Co. partner for new Pennsylvania data center campus | Lightwave Online",
+        "url": "https://www.lightwaveonline.com/data-center/article/14282043/fifteenfortyseven-green-fig-land-co-partner-for-new-pennsylvania-data-center-campus",
+        "date": "2022-08-30T15:55:36.000Z",
+        "source": "Lightwave Online",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I think a lot of the issues that we’re seeing in our neighboring municipalities right now is because they are being forced to play catch-up because they did not plan in advance,",
+        "source": "Hans van Mol, Township Supervisor",
+        "url": "https://www.inquirer.com/news/pennsylvania/tredyffrin-data-center-ordinance-20260421.html?cx_artPos=3&cx_experienceActionId=showRecommendationsO4T13TH1VN1Q11&cx_experienceId=EXT5K6VEC2ZB&cx_testId=12&cx_testVariant=cx_1",
+        "date": "2026-04-21",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "It’s good to have an ordinance on the books, just so we’re not caught flat-footed,",
+        "source": "KS Bhaskar, Tredyffrin Township Supervisor",
+        "url": "https://www.inquirer.com/news/pennsylvania/tredyffrin-data-center-ordinance-20260421.html?cx_artPos=3&cx_experienceActionId=showRecommendationsO4T13TH1VN1Q11&cx_experienceId=EXT5K6VEC2ZB&cx_testId=12&cx_testVariant=cx_1",
+        "date": "2026-04-21",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think a lot of the issues that we’re seeing in our neighboring municipalities right now is because they are being forced to play catch-up because they did not plan in advance,",
+        "source": "Hans van Mol, Township Supervisor",
+        "url": "https://www.inquirer.com/news/pennsylvania/tredyffrin-data-center-ordinance-20260421.html",
+        "date": "2026-04-21",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "It’s good to have an ordinance on the books, just so we’re not caught flat-footed,",
+        "source": "KS Bhaskar, Tredyffrin Township Supervisor",
+        "url": "https://www.inquirer.com/news/pennsylvania/tredyffrin-data-center-ordinance-20260421.html",
+        "date": "2026-04-21",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "It depends on one thing: certainty,",
+        "source": "Josh Rabina, Green Fig representative",
+        "url": "https://www.dailylocal.com/2026/04/21/builder-cuts-plans-for-size-of-proposed-east-whiteland-data-center-in-half/",
+        "date": "2026-04-21",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "If this approval process is delayed … we’re building the current plan.",
+        "source": "Josh Rabina, Green Fig representative",
+        "url": "https://www.dailylocal.com/2026/04/21/builder-cuts-plans-for-size-of-proposed-east-whiteland-data-center-in-half/",
+        "date": "2026-04-21",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We’ve been accused of bluffing,",
+        "source": "Josh Rabina, Green Fig representative",
+        "url": "https://www.dailylocal.com/2026/04/21/builder-cuts-plans-for-size-of-proposed-east-whiteland-data-center-in-half/",
+        "date": "2026-04-21",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This is not us bluffing.",
+        "source": "Josh Rabina, Green Fig representative",
+        "url": "https://www.dailylocal.com/2026/04/21/builder-cuts-plans-for-size-of-proposed-east-whiteland-data-center-in-half/",
+        "date": "2026-04-21",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We’ve posted bonds with the hope of being able to build the new plan,",
+        "source": "Josh Rabina, Green Fig representative",
+        "url": "https://www.dailylocal.com/2026/04/21/builder-cuts-plans-for-size-of-proposed-east-whiteland-data-center-in-half/",
+        "date": "2026-04-21",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "If this approval process is delayed or further appeals are filed, or if the current appeal is not withdrawn, we will simply have no choice but to continue building the current plan.",
+        "source": "Josh Rabina, CEO of Sentinel Data Centers",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-chester-county-data-center-20260415.html",
+        "date": "2026-04-15",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This is not bluffing.",
+        "source": "Josh Rabina, CEO of Sentinel Data Centers",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-chester-county-data-center-20260415.html",
+        "date": "2026-04-15",
+        "stance": "support",
+        "emotion": "anger"
+      },
+      {
+        "text": "While I personally believe that this one-story plan is the least of the evils, this is not an act of goodwill.",
+        "source": "Donovan Messer, resident",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-chester-county-data-center-20260415.html",
+        "date": "2026-04-15",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "When a developer comes into East Whiteland Township looking to develop a massive project while giving less than candid answers in the planning process, what kind of candor can you expect once they have their roots in our soil?",
+        "source": "Andrew Schneider, attorney and Malvern Hunt resident",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-chester-county-data-center-20260415.html",
+        "date": "2026-04-15",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "It's the decision on which data center plan we would like to see built, because a data center will be built on the site.",
+        "source": "Peter Fixler, supervisor",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-chester-county-data-center-20260415.html",
+        "date": "2026-04-15",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "PECO said it itself, adding a data center of this size is akin to adding an entire medium-sized city to an electric grid",
+        "source": "Unnamed resident, resident",
+        "url": "https://6abc.com/post/developers-looking-expand-site-proposed-data-center-chester/18890610/",
+        "date": "2026-04-14",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "if this approval process is delayed or further appeals are filed... we will simply have no choice but to continue building the current plan",
+        "source": "Josh Rabina, CEO, Sentinel Data Centers",
+        "url": "https://www.datacenterdynamics.com/en/news/developer-says-it-will-build-larger-data-center-if-plans-for-smaller-facility-near-philadelphia-go-unapproved/",
+        "date": "2026-04-14",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We have heard the concerns of our residents through the planning commission discussions, many submitted comments and emails and other public input,",
+        "source": "Scott Lambert, board chairman",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-zoning-20260401.html",
+        "date": "2026-03-31",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think this is an important process,",
+        "source": "Peter Fixler, board supervisor",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-zoning-20260401.html",
+        "date": "2026-03-31",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I am so proud to be an East Whiteland citizen today,",
+        "source": "Kelly Donia, resident",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-zoning-20260401.html",
+        "date": "2026-03-31",
+        "stance": "oppose",
+        "emotion": "pride"
+      },
+      {
+        "text": "I just want you to imagine, right now, in Malvern Hunt: quiet,",
+        "source": "Anagha Kapsi, resident",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-zoning-20260401.html",
+        "date": "2026-03-31",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "packed to overflowing, to the point where they have to be stopped and rescheduled, because people care that much.",
+        "source": "Ginny Marcille-Kerslake, community organizer",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-no-kings-protest-task-season-2-20260325.html",
+        "date": "2026-03-25",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "The best we could do was to let East Vincent supervisors know how Spring City residents and Spring City borough council felt about the data center,",
+        "source": "Donald Shaner, Spring City council president",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We're definitely starting to feel like we could be surrounded,",
+        "source": "John Binelli, East Vincent resident raising awareness through a Facebook page",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Night after night across Pennsylvania, we're seeing township meetings packed to overflowing, to the point where they have to be stopped and rescheduled, because people care that much,",
+        "source": "Ginny Marcille-Kerslake, senior organizer, Food and Water Watch",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Municipalities, if they can work ahead and get data centers into their zoning, they're in a much better position, because they can't just outright say no to a use,",
+        "source": "Amy Sturges, deputy executive director of advocacy, Pennsylvania Municipal League",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Land uses do not stop at municipal boundaries, nor do their impacts, nor does the infrastructure that serves it.",
+        "source": "Kirk Stoner, director of planning, Cumberland County",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I am not against artificial intelligence. What I'm against is having these so close where people live and work",
+        "source": "Kelly Donia, Malvern Hunt resident",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "If approved, this single site would draw more power than every single home in our entire county combined",
+        "source": "Tony Ginino, Malvern resident",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "This data center is coming. It's an approved data center",
+        "source": "Deb Abel, East Whiteland Township Planning Commission",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We'll be taking no water out of the water table here",
+        "source": "Charlie Lyddane, Green Fig LLC",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-09",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "This job would have a tremendous impact on the working men and women in our union and also many other local construction organizations",
+        "source": "Douglas Strang, Steamfitters Local Union 420",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-09",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "When communities show up like this, and they speak up, these projects are being stopped or delayed",
+        "source": "Ginny Marcille-Kerslake, Food & Water Action",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "Everything that I've heard tonight, and everything that I've researched about data centers, it concerns me,",
+        "source": "Unnamed resident, resident",
+        "url": "https://www.nbcphiladelphia.com/news/local/residents-of-chester-county-community-voice-concerns-over-massive-ai-data-center/4365878/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "How much more do you expect one community to take on?",
+        "source": "Unnamed resident, resident",
+        "url": "https://www.nbcphiladelphia.com/news/local/residents-of-chester-county-community-voice-concerns-over-massive-ai-data-center/4365878/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "All we are asking is to be held to the same standards that any of the other applicants to the township",
+        "source": "Josh Rabino, represented the owners",
+        "url": "https://www.dailylocal.com/2026/03/11/east-whiteland-considers-proposed-data-center-changes/",
+        "date": "2026-03-09",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "What will this do to the value of our homes?",
+        "source": "Chris Montana, resident",
+        "url": "https://www.dailylocal.com/2026/03/11/east-whiteland-considers-proposed-data-center-changes/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Science tells us what not to do; it tells us not to build a data center in the middle of a community.",
+        "source": "Unnamed resident, resident",
+        "url": "https://www.dailylocal.com/2026/03/11/east-whiteland-considers-proposed-data-center-changes/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "What happens when a finite resource gets scarce? It gets more expensive.",
+        "source": "Aric Urinth, resident",
+        "url": "https://www.dailylocal.com/2026/03/11/east-whiteland-considers-proposed-data-center-changes/",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We have the same concerns, just like you. Our role is land development.",
+        "source": "Deborah Abel, Chair of the Planning Commission",
+        "url": "https://www.dailylocal.com/2026/03/11/east-whiteland-considers-proposed-data-center-changes/",
+        "date": "2026-03-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I can tell you the business, I can't tell you the biology",
+        "source": "Unnamed professor, professor working for the township",
+        "url": "https://www.dailylocal.com/2026/03/11/east-whiteland-considers-proposed-data-center-changes/",
+        "date": "2026-03-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Where they’re going to put this up is a mile and a half from my house, and I’m concerned that it will affect my property value. I’m also concerned about the noise,",
+        "source": "Pat Dickerson, Exton resident",
+        "url": "https://www.fox29.com/news/east-whiteland-data-center-plan-sparks-concerns-over-home-values-noise-size",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "From air, to noise, to frequency, these are not industries that should be anywhere near residents,",
+        "source": "Monica Schryver, East Vincent Township resident",
+        "url": "https://www.fox29.com/news/east-whiteland-data-center-plan-sparks-concerns-over-home-values-noise-size",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We will build some sort of data center. The question here is before the township and for the planning commission is which one will it be,",
+        "source": "Lou Colagreco, attorney for the applicant",
+        "url": "https://www.fox29.com/news/east-whiteland-data-center-plan-sparks-concerns-over-home-values-noise-size",
+        "date": "2026-03-09",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "When they changed the cooling systems, we needed more room on each roof for the air cool chillers, so we redesigned these buildings, which were three-story buildings, as two-story buildings to give more area on the roof,",
+        "source": "Charlie Lyddane, developer",
+        "url": "https://www.fox29.com/news/east-whiteland-data-center-plan-sparks-concerns-over-home-values-noise-size",
+        "date": "2026-03-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "This project will provide consistent work to the dedicated workers, and the families would benefit greatly,",
+        "source": "Douglas Strang",
+        "url": "https://www.fox29.com/news/east-whiteland-data-center-plan-sparks-concerns-over-home-values-noise-size",
+        "date": "2026-03-09",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "We have the right to build a data center, and we will build some sort of data center",
+        "source": "Lou Colagreco, attorney for the developer",
+        "url": "https://tinyurl.com/yvczvj9e",
+        "date": "2026-03-09",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We are residents just like you. Actually, I live very close to the facility as well",
+        "source": "Deb Abel, East Whiteland planning commission chairwoman",
+        "url": "https://tinyurl.com/yvczvj9e",
+        "date": "2026-03-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "This is ridiculous",
+        "source": "Anthony Oligino, resident",
+        "url": "https://tinyurl.com/yvczvj9e",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This will have potentially devastating impacts to the surrounding homes, schools, parks, and the trail,",
+        "source": "Ginny Marcille-Kerslake, West Whiteland planning commission member",
+        "url": "https://tinyurl.com/yvczvj9e",
+        "date": "2026-03-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We understand what we are building. We’re data center builders. We’ve been doing it for a long time. If we thought we were harming children, we wouldn’t be doing it,",
+        "source": "Josh Rabina, cofounder of Sentinel",
+        "url": "https://tinyurl.com/yvczvj9e",
+        "date": "2026-03-09",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "They just looked at it with a different set of eyes, and they said, 'First plan works; this plan probably works better,'",
+        "source": "Lou Colagreco, attorney for the applicant",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-20260129.html",
+        "date": "2026-01-28",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "My head's spinning with what's going on here. I think you guys are way out over your skis here with what you should be asking, and there's a lot that appears to me that you don't even know you should be asking,",
+        "source": "Dean Prescott, resident",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-20260129.html",
+        "date": "2026-01-28",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This property is zoned to allow a data center use,",
+        "source": "Michael Gill, township solicitor",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-20260129.html",
+        "date": "2026-01-28",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Any tax benefit does not outweigh the permanent impact on our land, the strain on local utilities infrastructure, and the risk to the value of our homes, the single biggest investment most families here will ever make,",
+        "source": "Chris Fontana, Wakefield resident",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-20260129.html",
+        "date": "2026-01-28",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "They want to pull millions of gallons [of water] out — I don’t see how that can work",
+        "source": "Steve Hacker, East Vincent resident",
+        "url": "https://www.lehighvalleylive.com/news/2026/01/many-pa-residents-dont-want-data-centers-in-their-communities-state-leaders-are-welcoming-them-spotlight-pa.html",
+        "date": "2026-01-21T11:00:01.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We have to keep an open mind",
+        "source": "Craig A. Damon II, East Vincent Township Supervisor",
+        "url": "https://www.lehighvalleylive.com/news/2026/01/many-pa-residents-dont-want-data-centers-in-their-communities-state-leaders-are-welcoming-them-spotlight-pa.html",
+        "date": "2026-01-21T11:00:01.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Ultimately, the township can impose conditions on an approval if they so choose, to which we would be obligated to adhere to as part of moving forward with the development",
+        "source": "Matt McHugh, attorney for Pennhurst Holdings LLC",
+        "url": "https://www.lehighvalleylive.com/news/2026/01/many-pa-residents-dont-want-data-centers-in-their-communities-state-leaders-are-welcoming-them-spotlight-pa.html",
+        "date": "2026-01-21T11:00:01.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Who has control about the information of these projects is really key",
+        "source": "Katie Muth, State Sen. (D., Montgomery)",
+        "url": "https://www.lehighvalleylive.com/news/2026/01/many-pa-residents-dont-want-data-centers-in-their-communities-state-leaders-are-welcoming-them-spotlight-pa.html",
+        "date": "2026-01-21T11:00:01.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Right now, there’s a real lack of regulation",
+        "source": "Elizabeth Fiedler, State Rep. (D., Philadelphia), chair of House Energy Committee",
+        "url": "https://www.lehighvalleylive.com/news/2026/01/many-pa-residents-dont-want-data-centers-in-their-communities-state-leaders-are-welcoming-them-spotlight-pa.html",
+        "date": "2026-01-21T11:00:01.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "At the end of the day, these data centers are coming.",
+        "source": "Joe Pittman, State Senate Majority Leader (R., Indiana)",
+        "url": "https://www.lehighvalleylive.com/news/2026/01/many-pa-residents-dont-want-data-centers-in-their-communities-state-leaders-are-welcoming-them-spotlight-pa.html",
+        "date": "2025-11-01",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I made this move to be out in an area with more space, more nature,",
+        "source": "Megan Heiken, resident and petition organizer",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-10-13T09:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "We are committed to protecting and preserving the rural character of the township.",
+        "source": "Mark Brancato, East Vincent board vice chair",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-10-13T09:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Our whole community is kind of anxious about the thought of this new data center,",
+        "source": "Gabrielle Gehron, Spring City resident",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-10-13T09:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "These are not good things to live next to,",
+        "source": "Katie Muth, State Senator",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-10-13T09:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Pennhurst AI is aware of the concerns expressed by the residents of East Vincent Township, and we are committed to working through the Township to address them,",
+        "source": "Kevin Feeley, spokesperson for Pennhurst AI",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-10-13T09:00:00.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "If there's a use that is covered by the zoning ordinance, we can't stop that use,",
+        "source": "Mark Brancato, East Vincent board vice chair",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-09-18",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "What makes this location optimal for hyperscale development, besides the power capacity and carbon-free power capabilities we offer, is also the financial incentives,",
+        "source": "John Bonczek, Chief Revenue Officer for 1547 Realty",
+        "url": "https://www.1547realty.com/resource/fifteenfortyseven-critical-systems-realty-unveils-details-on-its-hyperscale-data-center-development-project-in-pennsylvania/",
+        "date": "2024-01-16",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "This will be a major economic engine for Chester County and for Pennsylvania,",
+        "source": "Charles Lyddane, developer, Green Fig Land LLC",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-19",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "We don’t want to repeat the mistakes of the past.",
+        "source": "Carla Zambelli Mudry, East Whiteland resident",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-19",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The zoning amendment Charlie requested is very open-ended and would open the door to [development of] hyper-scaled data centers in West Whiteland,",
+        "source": "Ginny Marcille-Kerslake, Eastern Pennsylvania organizer, Food & Water Watch",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-19",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The bottom line is the surrounding customers will not see any impact on their service due to this project.",
+        "source": "Phil Eastman, senior manager for economic development, Peco",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-19",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Our only plan at this time is to build two data center buildings ... in East Whiteland Township,",
+        "source": "Charles Lyddane, developer, Green Fig Land LLC",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-17",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The tax incentives were of tremendous importance for us to move forward with this project as they are of high priority to our prospective targets for this site.",
+        "source": "John Bonczek, Chief Revenue Officer at 1547",
+        "url": "https://www.datacenterfrontier.com/featured/article/11427087/with-new-incentives-pennsylvania-makes-pitch-for-hyperscale-business",
+        "date": "2022-09-15",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We at Green Fig have spent three years working with the legislature to enact a bill to eliminate the sales tax on data center equipment in Pennsylvania",
+        "source": "Charles Lyddane, Managing Partner of GFLC",
+        "url": "https://www.datacenterfrontier.com/featured/article/11427087/with-new-incentives-pennsylvania-makes-pitch-for-hyperscale-business",
+        "date": "2022-09-15",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "Green Fig and 1547 have been courting hyperscalers for over three years for this property",
+        "source": "John Bonczek, Chief Revenue Officer at 1547",
+        "url": "https://www.datacenterfrontier.com/featured/article/11427087/with-new-incentives-pennsylvania-makes-pitch-for-hyperscale-business",
+        "date": "2022-09-15",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The demand for hyperscale and enterprise data center space and access to power continues to grow at an exponential rate.",
+        "source": "J. Todd Raymond, CEO, fifteenfortyseven Critical Systems Realty",
+        "url": "https://njbiz.com/nj-firm-expands-data-center-offerings-by-100-acres-150-megawatts/",
+        "date": "2022-08-30",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The demand for hyperscale and enterprise data center space and access to power continues to grow at an exponential rate.",
+        "source": "J. Todd Raymond, CEO of 1547",
+        "url": "https://www.lightwaveonline.com/data-center/article/14282043/fifteenfortyseven-green-fig-land-co-partner-for-new-pennsylvania-data-center-campus",
+        "date": "2022-08-30",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "With 150 MW of power and 140 more MW being added during the build out, abundant free cooling, no tornadoes or floods, we have an unbeatable site,",
+        "source": "Charles Lyddane, managing partner of GFLC",
+        "url": "https://www.lightwaveonline.com/data-center/article/14282043/fifteenfortyseven-green-fig-land-co-partner-for-new-pennsylvania-data-center-campus",
+        "date": "2022-08-30",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Green Fig cut its proposed East Whiteland data center from 1.65 million to 887,000 square feet and from two stories to one",
+      "About 300 mostly township residents attended the supervisors meeting at Penn State Great Valley",
+      "Builder wants township permission for the plans by May",
+      "Special supervisors meeting set for April 21, 2026 was canceled; to be rescheduled",
+      "Current plan would use up to about 3 million gallons of water per day; new plan none except bathrooms",
+      "Tredyffrin's seven-person board voted unanimously on Monday to have staff and the solicitor draft data center zoning amendments.",
+      "No data center applications have been submitted to Tredyffrin Township.",
+      "Chester and Montgomery Counties jointly published data center ordinance guidance in April 2026.",
+      "Two large Chester County projects of nearly 2 million square feet each face countywide pushback.",
+      "A state House bill for a model data center ordinance passed the House in April 2026 and goes to the Senate.",
+      "Tredyffrin's seven-person board voted unanimously on Monday to have staff and the solicitor draft data center zoning amendments",
+      "No data center applications have been submitted to Tredyffrin Township",
+      "Chester and Montgomery Counties jointly published data center ordinance guidance in April 2026",
+      "Two sizable Chester County projects are just shy of 2 million square feet each",
+      "State House passed a bill for a model data center ordinance; it now goes to the state Senate",
+      "Amended plan of two buildings spanning 887,000 sq ft was presented to the East Whiteland Board of Supervisors on April 14, 2026.",
+      "Previous Project Forge plan called for a 1,600,000 sq ft campus.",
+      "The parcel, formerly part of the Foote Mineral Co. Superfund Site, is zoned for a data center up to 1,860,000 sq ft.",
+      "1547 and Green Fig Land Company have planned the campus since 2022; Sentinel joined in 2024.",
+      "Revised plan is 887,000 sq ft across two buildings, 74% smaller than the previously approved plan and 86% smaller than the last design reviewed.",
+      "Project dates to 2018 and was originally approved at about 1 million sq ft.",
+      "Developers had sought to increase the footprint by 600,000 sq ft (60%) before the revised plan.",
+      "Board of supervisors did not vote April 14 and is expected to meet April 21 to approve or deny the revised plan.",
+      "The planning commission gave only a tepid recommendation on the larger plan and has not reviewed the new proposal.",
+      "East Whiteland Township supervisors held a special meeting on Tuesday, April 14, 2026 to review Sentinel Green Fig's expansion request.",
+      "The building was already approved for one million square feet of space.",
+      "The township scheduled another meeting on the request for Tuesday, April 21.",
+      "The site is the former Foote Mineral Superfund site at Swedesford Road and Valley Creek Boulevard.",
+      "East Vincent Township's planning commission again recommended that the board of supervisors reject a data center proposed for the former Pennhurst State School and Hospital site.",
+      "Supervisors are scheduled to begin a conditional use hearing process Monday at 6:30 p.m. at East Vincent Elementary School.",
+      "East Whiteland supervisors voted unanimously on March 31, 2026 to begin a curative amendment process for data center zoning.",
+      "The process pauses acceptance of new data center applications for up to 180 days.",
+      "The curative process will not affect the data center project currently before the board.",
+      "The proposed data center is across the street from Malvern Hunt, a community of roughly 280 homes.",
+      "Advocacy in North Coventry halted one data center project before it was submitted to the township.",
+      "Spring City borough council recently passed a resolution about the proposed Pennhurst data center in neighboring East Vincent Township",
+      "Residents protested an expanded data center before the East Whiteland Planning Commission meeting on March 9, 2026",
+      "Some local leaders have not proactively updated zoning rules to specify where data centers can go",
+      "Spring City borough council passed a February 2026 resolution opposing the Pennhurst data center in neighboring East Vincent",
+      "At least 55 data center projects are proposed statewide in Pennsylvania and at least six in the collar counties"
+    ],
+    "groups": [
+      {
+        "name": "Save East Whiteland",
+        "url": "https://www.inquirer.com/news/pennsylvania/east-whiteland-chester-county-data-center-20260415.html",
+        "date": "2026-04-15T16:34:03.000Z"
+      },
+      {
+        "name": "Food and Water Watch",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24T09:01:01.000Z"
+      },
+      {
+        "name": "East Vincent data center Facebook group (1,900 users)",
+        "url": "https://www.inquirer.com/news/pennsylvania/chester-county-data-centers-20260324.html",
+        "date": "2026-03-24T09:01:01.000Z"
+      },
+      {
+        "name": "East Whiteland Township residents",
+        "url": "https://theinfrastructureconstellation.com/pennsylvania-township-residents-challenge-massive-ai-data-center-power-demands/",
+        "date": "2026-03-10T15:11:01.000Z"
+      },
+      {
+        "name": "Unions",
+        "url": "https://theinfrastructureconstellation.com/pennsylvania-township-residents-challenge-massive-ai-data-center-power-demands/",
+        "date": "2026-03-10T15:11:01.000Z"
+      },
+      {
+        "name": "Food & Water Action",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-10T04:06:00.000Z"
+      },
+      {
+        "name": "Steamfitters Local Union 420",
+        "url": "https://6abc.com/post/east-whiteland-twp-residents-oppose-data-center-planners-send-revised-plan-back-review/18698080/",
+        "date": "2026-03-10T04:06:00.000Z"
+      },
+      {
+        "name": "Online petition led by Megan Heiken",
+        "url": "https://www.inquirer.com/real-estate/commercial/pennhurst-asylum-chester-county-halloween-attraction-data-center-20251013.html",
+        "date": "2025-10-13T09:00:00.000Z"
+      },
+      {
+        "name": "Protect Exton Park from Power Plant/Data Center Hub",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-19T10:00:15.000Z"
+      },
+      {
+        "name": "Food & Water Watch",
+        "url": "https://www.inquirer.com/real-estate/commercial/data-centers-proposed-suburban-chester-county-pennsylvania-20230119.html",
+        "date": "2023-01-19T10:00:15.000Z"
+      }
+    ]
+  },
+  "42043": {
+    "news": [
+      {
+        "title": "A company that develops data centers is doubling down on the Harrisburg area. | biznewsPA",
+        "url": "https://www.linkedin.com/posts/biznewspa_a-company-that-develops-data-centers-is-doubling-activity-7430608425270697984-YzPz",
+        "date": "2026-02-20T00:00:00.000Z",
+        "source": "biznewsPA",
+        "stance": "neutral"
+      },
+      {
+        "title": "Dauphin County golf course sold for $45.6M to a firm that wants to build a data center - pennlive.com",
+        "url": "https://www.pennlive.com/business/2025/08/dallas-company-to-buy-dauphin-county-golf-course-for-456-with-plans-to-develop-a-data-center.html",
+        "date": "2025-08-20T17:20:05.000Z",
+        "source": "pennlive.com",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "My thought was when that land sold, it's going to be developed,",
+        "source": "Tom Connolly, Swatara Township Commissioner",
+        "url": "https://www.linkedin.com/posts/biznewspa_a-company-that-develops-data-centers-is-doubling-activity-7430608425270697984-YzPz",
+        "date": "2026-02-20",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Over the past year, we received multiple unsolicited offers to develop data centers on this property,",
+        "source": "Barbara Zemlock, Board chairperson, Dauphin County General Authority",
+        "url": "https://www.pennlive.com/business/2025/08/dallas-company-to-buy-dauphin-county-golf-course-for-456-with-plans-to-develop-a-data-center.html",
+        "date": "2025-08-20",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "This is only the first step. Many conditions still need to be met before either side can finalize the transaction,",
+        "source": "Barbara Zemlock, Board chairperson, Dauphin County General Authority",
+        "url": "https://www.pennlive.com/business/2025/08/dallas-company-to-buy-dauphin-county-golf-course-for-456-with-plans-to-develop-a-data-center.html",
+        "date": "2025-08-20",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Nothing is certain about this, but if it happens, I see it as a way to create opportunities for our community,",
+        "source": "Eric Epstein, General Authority board member and Central Dauphin school board member",
+        "url": "https://www.pennlive.com/business/2025/08/dallas-company-to-buy-dauphin-county-golf-course-for-456-with-plans-to-develop-a-data-center.html",
+        "date": "2025-08-20",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Provident Realty Advisors agreed to pay $45.6 million for the 228-acre Dauphin Highlands Golf Course in Swatara Township and Steelton last summer.",
+      "In late January 2026 Provident paid $50 million for more than 150 acres east of Route 283 in Swatara Township.",
+      "The east side tracts were rezoned last year.",
+      "No plans have been submitted to Swatara Township.",
+      "Dauphin County General Authority voted Aug. 20, 2025 to execute a $45.6M purchase-sale agreement for the 228-acre Dauphin Highlands Golf Course",
+      "Provident was chosen from six proposals in an RFP launched Feb. 19, 2025",
+      "Provident must determine by April 17, 2026 whether it can get enough power, or the agreement could be canceled",
+      "Swatara Township commissioners voted in April 2025 to allow data centers in the Mixed Use District",
+      "Other midstate data centers planned in Londonderry Township, York County, Lancaster and Middlesex Township"
+    ],
+    "groups": []
+  },
+  "42055": {
+    "news": [],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=VBQlR24VEM8",
+        "text": "# Data center ordinance approved by Franklin County Commissioners\n\n- Channel: FOX43 News\n- Length: 02:25\n- Views: 76\n- Likes: 0\n- Published: 2026-05-20T19:14:36-07:00\n- Category: News & Politics\n- Keywords: [ franklin-county, latest-news-ott ], local, news\n- Language: en\n\n## Description\n\nAfter months of public hearings, debate and over 100 public comments, the Franklin County Commissioners unanimously approved new regulations governing future data center development across the county. \n \nThe amendment to the county's Subdivision and Land Development Ordinance (SALDO) establishes standards for data center projects in municipalities that do not have zoning regulations in place. County officials said the ordinance is intended to provide a framework for development while allowing room for future revisions as the industry evolves. \n \nCommissioner John Flannery acknowledged the lengthy process leading up to the vote and thanked residents for their involvement. \n \n“I respect the process we we",
+        "date": "2026-05-21T02:14:36.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I respect the process we went through, even though it seemed long and tedious at times,",
+        "source": "John Flannery, Commissioner",
+        "url": "https://www.youtube.com/watch?v=VBQlR24VEM8",
+        "date": "2026-05-20",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think it needs work, but if our choices are regulations that need work or no regulations, then I say let's put it in and fix it later.",
+        "source": "Jacob Reed, resident",
+        "url": "https://www.youtube.com/watch?v=VBQlR24VEM8",
+        "date": "2026-05-20",
+        "stance": "neutral",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Franklin County commissioners unanimously approved a countywide data center ordinance on May 20, 2026",
+      "The ordinance amends the Subdivision and Land Development Ordinance (SALDO)",
+      "It applies to nearly half of the county's municipalities that lack zoning rules",
+      "More than 100 public comments were received over months of hearings",
+      "Chairman Dean Horst directed staff to revisit the regulations biannually"
+    ],
+    "groups": []
+  },
+  "42059": {
+    "news": [
+      {
+        "title": "Greene County residents voice concerns at data center open house - Observer-Reporter",
+        "url": "https://www.observer-reporter.com/news/local-news/2025/oct/30/greene-county-residents-voice-concerns-at-data-center-open-house/",
+        "date": "2025-10-30T00:00:00.000Z",
+        "source": "Observer-Reporter",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I'm all for jobs, 100%, but for us, it's right in our backyard,",
+        "source": "Tom Barton, Alicia resident",
+        "url": "https://www.observer-reporter.com/news/local-news/2025/oct/30/greene-county-residents-voice-concerns-at-data-center-open-house/",
+        "date": "2025-10-28",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "They gave us all their information, but they're going to tell us anything we want to hear,",
+        "source": "Diane Price, resident",
+        "url": "https://www.observer-reporter.com/news/local-news/2025/oct/30/greene-county-residents-voice-concerns-at-data-center-open-house/",
+        "date": "2025-10-28",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "this is the best thing since the coal mines were here.",
+        "source": "Blair Zimmerman, Commissioner",
+        "url": "https://www.observer-reporter.com/news/local-news/2025/oct/30/greene-county-residents-voice-concerns-at-data-center-open-house/",
+        "date": "2025-10-28",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "We will be a great neighbor,",
+        "source": "Peter Dailey, IEP CEO",
+        "url": "https://www.observer-reporter.com/news/local-news/2025/oct/30/greene-county-residents-voice-concerns-at-data-center-open-house/",
+        "date": "2025-10-28",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "It could be this big, beautiful thing that none of us wanted, but it's apparently great,",
+        "source": "Tanner Barton, resident",
+        "url": "https://www.observer-reporter.com/news/local-news/2025/oct/30/greene-county-residents-voice-concerns-at-data-center-open-house/",
+        "date": "2025-10-28",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Project Hummingbird would span 1,400 acres at the former Robena Mine site along the Monongahela River in Greene County, PA",
+      "Two natural gas turbines would generate 910 MW, with delivery in 2028 and operation expected early 2029",
+      "Project would use 18 million gallons of water per day",
+      "IEP expects 1,000 to 1,500 construction jobs and about 50 full-time jobs",
+      "Property currently generates about $100,000 per year in property tax"
+    ],
+    "groups": []
+  },
+  "42063": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "42069": {
+    "news": [
+      {
+        "title": "The AI Boom Has Plunged a Small Pennsylvania Town Into Chaos - Radio Catskill",
+        "url": "https://wjffradio.org/spotlight-pa-six-data-center-campuses-are-planned-for-just-one-pa-borough-residents-are-fighting-back/",
+        "date": "2026-03-26T16:01:45.000Z",
+        "source": "Radio Catskill",
+        "stance": "oppose"
+      },
+      {
+        "title": "The AI Boom Has Plunged a Small Pennsylvania Town Into Chaos - Asheville.com",
+        "url": "https://www.asheville.com/news/2026/03/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-26T04:01:00.000Z",
+        "source": "Asheville.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "PPL sets open house on planned upgrades near proposed Lackawanna County data centers",
+        "url": "https://www.wvia.org/news/local/2026-03-25/ppl-sets-open-house-on-planned-upgrades-near-proposed-lackawanna-county-data-centers",
+        "date": "2026-03-25T00:00:00.000Z",
+        "source": "WVIA",
+        "stance": "neutral"
+      },
+      {
+        "title": "Archbald postpones data center hearing after notice error; 100-plus still show up",
+        "url": "https://fox56.com/news/local/archbald-postpones-data-center-hearing-after-notice-error-100-plus-still-show-up",
+        "date": "2026-03-24T03:00:35.000Z",
+        "source": "Fox56 (WOLF)",
+        "stance": null
+      },
+      {
+        "title": "Archbald, Jessup postpone data center hearings",
+        "url": "https://www.thetimes-tribune.com/2026/03/23/archbald-hearing-on-18-data-center-campus-postponed-due-to-procedural-issue/",
+        "date": "2026-03-24T00:23:18.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Archbald, PA, fights data centers in AI development rush • Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "source": "Spotlight PA",
+        "stance": "oppose"
+      },
+      {
+        "title": "The AI boom has plunged a small Pennsylvania town into chaos",
+        "url": "https://grist.org/energy/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "source": "Grist",
+        "stance": "oppose"
+      },
+      {
+        "title": "Can utilities handle data centers' electricity, sewer and water needs?",
+        "url": "https://www.thetimes-tribune.com/2026/03/13/can-utilities-handle-data-centers-electricity-sewer-and-water-needs/",
+        "date": "2026-03-13T22:36:52.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data Centers Are Poised to Engulf a Pennsylvania Town - DeSmog",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11T16:26:54.000Z",
+        "source": "DeSmog",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data centers join Archbald to defend zoning against residents' appeal",
+        "url": "https://www.thetimes-tribune.com/2026/02/27/data-centers-join-archbald-to-defend-zoning-against-residents-appeal/",
+        "date": "2026-02-27T21:15:10.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Pennsylvania localities feel data center push, and some are pushing back | Energy | bayjournal.com",
+        "url": "https://www.bayjournal.com/news/energy/pennsylvania-localities-feel-data-center-push-and-some-are-pushing-back/article_09db2a10-f46f-48d9-b03c-fd38fff2062c.html",
+        "date": "2026-02-24T07:00:00.000Z",
+        "source": "Bay Journal",
+        "stance": null
+      },
+      {
+        "title": "Archbald schedules second hearing for Wildcat Ridge data center campus",
+        "url": "https://www.yahoo.com/news/articles/archbald-schedules-second-hearing-wildcat-010500004.html",
+        "date": "2026-02-24T01:05:00.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Lackawanna County communities told to address data centers on their own",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22T05:00:24.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Pennsylvania Data Center Map: 136 Facilities Tracked",
+        "url": "https://dcmap.us/states/pennsylvania/",
+        "date": "2026-02-20T15:26:28.000Z",
+        "source": "DC Map",
+        "stance": "neutral"
+      },
+      {
+        "title": "‘Data centers are coming’: Developer addresses Archbald at public hearing",
+        "url": "https://lackawannacounty.com/news/data-centers-are-coming-developer-addresses-archbald-public-hearing",
+        "date": "2026-02-13T16:44:01.000Z",
+        "source": "lackawannacounty.com",
+        "stance": "support"
+      },
+      {
+        "title": "'Data centers are coming': Developer addresses Archbald at public hearing",
+        "url": "https://www.thetimes-tribune.com/2026/02/12/data-centers-are-coming-developer-addresses-archbald-at-public-hearing/",
+        "date": "2026-02-12T17:19:09.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Archbald 1, LLC seeks approval for 400-acre, 18-building data center complex",
+        "url": "https://fox56.com/news/local/archbald-1-llc-seeks-approval-for-400-acre-18-building-data-center-complex",
+        "date": "2026-02-12T07:03:48.000Z",
+        "source": "FOX56 (WOLF)",
+        "stance": "neutral"
+      },
+      {
+        "title": "Scranton council questions tapping of Lake Scranton to cool data centers",
+        "url": "https://www.thetimes-tribune.com/2026/02/11/scranton-council-questions-tapping-of-lake-scranton-to-cool-data-centers/",
+        "date": "2026-02-11T19:58:04.000Z",
+        "source": "The Times-Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "Archbald, Dickson City hearings this week focus on data centers",
+        "url": "https://www.thetimes-tribune.com/2026/02/09/archbald-dickson-city-hearings-this-week-focus-on-data-centers/",
+        "date": "2026-02-09T22:44:37.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "With addition of Project Green, data centers could cover 14% of Archbald",
+        "url": "https://lackawannacounty.com/news/addition-project-green-data-centers-could-cover-14-archbald",
+        "date": "2026-02-09T19:37:33.000Z",
+        "source": "Lackawanna County",
+        "stance": "neutral"
+      },
+      {
+        "title": "With addition of Project Green, data centers could cover 14 ...",
+        "url": "https://www.thetimes-tribune.com/2026/02/08/plans-show-data-centers-could-cover-14-of-archbald/",
+        "date": "2026-02-08T05:09:25.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "DATA CENTERS: Local governments, residents at odds with NEPA projects despite promises of economic growth",
+        "url": "https://www.wvia.org/news/local/2026-02-06/data-centers-local-governments-residents-at-odds-with-nepa-projects-despite-promises-of-economic-growth",
+        "date": "2026-02-06T06:00:00.000Z",
+        "source": "WVIA",
+        "stance": "oppose"
+      },
+      {
+        "title": "DATA CENTERS: Residents fear negative impacts on water resources as data centers are proposed across Northeast Pa.",
+        "url": "https://www.wvia.org/news/local/2026-02-04/data-centers-residents-fear-negative-impacts-on-water-resources-as-data-centers-are-proposed-across-northeast-pa",
+        "date": "2026-02-04T05:00:00.000Z",
+        "source": "WVIA",
+        "stance": "oppose"
+      },
+      {
+        "title": "County, state legislators criticize proposed Archbald data centers",
+        "url": "https://www.thetimes-tribune.com/2026/01/29/county-state-legislators-criticize-proposed-archbald-data-centers/",
+        "date": "2026-01-29T06:42:08.000Z",
+        "source": "The Times-Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "Lackawanna County judge holds hearing on Clifton Twp. data center settlement challenges",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-28T05:00:00.000Z",
+        "source": "WVIA",
+        "stance": "neutral"
+      },
+      {
+        "title": "Archbald to hold public hearings on two largest data center proposals",
+        "url": "https://www.thetimes-tribune.com/2026/01/27/archbald-to-hold-public-hearings-on-two-largest-data-center-proposals/",
+        "date": "2026-01-27T20:09:01.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Lackawanna County Commissioners offer their thoughts on proposed data center developments in the region",
+        "url": "https://www.wvia.org/news/local/2026-01-22/lackawanna-county-commissioners-offer-their-thoughts-on-proposed-data-center-developments-in-the-region",
+        "date": "2026-01-22T17:10:35.000Z",
+        "source": "WVIA",
+        "stance": "neutral"
+      },
+      {
+        "title": "Community opposes proposed data center in Ransom Township",
+        "url": "https://lackawannacounty.com/news/community-opposes-proposed-data-center-ransom-township",
+        "date": "2026-01-21T18:58:36.000Z",
+        "source": "WOLF",
+        "stance": "oppose"
+      },
+      {
+        "title": "Ransom Twp. supervisors reject data center zoning amendment",
+        "url": "https://www.thetimes-tribune.com/2026/01/20/ransom-twp-supervisors-reject-data-center-zoning-amendment/",
+        "date": "2026-01-21T03:44:07.000Z",
+        "source": "The Times-Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data centers: Ransom Twp. hearing moved to Tuesday; Shapiro offers general thoughts during separate NEPA visit",
+        "url": "https://lackawannacounty.com/news/data-centers-ransom-twp-hearing-moved-tuesday-shapiro-offers-general-thoughts-during-separate",
+        "date": "2026-01-16T20:22:37.000Z",
+        "source": "lackawannacounty.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "Dozens turn out to oppose proposed Ransom Twp. data center",
+        "url": "https://www.thetimes-tribune.com/2026/01/16/dozens-turn-out-to-oppose-proposed-ransom-twp-data-center/",
+        "date": "2026-01-16T05:01:39.000Z",
+        "source": "The Times-Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "Pennsylvania residents fight data center growth • Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/01/data-centers-pennsylvania-debate-legislature-environment-environment/",
+        "date": "2026-01-15T09:00:00.000Z",
+        "source": "Spotlight PA",
+        "stance": null
+      },
+      {
+        "title": "Residents voice concerns over multi-data center plan 'Project Gravity' in Archbald | wnep.com",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/residents-voice-concerns-over-archbald-data-center-plan-lackawanna-county-project-gravity/523-af1be776-d2dd-4cdd-945d-b1342cf4e8c5",
+        "date": "2026-01-06T22:54:27.000Z",
+        "source": "WNEP",
+        "stance": "oppose"
+      },
+      {
+        "title": "DEP to Host Informational Public Meeting for “Project Gravity” Data Center in Archbald Borough, Lackawanna County | Department of Environmental Protection | Commonwealth of Pennsylvania",
+        "url": "https://www.pa.gov/agencies/dep/newsroom/2025-12-22-dep-to-host-informational-public-meeting-for-project-gravity-data-center-in-lackawanna-county",
+        "date": "2025-12-22T00:00:00.000Z",
+        "source": "Pennsylvania Department of Environmental Protection",
+        "stance": "neutral"
+      },
+      {
+        "title": "POLL: Do you think designated data center zones in Archbald are in appropriate locations?",
+        "url": "https://fox56.com/news/local/poll-do-you-think-the-designated-data-center-zone-in-archbald-is-an-appropriate-location",
+        "date": "2025-11-25T16:30:11.000Z",
+        "source": "FOX56",
+        "stance": "neutral"
+      },
+      {
+        "title": "Clifton Twp. Zoning Board will decide outcome of challenge to data center zoning ordinance",
+        "url": "https://www.wvia.org/news/local/2025-11-18/clifton-twp-zoning-board-will-decide-outcome-of-challenge-to-data-center-zoning-ordinance",
+        "date": "2025-11-18T05:00:00.000Z",
+        "source": "WVIA",
+        "stance": "neutral"
+      },
+      {
+        "title": "Will data center demands strain Archbald power, water, wildlife?",
+        "url": "https://www.thetimes-tribune.com/2025/11/14/feasibility-and-impacts-of-29-data-centers-concentrated-in-archbald/",
+        "date": "2025-11-14T23:42:11.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Jessup re-amends data center zoning, sets new hearing for Breaker Street",
+        "url": "https://www.thetimes-tribune.com/2025/11/07/jessup-re-amends-data-center-zoning-sets-new-hearing-for-breaker-street/",
+        "date": "2025-11-07T23:52:39.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Archbald I files plans for two campuses totaling 3.3 million SF | Data Center View",
+        "url": "https://news.datacenterview.com/p/november-5-2025-archbald-i-files-plans-for-two-campuses-totaling-3-3-million-sf",
+        "date": "2025-11-05T11:05:40.000Z",
+        "source": "Data Center View",
+        "stance": null
+      },
+      {
+        "title": "A Mystery Company Wants to Build 22 Data Centers in Pennsylvania – HOME",
+        "url": "https://imdpc.com/a-mystery-company-wants-to-build-22-data-centers-i-20251104/",
+        "date": "2025-11-04T22:05:43.000Z",
+        "source": "HOME",
+        "stance": "oppose"
+      },
+      {
+        "title": "Developer applies for 22 more data center buildings in Archbald",
+        "url": "https://www.thetimes-tribune.com/2025/10/31/developer-applies-for-22-more-data-center-buildings-in-archbald/",
+        "date": "2025-11-01T02:50:52.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "More Midvalley communities to regulate data centers",
+        "url": "https://www.thetimes-tribune.com/2025/10/10/more-midvalley-communities-to-regulate-data-centers/",
+        "date": "2025-10-10T21:30:54.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Zoning hearing, special meeting to shape Archbald's data center future",
+        "url": "https://www.thetimes-tribune.com/2025/09/28/zoning-hearing-special-meeting-to-shape-archbalds-data-center-future-2/",
+        "date": "2025-09-28T19:19:59.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Clifton Twp. and data center developer still without agreement; residents continue opposition",
+        "url": "https://lackawannacounty.com/news/clifton-twp-and-data-center-developer-still-without-agreement-residents-continue-opposition",
+        "date": "2025-08-22T18:27:15.000Z",
+        "source": "lackawannacounty.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Archbald residents face uncertain future amid proposed data center | wnep.com",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-concerned-over-proposed-data-center-valley-view-estates-eynon-jermyn-road-ai/523-372d808e-4968-4812-b578-51270cc983b0",
+        "date": "2025-08-19T18:09:24.000Z",
+        "source": "WNEP",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data center developer to buy mobile home park in Archbald",
+        "url": "https://www.thetimes-tribune.com/2025/08/19/data-center-developer-to-buy-mobile-home-park-in-archbald/",
+        "date": "2025-08-19T14:18:59.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Residents oppose development of proposed data center in Lackawanna County | wnep.com",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-oppose-development-of-proposed-data-center-covington-township/523-b0e39051-dc3e-406e-a10d-7b59a62f3ca4",
+        "date": "2025-07-24T23:24:59.000Z",
+        "source": "WNEP",
+        "stance": "oppose"
+      },
+      {
+        "title": "Archbald, Jessup work toward data center zoning as developers target towns",
+        "url": "https://lackawannacounty.com/news/archbald-jessup-work-toward-data-center-zoning-developers-target-towns",
+        "date": "2025-07-24T12:30:33.000Z",
+        "source": "The Times-Tribune",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data centers could reshape landscape in NEPA – Scranton Times-Tribune",
+        "url": "https://www.thetimes-tribune.com/2025/05/18/data-centers-could-reshape-landscape-in-nepa/",
+        "date": "2025-05-18T04:00:33.000Z",
+        "source": "Scranton Times-Tribune",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "It's going to be away from everyone.",
+        "source": "Nick Farris, Provident Real Estate Advisors",
+        "url": "https://wjffradio.org/spotlight-pa-six-data-center-campuses-are-planned-for-just-one-pa-borough-residents-are-fighting-back/",
+        "date": "2026-03-26T16:01:45.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I don't think anyone in their right mind wants to see the world covered in data centers.",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://wjffradio.org/spotlight-pa-six-data-center-campuses-are-planned-for-just-one-pa-borough-residents-are-fighting-back/",
+        "date": "2026-03-26T16:01:45.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "According to Pennsylvania law, we have to have a zone for everything.",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://wjffradio.org/spotlight-pa-six-data-center-campuses-are-planned-for-just-one-pa-borough-residents-are-fighting-back/",
+        "date": "2026-03-26T16:01:45.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "And now this is happening",
+        "source": "Ann Beynon, Archbald resident",
+        "url": "https://wjffradio.org/spotlight-pa-six-data-center-campuses-are-planned-for-just-one-pa-borough-residents-are-fighting-back/",
+        "date": "2026-03-26T16:01:45.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It's going to be away from everyone",
+        "source": "Nick Farris, Provident Real Estate Advisors",
+        "url": "https://www.asheville.com/news/2026/03/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-26T04:01:00.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I don't think anyone in their right mind wants to see the world covered in data centers,",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://www.asheville.com/news/2026/03/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-26T04:01:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "According to Pennsylvania law, we have to have a zone for everything.",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://www.asheville.com/news/2026/03/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-26T04:01:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I just try to listen, and I try to separate the valid concerns from the things that just sound like the sky is falling,",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://www.asheville.com/news/2026/03/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-26T04:01:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We moved from a couple towns over and built a new house, thinking this was a good place to go,",
+        "source": "Ann Beynon, Archbald resident",
+        "url": "https://www.asheville.com/news/2026/03/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-26T04:01:00.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "The new substation, switchyard and transmission lines will support new customer connections and strengthen reliability across the region.",
+        "source": "PPL, PPL Electric Utilities website",
+        "url": "https://www.wvia.org/news/local/2026-03-25/ppl-sets-open-house-on-planned-upgrades-near-proposed-lackawanna-county-data-centers",
+        "date": "2026-03-25",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Public notice of tonight’s hearing has not been properly effectuated so we will have to reschedule tonight’s hearing.",
+        "source": "James O'Connor, Archbald Solicitor",
+        "url": "https://fox56.com/news/local/archbald-postpones-data-center-hearing-after-notice-error-100-plus-still-show-up",
+        "date": "2026-03-23",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "I also want to make clear that this wasn’t the council’s fault.",
+        "source": "Janessa Bednash, Jermyn resident with 'Stop Archbald Data Centers' group",
+        "url": "https://fox56.com/news/local/archbald-postpones-data-center-hearing-after-notice-error-100-plus-still-show-up",
+        "date": "2026-03-23",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "I know I’m going to stay vigilant as I hope other people will so that we can be here in person and they can see firsthand the community members that feel very passionately and should be heard.",
+        "source": "Letizia Cwikla, Archbald resident",
+        "url": "https://fox56.com/news/local/archbald-postpones-data-center-hearing-after-notice-error-100-plus-still-show-up",
+        "date": "2026-03-23",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "Obviously that’s an exigent circumstance, and we have to be considerate to everybody,",
+        "source": "Mario Hanyon, Jessup Zoning Hearing Board solicitor",
+        "url": "https://www.thetimes-tribune.com/2026/03/23/archbald-hearing-on-18-data-center-campus-postponed-due-to-procedural-issue/",
+        "date": "2026-03-23",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Provided everybody’s available, I anticipate that’s exactly when it’ll be — one of those three dates,",
+        "source": "Mario Hanyon, Jessup Zoning Hearing Board solicitor",
+        "url": "https://www.thetimes-tribune.com/2026/03/23/archbald-hearing-on-18-data-center-campus-postponed-due-to-procedural-issue/",
+        "date": "2026-03-23",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think that this is the best data center site in this area of the country, by far.",
+        "source": "Nick Farris, Provident Real Estate Advisors, representing the developer for Project Scott",
+        "url": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I don't think anyone in their right mind wants to see the world covered in data centers",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "According to Pennsylvania law, we have to have a zone for everything.",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I just try to listen, and I try to separate the valid concerns from the things that just sound like the sky is falling,",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We moved from a couple towns over and built a new house, thinking this was a good place to go,",
+        "source": "Ann Beynon, Archbald resident",
+        "url": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "I don't think anyone in their right mind wants to see the world covered in data centers",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://grist.org/energy/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "according to Pennsylvania law, we have to have a zone for everything.",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://grist.org/energy/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "And now this is happening",
+        "source": "Ann Beynon, Archbald resident",
+        "url": "https://grist.org/energy/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-03-19T08:45:00.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "Mr. President, this is the beginning of an economic renaissance for Pennsylvania and a huge step forward,",
+        "source": "Dave McCormick, Pennsylvania Senator (R)",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11T16:26:54.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "What are these people supposed to do? To live in the streets for five years?",
+        "source": "Tina Goble, former Valley View Estates resident",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11T16:26:54.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "A lot of the infrastructure that’s needed to support these data centers has already been put in throughout our service territory,",
+        "source": "Doug Grossman, PPL’s manager of transmission siting",
+        "url": "https://www.thetimes-tribune.com/2026/03/13/can-utilities-handle-data-centers-electricity-sewer-and-water-needs/",
+        "date": "2026-03-11",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The large water demands that you hear publicized with these data centers are true to some degree, but they’re really actually very limited to certain times of year that they’re used for cooling,",
+        "source": "Dan Rickard, PAW’s director of engineering",
+        "url": "https://www.thetimes-tribune.com/2026/03/13/can-utilities-handle-data-centers-electricity-sewer-and-water-needs/",
+        "date": "2026-03-11",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "They’re not sure how much water they’re actually going to use,",
+        "source": "Dan Rickard, PAW’s director of engineering",
+        "url": "https://www.thetimes-tribune.com/2026/03/13/can-utilities-handle-data-centers-electricity-sewer-and-water-needs/",
+        "date": "2026-03-11",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The later they come to the table, the more they’re probably going to end up having to pay,",
+        "source": "Dan Rickard, PAW’s director of engineering",
+        "url": "https://www.thetimes-tribune.com/2026/03/13/can-utilities-handle-data-centers-electricity-sewer-and-water-needs/",
+        "date": "2026-03-11",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The immediate response was, 'No,'",
+        "source": "Christopher Paone, manager and zoning officer of Blakely Borough",
+        "url": "https://www.bayjournal.com/news/energy/pennsylvania-localities-feel-data-center-push-and-some-are-pushing-back/article_09db2a10-f46f-48d9-b03c-fd38fff2062c.html",
+        "date": "2026-02-24T07:00:00.000Z",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "These [data center] developers saw that this area was not prepared for it, and they attacked,",
+        "source": "Christopher Paone, manager and zoning officer of Blakely Borough",
+        "url": "https://www.bayjournal.com/news/energy/pennsylvania-localities-feel-data-center-push-and-some-are-pushing-back/article_09db2a10-f46f-48d9-b03c-fd38fff2062c.html",
+        "date": "2026-02-24T07:00:00.000Z",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "A backup generator is like a large tractor trailer engine,",
+        "source": "Christopher Paone, manager and zoning officer of Blakely Borough",
+        "url": "https://www.bayjournal.com/news/energy/pennsylvania-localities-feel-data-center-push-and-some-are-pushing-back/article_09db2a10-f46f-48d9-b03c-fd38fff2062c.html",
+        "date": "2026-02-24T07:00:00.000Z",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "painfully aware of the sins of industries past,",
+        "source": "Kyle Mullins, Democratic state Representative",
+        "url": "https://www.bayjournal.com/news/energy/pennsylvania-localities-feel-data-center-push-and-some-are-pushing-back/article_09db2a10-f46f-48d9-b03c-fd38fff2062c.html",
+        "date": "2026-02-24T07:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "I am opposed to a future where communities like Archbald are once again told, ‘Trust us, be patient. It will be worth it in the end.’ We have heard that before. Coal was supposed to be worth it, it wasn’t,",
+        "source": "Bill Gaughan, Lackawanna County Commissioner",
+        "url": "https://www.yahoo.com/news/articles/archbald-schedules-second-hearing-wildcat-010500004.html",
+        "date": "2026-02-24T01:05:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Let me be abundantly clear: This Wildcat data center proposal is inappropriate and unacceptable, from its sheer size to its proposed water and power usage, to the deforestation it would involve, to the unknown runoff of stormwater,",
+        "source": "Kyle Mullins, state Rep., D-112, Blakely",
+        "url": "https://www.yahoo.com/news/articles/archbald-schedules-second-hearing-wildcat-010500004.html",
+        "date": "2026-02-24T01:05:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "I wanted an ordinance in place in case they did knock on our door, we could say, 'Well, here's our ordinance,'",
+        "source": "Mark Dougherty, South Abington Twp. Supervisor Chairman",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "In our opinion, data centers would not fit into any of those three categories,",
+        "source": "Doug Pallman, Newton Twp. Supervisor Chairman",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "I really don't see any benefit for Scott Twp. for it to have a data center,",
+        "source": "Mike Giannetta, Scott Twp. Supervisor Chairman",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "I'd rather protect everybody and err on the side of caution,",
+        "source": "Thomas Hallinan, Dunmore Borough Council President",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "That's going to be too late for the data centers at that point,",
+        "source": "Mary Liz Donato, County Planning Director",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Without anybody having any regulations right now, they're all kind of vulnerable because there's got to be a spot for them somewhere and right now there isn't,",
+        "source": "Mary Liz Donato, County Planning Director",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Residents are scared and sad. They’re just trying to hold on to hope that they can get this stopped and have it responsibly zoned away from town, away from people, and away from our children,",
+        "source": "Tamara Misewicz-Healey, resident and co-founder of the Stop Archbald Data Centers Group",
+        "url": "https://fox56.com/news/local/archbald-1-llc-seeks-approval-for-400-acre-18-building-data-center-complex",
+        "date": "2026-02-12",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "But I do think that tonight left a lot to be desired in terms of us getting real answers to questions and having real data to examine exactly what effect this project will have on our town,",
+        "source": "Kelsey Pazanski Wargo, resident living less than a mile from the proposed site",
+        "url": "https://fox56.com/news/local/archbald-1-llc-seeks-approval-for-400-acre-18-building-data-center-complex",
+        "date": "2026-02-12",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Data centers are coming,",
+        "source": "Nick Farris, director of acquisitions and director of data center development at Provident Realty Advisors",
+        "url": "https://www.thetimes-tribune.com/2026/02/12/data-centers-are-coming-developer-addresses-archbald-at-public-hearing/",
+        "date": "2026-02-11",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We want to go to a place that welcomes us,",
+        "source": "Nick Farris, director of acquisitions and director of data center development at Provident Realty Advisors",
+        "url": "https://www.thetimes-tribune.com/2026/02/12/data-centers-are-coming-developer-addresses-archbald-at-public-hearing/",
+        "date": "2026-02-11",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Obviously we have a lot of concerned citizens in the audience,",
+        "source": "Tom Aniska, Archbald councilman",
+        "url": "https://www.thetimes-tribune.com/2026/02/12/data-centers-are-coming-developer-addresses-archbald-at-public-hearing/",
+        "date": "2026-02-11",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We showed the most robust potential on the property for this application that’s before you, but we anticipate it being a smaller development,",
+        "source": "Jeffrey Esch McCombie, attorney for developer",
+        "url": "https://www.thetimes-tribune.com/2026/02/12/data-centers-are-coming-developer-addresses-archbald-at-public-hearing/",
+        "date": "2026-02-11",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "This looks like an office park that’s going in.",
+        "source": "Nick Farris, director of acquisitions and director of data center development at Provident Realty Advisors",
+        "url": "https://www.thetimes-tribune.com/2026/02/12/data-centers-are-coming-developer-addresses-archbald-at-public-hearing/",
+        "date": "2026-02-11",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Our stance is ‘do no harm to existing customers,’",
+        "source": "Jeremy Eden, Pennsylvania American Water senior director of operations in Northeast Pennsylvania",
+        "url": "https://www.thetimes-tribune.com/2026/02/11/scranton-council-questions-tapping-of-lake-scranton-to-cool-data-centers/",
+        "date": "2026-02-10",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We’ve been very clear that currently our stance is any improvements to the infrastructure that would be needed to supply these data centers would be at the cost of those developers.",
+        "source": "Jeremy Eden, Pennsylvania American Water senior director of operations in Northeast Pennsylvania",
+        "url": "https://www.thetimes-tribune.com/2026/02/11/scranton-council-questions-tapping-of-lake-scranton-to-cool-data-centers/",
+        "date": "2026-02-10",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Are there any guardrails that American Water would put in place to make sure that the small businesses and ratepayers are coming before a data center, in regards to water intake?",
+        "source": "Patrick Flynn, Scranton city councilman",
+        "url": "https://www.thetimes-tribune.com/2026/02/11/scranton-council-questions-tapping-of-lake-scranton-to-cool-data-centers/",
+        "date": "2026-02-10",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "At that time I wasn't concerned … They didn't come in and explain how large they were going to be and the impact it would have on the environment and the residents,",
+        "source": "Erin Owen, Archbald council member",
+        "url": "https://www.wvia.org/news/local/2026-02-06/data-centers-local-governments-residents-at-odds-with-nepa-projects-despite-promises-of-economic-growth",
+        "date": "2026-02-06T06:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "People come here for this, not for a data center. And the data center’s negative impact cannot be measured in economic benefit,",
+        "source": "Walter Barton, Barton Brothers Partnership member",
+        "url": "https://www.wvia.org/news/local/2026-02-04/data-centers-residents-fear-negative-impacts-on-water-resources-as-data-centers-are-proposed-across-northeast-pa",
+        "date": "2026-02-04",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "To me, this is sacred ground,",
+        "source": "Wendy Bolognesi, Barton Brothers Partnership member",
+        "url": "https://www.wvia.org/news/local/2026-02-04/data-centers-residents-fear-negative-impacts-on-water-resources-as-data-centers-are-proposed-across-northeast-pa",
+        "date": "2026-02-04",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "But our concern is that it's happening so quickly, right? You know, is everyone on top of it? Is everyone making, you know, the best decisions?",
+        "source": "Andrew Dehoff, executive director, Susquehanna River Basin Commission",
+        "url": "https://www.wvia.org/news/local/2026-02-04/data-centers-residents-fear-negative-impacts-on-water-resources-as-data-centers-are-proposed-across-northeast-pa",
+        "date": "2026-02-04",
+        "stance": "neutral",
+        "emotion": "fear"
+      },
+      {
+        "text": "Data centers use less water than golf courses. Data centers use less water than manufacturing facilities. Data centers use less water than food and beverage production,",
+        "source": "Dan Diorio, vice president of state policy, Data Center Coalition",
+        "url": "https://www.wvia.org/news/local/2026-02-04/data-centers-residents-fear-negative-impacts-on-water-resources-as-data-centers-are-proposed-across-northeast-pa",
+        "date": "2026-02-04",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I’m here because the impacts on water, power and infrastructure, housing and land use from data centers ripple outward across the entire county, and those are the people that I represent,",
+        "source": "Bill Gaughan, Lackawanna County Commissioner",
+        "url": "https://www.thetimes-tribune.com/2026/01/29/county-state-legislators-criticize-proposed-archbald-data-centers/",
+        "date": "2026-01-28",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Let me be abundantly clear: This Wildcat Data Center proposal is inappropriate and unacceptable, from its sheer size to its proposed water and power usage, to the deforestation it would involve, to the unknown runoff of stormwater,",
+        "source": "Kyle Mullins, state Rep., D-112, Blakely",
+        "url": "https://www.thetimes-tribune.com/2026/01/29/county-state-legislators-criticize-proposed-archbald-data-centers/",
+        "date": "2026-01-28",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Please do whatever you can to keep them out, or at least as far away from people as possible, because research shows that the negatives far outweigh the positives,",
+        "source": "Gary DiBileo, Lackawanna County controller and president of the Keyser Valley Neighborhood Association",
+        "url": "https://www.thetimes-tribune.com/2026/01/29/county-state-legislators-criticize-proposed-archbald-data-centers/",
+        "date": "2026-01-28",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We understand and appreciate a lot of the concerns that were raised, and I would ask council to have an open mind, because I expect you will be surprised at much of what you hear,",
+        "source": "Edmund J. Campbell Jr., Attorney for Cornell Realty Management",
+        "url": "https://www.thetimes-tribune.com/2026/01/29/county-state-legislators-criticize-proposed-archbald-data-centers/",
+        "date": "2026-01-28",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "But eight months out of the year, the facility uses about 53,000 gallons a day,",
+        "source": "AJ Magnotta, project manager, Wildcat Ridge Data Center Campus",
+        "url": "https://www.thetimes-tribune.com/2026/01/29/county-state-legislators-criticize-proposed-archbald-data-centers/",
+        "date": "2026-01-28",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We have a rather confusing docket to say the least",
+        "source": "Mark Powell, Lackawanna County Judge",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-27",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "What’s clear to me is that you folks are not communicating",
+        "source": "Mark Powell, Lackawanna County Judge",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-27",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Our position is that Clifton Twp. Zoning Hearing Board is not a necessary party to the settlement stipulation",
+        "source": "Matthew McHugh, Attorney for 1778 Rich Pike LLC",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-27",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Attempting to settle the landowner's appeal without the participation of the zoning hearing board violates the board's authority under the MPC (municipal planning code)",
+        "source": "Tom Nanovic, Zoning hearing board attorney",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-27",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Attorney McHugh and I have been working pretty diligently to get some things resolved",
+        "source": "Joel Wolff, Covington Twp. Solicitor",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-27",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The county commissioners have zero authority over the municipality … we can't tell them they can't do this, or they can't do that if they follow the law within their zoning",
+        "source": "Chris Chermak, Lackawanna County Commissioner",
+        "url": "https://www.wvia.org/news/local/2026-01-22/lackawanna-county-commissioners-offer-their-thoughts-on-proposed-data-center-developments-in-the-region",
+        "date": "2026-01-22",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "My main thing is, I don't want them next to a neighborhood",
+        "source": "Chris Chermak, Lackawanna County Commissioner",
+        "url": "https://www.wvia.org/news/local/2026-01-22/lackawanna-county-commissioners-offer-their-thoughts-on-proposed-data-center-developments-in-the-region",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "This is something that we're hearing about now from almost every single person that I run into on the street. Everybody has some question or some concern about data centers",
+        "source": "Bill Gaughan, Lackawanna County Commissioner",
+        "url": "https://www.wvia.org/news/local/2026-01-22/lackawanna-county-commissioners-offer-their-thoughts-on-proposed-data-center-developments-in-the-region",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "You can't raise a family in a server rack.",
+        "source": "Bill Gaughan, Lackawanna County Commissioner",
+        "url": "https://www.wvia.org/news/local/2026-01-22/lackawanna-county-commissioners-offer-their-thoughts-on-proposed-data-center-developments-in-the-region",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Everybody's concerned about the things that ... that we're reading about them",
+        "source": "Thom Welby, Lackawanna County Commissioner",
+        "url": "https://www.wvia.org/news/local/2026-01-22/lackawanna-county-commissioners-offer-their-thoughts-on-proposed-data-center-developments-in-the-region",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The basic story is we are kind of getting steamrolled by this company that’s looking to put in this new hyperscale data center a mile or two up the road from my neighborhood,",
+        "source": "Zack Hiller, Fawnwood Resident",
+        "url": "https://lackawannacounty.com/news/community-opposes-proposed-data-center-ransom-township",
+        "date": "2026-01-21",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I think it was a good night for people opposing this dangerous data center,",
+        "source": "Gary DiBileo, Lackawanna County Controller and president of the Keyser Valley Neighborhood Association",
+        "url": "https://www.thetimes-tribune.com/2026/01/20/ransom-twp-supervisors-reject-data-center-zoning-amendment/",
+        "date": "2026-01-20",
+        "stance": "oppose",
+        "emotion": "pride"
+      },
+      {
+        "text": "It’s a constant noise 24 hours a day and I’d probably have to deal with that the rest of my entire life,",
+        "source": "Ken Cruser, Township resident",
+        "url": "https://www.thetimes-tribune.com/2026/01/20/ransom-twp-supervisors-reject-data-center-zoning-amendment/",
+        "date": "2026-01-20",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I think they just weren’t expecting the fight that the people were prepared to give,",
+        "source": "Nikki Bencho, Township resident",
+        "url": "https://www.thetimes-tribune.com/2026/01/20/ransom-twp-supervisors-reject-data-center-zoning-amendment/",
+        "date": "2026-01-20",
+        "stance": "oppose",
+        "emotion": "pride"
+      },
+      {
+        "text": "There’s been nothing presented for the board to consider at this point,",
+        "source": "Laura McGarry, Attorney and Scranton resident",
+        "url": "https://www.thetimes-tribune.com/2026/01/20/ransom-twp-supervisors-reject-data-center-zoning-amendment/",
+        "date": "2026-01-20",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We’re pleased at the outcome of tonight’s proceeding and we’ll continue to be vigilant as any appeals go forward and certainly as any other data centers might be proposed in surrounding areas,",
+        "source": "Paige Gebhardt Cognetti, Scranton Mayor",
+        "url": "https://www.thetimes-tribune.com/2026/01/20/ransom-twp-supervisors-reject-data-center-zoning-amendment/",
+        "date": "2026-01-20",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "I'm sure it doesn't, because when this was done in 2018, data centers were [just] a thought,",
+        "source": "James Murphy, chairman of Ransom Township's planning commission",
+        "url": "https://www.wvia.org/news/local/2026-02-06/data-centers-local-governments-residents-at-odds-with-nepa-projects-despite-promises-of-economic-growth",
+        "date": "2026-01-20",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "This is a hearing, nothing's been heard. They haven't presented any evidence,",
+        "source": "Laura Magnotta, attorney representing her mother",
+        "url": "https://www.wvia.org/news/local/2026-02-06/data-centers-local-governments-residents-at-odds-with-nepa-projects-despite-promises-of-economic-growth",
+        "date": "2026-01-20",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "failed to establish, and cannot establish, that reliance on the validity of the decision challenged in this matter has resulted, or could result, in a use of property that directly affects Appellants' substantial property rights.",
+        "source": "James J. O'Connor, Borough Solicitor",
+        "url": "https://www.thetimes-tribune.com/2026/02/27/data-centers-join-archbald-to-defend-zoning-against-residents-appeal/",
+        "date": "2026-01-16",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "fully and strictly complied",
+        "source": "James J. O'Connor, Borough Solicitor",
+        "url": "https://www.thetimes-tribune.com/2026/02/27/data-centers-join-archbald-to-defend-zoning-against-residents-appeal/",
+        "date": "2026-01-16",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I have not seen a copy of the plan of where this overlay would exist,",
+        "source": "Laura McGarry, resident of Fawnwood development, Keyser Valley section, Scranton",
+        "url": "https://www.thetimes-tribune.com/2026/01/16/dozens-turn-out-to-oppose-proposed-ransom-twp-data-center/",
+        "date": "2026-01-15",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "How can they cross-examine witnesses that they can't hear testify?",
+        "source": "Laura McGarry, resident of Fawnwood development, Keyser Valley section, Scranton",
+        "url": "https://www.thetimes-tribune.com/2026/01/16/dozens-turn-out-to-oppose-proposed-ransom-twp-data-center/",
+        "date": "2026-01-15",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "While we understand that data centers will be built in this region, they need to be built responsibly,",
+        "source": "Paige Gebhardt Cognetti, Scranton Mayor",
+        "url": "https://www.thetimes-tribune.com/2026/01/16/dozens-turn-out-to-oppose-proposed-ransom-twp-data-center/",
+        "date": "2026-01-15",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "There's really no benefit to the citizens,",
+        "source": "Gary DiBileo, Lackawanna County Controller and president of the Keyser Valley Neighborhood Association",
+        "url": "https://www.thetimes-tribune.com/2026/01/16/dozens-turn-out-to-oppose-proposed-ransom-twp-data-center/",
+        "date": "2026-01-15",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "They want to go full speed ahead. But I want them to slow down",
+        "source": "Steve Hacker, East Vincent resident",
+        "url": "https://www.spotlightpa.org/news/2026/01/data-centers-pennsylvania-debate-legislature-environment-environment/",
+        "date": "2026-01-15",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "The Pennsylvania taxpayer, quite frankly, has had enough",
+        "source": "Jamie Walsh, State Rep. (R., Luzerne)",
+        "url": "https://www.spotlightpa.org/news/2026/01/data-centers-pennsylvania-debate-legislature-environment-environment/",
+        "date": "2026-01-15",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "Right now, there’s a real lack of regulation",
+        "source": "Elizabeth Fiedler, State Rep. (D., Philadelphia), chair of House Energy Committee",
+        "url": "https://www.spotlightpa.org/news/2026/01/data-centers-pennsylvania-debate-legislature-environment-environment/",
+        "date": "2026-01-15",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "We have to keep an open mind",
+        "source": "Craig A. Damon II, Township Supervisor, East Vincent",
+        "url": "https://www.spotlightpa.org/news/2026/01/data-centers-pennsylvania-debate-legislature-environment-environment/",
+        "date": "2026-01-15",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "These decisions are being made in vacuums.",
+        "source": "Katie Muth, State Sen. (D., Montgomery)",
+        "url": "https://www.spotlightpa.org/news/2026/01/data-centers-pennsylvania-debate-legislature-environment-environment/",
+        "date": "2026-01-15",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "We're 6,000 people in this town, and we want to just live. Don't you care about the children? Why do you want it near the children?",
+        "source": "Anita Mancuso, Archbald resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/residents-voice-concerns-over-archbald-data-center-plan-lackawanna-county-project-gravity/523-af1be776-d2dd-4cdd-945d-b1342cf4e8c5",
+        "date": "2026-01-06",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "How will these impacts be publicly monitored and recorded?",
+        "source": "Erin Owen, Archbald resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/residents-voice-concerns-over-archbald-data-center-plan-lackawanna-county-project-gravity/523-af1be776-d2dd-4cdd-945d-b1342cf4e8c5",
+        "date": "2026-01-06",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We do not have any control over what the utility rates would be.",
+        "source": "Raymond Rinaldi, Archbald 25 Developer LLC Attorney",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/residents-voice-concerns-over-archbald-data-center-plan-lackawanna-county-project-gravity/523-af1be776-d2dd-4cdd-945d-b1342cf4e8c5",
+        "date": "2026-01-06",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Water is a fixed asset; there's only so much, power can be adjusted.",
+        "source": "Bob Matisse, Archbald resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/residents-voice-concerns-over-archbald-data-center-plan-lackawanna-county-project-gravity/523-af1be776-d2dd-4cdd-945d-b1342cf4e8c5",
+        "date": "2026-01-06",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "That's well within the capacity of Pennsylvania American.",
+        "source": "Brian Yagiello, DEP Program Manager",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/residents-voice-concerns-over-archbald-data-center-plan-lackawanna-county-project-gravity/523-af1be776-d2dd-4cdd-945d-b1342cf4e8c5",
+        "date": "2026-01-06",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "There's a reporting requirement on an annual basis to EPA, where their information is presented.",
+        "source": "Amy Bellanca, DEP Clean Water Program Manager",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/residents-voice-concerns-over-archbald-data-center-plan-lackawanna-county-project-gravity/523-af1be776-d2dd-4cdd-945d-b1342cf4e8c5",
+        "date": "2026-01-06",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think that this is the best data center site in this area of the country, by far.",
+        "source": "Nick Farris, Provident Real Estate Advisors, representing the developer of Project Scott",
+        "url": "https://wjffradio.org/spotlight-pa-six-data-center-campuses-are-planned-for-just-one-pa-borough-residents-are-fighting-back/",
+        "date": "2026-01-01",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I think that this is the best data center site in this area of the country, by far.",
+        "source": "Nick Farris, Provident Real Estate Advisors, representing the developer for Project Scott",
+        "url": "https://www.asheville.com/news/2026/03/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-01-01",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I think that this is the best data center site in this area of the country, by far.",
+        "source": "Nick Farris, Provident Real Estate Advisors, representing Project Scott developer",
+        "url": "https://grist.org/energy/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+        "date": "2026-01",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "The amendment in front of you today was dictated by private landowners and developers, not by the residents of Archbald,",
+        "source": "Kayleigh Cornell, borough resident",
+        "url": "https://www.wvia.org/news/local/2026-02-06/data-centers-local-governments-residents-at-odds-with-nepa-projects-despite-promises-of-economic-growth",
+        "date": "2025-11-24",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "You are destroying our lives if you allow these data centers to come in. You are disrupting this entire community,",
+        "source": "Carolyn Mizanty, resident",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2025-11-24",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Here in Archbald, we are fighting against our local government,",
+        "source": "Tamara Misewicz-Healey, resident",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2025-11-24",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Honestly, it’s broken my heart.",
+        "source": "Tamara Misewicz-Healey, resident",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2025-11-24",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "You basically have Loudoun County, Virginia, phase two,",
+        "source": "John Augustine, president and CEO of Penn's Northeast",
+        "url": "https://www.thetimes-tribune.com/2025/11/14/feasibility-and-impacts-of-29-data-centers-concentrated-in-archbald/",
+        "date": "2025-11-14",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "They're not all going to happen,",
+        "source": "John Augustine, president and CEO of Penn's Northeast",
+        "url": "https://www.thetimes-tribune.com/2025/11/14/feasibility-and-impacts-of-29-data-centers-concentrated-in-archbald/",
+        "date": "2025-11-14",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We don't have the authority to deny service requests simply because of broader concerns about generation supply adequacy,",
+        "source": "Dana N. Burns, PPL spokeswoman",
+        "url": "https://www.thetimes-tribune.com/2025/11/14/feasibility-and-impacts-of-29-data-centers-concentrated-in-archbald/",
+        "date": "2025-11-14",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "That said, we are concerned about resource adequacy in PJM and grid resilience,",
+        "source": "Dana N. Burns, PPL spokeswoman",
+        "url": "https://www.thetimes-tribune.com/2025/11/14/feasibility-and-impacts-of-29-data-centers-concentrated-in-archbald/",
+        "date": "2025-11-14",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "When the mines ceased to be profitable, the owners packed up and moved out. They never cared about the people or the town.",
+        "source": "Madonna Munley, Archbald resident and retired school teacher",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2025-11-05",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "At the end of the day, these data centers are coming.",
+        "source": "Joe Pittman, State Senate Majority Leader (R., Indiana)",
+        "url": "https://www.spotlightpa.org/news/2026/01/data-centers-pennsylvania-debate-legislature-environment-environment/",
+        "date": "2025-11-01",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "Simply because the ordinance does not allow for the most profitable version of your building does not make it exclusionary,",
+        "source": "Amy Kelly, resident",
+        "url": "https://www.wvia.org/news/local/2025-11-18/clifton-twp-zoning-board-will-decide-outcome-of-challenge-to-data-center-zoning-ordinance",
+        "date": "2025-10-29",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We want to have proper protections in place, such as environmental studies, health studies and noise studies,",
+        "source": "Chris Paone, Blakely borough manager and zoning officer",
+        "url": "https://www.thetimes-tribune.com/2025/10/10/more-midvalley-communities-to-regulate-data-centers/",
+        "date": "2025-10-10T21:30:54.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "It reverts us back in the borough to (data centers) being principally permitted in many areas all over Archbald, which also is not ideal,",
+        "source": "Justin Healey, Archbald resident",
+        "url": "https://www.thetimes-tribune.com/2025/10/10/more-midvalley-communities-to-regulate-data-centers/",
+        "date": "2025-10-10T21:30:54.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I think with any of these deals, you’ve got to work with the local community.",
+        "source": "Josh Shapiro, Governor",
+        "url": "https://www.thetimes-tribune.com/2025/10/10/more-midvalley-communities-to-regulate-data-centers/",
+        "date": "2025-10-08",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "A short, correct pause is far better than a permanent wrong vote that hands large companies a map and a legal path into neighborhoods and parks where they don’t even belong.",
+        "source": "Justin Healey, Archbald resident",
+        "url": "https://www.thetimes-tribune.com/2025/10/10/more-midvalley-communities-to-regulate-data-centers/",
+        "date": "2025-10-03",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "I really do believe, and I’ve observed that there is a spectrum of opposition, from absolute objection to data centers to an understanding that data centers are going to become a part of our technology infrastructure across the country, but there are more proper locations than others for them,",
+        "source": "Kyle Mullins, state Rep., D-112, Blakely",
+        "url": "https://www.thetimes-tribune.com/2025/09/28/zoning-hearing-special-meeting-to-shape-archbalds-data-center-future-2/",
+        "date": "2025-09-28",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "That means that the people who are building them are aware that there are negative consequences, and they’re trying to figure out where they’re going to find the least opposition, instead of actual care for communities,",
+        "source": "Rabbi Daniel Swartz, Temple Hesed in Scranton; chair of the Coalition on the Environment and Jewish Life",
+        "url": "https://www.thetimes-tribune.com/2025/09/28/zoning-hearing-special-meeting-to-shape-archbalds-data-center-future-2/",
+        "date": "2025-09-28",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "The proposed data center campus would upend this quiet community,",
+        "source": "Louise Troutman, executive director of Pocono Heritage Land Trust",
+        "url": "https://www.wvia.org/news/local/2025-11-18/clifton-twp-zoning-board-will-decide-outcome-of-challenge-to-data-center-zoning-ordinance",
+        "date": "2025-09",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "To me, that is classic exploitation — big business rolls in and displaces people who need this housing, and where else are they going to go?",
+        "source": "Bill Gaughan, Lackawanna County Commissioner",
+        "url": "https://www.thetimes-tribune.com/2025/08/19/data-center-developer-to-buy-mobile-home-park-in-archbald/",
+        "date": "2025-08-19",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We will help them in any way that we can.",
+        "source": "Bill Gaughan, Lackawanna County Commissioner",
+        "url": "https://www.thetimes-tribune.com/2025/08/19/data-center-developer-to-buy-mobile-home-park-in-archbald/",
+        "date": "2025-08-19",
+        "stance": "neutral",
+        "emotion": "hope"
+      },
+      {
+        "text": "Do we have to move? I've got a son that's going to be a junior in high school. I got to move him in his last year of school",
+        "source": "George Blair, Archbald resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-concerned-over-proposed-data-center-valley-view-estates-eynon-jermyn-road-ai/523-372d808e-4968-4812-b578-51270cc983b0",
+        "date": "2025-08-19",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "You want you want a place for a data center? Put them on the other side of the case. You got mountains over there. Put them over there. Why here? Displace families",
+        "source": "George Blair, Archbald resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-concerned-over-proposed-data-center-valley-view-estates-eynon-jermyn-road-ai/523-372d808e-4968-4812-b578-51270cc983b0",
+        "date": "2025-08-19",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We're all pretty close. I mean, we treat each other like family",
+        "source": "Tina Goble, Archbald resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-concerned-over-proposed-data-center-valley-view-estates-eynon-jermyn-road-ai/523-372d808e-4968-4812-b578-51270cc983b0",
+        "date": "2025-08-19",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "It's like a slap in the face for one, trying to find a place that we can call our own, that's two.",
+        "source": "Robert Blair, Archbald resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-concerned-over-proposed-data-center-valley-view-estates-eynon-jermyn-road-ai/523-372d808e-4968-4812-b578-51270cc983b0",
+        "date": "2025-08-19",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "There’s really nothing around here that I can afford,",
+        "source": "Tina Goble, Valley View Estates resident",
+        "url": "https://www.thetimes-tribune.com/2025/08/19/data-center-developer-to-buy-mobile-home-park-in-archbald/",
+        "date": "2025-08-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I didn’t know that poor people were the ones that you just wipe off the face of the earth,",
+        "source": "Candice May, Valley View Estates resident",
+        "url": "https://www.thetimes-tribune.com/2025/08/19/data-center-developer-to-buy-mobile-home-park-in-archbald/",
+        "date": "2025-08-18",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "A lot of people don’t have the knowledge to fight this type of fight. These people have more money, more power.",
+        "source": "Candice May, Valley View Estates resident",
+        "url": "https://www.thetimes-tribune.com/2025/08/19/data-center-developer-to-buy-mobile-home-park-in-archbald/",
+        "date": "2025-08-18",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We’re not changing the zones, we’re just overlaying these specific areas that were requested specifically by developers and potential developers saying, ‘Hey, we would like to put a data center here,’",
+        "source": "Dan Markey, Archbald borough Manager",
+        "url": "https://lackawannacounty.com/news/archbald-jessup-work-toward-data-center-zoning-developers-target-towns",
+        "date": "2025-07-24",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We just want to make sure that the location where these large data center campuses are going is what’s best for the community,",
+        "source": "Curt Camoni, Jessup Councilman",
+        "url": "https://lackawannacounty.com/news/archbald-jessup-work-toward-data-center-zoning-developers-target-towns",
+        "date": "2025-07-24",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We just want to make sure that where they are located is in the best interest of the residents of Jessup.",
+        "source": "Curt Camoni, Jessup Councilman",
+        "url": "https://lackawannacounty.com/news/archbald-jessup-work-toward-data-center-zoning-developers-target-towns",
+        "date": "2025-07-24",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The approval of this project will be premature, and irresponsible mistake, and a devastation to all who reside in the North Pocono school district,",
+        "source": "Davailus Grassi, Covington Township resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-oppose-development-of-proposed-data-center-covington-township/523-b0e39051-dc3e-406e-a10d-7b59a62f3ca4",
+        "date": "2025-07-24",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "This will go down in history as the biggest mistake the North Pocono area has ever seen, with the largest negative impact to our whole community,",
+        "source": "Brittany Terbovich, Covington Township resident",
+        "url": "https://www.wnep.com/article/news/local/lackawanna-county/lackawanna-county-residents-oppose-development-of-proposed-data-center-covington-township/523-b0e39051-dc3e-406e-a10d-7b59a62f3ca4",
+        "date": "2025-07-24",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "If the zoning hearing board decides that the zoning ordinance is defective, the zoning hearing board will hear testimony regarding what amendments to the … zoning ordinance are necessary to cure the defects,",
+        "source": "Tom Nanovic, zoning board attorney",
+        "url": "https://www.wvia.org/news/local/2025-11-18/clifton-twp-zoning-board-will-decide-outcome-of-challenge-to-data-center-zoning-ordinance",
+        "date": "2025-07",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We have the trifecta. We have the power, we have the fiber (internet), and we have the land.",
+        "source": "Dan Markey, Archbald borough manager",
+        "url": "https://www.thetimes-tribune.com/2025/05/18/data-centers-could-reshape-landscape-in-nepa/",
+        "date": "2025-05-18T04:00:33.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "With the data centers, we're not for or against them. We just want the residents to benefit as much as possible from them.",
+        "source": "Kayleigh Cornell, Archbald Neighborhood Association co-founder",
+        "url": "https://www.thetimes-tribune.com/2025/05/18/data-centers-could-reshape-landscape-in-nepa/",
+        "date": "2025-05-18T04:00:33.000Z",
+        "stance": "neutral",
+        "emotion": "hope"
+      },
+      {
+        "text": "Hopefully we could get them to be better neighbors and implement some of the strategies that other municipalities have used,",
+        "source": "Kayleigh Cornell, Archbald Neighborhood Association co-founder",
+        "url": "https://www.thetimes-tribune.com/2025/05/18/data-centers-could-reshape-landscape-in-nepa/",
+        "date": "2025-05-18T04:00:33.000Z",
+        "stance": "neutral",
+        "emotion": "hope"
+      },
+      {
+        "text": "We want you to adopt regulations first to attract the good data centers, the ones that are good neighbors with lots of tax benefits, and discourage those that would cause the excessive impacts that some data centers have caused,",
+        "source": "Richard Klein, founder and president, Community & Environmental Defense Services",
+        "url": "https://www.thetimes-tribune.com/2025/05/18/data-centers-could-reshape-landscape-in-nepa/",
+        "date": "2025-05-18T04:00:33.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Cloud computing, computer programs themselves, also play a role in data centers, but really, AI is driving this fast-moving train,",
+        "source": "John Augustine, president and CEO of Penn's Northeast",
+        "url": "https://www.thetimes-tribune.com/2025/05/18/data-centers-could-reshape-landscape-in-nepa/",
+        "date": "2025-05-18T04:00:33.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "To this region, data centers will be what coal and steel were to this region,",
+        "source": "Anthony Maras, attorney for 1778 Rich Pike LLC",
+        "url": "https://www.wvia.org/news/local/2025-11-18/clifton-twp-zoning-board-will-decide-outcome-of-challenge-to-data-center-zoning-ordinance",
+        "date": "2025-04-17",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Five developers plan six data center campuses in Archbald, covering 14 percent of the town, with 51 buildings.",
+      "Eleven of Pennsylvania's 50+ data center campuses in development are slated for Lackawanna County.",
+      "One Archbald campus is expected to use more power than the region's largest power plant can produce.",
+      "Under Pennsylvania law, towns must zone for all uses, so Archbald cannot exclude data centers outright.",
+      "Stop Archbald Data Centers Facebook group has over 5,000 members.",
+      "Five developers plan six data center campuses in Archbald, covering 14 percent of the town",
+      "Archbald's six campuses comprise 51 buildings, the most of any Pennsylvania municipality",
+      "Eleven data center campuses are slated for Lackawanna County; over 50 in development statewide",
+      "Stop Archbald Data Centers Facebook group has over 5,000 members",
+      "Pennsylvania law requires towns to zone for all uses, so data centers cannot be excluded",
+      "PPL open house on Archbald Mountain transmission project is March 31, 2026, 6-8 p.m., at Throop Community Civic Center",
+      "PPL expects construction to begin summer 2027 and finish summer 2030, pending Pennsylvania PUC approval",
+      "Plan includes a new 500/230 kV Archbald Mountain Substation and three new 230 kV switchyards (Winton, Callender Gap, Sturges) with eight miles of new 230 kV lines",
+      "New lines would be built in Archbald, Jessup, Olyphant and Jefferson Twp. and need a 250-foot-wide right-of-way",
+      "PPL would not say whether the new customers are data centers",
+      "Second conditional use hearing for Archbald I LLC data center campus was postponed on March 23, 2026 because the notice was not properly advertised in the Scranton Times",
+      "More than 100 residents attended despite the cancellation",
+      "Six data center campuses are proposed in Archbald, totaling more than 50 buildings",
+      "Proposed campus covers about 400 acres between Business Route 6 and Eynon-Jermyn Road near Staback Park",
+      "Stop Archbald Data Centers has sold more than 700 yard signs",
+      "Archbald council hearing on Archbald I LLC's conditional use application was postponed March 23, 2026 because The Times-Tribune did not publish public notices",
+      "At least 150 residents attended the roughly three-minute Archbald meeting",
+      "Archbald I LLC filed its conditional use application Dec. 16 and council held its first hearing Feb. 11",
+      "Jessup Zoning Hearing Board continued the Sunnyside Road height variance hearing; next hearing is one of April 21, 22 or 28",
+      "Jessup's height limit in the district is 50 feet; proposed data center is 90 feet",
+      "Five developers plan six data center campuses in Archbald, covering 14% of the town and evicting a trailer park",
+      "Archbald's six campuses comprise 51 buildings, the most of any Pennsylvania municipality",
+      "Eleven of over 50 Pennsylvania data center campuses in development are slated for Lackawanna County",
+      "About 150 people attended a January 2026 meeting at Valley View High School auditorium",
+      "Stop Archbald Data Centers Facebook group has over 5,000 members",
+      "Five developers plan six data center campuses in Archbald, covering 14 percent of the town",
+      "Archbald's six campuses comprise 51 buildings, the most of any Pennsylvania municipality",
+      "Eleven of Pennsylvania's 50+ data center campuses in development are in Lackawanna County",
+      "Plans would evict a trailer park",
+      "Stop Archbald Data Centers Facebook group has over 5,000 members",
+      "Six data center campuses with 51 buildings are proposed in Archbald, the most in Northeast Pennsylvania",
+      "At least 12 data center projects are proposed in Lackawanna County",
+      "PAW has 45 million gallons per day of available capacity in the Scranton/Wilkes-Barre area",
+      "Wildcat Ridge's 1.6 GW request could equal up to 26.7% of PPL's typical load",
+      "PPL projects transmission rates drop 10% when the first gigawatt of data center load comes online"
+    ],
+    "groups": [
+      {
+        "name": "Stop Archbald Data Centers",
+        "url": "https://wjffradio.org/spotlight-pa-six-data-center-campuses-are-planned-for-just-one-pa-borough-residents-are-fighting-back/",
+        "date": "2026-03-26T16:01:45.000Z"
+      },
+      {
+        "name": "Scranton-Abingtons Planning Association",
+        "url": "https://www.thetimes-tribune.com/2026/02/22/lackawanna-county-communities-told-to-address-data-centers-on-their-own/",
+        "date": "2026-02-22T05:00:24.000Z"
+      },
+      {
+        "name": "Stop Archbald Data Centers Group",
+        "url": "https://fox56.com/news/local/archbald-1-llc-seeks-approval-for-400-acre-18-building-data-center-complex",
+        "date": "2026-02-12T07:03:48.000Z"
+      },
+      {
+        "name": "Keyser Valley Neighborhood Association",
+        "url": "https://www.thetimes-tribune.com/2026/02/09/archbald-dickson-city-hearings-this-week-focus-on-data-centers/",
+        "date": "2026-02-09T22:44:37.000Z"
+      },
+      {
+        "name": "Penn Future",
+        "url": "https://www.wvia.org/news/local/2026-02-06/data-centers-local-governments-residents-at-odds-with-nepa-projects-despite-promises-of-economic-growth",
+        "date": "2026-02-06T06:00:00.000Z"
+      },
+      {
+        "name": "Trust for Public Land",
+        "url": "https://www.wvia.org/news/local/2026-02-06/data-centers-local-governments-residents-at-odds-with-nepa-projects-despite-promises-of-economic-growth",
+        "date": "2026-02-06T06:00:00.000Z"
+      },
+      {
+        "name": "Barton Brothers Partnership",
+        "url": "https://www.wvia.org/news/local/2026-02-04/data-centers-residents-fear-negative-impacts-on-water-resources-as-data-centers-are-proposed-across-northeast-pa",
+        "date": "2026-02-04T05:00:00.000Z"
+      },
+      {
+        "name": "Data Center Coalition",
+        "url": "https://www.wvia.org/news/local/2026-02-04/data-centers-residents-fear-negative-impacts-on-water-resources-as-data-centers-are-proposed-across-northeast-pa",
+        "date": "2026-02-04T05:00:00.000Z"
+      },
+      {
+        "name": "Pocono Heritage Land Trust",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-28T05:00:00.000Z"
+      },
+      {
+        "name": "PennFuture",
+        "url": "https://www.wvia.org/news/local/2026-01-28/lackawanna-county-judge-holds-hearing-on-clifton-twp-data-center-settlement-challenges",
+        "date": "2026-01-28T05:00:00.000Z"
+      },
+      {
+        "name": "Petition opposing Ransom Twp. data center",
+        "url": "https://www.thetimes-tribune.com/2026/01/20/ransom-twp-supervisors-reject-data-center-zoning-amendment/",
+        "date": "2026-01-21T03:44:07.000Z"
+      },
+      {
+        "name": "Archbald residents petition under Pennsylvania Municipalities Planning Code",
+        "url": "https://www.thetimes-tribune.com/2025/10/10/more-midvalley-communities-to-regulate-data-centers/",
+        "date": "2025-10-10T21:30:54.000Z"
+      },
+      {
+        "name": "Coalition on the Environment and Jewish Life",
+        "url": "https://www.thetimes-tribune.com/2025/09/28/zoning-hearing-special-meeting-to-shape-archbalds-data-center-future-2/",
+        "date": "2025-09-28T19:19:59.000Z"
+      },
+      {
+        "name": "Archbald Neighborhood Association",
+        "url": "https://www.thetimes-tribune.com/2025/05/18/data-centers-could-reshape-landscape-in-nepa/",
+        "date": "2025-05-18T04:00:33.000Z"
+      }
+    ]
+  },
+  "42071": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "42075": {
+    "news": [
+      {
+        "title": "Neighbors uneasy about South Annville data center proposal -",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/05/neighbors-uneasy-about-south-annville-data-center-proposal/",
+        "date": "2026-05-01T00:00:00.000Z",
+        "source": "Altoona Mirror",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I would rather not see it",
+        "source": "Rick Pyles, South Annville Township resident",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/05/neighbors-uneasy-about-south-annville-data-center-proposal/",
+        "date": "2026-05-01",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "In these front-line communities, there are very real concerns",
+        "source": "Ginny Marcille-Kerslake, senior organizer, Food & Water Watch",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/05/neighbors-uneasy-about-south-annville-data-center-proposal/",
+        "date": "2026-05-01",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Would you want that in your back yard? I'll be able to see it. Hear it,",
+        "source": "David Risser, lives near the South Annville Township site",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/05/neighbors-uneasy-about-south-annville-data-center-proposal/",
+        "date": "2026-05-01",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Where they belong is up to the municipalities.",
+        "source": "Bob Phillips, Lebanon County Commissioner",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/05/neighbors-uneasy-about-south-annville-data-center-proposal/",
+        "date": "2026-05-01",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We all -- the public -- need to be educated more",
+        "source": "Jeanette Henning, Township Manager, South Annville",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/05/neighbors-uneasy-about-south-annville-data-center-proposal/",
+        "date": "2026-05-01",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "East Vincent Township supervisors opened a conditional use hearing last week on a six-building, 1.4 million sq ft data center campus at the former Pennhurst site in Chester County",
+      "East Vincent Planning Commission voted to recommend rejecting the request",
+      "South Annville Township received a rezoning request for 99 acres; most contacts oppose it",
+      "Gov. Shapiro proposed the GRID rules; no bipartisan legislative agreement yet",
+      "Limerick Township Planning Commission held a three-hour-plus meeting on the proposed 2.8 million sq ft data center"
+    ],
+    "groups": [
+      {
+        "name": "Food & Water Watch",
+        "url": "https://www.altoonamirror.com/news/local-news/2026/05/neighbors-uneasy-about-south-annville-data-center-proposal/",
+        "date": "2026-05-01T00:00:00.000Z"
+      }
+    ]
+  },
+  "42079": {
+    "news": [
+      {
+        "title": "Salem Twp. rezones 1,582 acres for multibillion-dollar Amazon data center campus near power plants – Wilkes-Barre Citizens' Voice",
+        "url": "https://www.citizensvoice.com/2024/05/29/salem-twp-rezones-1582-acres-for-multibillion-dollar-amazon-data-center-campus-near-power-plants/",
+        "date": "2024-05-29T06:00:00.000Z",
+        "source": "Wilkes-Barre Citizens' Voice",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "When there is more of something, what you have is worth less,",
+        "source": "Brian Danowski, Salem Twp. resident who owns 30 acres of industrial-zoned land",
+        "url": "https://www.citizensvoice.com/2024/05/29/salem-twp-rezones-1582-acres-for-multibillion-dollar-amazon-data-center-campus-near-power-plants/",
+        "date": "2024-05-28",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "It's great the community came out. It's a project the community should know about and participate in,",
+        "source": "Jeff Wilhelm, Amazon's attorney, Reed Smith",
+        "url": "https://www.citizensvoice.com/2024/05/29/salem-twp-rezones-1582-acres-for-multibillion-dollar-amazon-data-center-campus-near-power-plants/",
+        "date": "2024-05-28",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We purposely chose this site because of the proximity to the power,",
+        "source": "John Parsons, real estate principal with Amazon Web Services",
+        "url": "https://www.citizensvoice.com/2024/05/29/salem-twp-rezones-1582-acres-for-multibillion-dollar-amazon-data-center-campus-near-power-plants/",
+        "date": "2024-05-28",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We are willing to potentially walk away from our lives if we have to. But we are not willing to do it for pennies on the dollar,",
+        "source": "Michael Hodgson, Mingle Hill Road property owner",
+        "url": "https://www.citizensvoice.com/2024/05/29/salem-twp-rezones-1582-acres-for-multibillion-dollar-amazon-data-center-campus-near-power-plants/",
+        "date": "2024-05-28",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Salem Twp. supervisors voted 3-0 on May 28, 2024 to rezone 1,582 acres into a Special Data Center Overlay District",
+      "Amazon plans 15 data center buildings over the next decade with up to 600 jobs paying about $80,000 a year",
+      "Amazon bought Talen's Cumulus data center for $650 million in March 2024",
+      "Township LERTA gives Amazon a 70% tax discount for 10 years",
+      "46 parcels make up the overlay district"
+    ],
+    "groups": []
+  },
+  "42091": {
+    "news": [
+      {
+        "title": "Plymouth Twp. zoning meeting turns raucous over Brian O'Neill's plans for a data center",
+        "url": "https://www.inquirer.com/real-estate/commercial/plymouth-township-data-center-brian-oneill-20260807.html",
+        "date": "2026-08-07T17:06:15.000Z",
+        "source": "The Philadelphia Inquirer",
+        "stance": "oppose"
+      },
+      {
+        "title": "Developer Brian O'Neill defends Montgomery County data center proposals amid growing opposition - 6abc Philadelphia",
+        "url": "https://6abc.com/post/developer-brian-oneill-defends-montgomery-county-data-center-proposals-amid-growing-opposition/19637634/",
+        "date": "2026-08-06T22:33:00.000Z",
+        "source": "6abc Philadelphia",
+        "stance": "neutral"
+      },
+      {
+        "title": "Plymouth Township data center fight continues – NBC10 Philadelphia",
+        "url": "https://www.nbcphiladelphia.com/news/local/proposed-data-center-faces-renewed-opposition-in-plymouth-township/4444474/",
+        "date": "2026-08-06T20:16:27.000Z",
+        "source": "NBC10 Philadelphia",
+        "stance": null
+      },
+      {
+        "title": "Limerick residents oppose proposed data center project – NBC10 Philadelphia",
+        "url": "https://www.nbcphiladelphia.com/news/local/limerick-residents-protest-proposed-2-8-million-square-foot-data-center/4436782/",
+        "date": "2026-07-22T03:25:30.000Z",
+        "source": "NBC10 Philadelphia",
+        "stance": "oppose"
+      },
+      {
+        "title": "‘I was hoping it would be our forever home’: Data center proposal threatens East Greenville farm | Upper Montgomery County | wfmz.com",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/i-was-hoping-it-would-be-our-forever-home-data-center-proposal-threatens-east-greenville/article_1411e25b-3632-42d5-b199-971bb4b711c8.html",
+        "date": "2026-07-07T23:43:00.000Z",
+        "source": "WFMZ",
+        "stance": "oppose"
+      },
+      {
+        "title": "Residents voice concerns over proposed Upper Merion data centers – NBC10 Philadelphia",
+        "url": "https://www.nbcphiladelphia.com/news/local/data-centers-proposal-meeting-upper-merion-pennsylvania/4408503/",
+        "date": "2026-05-28T02:44:04.000Z",
+        "source": "NBC10 Philadelphia",
+        "stance": "oppose"
+      },
+      {
+        "title": "‘Should I be concerned?’: Residents denied entry to hearing as Limerick data center fight intensifies | Upper Montgomery County | wfmz.com",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/should-i-be-concerned-residents-denied-entry-to-hearing-as-limerick-data-center-fight-intensifies/article_d1a5055f-df2b-43ab-831f-f7e92c413bb5.html",
+        "date": "2026-05-12T02:00:00.000Z",
+        "source": "WFMZ",
+        "stance": null
+      },
+      {
+        "title": "Massive new AI data center proposed for Limerick Twp. | Upper Montgomery County | wfmz.com",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/massive-new-ai-data-center-proposed-for-limerick-twp/article_27c4563f-3362-4fc1-bb0e-41951a55faf2.html",
+        "date": "2026-01-13T23:00:00.000Z",
+        "source": "WFMZ",
+        "stance": "neutral"
+      },
+      {
+        "title": "Montgomery County, PA · Data Center Ballot",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": null,
+        "source": "dcmap.us",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I can see this site from my porch,",
+        "source": "Christine Bertino, Conshohocken resident",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": "2026-10-15",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We need to stay informed and stay vigilant.",
+        "source": "Upper Merion Against Data Centers, Resident group",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": "2026-10",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "vote no on all five of these proposals tonight.",
+        "source": "Zach Davis, Resident",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": "2026-08-13",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "It's clear as day that this application is insufficient.",
+        "source": "Charles Campbell, attorney representing nearby property owners",
+        "url": "https://www.inquirer.com/real-estate/commercial/plymouth-township-data-center-brian-oneill-20260807.html",
+        "date": "2026-08-07",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "If they don't work with us in good faith, we're going to get it by right.",
+        "source": "Brian O'Neill, developer",
+        "url": "https://www.inquirer.com/real-estate/commercial/plymouth-township-data-center-brian-oneill-20260807.html",
+        "date": "2026-08-07",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I walk my dog every day by that building.",
+        "source": "Frances Wood, resident, West Elm Street",
+        "url": "https://www.inquirer.com/real-estate/commercial/plymouth-township-data-center-brian-oneill-20260807.html",
+        "date": "2026-08-07",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "In that environment, can I win? No. Will I win legally? Absolutely.",
+        "source": "Brian O'Neill, developer, MLP Ventures",
+        "url": "https://6abc.com/post/developer-brian-oneill-defends-montgomery-county-data-center-proposals-amid-growing-opposition/19637634/",
+        "date": "2026-08-06T22:33:00.000Z",
+        "stance": "support",
+        "emotion": "anger"
+      },
+      {
+        "text": "Nothing he has said so far has made me feel comfortable as a resident who lives right across from the area, whose kids will wait at the bus stop right across the area",
+        "source": "Amber Boyd-Finch, Plymouth Township resident",
+        "url": "https://www.nbcphiladelphia.com/news/local/proposed-data-center-faces-renewed-opposition-in-plymouth-township/4444474/",
+        "date": "2026-08-06",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "I think it's a lot of upset people getting bad information from bad actors",
+        "source": "Brian O'Neill, developer with MLP Ventures",
+        "url": "https://www.nbcphiladelphia.com/news/local/proposed-data-center-faces-renewed-opposition-in-plymouth-township/4444474/",
+        "date": "2026-08-06",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "The applicant has rejected the township's concerns.",
+        "source": "Lynne Viscio, Council President, Plymouth Township",
+        "url": "https://6abc.com/post/developer-brian-oneill-defends-montgomery-county-data-center-proposals-amid-growing-opposition/19637634/",
+        "date": "2026-07-27",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I'm protesting the data center because I think there is absolutely nothing good about it,",
+        "source": "Jay Delabarre, protester",
+        "url": "https://www.nbcphiladelphia.com/news/local/limerick-residents-protest-proposed-2-8-million-square-foot-data-center/4436782/",
+        "date": "2026-07-21",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "It's unfortunate. It's really all I can say.",
+        "source": "Anne Klepfer, Township Manager",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/i-was-hoping-it-would-be-our-forever-home-data-center-proposal-threatens-east-greenville/article_1411e25b-3632-42d5-b199-971bb4b711c8.html",
+        "date": "2026-07-07T23:43:00.000Z",
+        "stance": "neutral",
+        "emotion": "sadness"
+      },
+      {
+        "text": "It's very peaceful, Mill Hill Preservation starts right there, where it dips down and goes up back there. It's just a beautiful view.",
+        "source": "Kelsey Kemmerer",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/i-was-hoping-it-would-be-our-forever-home-data-center-proposal-threatens-east-greenville/article_1411e25b-3632-42d5-b199-971bb4b711c8.html",
+        "date": "2026-07-07T23:43:00.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "That decision is likely to be appealed. Either the applicant will appeal our decision, or we may appeal the decision, or a party to the hearing may appeal the decision.",
+        "source": "Anne Klepfer, Township Manager",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/i-was-hoping-it-would-be-our-forever-home-data-center-proposal-threatens-east-greenville/article_1411e25b-3632-42d5-b199-971bb4b711c8.html",
+        "date": "2026-07-07T23:43:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We would move.",
+        "source": "Kelsey Kemmerer, Neighbor",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": "2026-07",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "We are voluntarily complying across the board,",
+        "source": "Brian O'Neill, MLP Ventures founder",
+        "url": "https://www.nbcphiladelphia.com/news/local/data-centers-proposal-meeting-upper-merion-pennsylvania/4408503/",
+        "date": "2026-05-28",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I do think they want us to leave. I think that it's almost a filibuster where they are over explaining and just giving a bunch of non answers,",
+        "source": "Chloe Dashner, Upper Merion resident",
+        "url": "https://www.nbcphiladelphia.com/news/local/data-centers-proposal-meeting-upper-merion-pennsylvania/4408503/",
+        "date": "2026-05-27",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "It's unfathomable how big some of these facilities are. The noise pollution, the heat that is all going to cause,",
+        "source": "Vincent Barrett, Upper Merion resident",
+        "url": "https://www.nbcphiladelphia.com/news/local/data-centers-proposal-meeting-upper-merion-pennsylvania/4408503/",
+        "date": "2026-05-27",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We have nothing to hide. We've been good neighbors for a long time and we intend to continue to be good neighbors in Upper Merion,",
+        "source": "Brian O'Neill, MLP Ventures founder",
+        "url": "https://www.nbcphiladelphia.com/news/local/data-centers-proposal-meeting-upper-merion-pennsylvania/4408503/",
+        "date": "2026-05-27",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "It does feel like it's moving very, very fast,",
+        "source": "Meagan Smolsky, resident",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/should-i-be-concerned-residents-denied-entry-to-hearing-as-limerick-data-center-fight-intensifies/article_d1a5055f-df2b-43ab-831f-f7e92c413bb5.html",
+        "date": "2026-05-11",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "I still don't know why I was denied, and why other people were approved. That hasn't been addressed. It felt very arbitrary,",
+        "source": "Meagan Smolsky, resident",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/should-i-be-concerned-residents-denied-entry-to-hearing-as-limerick-data-center-fight-intensifies/article_d1a5055f-df2b-43ab-831f-f7e92c413bb5.html",
+        "date": "2026-05-11",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "Limerick's got enough already and it doesn't need this center,",
+        "source": "Tim Thornton, Limerick Township resident",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/should-i-be-concerned-residents-denied-entry-to-hearing-as-limerick-data-center-fight-intensifies/article_d1a5055f-df2b-43ab-831f-f7e92c413bb5.html",
+        "date": "2026-05-11",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "They were threats about politicians should be violently removed from office.",
+        "source": "Daniel Kerr, Township Manager",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/should-i-be-concerned-residents-denied-entry-to-hearing-as-limerick-data-center-fight-intensifies/article_d1a5055f-df2b-43ab-831f-f7e92c413bb5.html",
+        "date": "2026-05-11",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "As far as I'm concerned, as long as they can put it up without bothering me, I don't have a problem with that. Not at all,",
+        "source": "Tom Guiomber, Limerick Township resident",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/massive-new-ai-data-center-proposed-for-limerick-twp/article_27c4563f-3362-4fc1-bb0e-41951a55faf2.html",
+        "date": "2026-01-13T23:00:00.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I didn't really care really, but when they start offering big money, then I was interested,",
+        "source": "John Platchek, Limerick Township resident",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/massive-new-ai-data-center-proposed-for-limerick-twp/article_27c4563f-3362-4fc1-bb0e-41951a55faf2.html",
+        "date": "2026-01-13T23:00:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Plymouth Zoning Hearing Board held its first hearing on O'Neill's special exception application at Colonial Middle School on Thursday, Aug. 6, 2026",
+      "Hearing expected to continue in September",
+      "Gov. Josh Shapiro publicly called the plan 'the exact wrong way to do development'",
+      "Montgomery County commissioners and township council have publicly opposed the project",
+      "O'Neill's 4Ward Planning report estimates $21.11 million a year in taxes and 5,000 construction jobs a year over three years",
+      "Plymouth Township Council announced unanimous opposition to the Conshohocken Road proposal",
+      "Council officials say O'Neill rejected more than 40 proposed safeguards and conditions",
+      "The project is projected to create 800 permanent jobs, nearly 400 on-site, per the developer",
+      "A Plymouth Township zoning hearing was scheduled for Thursday evening",
+      "Plymouth Township Zoning Hearing on August 6, 2026 ended without a decision on the proposed two million-square-foot data center",
+      "Board is expected to decide on August 17, 2026 at the next hearing",
+      "Developer says it has agreed to about 90% of the township's demands",
+      "MCD 7 LLC proposes eight two-story data centers totaling 2.8 million square feet on a 191-acre property in Limerick Township",
+      "About 20 protesters gathered along Ridge Pike before a township hearing on the proposal",
+      "Township officials said construction could be two years away if the company receives approval",
+      "Hanover Land Development proposed a 150,000 square foot data center on 37 acres of farmland in East Greenville area",
+      "Township passed a data center ordinance in June prohibiting data centers in the affected area",
+      "Hanover Land Development submitted its data center application just hours before the June 9 township vote",
+      "About 400 residents attended a Tuesday night township meeting, 20 times the typical number",
+      "A conditional use and zoning validity challenge hearing is set for fall",
+      "More than 8,000 people had signed a petition opposing the proposal as of Tuesday, May 26, 2026",
+      "Proposal would build eight data centers in Upper Merion Township, Montgomery County, Pennsylvania",
+      "Packed public hearing held Wednesday, May 27, 2026; no decision was made that night",
+      "Residents raised concerns about power grid strain, water use for cooling, air pollution and noise",
+      "Conditional use hearing held Monday night at Limerick Township administration building to consider the proposed Project Laurel Data Center",
+      "Project would span 3 million square feet, stand 85 feet tall, use 750 megawatts of electricity",
+      "Township has a data center public hearing scheduled every month through August; next hearing June 16",
+      "Hearings moved from Spring Ford Area High School to the township building for safety concerns after online threats",
+      "Even if approved, developer would need Pennsylvania DEP environmental approval, which could take another year before construction",
+      "Project Laurel Data Center is proposed by MDC 7, LLC on about 190 acres in Limerick Township, Montgomery County, PA",
+      "The campus would use at least 750,000 gallons of water per day and roughly 750 megawatts of electricity",
+      "The campus would house servers in 8 buildings totaling close to 3 million square feet",
+      "Supervisors unanimously denied preliminary plans for five data centers totaling about 4.6 million sq ft on Aug. 13, 2026",
+      "Developers MLP Ventures and Brian O'Neill withdrew seven zoning hearing board appeals on Oct. 19, 2026; court suits continue",
+      "Online change.org petition against the King of Prussia campus had more than 17,000 signatures by mid-August 2026, later over 20,000",
+      "Developer Brian O'Neill estimated $55.4 million a year in local tax revenue, nearly $38 million to the school district",
+      "Upper Hanover adopted a data center ordinance in June 2026 hours after Hanover Development filed its application"
+    ],
+    "groups": [
+      {
+        "name": "Plymouth Township residents",
+        "url": "https://www.inquirer.com/real-estate/commercial/plymouth-township-data-center-brian-oneill-20260807.html",
+        "date": "2026-08-07T17:06:15.000Z"
+      },
+      {
+        "name": "Upper Merion residents petition",
+        "url": "https://www.nbcphiladelphia.com/news/local/data-centers-proposal-meeting-upper-merion-pennsylvania/4408503/",
+        "date": "2026-05-28T02:44:04.000Z"
+      },
+      {
+        "name": "Prevent Limerick Data Center Development",
+        "url": "https://www.wfmz.com/news/area/southeastern-pa/upper-montgomery-county/should-i-be-concerned-residents-denied-entry-to-hearing-as-limerick-data-center-fight-intensifies/article_d1a5055f-df2b-43ab-831f-f7e92c413bb5.html",
+        "date": "2026-05-12T02:00:00.000Z"
+      },
+      {
+        "name": "Upper Perkiomen Valley Data Center Opposition",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": null
+      },
+      {
+        "name": "Upper Merion Against Data Centers",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": null
+      },
+      {
+        "name": "No AI data centers in King of Prussia Petition",
+        "url": "https://ballot.dcmap.us/county/42091",
+        "date": null
+      }
+    ]
+  },
+  "42125": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "42127": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "42129": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

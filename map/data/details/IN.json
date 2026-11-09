@@ -1,0 +1,2646 @@
+{
+  "18003": {
+    "news": [
+      {
+        "title": "Allen County commissioners approve rezoning, vacation for data center | Local Government | journalgazette.net",
+        "url": "https://www.journalgazette.net/local/local-government/allen-county-commissioners-approve-rezoning-vacation-for-data-center/article_9963e0b0-9078-11ee-a6e2-f384caa19578.html",
+        "date": "2023-12-01T18:36:00.000Z",
+        "source": "The Journal Gazette",
+        "stance": "support"
+      }
+    ],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/fortwayne/comments/1p3he3h/call_state_legislators_about_google_data_center/",
+        "text": "Call state legislators about Google Data Center.\n\nTalk to your state legislator about Google/ Hatchworks LLC and IDEM. Inform them about the Google Data Center, tell them about AEP utility rate hikes being passed onto the community. Inform them about the Diesel Generators. The blatant corruption of past and current city council. Tell them that we need a moratorium on data centers, tell them we need a community Benefit Agreement, and that IDEM needs to raise their standards to not let major corporations take advantage of us. Ask your legislators to have a meeting before December 15th.\nComment below what your result for legislator is!\nLinks: Community Benefit Agreement FAQ sheet and informational website: https://www.energy.gov/sites/default/files/2024-12/CBA%20Guidance%20FAQ.pdf https://goodjobsfirst.org/community-benefit-agreements-with-data-centers-can-help-mitigate-harms/\nUse this link below to find your Senators and Reps!: https://iga.in.gov/information/find-legislators\nSubstack abo",
+        "date": "2025-11-22T02:10:06.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "No one’s willing to ask the difficult questions, delay the project, get the answers we need,",
+        "source": "Jason Miller, resident living near the proposed site",
+        "url": "https://www.journalgazette.net/local/local-government/allen-county-commissioners-approve-rezoning-vacation-for-data-center/article_9963e0b0-9078-11ee-a6e2-f384caa19578.html",
+        "date": "2023-12-01",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I think it’s a great project,",
+        "source": "Nelson Peters, Commissioner, R-1st",
+        "url": "https://www.journalgazette.net/local/local-government/allen-county-commissioners-approve-rezoning-vacation-for-data-center/article_9963e0b0-9078-11ee-a6e2-f384caa19578.html",
+        "date": "2023-12-01",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "When I hear that it’s a Fortune 100 company, my contention is they are going to act responsibly,",
+        "source": "Nelson Peters, Commissioner, R-1st",
+        "url": "https://www.journalgazette.net/local/local-government/allen-county-commissioners-approve-rezoning-vacation-for-data-center/article_9963e0b0-9078-11ee-a6e2-f384caa19578.html",
+        "date": "2023-12-01",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Residents asked to contact state legislators to request a meeting before December 15th",
+      "Campaign seeks a data center moratorium and a community benefit agreement",
+      "Post cites concerns about AEP utility rate hikes and diesel generators tied to the Google data center",
+      "Allen County commissioners unanimously rezoned more than 600 acres from agriculture to business, technology and industry park on Dec. 1, 2023",
+      "Commissioners vacated about 5,000 linear feet of East Paulding Road right-of-way",
+      "Fort Wayne City Council approved super-voluntary annexation Nov. 9, 2023; final Dec. 12 absent appeals",
+      "Eight people spoke in opposition during public comment"
+    ],
+    "groups": [
+      {
+        "name": "Call State Legislators campaign (r/fortwayne)",
+        "url": "https://www.reddit.com/r/fortwayne/comments/1p3he3h/call_state_legislators_about_google_data_center/",
+        "date": "2025-11-22T02:10:06.000Z"
+      }
+    ]
+  },
+  "18019": {
+    "news": [
+      {
+        "title": "Meta's data center divides Clark County residents | whas11.com",
+        "url": "https://www.whas11.com/article/news/local/indiana/clark-county-citizens-meta-data-center-help-fill-funding-gaps/417-ecf1afdf-641c-4dd1-8553-6d2decd9ed7d",
+        "date": "2025-10-04T00:00:00.000Z",
+        "source": "WHAS11",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We're looking to corporations like Meta to fill those gaps,",
+        "source": "Alyssa Holland, core team member for Clark County Moms",
+        "url": "https://www.whas11.com/article/news/local/indiana/clark-county-citizens-meta-data-center-help-fill-funding-gaps/417-ecf1afdf-641c-4dd1-8553-6d2decd9ed7d",
+        "date": "2025-10-04",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "If that's at risk, I think that's definitely a health crisis,",
+        "source": "Keith Freeman, Greater Clark County school board member",
+        "url": "https://www.whas11.com/article/news/local/indiana/clark-county-citizens-meta-data-center-help-fill-funding-gaps/417-ecf1afdf-641c-4dd1-8553-6d2decd9ed7d",
+        "date": "2025-10-04",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Which equates to roughly $9 million dollars on average over that 35 years,",
+        "source": "Alyssa Holland, core team member for Clark County Moms",
+        "url": "https://www.whas11.com/article/news/local/indiana/clark-county-citizens-meta-data-center-help-fill-funding-gaps/417-ecf1afdf-641c-4dd1-8553-6d2decd9ed7d",
+        "date": "2025-10-04",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Meta data center announced in January 2024 at River Ridge Commerce Center in Jeffersonville",
+      "IEDC release: 35-year sales tax exemption for minimum $800 million in eligible capital",
+      "Construction has provided more than 1,200 jobs; about 100 jobs expected once open",
+      "Residents want a community benefits agreement and resource use disclosure"
+    ],
+    "groups": [
+      {
+        "name": "Clark County Moms",
+        "url": "https://www.whas11.com/article/news/local/indiana/clark-county-citizens-meta-data-center-help-fill-funding-gaps/417-ecf1afdf-641c-4dd1-8553-6d2decd9ed7d",
+        "date": "2025-10-04T00:00:00.000Z"
+      },
+      {
+        "name": "Hoosier Action",
+        "url": "https://www.whas11.com/article/news/local/indiana/clark-county-citizens-meta-data-center-help-fill-funding-gaps/417-ecf1afdf-641c-4dd1-8553-6d2decd9ed7d",
+        "date": "2025-10-04T00:00:00.000Z"
+      }
+    ]
+  },
+  "18025": {
+    "news": [
+      {
+        "title": "Underground Warehouse | Crawford County",
+        "url": "https://selectcrawfordcounty.com/doing-business-here/underground-warehouse/",
+        "date": null,
+        "source": "Crawford County Economic Development Corporation",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "The Marengo Underground Warehouse offers 1,200,000 square feet of naturally cooled space in a former mine.",
+      "The Marengo Warehouse is working on the process for site certification as a data storage facility."
+    ],
+    "groups": []
+  },
+  "18049": {
+    "news": [
+      {
+        "title": "Fulton County votes to pause plans on data center development  - GIANT fm",
+        "url": "https://www.giant.fm/howard-county/news/local-news/fulton-county-votes-to-pause-plans-on-data-center-development/",
+        "date": "2026-02-11T12:14:17.000Z",
+        "source": "GIANT fm",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Area Planning Commission voted 6-1 on Feb. 10, 2026 to approve a 12-month moratorium on data centers in Fulton County",
+      "A committee will be established to conduct further research before data center development is allowed",
+      "Hundreds attended the special session, with each speaker given two minutes and the meeting lasting nearly three hours",
+      "Decennial Group has expressed interest in purchasing land near Akron for a hyperscale data center"
+    ],
+    "groups": []
+  },
+  "18059": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "18063": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "18067": {
+    "news": [
+      {
+        "title": "Howard County adopts one-year moratorium on unincorporated data-center permits | Citizen Portal",
+        "url": "https://citizenportal.ai/articles/9458134/indiana/howard-county/howard-county-adopts-one-year-moratorium-on-unincorporated-data-center-permits",
+        "date": "2026-08-17T22:51:40.000Z",
+        "source": "Citizen Portal",
+        "stance": "oppose"
+      },
+      {
+        "title": "City entertaining data center regulations",
+        "url": "https://kokomolantern.substack.com/p/city-entertaining-data-center-regulations",
+        "date": "2026-08-14T20:43:28.000Z",
+        "source": "The Kokomo Lantern",
+        "stance": "neutral"
+      },
+      {
+        "title": "Commissioners listening about BESS - by Patrick Munsey",
+        "url": "https://kokomolantern.substack.com/p/commissioners-listening-about-bess",
+        "date": "2026-08-04T21:02:43.000Z",
+        "source": "Kokomo Lantern",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data center moratorium in the works - by Patrick Munsey",
+        "url": "https://kokomolantern.substack.com/p/data-center-moratorium-in-the-works",
+        "date": "2026-08-04T20:51:02.000Z",
+        "source": "Kokomo Lantern",
+        "stance": "oppose"
+      },
+      {
+        "title": "Planners give favorable recommendation for data center moratorium |  | commercial-news.com",
+        "url": "https://www.commercial-news.com/planners-give-favorable-recommendation-for-data-center-moratorium/article_6108bfa8-3345-53b6-9ae9-53f2dabb569b.html",
+        "date": "2026-07-23T18:15:00.000Z",
+        "source": "commercial-news.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Planners give favorable recommendation for data center moratorium | Local news | kokomotribune.com",
+        "url": "https://www.kokomotribune.com/news/local_news/planners-give-favorable-recommendation-for-data-center-moratorium/article_6a081535-9bbd-438b-8024-ed371963cabe.html",
+        "date": "2026-07-23T18:15:00.000Z",
+        "source": "Kokomo Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "Howard County seeking data center moratorium | News | newsandtribune.com",
+        "url": "https://www.newsandtribune.com/indiana/news/howard-county-seeking-data-center-moratorium/article_e6fc878f-0497-5ce7-ab15-f9bab2bffae5.html",
+        "date": "2026-06-30T15:15:00.000Z",
+        "source": "News and Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "Howard County looking for data center moratorium | Across Indiana | kokomotribune.com",
+        "url": "https://www.kokomotribune.com/across_indiana/howard-county-looking-for-data-center-moratorium/article_72f034ec-a512-4b18-9c0d-8af85a69814e.html",
+        "date": "2026-06-30T15:15:00.000Z",
+        "source": "Kokomo Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "Kokomo Annexation Of 750 Acres - WOWO News/Talk 92.3 FM and 1190 AM",
+        "url": "https://wowo.com/kokomo-annexation-of-750-acres/",
+        "date": "2026-02-23T18:00:54.000Z",
+        "source": "WOWO News/Talk 92.3 FM and 1190 AM",
+        "stance": "neutral"
+      },
+      {
+        "title": "Kokomo Council to Vote on 750-Acre Industrial Annexation",
+        "url": "https://wibc.com/879398/kokomo-council-to-vote-on-750-acre-industrial-annexation/",
+        "date": "2026-02-23T00:00:00.000Z",
+        "source": "WIBC",
+        "stance": "neutral"
+      },
+      {
+        "title": "Kokomo residents say no to proposed AI data center plan in Howard County - WRTV",
+        "url": "https://www.wrtv.com/news/local-news/kokomo-residents-say-no-to-proposed-ai-data-center-plan-in-howard-county/",
+        "date": "2026-02-09T04:05:31.000Z",
+        "source": "WRTV",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I can’t imagine that there’s any rational reason to vote against it,",
+        "source": "Matt Grecu, Kokomo Councilman and Plan Commission member",
+        "url": "https://kokomolantern.substack.com/p/city-entertaining-data-center-regulations",
+        "date": "2026-08-11",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Even if somebody felt that it doesn’t go as far as they wanted it to, it’s offering more protections than we have today.",
+        "source": "Matt Grecu, Kokomo Councilman and Plan Commission member",
+        "url": "https://kokomolantern.substack.com/p/city-entertaining-data-center-regulations",
+        "date": "2026-08-11",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The question is: Should we have a moratorium which will pause all development on data centers until we find out more about how it affects people, and we can write an ordinance that meets the needs of our community?",
+        "source": "Cheryl Graham, plan commission chairperson",
+        "url": "https://kokomolantern.substack.com/p/data-center-moratorium-in-the-works",
+        "date": "2026-08-04T20:51:02.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I find it quite puzzling why the commission is considering this moratorium only after the annexation.",
+        "source": "Kathy Hoover, speaker",
+        "url": "https://kokomolantern.substack.com/p/data-center-moratorium-in-the-works",
+        "date": "2026-08-04T20:51:02.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "When you start drawing water, every person in this room becomes affected.",
+        "source": "Ann Ihms, professional in water quality field",
+        "url": "https://kokomolantern.substack.com/p/data-center-moratorium-in-the-works",
+        "date": "2026-08-04T20:51:02.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "As someone who has worked on data center projects, I can say that a temporary pause is not a death sentence for development.",
+        "source": "Caleb Chance, civil engineer",
+        "url": "https://kokomolantern.substack.com/p/data-center-moratorium-in-the-works",
+        "date": "2026-08-04T20:51:02.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "But I did not know about this annexation until right before it happened.",
+        "source": "Jack Dodd, Howard County Commissioner",
+        "url": "https://kokomolantern.substack.com/p/data-center-moratorium-in-the-works",
+        "date": "2026-08-04T20:51:02.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "There is such an alarmist position going on, I just feel like you guys are in danger of getting whipsawed by inaccurate information.",
+        "source": "Quentin Gurney, former licensed electrical engineer",
+        "url": "https://kokomolantern.substack.com/p/data-center-moratorium-in-the-works",
+        "date": "2026-08-04T20:51:02.000Z",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I know there’s probably people wondering about the moratorium on the data center and the ordinance on the BESS,",
+        "source": "Jeff Lipinski, Howard County Commissioner",
+        "url": "https://kokomolantern.substack.com/p/commissioners-listening-about-bess",
+        "date": "2026-08-03",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "You get two weeks to make comments on our website on the portal, and it will be closed down after that,",
+        "source": "Jack Dodd, Howard County Commissioner",
+        "url": "https://kokomolantern.substack.com/p/commissioners-listening-about-bess",
+        "date": "2026-08-03",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "If you want to make the comments, please do so. Yes, we do read those. Yes, we do consider those. So please do that.",
+        "source": "Jack Dodd, Howard County Commissioner",
+        "url": "https://kokomolantern.substack.com/p/commissioners-listening-about-bess",
+        "date": "2026-08-03",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We need to explore and research and educate ourselves and the public about data centers, because I don't know enough about it to pass an ordinance on it, pro or con, and I want to be educated about it.",
+        "source": "Jack Dodd, County Commissioner",
+        "url": "https://www.newsandtribune.com/indiana/news/howard-county-seeking-data-center-moratorium/article_e6fc878f-0497-5ce7-ab15-f9bab2bffae5.html",
+        "date": "2026-06-30T15:15:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We need to explore and research and educate ourselves and the public about data centers, because I don't know enough about it to pass an ordinance on it, pro or con, and I want to be educated about it.",
+        "source": "Jack Dodd, County Commissioner",
+        "url": "https://www.kokomotribune.com/across_indiana/howard-county-looking-for-data-center-moratorium/article_72f034ec-a512-4b18-9c0d-8af85a69814e.html",
+        "date": "2026-06-30",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We’re angry because of the minimal information given out,",
+        "source": "Allie Pond, Howard County resident",
+        "url": "https://wowo.com/kokomo-annexation-of-750-acres/",
+        "date": "2026-02-23",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We’re scared for what’s to come.",
+        "source": "Allie Pond, Howard County resident",
+        "url": "https://wowo.com/kokomo-annexation-of-750-acres/",
+        "date": "2026-02-23",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We're angry because of the minimal information given out,",
+        "source": "Allie Pond, Howard County resident",
+        "url": "https://wibc.com/879398/kokomo-council-to-vote-on-750-acre-industrial-annexation/",
+        "date": "2026-02-23",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We're scared for what's to come.",
+        "source": "Allie Pond, Howard County resident",
+        "url": "https://wibc.com/879398/kokomo-council-to-vote-on-750-acre-industrial-annexation/",
+        "date": "2026-02-23",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "It’s not good for Kokomo,",
+        "source": "Garry McNew, lives near the proposed site",
+        "url": "https://www.wrtv.com/news/local-news/kokomo-residents-say-no-to-proposed-ai-data-center-plan-in-howard-county/",
+        "date": "2026-02-09",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "It’s going to be a literal drain sitting on the edge of town while the rest of us suffer,",
+        "source": "Arden Mlynarczyk, four-year Kokomo resident",
+        "url": "https://www.wrtv.com/news/local-news/kokomo-residents-say-no-to-proposed-ai-data-center-plan-in-howard-county/",
+        "date": "2026-02-09",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "The people here do not want it,",
+        "source": "Jack Chance, Kokomo resident since 2020, running for Indiana House District 30",
+        "url": "https://www.wrtv.com/news/local-news/kokomo-residents-say-no-to-proposed-ai-data-center-plan-in-howard-county/",
+        "date": "2026-02-09",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We are not for sale. We are not a colony for a billionaire pet project,",
+        "source": "Jack Chance, Kokomo resident since 2020, running for Indiana House District 30",
+        "url": "https://www.wrtv.com/news/local-news/kokomo-residents-say-no-to-proposed-ai-data-center-plan-in-howard-county/",
+        "date": "2026-02-09",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "AI is going to be the key to jobs in the future, but data centers can’t stick Hoosiers with the power bill,",
+        "source": "Mike Braun, Governor",
+        "url": "https://www.wrtv.com/news/local-news/kokomo-residents-say-no-to-proposed-ai-data-center-plan-in-howard-county/",
+        "date": "2026-02-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "If you want to come over here and just siphon our resources and then dip, the answer is no,",
+        "source": "Arden Mlynarczyk, four-year Kokomo resident",
+        "url": "https://www.wrtv.com/news/local-news/kokomo-residents-say-no-to-proposed-ai-data-center-plan-in-howard-county/",
+        "date": "2026-02-09",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "facts": [
+      "Howard County commissioners adopted a one-year moratorium on data center permits and applications in unincorporated areas.",
+      "The moratorium does not apply inside city limits.",
+      "The moratorium gives staff time to research and draft an ordinance regulating data centers, which existing zoning rules do not adequately cover.",
+      "The county may accept public comment and possibly form drafting groups during the moratorium.",
+      "Kokomo Plan Commission public hearing on data center standards ordinance is Aug. 17, 2026 at 5 p.m.; city council considers it Aug. 24.",
+      "Proposed standards require 200-foot setback from residential property lines and 300 feet from residential structures, and ban generator testing 5 p.m.-7 a.m.",
+      "Council committee recommendations (400-foot setback, closed-loop cooling, decommissioning plan, noise study) were not advanced after council leadership lobbying.",
+      "Existing code has 50 dB sound limit abutting residential and 75 dB for other uses.",
+      "Howard County Commissioners to hear a two-year moratorium recommendation; it would not cover Kokomo city limits.",
+      "Howard County commissioners opened a public comment portal on BESS projects on Aug. 3, 2026, open through Aug. 17.",
+      "Commissioners intend to consider a proposed BESS ordinance at their Sept. 4 meeting.",
+      "One BESS project has already been turned away by the Planning Commission.",
+      "Commissioners will form a study committee on data center regulations during the planned moratorium.",
+      "No subcommittee will be formed for BESS; the portal serves that purpose.",
+      "Howard County Plan Commission voted 6-1 in July 2026 to recommend a two-year data center moratorium",
+      "Member Mike Imbler dissented, favoring a six-month moratorium",
+      "Board of Commissioners intends to act on the recommendation at its Aug. 17 meeting",
+      "City of Kokomo annexed 700 acres for an industrial park, not covered by the county moratorium",
+      "StarPlus Energy battery plant draws 2.7 million gallons of water per day; city uses up to 10 million per day",
+      "Howard County Planning Commission gave a favorable recommendation for a data center moratorium to the County Commissioners.",
+      "Amendments require creation of a study subcommittee and a two-year moratorium.",
+      "County Commissioners are scheduled to make the final decision on the moratorium and BESS ordinance at their next meeting.",
+      "The Howard County Planning Commission gave a favorable recommendation for a data center moratorium on Wednesday, July 22, 2026.",
+      "The recommendation was amended so the moratorium includes a study subcommittee and lasts two years.",
+      "The Howard County Commissioners will make the final decision on the moratorium and a battery energy storage system (BESS) ordinance at their next meeting, scheduled for August 3.",
+      "Howard County data center moratorium is set to go before the Planning Commission in July 2026.",
+      "After Planning Commission recommendation, the County Commissioners could enact it as soon as they sign it.",
+      "Moratorium would cover only unincorporated county land, not cities like Russiaville or Greentown.",
+      "Kokomo confirmed it has no plans to implement a data center moratorium.",
+      "Nearly 600 acres on U.S. Hwy 931 annexed into Kokomo earlier this year would not be under the county moratorium.",
+      "Howard County data center moratorium is set to go before the Planning Commission for approval in July 2026.",
+      "After a Planning Commission recommendation, the moratorium goes to the County Commissioners and could take effect as soon as they sign it.",
+      "Commissioner President Jack Dodd said a moratorium cannot be imposed on the city or incorporated areas like Russiaville or Greentown.",
+      "Kokomo Common Council is preparing to vote on a voluntary annexation of nearly 750 acres",
+      "About 650 acres of Howard County farmland would be rezoned to industrial",
+      "Whitmore & Blackwell is acquiring over 400 acres",
+      "Public hearing on annexation was Feb 23, 2026; first reading of rezoning ordinance Mar 9",
+      "No end-users have been identified or approved; any tenant would need Plan Commission development plan approval",
+      "Kokomo Common Council to vote on voluntary annexation of nearly 750 acres; public hearing Feb. 23, 2026 at 6 p.m.",
+      "Petitioners include IEDC, Samsung SDI and Whitmore & Blackwell."
+    ],
+    "groups": []
+  },
+  "18077": {
+    "news": [
+      {
+        "title": "JC Commissioners Archives - Tax Not My Liberty",
+        "url": "https://taxnot.com/category/jc/jc-comm/",
+        "date": "2026-11-06T00:00:00.000Z",
+        "source": "Tax Not My Liberty",
+        "stance": "neutral"
+      },
+      {
+        "title": "Rally attracts about 100 opposing data centers | News | madisoncourier.com",
+        "url": "https://www.madisoncourier.com/news/rally-attracts-about-100-opposing-data-centers/article_9947412b-61b8-5e84-96f8-17b00175163f.html",
+        "date": "2026-10-26T14:02:00.000Z",
+        "source": "Madison Courier",
+        "stance": "oppose"
+      },
+      {
+        "title": "Plan Commission votes 5-3 to reject data center moratorium | News | madisoncourier.com",
+        "url": "https://www.madisoncourier.com/news/plan-commission-votes-5-3-to-reject-data-center-moratorium/article_fb4bde53-8213-5b8a-9a1b-877641ca0471.html",
+        "date": "2026-09-03T17:11:00.000Z",
+        "source": "Madison Courier",
+        "stance": "support"
+      },
+      {
+        "title": "Data center moratorium sought from Commissioners | News | madisoncourier.com",
+        "url": "https://www.madisoncourier.com/news/data-center-moratorium-sought-from-commissioners/article_288181bc-7821-576b-9f0b-3b9bf93f1080.html",
+        "date": "2026-08-24T16:49:00.000Z",
+        "source": "Madison Courier",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data center concerns voiced at town hall meeting | News | madisoncourier.com",
+        "url": "https://www.madisoncourier.com/news/data-center-concerns-voiced-at-town-hall-meeting/article_e4fae8e9-2fad-5c93-89ba-21faa06d1bf7.html",
+        "date": "2026-06-10T03:52:00.000Z",
+        "source": "Madison Courier",
+        "stance": "oppose"
+      },
+      {
+        "title": "Council vote on ERA moved up to lock in fiscal benefits | News | madisoncourier.com",
+        "url": "https://www.madisoncourier.com/news/council-vote-on-era-moved-up-to-lock-in-fiscal-benefits/article_fc0c26b1-ba6c-54ce-8a39-d7ea472ed88b.html",
+        "date": "2026-05-18T14:05:00.000Z",
+        "source": "Madison Courier",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We need a moratorium now before even one more data center is approved,",
+        "source": "Janice Kleopfer, one the leaders in the local campaign against data centers",
+        "url": "https://www.madisoncourier.com/news/rally-attracts-about-100-opposing-data-centers/article_9947412b-61b8-5e84-96f8-17b00175163f.html",
+        "date": "2026-10-26T14:02:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Instead of trying to shoehorn data centers into the existing documents we need to push pause, take a breath and get started on the hard work of ensuring that Jefferson County and her people are protected from billionaire tech executives.",
+        "source": "Elijah Chandler, downtown Madison resident running as a independent for County Council District 3",
+        "url": "https://www.madisoncourier.com/news/rally-attracts-about-100-opposing-data-centers/article_9947412b-61b8-5e84-96f8-17b00175163f.html",
+        "date": "2026-10-26T14:02:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Our communities are not for sale, and our natural resources are not bargaining chips.",
+        "source": "Bryon Holland, Democrat candidate for State Senator District 43",
+        "url": "https://www.madisoncourier.com/news/rally-attracts-about-100-opposing-data-centers/article_9947412b-61b8-5e84-96f8-17b00175163f.html",
+        "date": "2026-10-26T14:02:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "The Plan Commission does not have the legal authority to actually adopt a moratorium.",
+        "source": "Warren Auxier, president of the Plan Commission",
+        "url": "https://www.madisoncourier.com/news/plan-commission-votes-5-3-to-reject-data-center-moratorium/article_fb4bde53-8213-5b8a-9a1b-877641ca0471.html",
+        "date": "2026-09-03",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "It is obvious the Commissioners do not want to adopt a data center moratorium.",
+        "source": "Warren Auxier, president of the Plan Commission",
+        "url": "https://www.madisoncourier.com/news/plan-commission-votes-5-3-to-reject-data-center-moratorium/article_fb4bde53-8213-5b8a-9a1b-877641ca0471.html",
+        "date": "2026-09-03",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "That's a lot of words to say that you lack courage,",
+        "source": "Jill Kelly-Koren",
+        "url": "https://www.madisoncourier.com/news/plan-commission-votes-5-3-to-reject-data-center-moratorium/article_fb4bde53-8213-5b8a-9a1b-877641ca0471.html",
+        "date": "2026-09-03",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "The county's UDO must be airtight regarding data centers because as we've seen major tech and AI infrastructure projects swoop in and move fast.",
+        "source": "Tanya Hess",
+        "url": "https://www.madisoncourier.com/news/plan-commission-votes-5-3-to-reject-data-center-moratorium/article_fb4bde53-8213-5b8a-9a1b-877641ca0471.html",
+        "date": "2026-09-03",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We're people asking for protections,",
+        "source": "Janice Kleopfer, county resident",
+        "url": "https://www.madisoncourier.com/news/data-center-moratorium-sought-from-commissioners/article_288181bc-7821-576b-9f0b-3b9bf93f1080.html",
+        "date": "2026-08-24",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Moratorium is common sense.",
+        "source": "Brett Clark, candidate for County Commissioner",
+        "url": "https://www.madisoncourier.com/news/data-center-moratorium-sought-from-commissioners/article_288181bc-7821-576b-9f0b-3b9bf93f1080.html",
+        "date": "2026-08-24",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "we should ask every elected official to answer these questions. They should have these answers, Daniel should have these answers and the public should have these answers in writing,",
+        "source": "Mary Hansen, organizer opposed to the data center",
+        "url": "https://www.madisoncourier.com/news/data-center-concerns-voiced-at-town-hall-meeting/article_e4fae8e9-2fad-5c93-89ba-21faa06d1bf7.html",
+        "date": "2026-06-09",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Whoever is out there sending threats of violence and death threats, stop it right now. That's ridiculous,",
+        "source": "Elijah Chandler, community leader against the proposed data center",
+        "url": "https://www.madisoncourier.com/news/data-center-concerns-voiced-at-town-hall-meeting/article_e4fae8e9-2fad-5c93-89ba-21faa06d1bf7.html",
+        "date": "2026-06-09",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Even if the economic forecasts are reasonable and favorable, every community must insist upon full transparency,",
+        "source": "Eric Dodge, professor of economics at Hanover College",
+        "url": "https://www.madisoncourier.com/news/data-center-concerns-voiced-at-town-hall-meeting/article_e4fae8e9-2fad-5c93-89ba-21faa06d1bf7.html",
+        "date": "2026-06-09",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "there is an urgency to get it done ahead of any potential approval of the data center",
+        "source": "Pam Crozier, County Council member",
+        "url": "https://www.madisoncourier.com/news/council-vote-on-era-moved-up-to-lock-in-fiscal-benefits/article_fc0c26b1-ba6c-54ce-8a39-d7ea472ed88b.html",
+        "date": "2026-05-18T14:05:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "If everything is in order, they cannot deny the application for a data center at JPG",
+        "source": "Andy Crozier, Former member of the BZA",
+        "url": "https://www.madisoncourier.com/news/council-vote-on-era-moved-up-to-lock-in-fiscal-benefits/article_fc0c26b1-ba6c-54ce-8a39-d7ea472ed88b.html",
+        "date": "2026-05-18T14:05:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "This data center first came to the county approximately 90 days ago. It's a major project with long-term implications, and the public has had little time to fully understand the full scope of information",
+        "source": "Kasie Lessley, Resident of Madison",
+        "url": "https://www.madisoncourier.com/news/council-vote-on-era-moved-up-to-lock-in-fiscal-benefits/article_fc0c26b1-ba6c-54ce-8a39-d7ea472ed88b.html",
+        "date": "2026-05-18",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Jefferson County BZA held a public hearing on 5-20-26 and denied the appeal on the permit issued for the 7.1 million sf JPG Data Center",
+      "Jefferson County Council voted in April 2026 to create an ERA that includes the planned JPG Data Center",
+      "A Town Hall Data Center Discussion by People for the People was held around June 1, 2026",
+      "A rally in support of a data center moratorium was held Saturday outside the Jefferson County Courthouse",
+      "About 100 people attended the two-hour rally, according to Elijah Chandler",
+      "Chandler said a moratorium is needed so the county can update its Unified Development Ordinance (UDO) to address data centers",
+      "Jefferson County Plan Commission voted 5-3 not to move forward with a data center moratorium",
+      "Six county residents spoke at the meeting, all asking for a moratorium on data centers",
+      "63 of 64 written public submissions requested a data center moratorium",
+      "Marble Hill property, one of two heavy industrial locations, is about 0.25% of the county's total zoning jurisdiction area",
+      "Commissioners, not the Plan Commission, have the authority to start the moratorium process",
+      "County Plan Commission scheduled to hear presentations on a data center moratorium Sept. 1, 2026",
+      "Two county residents requested a data center moratorium at the Commissioners meeting on Thursday",
+      "Brett Clark is among four people who have filed a lawsuit against JPG Redevelopment LLC and Board of Zoning Appeals over a data center at Jefferson Proving Ground",
+      "Jefferson County Board of Zoning Appeals unanimously denied an appeal of a building inspector's approval of a data center application on May 20 at Jefferson Proving Ground",
+      "Daniel Ford did not attend the town hall, citing safety concerns over death threats to the Ford family",
+      "Only Council member Pam Crozier and Commissioner Ron Lee responded to invitations, saying they could not attend",
+      "County Council moved up the ERA vote to Tuesday, after a public hearing on April 12 had tabled it until June",
+      "Board of Zoning Appeals decides the data center appeal Wednesday; County Council has no say in that decision",
+      "Pam Crozier said if the BZA denies the application despite meeting zoning criteria, the county could face a lawsuit"
+    ],
+    "groups": [
+      {
+        "name": "Citizens Action Coalition",
+        "url": "https://www.madisoncourier.com/news/data-center-concerns-voiced-at-town-hall-meeting/article_e4fae8e9-2fad-5c93-89ba-21faa06d1bf7.html",
+        "date": "2026-06-10T03:52:00.000Z"
+      }
+    ]
+  },
+  "18089": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "18091": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "18095": {
+    "news": [
+      {
+        "title": "Data centers, transparency among issues in county commissioner race | Local News | heraldbulletin.com",
+        "url": "https://www.heraldbulletin.com/news/local_news/data-centers-transparency-among-issues-in-county-commissioner-race/article_22ce510f-7964-4d64-ba49-9a7305c2d01c.html",
+        "date": "2026-10-23T10:50:00.000Z",
+        "source": "The Herald Bulletin",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "What I've heard from people is, they don't want data centers and they don't want battery storage projects,",
+        "source": "Mike Garringer",
+        "url": "https://www.heraldbulletin.com/news/local_news/data-centers-transparency-among-issues-in-county-commissioner-race/article_22ce510f-7964-4d64-ba49-9a7305c2d01c.html",
+        "date": "2026-10-23T10:50:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "The commissioners are charged with spending taxpayer money responsibly,",
+        "source": "Mike Garringer",
+        "url": "https://www.heraldbulletin.com/news/local_news/data-centers-transparency-among-issues-in-county-commissioner-race/article_22ce510f-7964-4d64-ba49-9a7305c2d01c.html",
+        "date": "2026-10-23T10:50:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Right now, I don't believe that current method of saving taxpayer dollars in order to produce income to fund these projects is necessarily in the best interest of our taxpayers.",
+        "source": "Mike Garringer",
+        "url": "https://www.heraldbulletin.com/news/local_news/data-centers-transparency-among-issues-in-county-commissioner-race/article_22ce510f-7964-4d64-ba49-9a7305c2d01c.html",
+        "date": "2026-10-23T10:50:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "Madison County Commissioners enacted a six-month data center moratorium earlier in 2026",
+      "The data center moratorium was later extended to a full year",
+      "The county commissioner election is on Nov. 3, 2026"
+    ],
+    "groups": []
+  },
+  "18097": {
+    "news": [
+      {
+        "title": "Metrobloks data center moves forward in Martindale Brightwood after rezoning approval  - Indianapolis Recorder",
+        "url": "https://indianapolisrecorder.com/metrobloks-data-center-moves-forward-in-mb/",
+        "date": "2026-04-02T17:44:06.000Z",
+        "source": "Indianapolis Recorder",
+        "stance": "neutral"
+      },
+      {
+        "title": "Controversial data center is approved for Martindale-Brightwood – Indiana Public Radio",
+        "url": "https://indianapublicradio.org/news/2026/04/controversial-data-center-is-approved-for-martindale-brightwood/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "source": "Indiana Public Radio",
+        "stance": "neutral"
+      },
+      {
+        "title": "$500m Data Center Approved For Construction Outside Indianapolis",
+        "url": "https://baxtel.com/news/500m-data-center-approved-for-construction-outside-indianapolis",
+        "date": "2026-04-02T00:00:00.000Z",
+        "source": "Baxtel",
+        "stance": "neutral"
+      },
+      {
+        "title": "$500m data center approved for construction outside Indianapolis - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/500m-data-center-approved-for-construction-outside-indianapolis/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "neutral"
+      },
+      {
+        "title": "Indy commission approves data center in Martindale-Brightwood – Inside INdiana Business",
+        "url": "https://www.insideindianabusiness.com/articles/indy-commission-approves-data-center-in-martindale-brightwood",
+        "date": "2026-04-01T21:43:08.000Z",
+        "source": "Inside INdiana Business",
+        "stance": "neutral"
+      },
+      {
+        "title": "Martindale Brightwood data center approved by Metropolitan Development Commission",
+        "url": "https://www.usatoday.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01T20:17:33.000Z",
+        "source": "Indianapolis Star",
+        "stance": "neutral"
+      },
+      {
+        "title": "Martindale Brightwood data center approved by Metropolitan Development Commission",
+        "url": "https://www.indystar.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01T20:17:33.000Z",
+        "source": "Indianapolis Star",
+        "stance": "neutral"
+      },
+      {
+        "title": "Indianapolis city leaders vote to approve Martindale-Brightwood data center | wthr.com",
+        "url": "https://www.wthr.com/article/news/local/indianapolis-city-leaders-vote-approve-martindale-brightwood-data-center/531-fe886851-6180-44a7-b63e-0a99f9d514af",
+        "date": "2026-04-01T19:15:54.000Z",
+        "source": "wthr.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "Controversial data center is approved for Martindale-Brightwood",
+        "url": "https://www.wfyi.org/wfyi-news/2026-04-01/controversial-data-center-is-approved-for-martindale-brightwood",
+        "date": "2026-04-01T16:38:40.000Z",
+        "source": "WFYI Public Media",
+        "stance": "oppose"
+      },
+      {
+        "title": "Indianapolis approves plan to build $4B data center in Decatur Township after months of pushback – Indiana Public Radio",
+        "url": "https://indianapublicradio.org/news/2026/03/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback/",
+        "date": "2026-03-19T11:48:23.000Z",
+        "source": "Indiana Public Radio",
+        "stance": "oppose"
+      },
+      {
+        "title": "Indianapolis approves plan to build $4B data center in Decatur Township after months of pushback",
+        "url": "https://www.wfyi.org/wfyi-news/2026-03-18/decatur-township-data-center-mdc-vote",
+        "date": "2026-03-18T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "oppose"
+      },
+      {
+        "title": "How data centers in Indy will impact your health and environment",
+        "url": "https://mirrorindy.org/data-center-health-pollution-environment-impacts-indianapolis-marion-county/",
+        "date": "2026-03-06T20:01:15.000Z",
+        "source": "Mirror Indy",
+        "stance": "neutral"
+      },
+      {
+        "title": "Mayor Joe Hogsett’s economic development org supports data center",
+        "url": "https://mirrorindy.org/mayor-joe-hogsett-indianapolis-economic-development-data-centers-martindale-brightwood-metrobloks/",
+        "date": "2026-03-06T11:00:00.000Z",
+        "source": "Mirror Indy",
+        "stance": "support"
+      },
+      {
+        "title": "Indianapolis zoning official said she doesn’t have a boss",
+        "url": "https://mirrorindy.org/mdc-hearing-examiner-judy-weerts-hall-metrobloks-data-center-martindale-brightwood/",
+        "date": "2026-03-03T21:59:51.000Z",
+        "source": "Mirror Indy",
+        "stance": "oppose"
+      },
+      {
+        "title": "Proposal advances for data center in Marion County's Decatur Township - Indianapolis News | Indiana Weather | Indiana Traffic | WISH-TV |",
+        "url": "https://www.wishtv.com/news/politics/proposal-advances-for-data-center-in-marion-countys-decatur-township/",
+        "date": "2026-02-26T23:35:40.000Z",
+        "source": "WISH-TV",
+        "stance": "neutral"
+      },
+      {
+        "title": "Indianapolis data centers, explained",
+        "url": "https://mirrorindy.org/data-centers/",
+        "date": "2026-02-26T21:17:45.000Z",
+        "source": "Mirror Indy",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data center proposed for Decatur Township wins first step toward approval",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-26/decatur-township-sabey-data-center-mdc-hearing-examiner",
+        "date": "2026-02-26T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "neutral"
+      },
+      {
+        "title": "Here’s how Indy data centers projects are voted on",
+        "url": "https://mirrorindy.org/data-center-marion-county-approval-process-metropolitan-development-commission-mdc-hearing-examinar/",
+        "date": "2026-02-25T21:54:57.000Z",
+        "source": "Mirror Indy",
+        "stance": "neutral"
+      },
+      {
+        "title": "Hearing examiner recommends approval for Metrobloks data center despite community pushback - WRTV",
+        "url": "https://www.wrtv.com/news/local-news/hearing-examiner-recommends-approval-for-metrobloks-data-center-despite-community-pushback/",
+        "date": "2026-02-13T01:34:38.000Z",
+        "source": "WRTV",
+        "stance": "oppose"
+      },
+      {
+        "title": "Indy business owners oppose Martindale Brightwood data center",
+        "url": "https://mirrorindy.org/martindale-brightwood-data-center-metrobloks-indianapolis-businesses/",
+        "date": "2026-02-10T21:55:25.000Z",
+        "source": "Mirror Indy",
+        "stance": "oppose"
+      },
+      {
+        "title": "Angry crowd confronts Metrobloks over proposed data center - WISH-TV",
+        "url": "https://www.wishtv.com/news/business/angry-crowd-confronts-metrobloks-over-proposed-data-center/",
+        "date": "2026-02-03T04:36:26.000Z",
+        "source": "WISH-TV",
+        "stance": "oppose"
+      },
+      {
+        "title": "'Go home' | Hundreds of residents press Martindale-Brightwood data center developer in second meeting | wthr.com",
+        "url": "https://www.wthr.com/article/news/local/go-home-hundreds-of-residents-press-martindale-brightwood-data-center-developer-in-second-meeting-metrobloks-sherman-drive/531-6b742737-7dbe-4ce0-8714-d67051fcb6b3",
+        "date": "2026-02-03T00:36:46.000Z",
+        "source": "WTHR",
+        "stance": "oppose"
+      },
+      {
+        "title": "Metrobloks says its data center is not Big Tech, but Martindale-Brightwood residents still tell them to 'go home'",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-03/martindale-brightwood-data-center-meeting-metrobloks-meeting",
+        "date": "2026-02-03T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "oppose"
+      },
+      {
+        "title": "Proposed Martindale Brightwood data center up for public hearing",
+        "url": "https://mirrorindy.org/martindale-brightwood-data-center-public-comment-metrobloks/",
+        "date": "2025-12-04T18:26:22.000Z",
+        "source": "Mirror Indy",
+        "stance": "neutral"
+      },
+      {
+        "title": "Pike Township residents concerned about proposed data center threatening urban forest - WRTV",
+        "url": "https://www.wrtv.com/news/pike-township-residents-concerned-about-proposed-data-center-threatening-urban-forest/",
+        "date": "2025-11-25T00:21:53.000Z",
+        "source": "WRTV",
+        "stance": "oppose"
+      },
+      {
+        "title": "Residents oppose proposed data center in Pike Township",
+        "url": "https://mirrorindy.org/pike-township-residents-oppose-data-center-proposal-american-tower-corp/",
+        "date": "2025-11-21T19:51:07.000Z",
+        "source": "Mirror Indy",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data center in Decatur Township faces hostile crowd at town hall",
+        "url": "https://www.indystar.com/story/news/local/marion-county/2025/11/19/data-center-sabey-decatur-township-faces-hostile-crowd-at-town-hall-indianapolis-development/87347734007/",
+        "date": "2025-11-19T15:12:44.000Z",
+        "source": "Indianapolis Star",
+        "stance": "oppose"
+      },
+      {
+        "title": "Tensions rise as hundreds crowd Decatur Township data center meeting",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-18/decatur-township-data-center-protest-residents-concerns",
+        "date": "2025-11-18T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "oppose"
+      },
+      {
+        "title": "Metrobloks seeks to build $500 million data center in Indianapolis - WISH-TV",
+        "url": "https://www.wishtv.com/news/business/metrobloks-seeks-to-build-500-million-data-center-in-indianapolis/",
+        "date": "2025-11-07T04:29:08.000Z",
+        "source": "WISH-TV",
+        "stance": "neutral"
+      },
+      {
+        "title": "Metrobloks seeks rezoning for $500M Martindale-Brightwood data center on 14 acres – Indianapolis Business Journal",
+        "url": "https://www.ibj.com/articles/metrobloks-seeks-rezoning-for-500m-martindale-brightwood-data-center-on-14-acres",
+        "date": "2025-11-04T04:54:57.000Z",
+        "source": "Indianapolis Business Journal",
+        "stance": "neutral"
+      },
+      {
+        "title": "Metrobloks files re-zoning proposal with Indianapolis for Martindale Brightwood data center",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-04/martindale-brightwood-data-center-metrobloks-rezoning-proposal-filed",
+        "date": "2025-11-04T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "neutral"
+      },
+      {
+        "title": "Tech giants are rushing to build data centers in Indiana. Communities are pushing back — and winning",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data centers connect to Hamilton County",
+        "url": "https://readthereporter.com/data-centers-connect-to-hamilton-county/",
+        "date": "2025-09-18T00:00:00.000Z",
+        "source": "The Reporter",
+        "stance": "neutral"
+      },
+      {
+        "title": "Company pursuing small-scale data center in Martindale-Brightwood – Indianapolis Business Journal",
+        "url": "https://www.ibj.com/articles/unknown-company-pursuing-small-scale-data-center-in-martindale-brightwood",
+        "date": "2025-09-16T03:57:23.000Z",
+        "source": "Indianapolis Business Journal",
+        "stance": "neutral"
+      },
+      {
+        "title": "Google gets approval for data center campus in Franklin Township, Indiana - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/google-gets-approval-for-data-center-campus-in-franklin-township-indiana/",
+        "date": "2025-08-22T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "support"
+      },
+      {
+        "title": "Data center projects facing local pushback – Indianapolis Business Journal",
+        "url": "https://www.ibj.com/articles/data-center-projects-facing-local-pushback",
+        "date": "2025-07-04T18:00:00.000Z",
+        "source": "Indianapolis Business Journal",
+        "stance": "oppose"
+      },
+      {
+        "title": "IEDC board approves incentives for four planned data center projects – Inside INdiana Business",
+        "url": "https://www.insideindianabusiness.com/articles/iedc-board-approves-incentives-for-four-planned-data-center-projects",
+        "date": "2025-06-26T15:56:28.000Z",
+        "source": "Inside INdiana Business",
+        "stance": "support"
+      },
+      {
+        "title": "Despite community pushback, hearing examiner recommends approval for Indianapolis data center",
+        "url": "https://www.wfyi.org/wfyi-news/2025-06-26/despite-community-pushback-hearing-examiner-recommends-approval-for-indianapolis-data-center",
+        "date": "2025-06-26T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "oppose"
+      },
+      {
+        "title": "Indianapolis residents push back against data center by unknown company",
+        "url": "https://www.wfyi.org/wfyi-news/2025-05-17/indianapolis-residents-push-back-against-data-center-by-unknown-company",
+        "date": "2025-05-17T00:00:00.000Z",
+        "source": "WFYI",
+        "stance": "oppose"
+      },
+      {
+        "title": "Indiana's data center boom could be disastrous for health and environment, advocates say",
+        "url": "https://www.indystar.com/story/news/environment/2025/05/05/indiana-data-center-boom-climate-change-environment/83209705007/",
+        "date": "2025-05-05T08:55:16.000Z",
+        "source": "Indianapolis Star",
+        "stance": "oppose"
+      },
+      {
+        "title": "Franklin Township braces for potential data center campus",
+        "url": "https://fox59.com/news/franklin-township-braces-for-potential-data-center-campus/",
+        "date": "2025-03-24T20:52:56.000Z",
+        "source": "FOX 59",
+        "stance": "neutral"
+      }
+    ],
+    "social": [
+      {
+        "platform": "x",
+        "url": "https://x.com/AttyAbdul/status/2119562513331413005",
+        "text": "Indianapolis City-County Council committee takes up $113 million in tax breaks for DC Blox data center Monday. A company filing lists 21 new jobs and calls the project’s second phase “potential.” https://t.co/Jj4wejTx5X",
+        "date": "2026-11-08T22:47:37.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=4SlHpdNu_oQ",
+        "text": "# Decatur data center battle attracts statewide support\n\n- Channel: CBS4 Indy\n- Length: 02:32\n- Views: 1.4K\n- Likes: 30\n- Published: 2026-02-24T14:34:08-08:00\n- Category: News & Politics\n- Keywords: video, news, news & politics\n- Language: en\n\n## Description\n\nThere’s 130 acres of prime Indiana farmland at the corner of Camby Road and Kentucky Avenue in Decatur Township that a west coast developer wants to turn into a $4 billion, 1 million square foot data center. And neighbors aren’t having it.\n\n## Transcript\n\nTO OPPOSE THIS PROJECT >> COAST DEVELOPER WANTS TO COME TO AMERICA'S HEARTLAND AND CHURN UP ON 130 ACRES A CORNFIELD HERE NEAR THE CORNER OF CANBY WROTE IN KENTUCKY AVENUE AND TURN IT INTO A 4 BILLION DOLLAR DATA CENTER AND THE NEIGHBORS AREN'T HAVING THAT YOU CAN SEE THE SIGNS ALONG KAM BUREAU ACROSS THE STREET FROM THIS FIELD ON THE SOUTHWEST SIDE OF MARION COUNTY >> FROM WHERE YOUR FUTURE GOOGLE SEARCHES COULD COME WERE REALLY WORRIED ABOUT SAFETY IT'S THIS CORPORATION OUT OF ",
+        "date": "2026-02-24T22:34:08.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "As the district councilor, when this petition comes before the full Council, I do not intend to call it down,",
+        "source": "Ron Gibson, Indianapolis City-County Councilman, District 8",
+        "url": "https://indianapolisrecorder.com/metrobloks-data-center-moves-forward-in-mb/",
+        "date": "2026-04-02T17:44:06.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The Commission's role is to evaluate projects based on land use standards, and it's important that every project is reviewed fairly and consistently,",
+        "source": "Ron Gibson, Indianapolis City-County Councilman, District 8",
+        "url": "https://indianapolisrecorder.com/metrobloks-data-center-moves-forward-in-mb/",
+        "date": "2026-04-02T17:44:06.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Data centers are being pushed into Black legacy neighborhoods like Martindale Brightwood. Not because it's right, but because decision-makers and predatory developers think we'll accept the burden,",
+        "source": "Protect Martindale Brightwood Instagram post",
+        "url": "https://baxtel.com/news/500m-data-center-approved-for-construction-outside-indianapolis",
+        "date": "2026-04-02T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Data centers are being pushed into Black legacy neighborhoods like Martindale Brightwood.",
+        "source": "Protect Martindale Brightwood Instagram post, anti-data center organization",
+        "url": "https://www.datacenterdynamics.com/en/news/500m-data-center-approved-for-construction-outside-indianapolis/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Data centers are the new redlining",
+        "source": "Protect Martindale Brightwood, anti-data center organization",
+        "url": "https://www.datacenterdynamics.com/en/news/500m-data-center-approved-for-construction-outside-indianapolis/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "This is a slap in the face to the Martindale-Brightwood community.",
+        "source": "Gregory W. Porter, State Rep. (D-Indianapolis)",
+        "url": "https://indianapolisrecorder.com/metrobloks-data-center-moves-forward-in-mb/",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "What we are saying is that you cannot come into Martindale Brightwood and just do anything,",
+        "source": "Cierra Johnson, lead organizer for the community",
+        "url": "https://indianapublicradio.org/news/2026/04/controversial-data-center-is-approved-for-martindale-brightwood/",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We are going to continue to fight this thing.",
+        "source": "Cierra Johnson, lead organizer for the community",
+        "url": "https://indianapublicradio.org/news/2026/04/controversial-data-center-is-approved-for-martindale-brightwood/",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Our hope is that they still pack up their things and go home.",
+        "source": "Cierra Johnson, resident",
+        "url": "https://www.wthr.com/article/news/local/indianapolis-city-leaders-vote-approve-martindale-brightwood-data-center/531-fe886851-6180-44a7-b63e-0a99f9d514af",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "We are going to continue to fight this thing.",
+        "source": "Cierra Johnson, resident",
+        "url": "https://www.wthr.com/article/news/local/indianapolis-city-leaders-vote-approve-martindale-brightwood-data-center/531-fe886851-6180-44a7-b63e-0a99f9d514af",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "I don't want to celebrate the victory. It's not how I'm looking at it.",
+        "source": "Earnest Popescu, CEO, Metrobloks",
+        "url": "https://www.wthr.com/article/news/local/indianapolis-city-leaders-vote-approve-martindale-brightwood-data-center/531-fe886851-6180-44a7-b63e-0a99f9d514af",
+        "date": "2026-04-01",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "As the district councilor, when this petition comes before the full Council, I do not intend to call it down.",
+        "source": "Gibson",
+        "url": "https://www.wthr.com/article/news/local/indianapolis-city-leaders-vote-approve-martindale-brightwood-data-center/531-fe886851-6180-44a7-b63e-0a99f9d514af",
+        "date": "2026-04-01",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "A data center does not align with that vision.",
+        "source": "Rev. Fitzhugh Lyons Jr., pastor at Galilee Missionary Baptist Church and a member of the Black Church Coalition",
+        "url": "https://www.indystar.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We think this fits and integrates much better into the community and looks like office buildings.",
+        "source": "Tyler Ochs, attorney for Metrobloks",
+        "url": "https://www.indystar.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "What is the purpose of zoning under such a plan?",
+        "source": "Jesse Brown, Councilor",
+        "url": "https://www.indystar.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We are still trying to figure it out.",
+        "source": "Greg Porter, Rep., D-Indianapolis",
+        "url": "https://www.indystar.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This petition allows this property to move from inactivity to a productive use, while remaining consistent with its industrial designation,",
+        "source": "Ron Gibson, Councilor",
+        "url": "https://www.insideindianabusiness.com/articles/indy-commission-approves-data-center-in-martindale-brightwood",
+        "date": "2026-04-01",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Placing an industrial-scale data center in the middle of homes, a library where our children learn and a grocery store where our elders shop simply does not line up with those priorities,",
+        "source": "Annettra Jones, pastor for Scott United Methodist Church",
+        "url": "https://www.insideindianabusiness.com/articles/indy-commission-approves-data-center-in-martindale-brightwood",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Allowing a deeply unpopular data center development to be forced through right next to a library, a grocery store, a community center and residential homes sets a dangerous precedent that means data centers will be approved anywhere and everywhere in the county,",
+        "source": "Jesse Brown, Democratic Councilor",
+        "url": "https://www.insideindianabusiness.com/articles/indy-commission-approves-data-center-in-martindale-brightwood",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "What we are saying is that you cannot come into Martindale Brightwood and just do anything,",
+        "source": "Cierra Johnson, lead organizer for the community",
+        "url": "https://www.wfyi.org/wfyi-news/2026-04-01/controversial-data-center-is-approved-for-martindale-brightwood",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Our hope is still that they pack up their things and go home,",
+        "source": "Cierra Johnson, lead organizer for the community",
+        "url": "https://www.wfyi.org/wfyi-news/2026-04-01/controversial-data-center-is-approved-for-martindale-brightwood",
+        "date": "2026-04-01",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "This is a real opportunity for skilled labor,",
+        "source": "Jon Hooker, president of the Central Indiana Building Trades Council",
+        "url": "https://www.wfyi.org/wfyi-news/2026-03-18/decatur-township-data-center-mdc-vote",
+        "date": "2026-03-18T00:00:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "It does not belong in the middle of these residences.",
+        "source": "Pat Andrews, resident and chair of the land use committee for the Decatur Township Civic Council",
+        "url": "https://www.wfyi.org/wfyi-news/2026-03-18/decatur-township-data-center-mdc-vote",
+        "date": "2026-03-18T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This was deliberate to deprive us of our rights,",
+        "source": "Pat Andrews, resident and chair of the land use committee for the Decatur Township Civic Council",
+        "url": "https://indianapublicradio.org/news/2026/03/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback/",
+        "date": "2026-03-18",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "This is a real opportunity for skilled labor,",
+        "source": "Jon Hooker, president of the Central Indiana Building Trades Council",
+        "url": "https://indianapublicradio.org/news/2026/03/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback/",
+        "date": "2026-03-18",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "It does not belong in the middle of these residences.",
+        "source": "Pat Andrews, resident and chair of the land use committee for the Decatur Township Civic Council",
+        "url": "https://indianapublicradio.org/news/2026/03/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback/",
+        "date": "2026-03-18",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This was deliberate to deprive us of our rights,",
+        "source": "Pat Andrews, resident and chair of the land use committee for the Decatur Township Civic Council",
+        "url": "https://www.wfyi.org/wfyi-news/2026-03-18/decatur-township-data-center-mdc-vote",
+        "date": "2026-03-18",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "It's unconscionable what is happening in Indianapolis, not just to Decatur Township, to Martindale-Brightwood, Franklin Township,",
+        "source": "Pat Andrews, resident and chair of the land use committee for the Decatur Township Civic Council",
+        "url": "https://www.wfyi.org/wfyi-news/2026-03-18/decatur-township-data-center-mdc-vote",
+        "date": "2026-03-18",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "“The last thing you want is to turn on the tap and nothing comes out because someone is making an AI puppy video,”",
+        "source": "Gabriel Filippelli, professor of earth sciences at IU Indianapolis",
+        "url": "https://mirrorindy.org/data-center-health-pollution-environment-impacts-indianapolis-marion-county/",
+        "date": "2026-03-06T20:01:15.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "“If we can manage the infrastructure needs for power and water, we can manage the health risks,”",
+        "source": "Shaolei Ren, associate professor, University of California",
+        "url": "https://mirrorindy.org/data-center-health-pollution-environment-impacts-indianapolis-marion-county/",
+        "date": "2026-03-06T20:01:15.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "As board chair he directs policy and strategy of the organization,",
+        "source": "Paula Brooks, representative of Protect Martindale Brightwood",
+        "url": "https://mirrorindy.org/mayor-joe-hogsett-indianapolis-economic-development-data-centers-martindale-brightwood-metrobloks/",
+        "date": "2026-03-06T11:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We'll work very hard in the next 30 days to try and inform the community more about the benefits of this project,",
+        "source": "Ron Gibson, City-County Councilor",
+        "url": "https://mirrorindy.org/mayor-joe-hogsett-indianapolis-economic-development-data-centers-martindale-brightwood-metrobloks/",
+        "date": "2026-03-04",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "For her to quip back with, well, I don't have a boss, seemed a little catty to me,",
+        "source": "Shonna Majors, Executive director of the Brightwood Community Center",
+        "url": "https://mirrorindy.org/mdc-hearing-examiner-judy-weerts-hall-metrobloks-data-center-martindale-brightwood/",
+        "date": "2026-03-03T21:59:51.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Sometimes people have to be aware of tone and timing.",
+        "source": "Denell Howard, Pastor of Hovey Street Church of Christ",
+        "url": "https://mirrorindy.org/mdc-hearing-examiner-judy-weerts-hall-metrobloks-data-center-martindale-brightwood/",
+        "date": "2026-03-03T21:59:51.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This is a new beast,",
+        "source": "Pat Andrews, chair of the Decatur Township Civic League's land use committee",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-26/decatur-township-sabey-data-center-mdc-hearing-examiner",
+        "date": "2026-02-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "This leaves the community in jeopardy.",
+        "source": "Pat Andrews, chair of the Decatur Township Civic League's land use committee",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-26/decatur-township-sabey-data-center-mdc-hearing-examiner",
+        "date": "2026-02-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We really don't want the air pollution, he constant noise and vibration. We don't want to live next to something like this because it will impact our property values and utility costs.",
+        "source": "Ashley Hooley, Protect Decatur Township organizer",
+        "url": "https://www.wishtv.com/news/politics/proposal-advances-for-data-center-in-marion-countys-decatur-township/",
+        "date": "2026-02-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We're not going to give up, we'll continue to show up to these hearings.",
+        "source": "Ashley Hooley, Protect Decatur Township organizer",
+        "url": "https://www.wishtv.com/news/politics/proposal-advances-for-data-center-in-marion-countys-decatur-township/",
+        "date": "2026-02-26",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We've taken a look at recent job announcements comparable to our job numbers, and we are at a much larger investment there.",
+        "source": "Mindy Westrick Brown, Sabey Data Center Properties",
+        "url": "https://www.wishtv.com/news/politics/proposal-advances-for-data-center-in-marion-countys-decatur-township/",
+        "date": "2026-02-26",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I've been knocking on doors almost every weekend several hours every week since November I can count on one hand the amount of people that are for this data center",
+        "source": "Unnamed resident, neighbor",
+        "url": "https://www.youtube.com/watch?v=4SlHpdNu_oQ",
+        "date": "2026-02-24",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "None of the neighborhood is in favor of the data center.",
+        "source": "Dale Wigden-Wright",
+        "url": "https://www.wrtv.com/news/local-news/hearing-examiner-recommends-approval-for-metrobloks-data-center-despite-community-pushback/",
+        "date": "2026-02-13T01:34:38.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "That land has been vacant for a long time because it's full of environmental pollutants.",
+        "source": "Cierra Johnson",
+        "url": "https://www.wrtv.com/news/local-news/hearing-examiner-recommends-approval-for-metrobloks-data-center-despite-community-pushback/",
+        "date": "2026-02-13T01:34:38.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Are we really so confident data centers are the future that we are willing to paint ourselves in the corner of supporting them even over such intense community disapproval?",
+        "source": "Jesse Brown, District 13 Councilor",
+        "url": "https://www.wrtv.com/news/local-news/hearing-examiner-recommends-approval-for-metrobloks-data-center-despite-community-pushback/",
+        "date": "2026-02-13T01:34:38.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "For more than 40 years, the site has not contributed to neighborhood activity or reinvestment.",
+        "source": "Ron Gibson, Councilor",
+        "url": "https://www.wrtv.com/news/local-news/hearing-examiner-recommends-approval-for-metrobloks-data-center-despite-community-pushback/",
+        "date": "2026-02-13T01:34:38.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Her decision was important. It's insulting. It's hurtful, but I want you to know it's also invigorating and motivating because they need to know this is not the end.",
+        "source": "Dennel Howard, Community leader",
+        "url": "https://www.wrtv.com/news/local-news/hearing-examiner-recommends-approval-for-metrobloks-data-center-despite-community-pushback/",
+        "date": "2026-02-13T01:34:38.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Contrary to what Councilor Brown said, I don't really have a boss,",
+        "source": "Judy Weerts Hall, Hearing Examiner",
+        "url": "https://mirrorindy.org/mdc-hearing-examiner-judy-weerts-hall-metrobloks-data-center-martindale-brightwood/",
+        "date": "2026-02-12",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "These people you see gathered here today are your bosses and mine,",
+        "source": "Jesse Brown, Councilor",
+        "url": "https://mirrorindy.org/mdc-hearing-examiner-judy-weerts-hall-metrobloks-data-center-martindale-brightwood/",
+        "date": "2026-02-12",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This is not development, this is environmental racism in action,",
+        "source": "Shonna Majors, executive director of the Brightwood Community Center",
+        "url": "https://mirrorindy.org/martindale-brightwood-data-center-metrobloks-indianapolis-businesses/",
+        "date": "2026-02-10",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We don't want this,",
+        "source": "Katherine Adamou, Martindale Brightwood resident and businesses owner",
+        "url": "https://mirrorindy.org/martindale-brightwood-data-center-metrobloks-indianapolis-businesses/",
+        "date": "2026-02-10",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We will be fighting until the very end and we hope that our message gets out,",
+        "source": "Delma Williams, Longtime resident",
+        "url": "https://mirrorindy.org/martindale-brightwood-data-center-metrobloks-indianapolis-businesses/",
+        "date": "2026-02-10",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "\"So far, I haven't heard any terms or deals that would satisfy the people that I've been working with,\" Johnson said. \"What we want is them to go home.\"",
+        "source": "Cierra Johnson, president of the One Voice neighborhood advocacy group",
+        "url": "https://www.wthr.com/article/news/local/go-home-hundreds-of-residents-press-martindale-brightwood-data-center-developer-in-second-meeting-metrobloks-sherman-drive/531-6b742737-7dbe-4ce0-8714-d67051fcb6b3",
+        "date": "2026-02-03",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "\"At the least we would like to have a moratorium so that we can find out everything we need to know before moving forward with any type of development,\" said Cierra Johnson, president of the One Voice neighborhood advocacy group.",
+        "source": "Cierra Johnson, president of the One Voice neighborhood advocacy group",
+        "url": "https://www.wthr.com/article/news/local/go-home-hundreds-of-residents-press-martindale-brightwood-data-center-developer-in-second-meeting-metrobloks-sherman-drive/531-6b742737-7dbe-4ce0-8714-d67051fcb6b3",
+        "date": "2026-02-03",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "\"Majority of the people in that room don't live in Martindale-Brightwood,\" Gibson told 13News reporter Alex Almanza over text message.",
+        "source": "Ron Gibson, City-County Councilor (D-District 8)",
+        "url": "https://www.wthr.com/article/news/local/go-home-hundreds-of-residents-press-martindale-brightwood-data-center-developer-in-second-meeting-metrobloks-sherman-drive/531-6b742737-7dbe-4ce0-8714-d67051fcb6b3",
+        "date": "2026-02-03",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "\"Obviously, there's still a lot of very passionate people who are against the project. That's not anything we didn't already know, and so we'll talk about some of the issues we heard.\"",
+        "source": "Tyler Ochs, Metrobloks attorney",
+        "url": "https://www.wthr.com/article/news/local/go-home-hundreds-of-residents-press-martindale-brightwood-data-center-developer-in-second-meeting-metrobloks-sherman-drive/531-6b742737-7dbe-4ce0-8714-d67051fcb6b3",
+        "date": "2026-02-03",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "they really haven't presented us with any new information. So we are still not satisfied and we don't want the development here.",
+        "source": "Cierra Johnson, Organizer, Protect Martindale Brightwood Neighborhood Coalition",
+        "url": "https://www.wishtv.com/news/business/angry-crowd-confronts-metrobloks-over-proposed-data-center/",
+        "date": "2026-02-02",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Everything we have tried to do, we get stepped on, kicked back, and that I don't think is right.",
+        "source": "Selvie Burris, Vietnam veteran, area property owner",
+        "url": "https://www.wishtv.com/news/business/angry-crowd-confronts-metrobloks-over-proposed-data-center/",
+        "date": "2026-02-02",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I think, for us, it's refreshing in a sense to see people so passionate about their neighborhood and where they are living, and although some people may think my client doesn't want to be a good steward, I would argue we are.",
+        "source": "Tyler Ochs, Metrobloks' Lawyer",
+        "url": "https://www.wishtv.com/news/business/angry-crowd-confronts-metrobloks-over-proposed-data-center/",
+        "date": "2026-02-02",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "We want Metrobloks to withdraw its proposal,",
+        "source": "Cierra Johnson, vice president of One Voice Martindale-Brightwood, a neighborhood organization",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-03/martindale-brightwood-data-center-meeting-metrobloks-meeting",
+        "date": "2026-02-02",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Why continue to push for this if the community doesn't want it?",
+        "source": "Belinda Drake",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-03/martindale-brightwood-data-center-meeting-metrobloks-meeting",
+        "date": "2026-02-02",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I would love to live next to one of our data centers,",
+        "source": "Hope Martin, design manager for Metrobloks",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-03/martindale-brightwood-data-center-meeting-metrobloks-meeting",
+        "date": "2026-02-02",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "So please, don't ever say again that we came together.",
+        "source": "Val Tate, attendee of the meeting",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-03/martindale-brightwood-data-center-meeting-metrobloks-meeting",
+        "date": "2026-02-02",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "It's kind of scary, the deer are gone, the birds are gone, all manner of wildlife.",
+        "source": "Richard Vonder Meulen, resident, lives across the street from the proposed data center",
+        "url": "https://www.wrtv.com/news/pike-township-residents-concerned-about-proposed-data-center-threatening-urban-forest/",
+        "date": "2025-11-25T00:21:53.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "Transparency to us is very important,",
+        "source": "Annette Johnson, Pike Township trustee",
+        "url": "https://www.wrtv.com/news/pike-township-residents-concerned-about-proposed-data-center-threatening-urban-forest/",
+        "date": "2025-11-25T00:21:53.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Trees and forests are a natural way that water can be observed and held, so it's not flooding our streets,",
+        "source": "Megan Anderson, Protect Pike Township",
+        "url": "https://www.wrtv.com/news/pike-township-residents-concerned-about-proposed-data-center-threatening-urban-forest/",
+        "date": "2025-11-25T00:21:53.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "If this gets passed, it might be time to consider leaving,",
+        "source": "Samantha Alba, Washington Township resident",
+        "url": "https://mirrorindy.org/pike-township-residents-oppose-data-center-proposal-american-tower-corp/",
+        "date": "2025-11-19",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We oppose this initiative 110%,",
+        "source": "Claudette Peterson, Pike Township board chair",
+        "url": "https://mirrorindy.org/pike-township-residents-oppose-data-center-proposal-american-tower-corp/",
+        "date": "2025-11-19",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We're going to see rising rates of asthma, we're going to see five points of heart disease,",
+        "source": "Luna Bond, Pike Township resident",
+        "url": "https://mirrorindy.org/pike-township-residents-oppose-data-center-proposal-american-tower-corp/",
+        "date": "2025-11-19",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Our customers are very interested in this location, and we follow our customers.",
+        "source": "Clete Casper, director of real estate for data center developer Sabey Corporation",
+        "url": "https://www.indystar.com/story/news/local/marion-county/2025/11/19/data-center-sabey-decatur-township-faces-hostile-crowd-at-town-hall-indianapolis-development/87347734007/",
+        "date": "2025-11-18",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I promise to read every word.",
+        "source": "Josh Bain, City-County Councilor",
+        "url": "https://www.indystar.com/story/news/local/marion-county/2025/11/19/data-center-sabey-decatur-township-faces-hostile-crowd-at-town-hall-indianapolis-development/87347734007/",
+        "date": "2025-11-18",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I hope that what we did here tonight matters.",
+        "source": "Ethan Hunt, resident",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-18/decatur-township-data-center-protest-residents-concerns",
+        "date": "2025-11-18",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "It's time that Decatur Township speaks up and says, 'We deserve the services that we're paying for, and we're not getting those services,'",
+        "source": "Phil Webster, former candidate for District 21",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-18/decatur-township-data-center-protest-residents-concerns",
+        "date": "2025-11-18",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It's a lose-lose situation for everybody,",
+        "source": "Randy Poynter, resident",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-18/decatur-township-data-center-protest-residents-concerns",
+        "date": "2025-11-18",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Keep an open mind. I believe it's going to add value to the property here.",
+        "source": "Ron Gibson, City-County Councilor, Democrat",
+        "url": "https://www.wishtv.com/news/business/metrobloks-seeks-to-build-500-million-data-center-in-indianapolis/",
+        "date": "2025-11-06",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "We are literary next door to the data center, so it would affect me directly.",
+        "source": "Cierra Johnson, Long-time resident",
+        "url": "https://www.wishtv.com/news/business/metrobloks-seeks-to-build-500-million-data-center-in-indianapolis/",
+        "date": "2025-11-06",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We would like to see development that is in alignment with our quality of life plan, which definitely has an environmental justice component, but also has wellness components,",
+        "source": "Cierra Johnson, vice president of One Voice Martindale Brightwood",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-04/martindale-brightwood-data-center-metrobloks-rezoning-proposal-filed",
+        "date": "2025-11-04T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "This proposed developer will uphold all the costs. There will be no cost off to residents, in terms of any utilities in terms of their project.",
+        "source": "Ron Gibson, City-County Council member",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-04/martindale-brightwood-data-center-metrobloks-rezoning-proposal-filed",
+        "date": "2025-11-04T00:00:00.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Metrobloks does not develop hyperscale data centers, instead, our data center is smaller, more efficient, and designed to fit the local grid and neighborhood, not overwhelm it,",
+        "source": "Alejandro Maldonado, Co-Founder and Chief Marketing Officer, metrobloks",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-04/martindale-brightwood-data-center-metrobloks-rezoning-proposal-filed",
+        "date": "2025-11-04T00:00:00.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "We will not raise your electric or water bills,",
+        "source": "Metrobloks, company",
+        "url": "https://www.ibj.com/articles/metrobloks-seeks-rezoning-for-500m-martindale-brightwood-data-center-on-14-acres",
+        "date": "2025-11-03",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "There are not policies in place to protect AES Indiana residential customers from potential utility bill increases from a data center like this, and it is irresponsible for them to imply otherwise,",
+        "source": "Ben Inskeep, program director, Citizens Action Coalition",
+        "url": "https://www.ibj.com/articles/metrobloks-seeks-rezoning-for-500m-martindale-brightwood-data-center-on-14-acres",
+        "date": "2025-11-03",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "a very small group of isolated individuals within the community are not keeping an open mind, and they're painting all data centers with the same brush.",
+        "source": "Ernest Popescu, Metrobloks CEO",
+        "url": "https://www.ibj.com/articles/metrobloks-seeks-rezoning-for-500m-martindale-brightwood-data-center-on-14-acres",
+        "date": "2025-11-03",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "All of us had so much skin in the game that we weren't really in a position where we felt like we had everything to lose, so why not just fight with everything we had?",
+        "source": "Meredith Sharp, Franklin Township resident",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "It’s really found traction in these communities, unlike anything that I've really seen,",
+        "source": "Bryce Gustafson, organizer, Citizens Action Coalition",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "If I had $1 for every time somebody said it was a done deal, I could probably retire at this point,",
+        "source": "Bryce Gustafson, organizer, Citizens Action Coalition",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "There’s so many different ways you could be upset about this,",
+        "source": "Alec Willis, Monrovia resident, Morgan County",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This is really just a nonpartisan issue,",
+        "source": "Bryce Gustafson, organizer, Citizens Action Coalition",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "“One of the things about Marion County is they’re just really not that farm friendly anymore,” Cathy said.",
+        "source": "Cathy Pelko, landowner",
+        "url": "https://readthereporter.com/data-centers-connect-to-hamilton-county/",
+        "date": "2025-09-18T00:00:00.000Z",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "“Franklin Township needs a business tax base in the worst way,” Kevin said.",
+        "source": "Kevin Pelko, landowner",
+        "url": "https://readthereporter.com/data-centers-connect-to-hamilton-county/",
+        "date": "2025-09-18T00:00:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "“Not a single person has spoken to us,” Cathy said.",
+        "source": "Cathy Pelko, landowner",
+        "url": "https://readthereporter.com/data-centers-connect-to-hamilton-county/",
+        "date": "2025-09-18T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "My clients want to work with the neighborhood through this process, and that means engaging with the community as much as we can,",
+        "source": "Tyler Ochs, attorney, Bose McKinney & Evans",
+        "url": "https://www.ibj.com/articles/unknown-company-pursuing-small-scale-data-center-in-martindale-brightwood",
+        "date": "2025-09-15",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "They have brought, combined, 500 jobs and have abatements for less than seven years, take up a fraction of the space,",
+        "source": "Michael-Paul Hart, City-County Councilor",
+        "url": "https://www.datacenterdynamics.com/en/news/google-gets-approval-for-data-center-campus-in-franklin-township-indiana/",
+        "date": "2025-08-20",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We're going to kick and scream until we can't scream no more. We're going to be as loud as we can.",
+        "source": "Andrew Filler",
+        "url": "https://www.ibj.com/articles/data-center-projects-facing-local-pushback",
+        "date": "2025-07-04T18:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "There are certain issues that pop up in almost every development case.",
+        "source": "Joe Calderon, Barnes & Thornburg LLP partner",
+        "url": "https://www.ibj.com/articles/data-center-projects-facing-local-pushback",
+        "date": "2025-07-04T18:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I feel very positive about the impact it will have on the community.",
+        "source": "Don Adams, Morgan County Commissioner",
+        "url": "https://www.ibj.com/articles/data-center-projects-facing-local-pushback",
+        "date": "2025-07-04T18:00:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "I think folks are a little leery of what's going on here.",
+        "source": "Kerwin Olson, executive director, Citizens Action Coalition",
+        "url": "https://www.ibj.com/articles/data-center-projects-facing-local-pushback",
+        "date": "2025-07-04T18:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "This is an extractive, zero-return development with no enduring value to the community,",
+        "source": "Brittany York, Resident of Franklin Township",
+        "url": "https://www.wfyi.org/wfyi-news/2025-06-26/despite-community-pushback-hearing-examiner-recommends-approval-for-indianapolis-data-center",
+        "date": "2025-06-26T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We should not be locking up one of the largest remaining land opportunities in Franklin township for a project that offers limited jobs, reduced tax benefits and long-term restrictions on infrastructure growth,",
+        "source": "Michael-Paul Hart, City-County Councilor",
+        "url": "https://www.wfyi.org/wfyi-news/2025-06-26/despite-community-pushback-hearing-examiner-recommends-approval-for-indianapolis-data-center",
+        "date": "2025-06-26",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It’s David versus Goliath,",
+        "source": "Brittany York, Franklin Township resident",
+        "url": "https://www.wfyi.org/wfyi-news/2025-05-17/indianapolis-residents-push-back-against-data-center-by-unknown-company",
+        "date": "2025-05-17",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This has been something I’ve worked on my entire life, to be out here, and it will be destroyed,",
+        "source": "Meredith Sharp, Franklin Township resident and herbal skincare business owner",
+        "url": "https://www.wfyi.org/wfyi-news/2025-05-17/indianapolis-residents-push-back-against-data-center-by-unknown-company",
+        "date": "2025-05-17",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "The writing is not on the wall,",
+        "source": "Ben Inskeep, director, Citizens Action Coalition",
+        "url": "https://www.wfyi.org/wfyi-news/2025-05-17/indianapolis-residents-push-back-against-data-center-by-unknown-company",
+        "date": "2025-05-17",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "It's really important that folks know that just because a data center is being proposed in their community, in no way means that that's actually going to happen.",
+        "source": "Ben Inskeep, director, Citizens Action Coalition",
+        "url": "https://www.wfyi.org/wfyi-news/2025-05-17/indianapolis-residents-push-back-against-data-center-by-unknown-company",
+        "date": "2025-05-17",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "I’ve worked my entire life to finally get out here to have this little slice of country that I can farm, and now it’s like I am fighting for everything I worked for,",
+        "source": "Meredith Sharp, Franklin Township resident",
+        "url": "https://www.indystar.com/story/news/environment/2025/05/05/indiana-data-center-boom-climate-change-environment/83209705007/",
+        "date": "2025-05-05T08:55:16.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "They were not transparent at all,",
+        "source": "Andrew Filler, resident near proposed Deep Meadow Ventures site",
+        "url": "https://www.indystar.com/story/news/environment/2025/05/05/indiana-data-center-boom-climate-change-environment/83209705007/",
+        "date": "2025-05-05T08:55:16.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "It’s really hard for folks to understand the magnitude of energy consumption at these centers,",
+        "source": "Ben Inskeep, Citizens Action Coalition",
+        "url": "https://www.indystar.com/story/news/environment/2025/05/05/indiana-data-center-boom-climate-change-environment/83209705007/",
+        "date": "2025-05-05T08:55:16.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "This property has been planned for industrial use,",
+        "source": "Joe Calderon, Attorney, Barnes & Thornburgh representing developer",
+        "url": "https://fox59.com/news/franklin-township-braces-for-potential-data-center-campus/",
+        "date": "2025-03-24T20:52:56.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I understand the confidentiality thing,",
+        "source": "Cathy Burton, Civic League Secretary",
+        "url": "https://fox59.com/news/franklin-township-braces-for-potential-data-center-campus/",
+        "date": "2025-03-24T20:52:56.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "They don't want high-density housing, so this is not that.",
+        "source": "Michael-Paul Hart, City-county councilor",
+        "url": "https://fox59.com/news/franklin-township-braces-for-potential-data-center-campus/",
+        "date": "2025-03-24T20:52:56.000Z",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Indianapolis City-County Council committee takes up $113 million in tax breaks for DC Blox data center on Monday",
+      "Company filing lists 21 new jobs",
+      "Filing calls the project's second phase potential",
+      "Metropolitan Development Commission approved rezoning for Metrobloks data center at 2505 N. Sherman Drive on April 1, 2026",
+      "Site is roughly 14 acres, formerly the Sherman Drive-In theater, long vacant",
+      "Project includes a $2.5 million commitment to Martindale-Brightwood community",
+      "Gibson said he will not call the proposal down when it goes before the full City-County Council",
+      "Metropolitan Development Commission approved the rezoning for a proposed Metrobloks data center in Martindale-Brightwood on April 1, 2026 over resident objections",
+      "Proposed facility would be built on nearly 14 acres at 2505 N. Sherman Dr, former drive-in theater site",
+      "Metrobloks plans two data halls, parking lot, backup generators and cooling systems",
+      "Vote recommendation now heads to City-County Council for final approval",
+      "Area has lead-contaminated soil and no zoning designation specifically for data centers",
+      "Indianapolis Metropolitan Development Commission approved Metrobloks' request to rezone a 14-acre site at 2505 North Sherman Drive",
+      "The site was vacant since 1983 and formerly a drive-in theater",
+      "The facility is designed to deliver 72MW at full buildout",
+      "Indianapolis Metropolitan Development Commission approved Metrobloks rezoning of about 14 acres at 2505 North Sherman Drive for a $500 million data center",
+      "The facility will offer 72MW of capacity at buildout",
+      "The Commission approved a larger Sabey data center in Decatur Township in mid-March 2026, spanning 130 acres and 250MW",
+      "Opponents say the project harms the environment, involved corruption, and constitutes environmental racism",
+      "Metropolitan Development Commission voted 6-2 on April 1, 2026 to approve rezoning and variances for a data center near Brightwood Plaza at 2505 Sherman Drive",
+      "Metrobloks plans $500 million investment on a 13.68-acre parcel unused for 40 years",
+      "Six Indianapolis councilors signed a February 12 press release urging Metrobloks to pause or withdraw its petition",
+      "NAACP of Indianapolis submitted a letter supporting the development but later reversed that support",
+      "Metrobloks projects 50 to 100 permanent jobs and about 300 construction jobs",
+      "Metropolitan Development Commission on April 1, 2026 approved rezoning of the Martindale Brightwood land for a data center",
+      "Metrobloks proposed a $500 million data center on a 14-acre site of a long-abandoned drive-in theater",
+      "Project backed by district councilor Ron Gibson and Indy Economic Development Inc.",
+      "Metropolitan Development Commission approved rezoning for Metrobloks data center on April 1, 2026 by a 6-2 written ballot vote",
+      "Metrobloks plans $500 million, two buildings, about 168,000 square feet on a 14-acre site at 2505 N. Sherman Dr.",
+      "Six City-County councilors released a statement last month calling on Metrobloks to pause or withdraw its request",
+      "Data centers currently have no place in city zoning code",
+      "Last month the MDC approved a $4 billion, 250-megawatt data center in Decatur Township",
+      "On April 1, 2026 the Indianapolis Metropolitan Development Commission voted 6-2 to approve rezoning for a Metrobloks data center in Martindale-Brightwood near 25th Street and Sherman Drive",
+      "Metrobloks will invest $2.5 million upfront for infrastructure and $20 million over 10 years in the community",
+      "Opponents included City-County Councilor Jesse Brown and State Rep. Greg Porter, citing environmental impact and loss of neighborhood history",
+      "The rezoning still must go before the full City-County Council",
+      "Metropolitan Development Commission approved the rezoning for a proposed data center in Martindale-Brightwood on April 1, 2026, over resident objections",
+      "The proposed Metrobloks data center would be built on nearly 14 acres at 2505 N. Sherman Dr",
+      "Metrobloks attorney Tyler Ochs said the project would bring an estimated $500 million in investment",
+      "Much of the debate centered on the absence of any zoning designation specifically for data centers"
+    ],
+    "groups": [
+      {
+        "name": "Martindale-Brightwood community organizers",
+        "url": "https://indianapublicradio.org/news/2026/04/controversial-data-center-is-approved-for-martindale-brightwood/",
+        "date": "2026-04-02T00:00:00.000Z"
+      },
+      {
+        "name": "Protect Martindale Brightwood",
+        "url": "https://baxtel.com/news/500m-data-center-approved-for-construction-outside-indianapolis",
+        "date": "2026-04-02T00:00:00.000Z"
+      },
+      {
+        "name": "Protect Martindale-Brightwood Coalition",
+        "url": "https://www.insideindianabusiness.com/articles/indy-commission-approves-data-center-in-martindale-brightwood",
+        "date": "2026-04-01T21:43:08.000Z"
+      },
+      {
+        "name": "NAACP of Indianapolis",
+        "url": "https://www.insideindianabusiness.com/articles/indy-commission-approves-data-center-in-martindale-brightwood",
+        "date": "2026-04-01T21:43:08.000Z"
+      },
+      {
+        "name": "Black Church Coalition",
+        "url": "https://www.indystar.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01T20:17:33.000Z"
+      },
+      {
+        "name": "Quality of life plan residents' coalition",
+        "url": "https://www.indystar.com/story/news/real-estate/2026/04/01/martindale-brightwood-data-center-indianapolis-approved-by-metropolitan-development-commission/89386291007/",
+        "date": "2026-04-01T20:17:33.000Z"
+      },
+      {
+        "name": "Martindale-Brightwood residents opposing the data center",
+        "url": "https://www.wthr.com/article/news/local/indianapolis-city-leaders-vote-approve-martindale-brightwood-data-center/531-fe886851-6180-44a7-b63e-0a99f9d514af",
+        "date": "2026-04-01T19:15:54.000Z"
+      },
+      {
+        "name": "Decatur Township Civic Council",
+        "url": "https://indianapublicradio.org/news/2026/03/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback/",
+        "date": "2026-03-19T11:48:23.000Z"
+      },
+      {
+        "name": "Central Indiana Building Trades Council",
+        "url": "https://indianapublicradio.org/news/2026/03/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback/",
+        "date": "2026-03-19T11:48:23.000Z"
+      },
+      {
+        "name": "Protect Pike Township",
+        "url": "https://mirrorindy.org/data-center-health-pollution-environment-impacts-indianapolis-marion-county/",
+        "date": "2026-03-06T20:01:15.000Z"
+      },
+      {
+        "name": "Indy Chamber",
+        "url": "https://mirrorindy.org/mayor-joe-hogsett-indianapolis-economic-development-data-centers-martindale-brightwood-metrobloks/",
+        "date": "2026-03-06T11:00:00.000Z"
+      },
+      {
+        "name": "Greater Indianapolis NAACP",
+        "url": "https://mirrorindy.org/mayor-joe-hogsett-indianapolis-economic-development-data-centers-martindale-brightwood-metrobloks/",
+        "date": "2026-03-06T11:00:00.000Z"
+      },
+      {
+        "name": "Martindale Brightwood residents opposing the data center",
+        "url": "https://mirrorindy.org/mdc-hearing-examiner-judy-weerts-hall-metrobloks-data-center-martindale-brightwood/",
+        "date": "2026-03-03T21:59:51.000Z"
+      },
+      {
+        "name": "Protect Decatur Township",
+        "url": "https://www.wishtv.com/news/politics/proposal-advances-for-data-center-in-marion-countys-decatur-township/",
+        "date": "2026-02-26T23:35:40.000Z"
+      },
+      {
+        "name": "Decatur Township Civic League",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-26/decatur-township-sabey-data-center-mdc-hearing-examiner",
+        "date": "2026-02-26T00:00:00.000Z"
+      },
+      {
+        "name": "Central Indiana Building Trades",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-26/decatur-township-sabey-data-center-mdc-hearing-examiner",
+        "date": "2026-02-26T00:00:00.000Z"
+      },
+      {
+        "name": "Central Midwest Carpenters Unions",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-26/decatur-township-sabey-data-center-mdc-hearing-examiner",
+        "date": "2026-02-26T00:00:00.000Z"
+      },
+      {
+        "name": "Franklin Township residents group",
+        "url": "https://mirrorindy.org/data-center-marion-county-approval-process-metropolitan-development-commission-mdc-hearing-examinar/",
+        "date": "2026-02-25T21:54:57.000Z"
+      },
+      {
+        "name": "Protect Martindale Brightwood Coalition",
+        "url": "https://www.wrtv.com/news/local-news/hearing-examiner-recommends-approval-for-metrobloks-data-center-despite-community-pushback/",
+        "date": "2026-02-13T01:34:38.000Z"
+      },
+      {
+        "name": "One Voice Martindale Brightwood",
+        "url": "https://mirrorindy.org/martindale-brightwood-data-center-metrobloks-indianapolis-businesses/",
+        "date": "2026-02-10T21:55:25.000Z"
+      },
+      {
+        "name": "Brightwood Community Center",
+        "url": "https://mirrorindy.org/martindale-brightwood-data-center-metrobloks-indianapolis-businesses/",
+        "date": "2026-02-10T21:55:25.000Z"
+      },
+      {
+        "name": "Protect Martindale Brightwood Neighborhood Coalition",
+        "url": "https://www.wishtv.com/news/business/angry-crowd-confronts-metrobloks-over-proposed-data-center/",
+        "date": "2026-02-03T04:36:26.000Z"
+      },
+      {
+        "name": "One Voice neighborhood advocacy group",
+        "url": "https://www.wthr.com/article/news/local/go-home-hundreds-of-residents-press-martindale-brightwood-data-center-developer-in-second-meeting-metrobloks-sherman-drive/531-6b742737-7dbe-4ce0-8714-d67051fcb6b3",
+        "date": "2026-02-03T00:36:46.000Z"
+      },
+      {
+        "name": "One Voice Martindale-Brightwood",
+        "url": "https://www.wfyi.org/wfyi-news/2026-02-03/martindale-brightwood-data-center-meeting-metrobloks-meeting",
+        "date": "2026-02-03T00:00:00.000Z"
+      },
+      {
+        "name": "Pike Township Residents Association",
+        "url": "https://www.wrtv.com/news/pike-township-residents-concerned-about-proposed-data-center-threatening-urban-forest/",
+        "date": "2025-11-25T00:21:53.000Z"
+      },
+      {
+        "name": "Martindale-Brightwood residents rallying against the data center",
+        "url": "https://www.wishtv.com/news/business/metrobloks-seeks-to-build-500-million-data-center-in-indianapolis/",
+        "date": "2025-11-07T04:29:08.000Z"
+      },
+      {
+        "name": "Hillside Neighborhood Associations",
+        "url": "https://www.ibj.com/articles/metrobloks-seeks-rezoning-for-500m-martindale-brightwood-data-center-on-14-acres",
+        "date": "2025-11-04T04:54:57.000Z"
+      },
+      {
+        "name": "Environmental Justice Collaborative",
+        "url": "https://www.wfyi.org/wfyi-news/2025-11-04/martindale-brightwood-data-center-metrobloks-rezoning-proposal-filed",
+        "date": "2025-11-04T00:00:00.000Z"
+      },
+      {
+        "name": "Protect Franklin Township",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z"
+      },
+      {
+        "name": "Coalition to Protect Morgan County",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z"
+      },
+      {
+        "name": "Citizens Action Coalition",
+        "url": "https://www.wfyi.org/wfyi-news/2025-10-28/indiana-data-centers-google-communities-fight-back-winning",
+        "date": "2025-10-28T00:00:00.000Z"
+      },
+      {
+        "name": "Tuttle Orchards petition",
+        "url": "https://www.ibj.com/articles/data-center-projects-facing-local-pushback",
+        "date": "2025-07-04T18:00:00.000Z"
+      },
+      {
+        "name": "Franklin Township Civic League",
+        "url": "https://www.ibj.com/articles/data-center-projects-facing-local-pushback",
+        "date": "2025-07-04T18:00:00.000Z"
+      },
+      {
+        "name": "Protect FT",
+        "url": "https://www.wfyi.org/wfyi-news/2025-06-26/despite-community-pushback-hearing-examiner-recommends-approval-for-indianapolis-data-center",
+        "date": "2025-06-26T00:00:00.000Z"
+      },
+      {
+        "name": "Franklin Township residents",
+        "url": "https://www.indystar.com/story/news/environment/2025/05/05/indiana-data-center-boom-climate-change-environment/83209705007/",
+        "date": "2025-05-05T08:55:16.000Z"
+      }
+    ]
+  },
+  "18099": {
+    "news": [
+      {
+        "title": "Marshall County Commissioners enact permanent ban on data centers, strict limits on solar and battery storage - GIANT fm",
+        "url": "https://www.giant.fm/howard-county/news/local-news/marshall-county-commissioners-enact-permanent-ban-on-data-centers-strict-limits-on-solar-and-battery-storage/",
+        "date": "2026-04-22T05:00:00.000Z",
+        "source": "GIANT fm",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We've been working for the last year and a half on making sure we have the right protections in place for the people of Marshall County,",
+        "source": "Jesse Bohannon, Commissioner",
+        "url": "https://www.giant.fm/howard-county/news/local-news/marshall-county-commissioners-enact-permanent-ban-on-data-centers-strict-limits-on-solar-and-battery-storage/",
+        "date": "2026-04-22",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Marshall County Commissioners voted Monday (April 20, 2026) to permanently ban data centers, effective immediately.",
+      "The ban replaces a one-year moratorium on data centers and industrial-scale solar farms.",
+      "Battery energy storage systems now require a 1,320-foot setback from the nearest adjoining property line.",
+      "Proposed solar ordinance would cap solar panel area at five acres; final vote expected May 4."
+    ],
+    "groups": []
+  },
+  "18109": {
+    "news": [
+      {
+        "title": "How NDAs are hiding data center details from the public",
+        "url": "https://www.ipm.org/news/2026-09-21/how-ndas-are-hiding-data-center-details-from-the-public",
+        "date": "2026-09-21T06:00:00.000Z",
+        "source": "WFIU / Arnolt Center for Investigative Journalism",
+        "stance": "oppose"
+      },
+      {
+        "title": "Here’s how a Monrovia data center could impact Marion County",
+        "url": "https://mirrorindy.org/aes-data-center-southside-monrovia-citizens-action-coalition/",
+        "date": "2025-10-17T09:00:00.000Z",
+        "source": "Mirror Indy",
+        "stance": "neutral"
+      },
+      {
+        "title": "Indiana attracts developers of data centers but residents have concerns",
+        "url": "https://www.ipm.org/2025-02-12/indiana-attracts-developers-of-data-centers-but-residents-have-concerns",
+        "date": "2025-02-12T20:39:35.000Z",
+        "source": "Indiana Public Media",
+        "stance": "oppose"
+      },
+      {
+        "title": "Morgan County data center campus proposal sparks community concern - WISH-TV",
+        "url": "https://www.wishtv.com/news/business/morgan-county-data-center-proposal/",
+        "date": "2025-02-06T03:40:36.000Z",
+        "source": "WISH-TV",
+        "stance": "oppose"
+      },
+      {
+        "title": "Developer Pitches 400-Acre Indianapolis Data Center Campus",
+        "url": "https://www.bisnow.com/news/national/data-center/developer-pitches-400-acre-indianapolis-data-center-campus-127881",
+        "date": "2025-02-04T12:00:00.000Z",
+        "source": "Bisnow",
+        "stance": "neutral"
+      },
+      {
+        "title": "Indiana continues its growth as a hyperscale destination > 391-acre campus proposed in Morgan County, Indiana. Planning commission will hear request for unnamed developer - DCD | Ron Vokoun",
+        "url": "https://www.linkedin.com/posts/ronvokoun_391-acre-data-center-campus-proposed-in-morgan-activity-7292596382954049536-kGfF",
+        "date": "2025-02-04T00:00:00.000Z",
+        "source": "LinkedIn",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data center in the works | morgancountycorrespondent.com",
+        "url": "https://morgancountycorrespondent.com/2025/01/23/data-center-in-the-works/",
+        "date": "2025-01-23T15:22:53.000Z",
+        "source": "The Correspondent",
+        "stance": "neutral"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=1vMPc3AH4MY",
+        "text": "# Morgan County data center gets green light for more land\n\n- Channel: WTHR\n- Length: 02:25\n- Views: 5.3K\n- Likes: 5\n- Published: 2025-10-06T17:55:13-07:00\n- Category: News & Politics\n- Keywords: [ local, business, money ], news\n- Language: en\n\n## Description\n\nA Morgan County data center has the green light to expand its footprint. In a 2-1 vote, county commissioners approved a 158-acre rezoning request for an unknown company to build a data center outside Monrovia. \n \nCommissioners previously approved 390 acres for the company in February. The site boundary follows State Road 42, North Antioch Road, Keller Hill Road and Union Church Road. \n \nAround 20 county residents came to speak against the project, concerned there hasn’t been enough transparency to understand it. \n \nMORE: https://www.wthr.com/article/news/local/morgan-county-commissioners-approve-additional-land-planned-data-center/531-599510da-f3fb-4d8d-8511-d922d2d8d48e\n\n## Transcript\n\n-- A data center planned for Morgan County ",
+        "date": "2025-10-06",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=ofeDZwOYcv8",
+        "text": "# Large data center project proposed in Morgan County\n\n- Channel: FOX59 News\n- Length: 01:35\n- Views: 488\n- Likes: 4\n- Published: 2025-02-04T04:25:20-08:00\n- Category: News & Politics\n- Keywords: video, news\n- Language: en\n\n## Description\n\nA developer wants to build a 390-acre data center in Monrovia.\n\n## Transcript\n\nCONGESTION AND HAPPENING TODAY THE MORGAN COUNTY COMMISSIONERS WILL BE HOSTING A COMMUNITY MEETING BEFORE HEARING A PROPOSAL TO BUILD A MASSIVE NEW DATA CENTER NEAR MONROE VIA FOX FIFTY-NINE'S ANNA DARLING IS HERE NOW TO SHARE WHAT WE KNOW ABOUT THE PROPOSAL AND HOW YOU COULD ATTEND THE MEETING UP LIKE ANNA GOOD MORNING YEAH GOOD MORNING THE DEVELOPER AND END USER WHOSE IDENTITIES WE DON'T KNOW YET WANT TO BUILD A 391 ACRE DATA CENTER IN THE AREA NORTH OF STATE ROAD 42 >> EAST OF WEST UNION CHURCH ROAD SOUTH OF KELLER HILL ROAD AND WEST OF ANTIOCH ROAD THE COMMISSIONERS WILL HEAR A PROPOSAL TO REZONE THE LAND FROM AGRICULTURE TO PLANNED UNIT DEVELOPMENT THE MORGAN COUNTY E",
+        "date": "2025-02-04T12:25:20.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It was already set in stone. Man, went from day one, it's a done deal.",
+        "source": "Darin Madsen, Monrovia resident",
+        "url": "https://www.ipm.org/news/2026-09-21/how-ndas-are-hiding-data-center-details-from-the-public",
+        "date": "2026-09-21T06:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We really didn't have a lot of time to even react to it.",
+        "source": "Gina Madsen, Monrovia resident",
+        "url": "https://www.ipm.org/news/2026-09-21/how-ndas-are-hiding-data-center-details-from-the-public",
+        "date": "2026-09-21T06:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "it simply should not be allowed for a public official to sign away their right to communicate with their constituents, to a private corporation.",
+        "source": "Pat Garofalo, director of state and local policy, American Economic Liberties Project",
+        "url": "https://www.ipm.org/news/2026-09-21/how-ndas-are-hiding-data-center-details-from-the-public",
+        "date": "2026-09-21T06:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Costs that are caused by the data center are going to go into the AES Indiana system and are going to potentially be spread out across other types of customers too,",
+        "source": "Ben Inskeep, program director for the advocacy group Citizens Action Coalition",
+        "url": "https://mirrorindy.org/aes-data-center-southside-monrovia-citizens-action-coalition/",
+        "date": "2025-10-17T09:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "At most, it might bring in 50 jobs.",
+        "source": "Unnamed resident, resident",
+        "url": "https://www.youtube.com/watch?v=1vMPc3AH4MY",
+        "date": "2025-10-06",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We don't want a data center.",
+        "source": "Unnamed resident, resident",
+        "url": "https://www.youtube.com/watch?v=1vMPc3AH4MY",
+        "date": "2025-10-06",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Data centers are coming, whether we like it or not,",
+        "source": "Dustin Frye, Morgan County Plan Commission Member",
+        "url": "https://www.ipm.org/2025-02-12/indiana-attracts-developers-of-data-centers-but-residents-have-concerns",
+        "date": "2025-02-12",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I am not against growth of our county and community, I want that,",
+        "source": "Amber Boulianne, Monrovia resident",
+        "url": "https://www.ipm.org/2025-02-12/indiana-attracts-developers-of-data-centers-but-residents-have-concerns",
+        "date": "2025-02-12",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "A lot of the power brokers in Indiana are using data centers as an excuse to push for things like keeping coal plants online, building out new natural gas power plants, or pursuing really risky and expensive small modular nuclear reactor technology,",
+        "source": "Ben Inskeep, Program Director, Citizens Action Coalition",
+        "url": "https://www.ipm.org/2025-02-12/indiana-attracts-developers-of-data-centers-but-residents-have-concerns",
+        "date": "2025-02-12",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "If you're going to put that in a community, let's do some pre-work,",
+        "source": "J.D. Ford, Rep. (D-Indianapolis)",
+        "url": "https://www.ipm.org/2025-02-12/indiana-attracts-developers-of-data-centers-but-residents-have-concerns",
+        "date": "2025-02-12",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "They think it’s progress, but it’s not,",
+        "source": "Bette Willet, Morgan County resident",
+        "url": "https://www.wishtv.com/news/business/morgan-county-data-center-proposal/",
+        "date": "2025-02-05",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I wish they could build it somewhere where it’s not close to homes, where it’s not residential.",
+        "source": "Bette Willet, Morgan County resident",
+        "url": "https://www.wishtv.com/news/business/morgan-county-data-center-proposal/",
+        "date": "2025-02-05",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "The cooling technology has yet to be determined.",
+        "source": "Todd Cunningham, director of development at civil engineering company EMH&T",
+        "url": "https://www.wishtv.com/news/business/morgan-county-data-center-proposal/",
+        "date": "2025-02-05",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think it’s going to affect my property value,",
+        "source": "Bette Willet, Morgan County resident",
+        "url": "https://www.wishtv.com/news/business/morgan-county-data-center-proposal/",
+        "date": "2025-02-05",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "Morgan County Board of Commissioners unanimously approved rezoning of the 391-acre site on February 18, 2025",
+      "In October 2025 Google announced it was the previously unnamed developer; commissioners approved an additional 158 acres, total 549 acres",
+      "Arnolt Center and Limestone Post found NDAs used in seven of 46 AI data centers researched in Indiana",
+      "AES Indiana's proposed integrated resource plan accounts for data center impacts on electricity needs and customer costs",
+      "Virtual AES public advisory meeting on the integrated resource plan held Oct. 22, 2025, 10 a.m. to 3 p.m.",
+      "Google's proposal to rezone 468 acres in Franklin Township was withdrawn Monday, Sept. 22",
+      "AES Indiana plans a $10 monthly bill hike by 2027, unclear if data center rate increases would be additional",
+      "Morgan County (Indiana) commissioners voted 2-1 to approve a 158-acre rezoning for a data center outside Monrovia",
+      "Commissioners previously approved 390 acres for the same company in February",
+      "About 20 residents spoke against the project",
+      "Project engineer said one cooling system could use up to 3 million gallons of water per day at max capacity",
+      "Commissioner Kenny Hale voted no after supporting the original 390 acres",
+      "Morgan County Plan Commission voted to recommend rezoning the Monrovia land despite community opposition",
+      "Morgan County Commissioners meet Feb. 18 and may vote on the rezoning",
+      "Indiana House Bill 1405 (2019) gives data centers property, sales and use tax exemptions on equipment",
+      "Rep. J.D. Ford has a bill that would require data centers to disclose projected water and power usage",
+      "Proposed site is about 0.7 miles from resident Amber Boulianne's property",
+      "Proposal would rezone 390 acres; development would cover 377 acres north of State Road 42 near Monrovia",
+      "Campus would have five buildings, four larger and one smaller",
+      "Site covers property owned by 10 owners; developer has purchase options on all",
+      "Public hearing set for 6:30 p.m. Monday at Morgan County Plan Commission in Martinsville",
+      "Developer is working with Citizens Energy and Morgan County Rural Water on water needs",
+      "Morgan County Commissioners hold a community meeting Feb 4, 2025, 7-8 PM at Monrovia church on Gordon Road",
+      "Commissioners to hear the rezoning proposal Feb 10, 2025 at 6 PM at the Morgan County Administration Building",
+      "Proposed 391-acre site is north of State Road 42, east of West Union Church Road, south of Keller Hill Road and west of Antioch Road",
+      "Pittsboro public hearing on a similar data center rezoning is Feb 25 at 6 PM",
+      "A 391-acre data center campus is proposed in Morgan Township, Morgan County, Indiana, between Indianapolis and Bloomington.",
+      "Initial zoning changes go before the Morgan County Plan Commission the week after Feb. 4, 2025.",
+      "The site is an assemblage of 18 parcels with 10 separate owners, and the developer reportedly holds purchase options on all of them.",
+      "The developer and end user have not been named.",
+      "A 391-acre data center campus is proposed in Morgan County, Indiana.",
+      "The Morgan County planning commission will hear the request from an unnamed developer.",
+      "Morgan County Plan Commission will hold a public hearing Feb. 10 on the rezoning petition",
+      "Petition by Morgan County EDC seeks to rezone about 391 acres from agricultural to PUD",
+      "Land is in Monroe Township just east of Monrovia town limits",
+      "Initial filings call it the Morgan County Data Center I Project"
+    ],
+    "groups": [
+      {
+        "name": "Citizens Action Coalition",
+        "url": "https://mirrorindy.org/aes-data-center-southside-monrovia-citizens-action-coalition/",
+        "date": "2025-10-17T09:00:00.000Z"
+      }
+    ]
+  },
+  "18125": {
+    "news": [
+      {
+        "title": "Commissioners approve court, highway and equipment requests | News | suncommercial.com",
+        "url": "https://www.suncommercial.com/press_dispatch/news/article_2c1427e5-a523-5557-90f0-21e2605b4517.html",
+        "date": "2026-07-23T05:00:00.000Z",
+        "source": "The Press-Dispatch",
+        "stance": "neutral"
+      },
+      {
+        "title": "Q&A with members of Pike County Data Center Concerns group - Part 1 | Community | suncommercial.com",
+        "url": "https://www.suncommercial.com/press_dispatch/community/article_d9970b00-fc1d-599c-9b98-810fcd2d919a.html",
+        "date": "2026-06-25T05:00:00.000Z",
+        "source": "The Press-Dispatch",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We've heard there are companies looking, but no one has come to the commissioners about building a data center in Pike County.",
+        "source": "Mark Flint, Commissioners President",
+        "url": "https://www.suncommercial.com/press_dispatch/news/article_2c1427e5-a523-5557-90f0-21e2605b4517.html",
+        "date": "2026-07-13",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "There are not going to be any tax abatements, but the county needs a tax revenue stream.",
+        "source": "Jeff Nelson, Commissioner",
+        "url": "https://www.suncommercial.com/press_dispatch/news/article_2c1427e5-a523-5557-90f0-21e2605b4517.html",
+        "date": "2026-07-13",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The commissioners admitted they did not know much about data centers, and yet all three voted to pass a resolution in September 2025 supporting data center development in Pike County.",
+        "source": "Lori Richardson, Pike County resident, group organizer",
+        "url": "https://www.suncommercial.com/press_dispatch/community/article_d9970b00-fc1d-599c-9b98-810fcd2d919a.html",
+        "date": "2026-06-25T05:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We do not want to become a dumping ground for what other counties have decided they do not want.",
+        "source": "Lori Richardson, Pike County resident, group organizer",
+        "url": "https://www.suncommercial.com/press_dispatch/community/article_d9970b00-fc1d-599c-9b98-810fcd2d919a.html",
+        "date": "2026-06-25T05:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "facts": [
+      "Pike County Commissioners said no company has approached them about building a data center in Pike County",
+      "Commissioners said they have never signed a non-disclosure agreement regarding a potential data center project",
+      "Commissioners do not support tax abatements for data centers; the Pike County Council holds final authority on abatement requests",
+      "Pike County, Indiana commissioners all three voted in September 2025 to pass a resolution supporting data center development in the county",
+      "Pike County Economic Development Corporation lists Data Centers as a target industry on its website",
+      "Washington County defeated a data center proposal, and Posey County is currently fighting one, per the group",
+      "Gibson County is getting a data center, per the group",
+      "More than 100 people attended a Monday county commissioners meeting on data centers"
+    ],
+    "groups": [
+      {
+        "name": "NO Data Centers for Pike County Indiana",
+        "url": "https://www.suncommercial.com/press_dispatch/community/article_d9970b00-fc1d-599c-9b98-810fcd2d919a.html",
+        "date": "2026-06-25T05:00:00.000Z"
+      }
+    ]
+  },
+  "18127": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "18141": {
+    "news": [],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=I4rcpcX06kc",
+        "text": "From the New York Times, I'm Natalie Kitroeff. This is The Daily. [music] [music] Tech companies are racing to build thousands of massive data centers to power the AI revolution. And to find the land they need, [music] they're barreling into rural communities across America. Their pitch is the data centers will bring good jobs, [music] revenue, and a foothold in a rapidly changing economy. But not [music] everyone's buying it. Today, my colleague Karen Weise tells the story of one county [music] pushing back against Big Tech and what happens when AI comes [music] to town. [music] [music] It's Monday, February 16th. Karen, I'm so happy to have you back on the show. So happy to be here with you. Okay, we've come to you because you cover some of the biggest tech companies in America. And what that's meant recently is covering artificial intelligence. And specifically, what you've been focusing on is the infrastructure that drives the AI revolution, which they're all involved in. And that'",
+        "date": null,
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "Amazon, Google, Meta and Microsoft spent $400 billion on capital expenditures in the last year, mostly on data centers",
+      "The largest AI data centers could use as much power as a million American homes",
+      "Utility brought Amazon to St. Joseph County economic development office in May 2023",
+      "Only two county council members voted against the Amazon project",
+      "St. Joseph County Council held a rezoning hearing on December 9, 2025"
+    ],
+    "groups": []
+  },
+  "18145": {
+    "news": [
+      {
+        "title": "SCDC gives annual economic development update; Commissioners pass funding request 2-1 | News | shelbynews.com",
+        "url": "https://www.shelbynews.com/news/scdc-gives-annual-economic-development-update-commissioners-pass-funding-request-2-1/article_5744a2d1-02b5-5b13-a5f7-081c3129793c.html",
+        "date": "2026-08-24T14:28:00.000Z",
+        "source": "Shelbyville News",
+        "stance": "neutral"
+      },
+      {
+        "title": "County Plan Commission issues favorable recommendation on data center ordinance | News | shelbynews.com",
+        "url": "https://www.shelbynews.com/news/county-plan-commission-issues-favorable-recommendation-on-data-center-ordinance/article_10e3e0f7-3af8-5e6b-b2cd-8f31452d42c3.html",
+        "date": "2026-08-13T13:42:00.000Z",
+        "source": "Shelbyville News",
+        "stance": "neutral"
+      },
+      {
+        "title": "County Plan Commission continues discussion of Data Center Overlay District ordinance | News | shelbynews.com",
+        "url": "https://www.shelbynews.com/news/county-plan-commission-continues-discussion-of-data-center-overlay-district-ordinance/article_fc6478c7-8b64-5003-9853-6b26630566b1.html",
+        "date": "2026-07-30T13:33:00.000Z",
+        "source": "Shelbyville News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Residents keep up the fight against data center | News | shelbynews.com",
+        "url": "https://www.shelbynews.com/news/residents-keep-up-the-fight-against-data-center/article_e201cd80-1e49-5389-b03d-1452069392bf.html",
+        "date": "2026-07-21T14:43:00.000Z",
+        "source": "The Shelbyville News",
+        "stance": "oppose"
+      },
+      {
+        "title": "County Plan Commission hears public's thoughts on data center ordinance: Set to vote on ordinance on Aug. 12 | News | shelbynews.com",
+        "url": "https://www.shelbynews.com/news/county-plan-commission-hears-publics-thoughts-on-data-center-ordinance-set-to-vote-on-ordinance/article_0feac2cf-65a6-56fb-9938-340cf1828156.html",
+        "date": "2026-06-25T14:48:00.000Z",
+        "source": "Shelby News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Shelby County Plan Commission to consider data center ordinance at Tuesday meeting - GIANT fm",
+        "url": "https://www.giant.fm/shelby-county/news/local-news/shelby-county-plan-commission-to-consider-data-center-ordinance-at-tuesday-meeting/",
+        "date": "2026-06-23T13:08:26.000Z",
+        "source": "GIANT fm",
+        "stance": "neutral"
+      },
+      {
+        "title": "RESOLUTION",
+        "url": "http://commissioners.shelby.in.datapitstop.us/DATA/REPORTS/FLD00004/00011803.PDF",
+        "date": "2026-02-23",
+        "source": "commissioners.shelby.in.datapitstop.us",
+        "stance": null
+      },
+      {
+        "title": "Commissioners hold discussion on data center moratorium: Board approves annex elevator repair | News | shelbynews.com",
+        "url": "https://www.shelbynews.com/news/commissioners-hold-discussion-on-data-center-moratorium-board-approves-annex-elevator-repair/article_de80126b-07b7-5060-9785-9270bfd37b80.html",
+        "date": "2026-02-17T14:18:00.000Z",
+        "source": "Shelbyville News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Mayor clarifies data center timeline, contradiction between public statements | News | shelbynews.com",
+        "url": "https://www.shelbynews.com/news/mayor-clarifies-data-center-timeline-contradiction-between-public-statements/article_97840649-c85c-5069-a3e0-74d7e0daf6a7.html",
+        "date": "2026-02-06T14:16:00.000Z",
+        "source": "The Shelbyville News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Shelbyville residents push back on proposed data center",
+        "url": "https://www.youtube.com/watch?v=j8bwMIRt1mw",
+        "date": null,
+        "source": "CBS4 Indy",
+        "stance": "oppose"
+      },
+      {
+        "title": "Project Hackman: Shelbyville - Project Hackman",
+        "url": "https://www.shelbyvilleprojecthackman.com/hackman-lp/",
+        "date": null,
+        "source": "shelbyvilleprojecthackman.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "Commissioners",
+        "url": "http://commissioners.shelbycounty73.us/cgi.exe?CALL_PROGRAM=REPORTS&FIND_GROUP=Ordinances%2FResolutions%2FOr&PAGEID=0015",
+        "date": null,
+        "source": "Shelby County Government, Indiana Commissioners",
+        "stance": null
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=XlRgcbLpclk",
+        "text": "# Shelbyville delays vote on proposed data center annexation, granting 30-day pause\n\n- Channel: WTHR\n- Length: 00:49\n- Views: 385\n- Likes: 4\n- Published: 2026-01-21T21:05:54-08:00\n- Category: News & Politics\n- Keywords: news ]\n- Language: en\n\n## Description\n\nThe Shelbyville Common Council voted to delay a decision on a proposed 429-acre data center annexation, citing the need for additional environmental review.\n\n## Transcript\n\nA proposed data center in Shelby County is on hold, at least for now.\nBefore Wednesday night's common council meeting, residents gathered outside Shelbyville High School, some singing and praying, others holding signs, all opposing a plan to annex and rezone 429 acres just outside the city.\nNow the developer Pro Lois is asking the city to annex the land for a potential data center inside the Shelbyville Common.\nThe council voted to delay action on the annexation for 30 days, saying they need more time to review environmental concerns, including water use.\nSome c",
+        "date": "2026-01-22T05:05:54.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "If we have to choose between the health and well being of our citizens, versus the cost or convenience to compete for the data centers, then the choice is clear that we need to protect our people's health.",
+        "source": "Lindsay",
+        "url": "https://www.shelbynews.com/news/county-plan-commission-hears-publics-thoughts-on-data-center-ordinance-set-to-vote-on-ordinance/article_0feac2cf-65a6-56fb-9938-340cf1828156.html",
+        "date": "2026-06-23",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I wanted to share with you the dreaded concerns we have in the county.",
+        "source": "Gina Jackson",
+        "url": "https://www.shelbynews.com/news/commissioners-hold-discussion-on-data-center-moratorium-board-approves-annex-elevator-repair/article_de80126b-07b7-5060-9785-9270bfd37b80.html",
+        "date": "2026-02-17",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I understand that we've had general conversations with the city about our infrastructure in the area and have not yet met with Prologis.",
+        "source": "Joel Reuter, External Affairs Manager, Indiana American Water",
+        "url": "https://www.shelbynews.com/news/mayor-clarifies-data-center-timeline-contradiction-between-public-statements/article_97840649-c85c-5069-a3e0-74d7e0daf6a7.html",
+        "date": "2026-02-06",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Shelby County Commissioners approved a $100,000 funding request for the Shelby County Economic Development Corporation by a 2-1 vote, with Commissioner Jason Abel voting against.",
+      "The article also covers a data center ordinance approved by the Shelby County Commissioners alongside the economic development funding.",
+      "Shelby County Plan Commission issued a favorable recommendation on the proposed Data Center Overlay Text District Amendment in August 2026.",
+      "The proposed ordinance goes to the Board of Commissioners on Aug. 24 for approval.",
+      "The data center moratorium ends Aug. 23, prompting a special Plan Commission meeting.",
+      "The Shelby County Plan Commission took additional comment on the proposed Data Center Overlay District ordinance on Tuesday, July 28, 2026, and took no action.",
+      "The Plan Commission set a special meeting for Aug. 12 to make a recommendation, with the County Commissioners aiming to give final approval at their Aug. 17 meeting.",
+      "A six-month moratorium on data center development applications expires Aug. 23.",
+      "Residents continued to speak out against the proposed Prologis data center project at a Shelbyville City Council meeting on Monday, July 20, 2026.",
+      "Residents also spoke against any future data center projects that could come to the city or county.",
+      "Shelby County Plan Commission set a final vote on the proposed data center ordinance for Aug. 12, 2026",
+      "The county data center moratorium ends Aug. 23, 2026",
+      "The Plan Commission moved its August meeting earlier to allow advertising and time to consider public revisions to the ordinance",
+      "The ordinance public hearing was held at a Tuesday meeting, where residents shared comments on setbacks, noise limits, water use and permitted locations",
+      "Shelby County Commissioners adopted a resolution in February imposing a moratorium on new data center applications while an ordinance is developed.",
+      "Shelby County Plan Commission holds a public hearing on the draft data center ordinance at Shelbyville High School's Breck Auditorium at 7 p.m. on Tuesday, June 23, 2026.",
+      "Public comment is limited to 2 minutes per person, and the county has no jurisdiction over the data center proposed within Shelbyville city limits.",
+      "Shelby County, Indiana Board of Commissioners adopted a strategic moratorium on filing, processing, review, or acceptance of new applications for Qualified Data Center developments, commencing February 23, 2026",
+      "The moratorium lasts until the earlier of the effective date of a local ordinance governing Qualified Data Centers or August 23, 2026",
+      "Gina Jackson requested a county moratorium on new data centers until an ordinance regulating them is drafted, during public comment at the Shelby County Commissioners meeting on February 17, 2026",
+      "There have been several requests for a moratorium regarding the Prologis site on State Road 44",
+      "The City Council answered a public question on Monday about the timeline for the proposed Prologis data center project in Shelbyville, Indiana.",
+      "The Shelbyville City Council hired Banning Engineering to conduct an additional site study on the proposed Prologis site.",
+      "Shelbyville Common Council voted on Jan. 21, 2026 to delay the annexation decision for 30 days.",
+      "Proposed annexation and rezoning covers 429 acres just outside Shelbyville.",
+      "Council is expected to revisit the annexation at its February 18 meeting.",
+      "Residents gathered outside Shelbyville High School to oppose the plan before the meeting.",
+      "Shelbyville City Council voted 5-1 with one abstention to annex land for the proposed data center complex",
+      "Complex would span more than 400 acres with up to 13 data centers near I-74 and State Road 44",
+      "No one voiced support for the plan at the council meeting",
+      "Shelbyville Plan Commission to hold a public hearing on the project on Wednesday at Shelbyville High School",
+      "Prologis proposes up to $2 billion in real property investment and 330 full-time jobs in Shelbyville, Indiana",
+      "The campus would be built in three phases over approximately 10 years, with up to 11 buildings",
+      "Projected site water use is 300,000 gallons per day using a closed-loop, air-cooled system",
+      "Prologis says it will fund 100% of power system upgrades and utility costs for the site",
+      "A community open house was scheduled for Wednesday, March 11, 5:00-8:00 PM ET at Shelbyville High School",
+      "Shelby County, Indiana commissioners listed Resolution R-2026-02 Data Center Moratorium, last updated 03/17/2026"
+    ],
+    "groups": [
+      {
+        "name": "Shelby County Citizens Against Data Centers",
+        "url": "https://www.shelbynews.com/news/county-plan-commission-hears-publics-thoughts-on-data-center-ordinance-set-to-vote-on-ordinance/article_0feac2cf-65a6-56fb-9938-340cf1828156.html",
+        "date": "2026-06-25T14:48:00.000Z"
+      }
+    ]
+  }
+}

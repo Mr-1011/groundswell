@@ -85,6 +85,7 @@ type Props = {
   onOpenInfra: (props: Record<string, unknown>) => void; // feature properties + layer, lon, lat, fips
   onZoomOut: () => void;
   onHome: () => void;
+  onReady: () => void; // map loaded: the first view can move to a linked region
 };
 
 export default function MapView(p: Props) {
@@ -185,6 +186,7 @@ export default function MapView(p: Props) {
     setSatBefore(layers.find((l) => l.type === "line")?.id); // imagery above land fills, below roads and labels
     setLabelsBefore(layers.find((l) => l.type === "symbol")?.id); // our fills stay under place names
     setReady(true);
+    p.onReady();
   };
 
   // flat basemap buildings make way for imagery or 3D extrusions

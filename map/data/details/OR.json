@@ -1,0 +1,489 @@
+{
+  "41017": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "41037": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "41039": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "41047": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "41049": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "41059": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "41065": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/Bend/comments/1u09uc9/oregon_data_centers/",
+        "text": "Oregon Data Centers\n\nThis is a great, yet depressing as fuck, column by Jackson Hoeke who writes for Oregon’s Bay Area on Facebook. They also post on Substack (link below). Little known fact, Cliff Bentz is currently sponsoring a bill to take ownership of the land around Crow Creek Reservoir in the Mt. Hood National Forest so the dam can be raised and the water used for the Google Data Center in The Dalles.\nOregon has paused the tax breaks for data centers but they need to do more regulating and halt new builds and expansions. Even PG&E finally acknowledged that data centers are costing residents, so they proposed a 29% rate hike for large data centers in Oregon to cover the infrastructure costs associated with their heavy energy use. Yet residential customers will only see a tiny 1.3% rate.\n————\n“Two weeks ago, New York Representative Alexandria Ocasio-Cortez made headlines by displaying jars of the brown, polluted drinking water from Morgan County, Georgia during a House Committee on",
+        "date": "2026-06-08T14:39:33.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "Oregon paused tax breaks for data centers",
+      "PG&E proposed a 29% rate hike for large data centers in Oregon versus 1.3% for residential customers",
+      "Oregon ranked 5th in data center energy consumption in 2023, about 11% of its energy",
+      "Google's 2021 groundwater rights allow up to 3.88 million gallons per day in The Dalles",
+      "Amazon plans a 1,300-acre data center expansion near Boardman, OR"
+    ],
+    "groups": []
+  },
+  "41067": {
+    "news": [
+      {
+        "title": "Washington County bars itself from land deals, NDAs for big data centers",
+        "url": "https://www.bankspost.com/washington-county-bars-itself-from-land-deals-ndas-for-big-data-centers/",
+        "date": "2026-10-30T00:03:39.000Z",
+        "source": "Banks Post",
+        "stance": "oppose"
+      },
+      {
+        "title": "Hillsboro council races hinge on data center tax fight | Hillsboro Today",
+        "url": "https://hillsborotoday.com/articles/hillsboro-council-races-hinge-on-data-center-tax-fight-mvirgfqc",
+        "date": "2026-10-23T03:02:13.000Z",
+        "source": "Hillsboro Today",
+        "stance": "oppose"
+      },
+      {
+        "title": "Hillsboro moves toward a permanent ceiling on data centers - oregonlive.com",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/10/hillsboro-moves-toward-a-permanent-ceiling-on-data-centers.html",
+        "date": "2026-10-08T15:09:02.000Z",
+        "source": "The Oregonian/OregonLive",
+        "stance": "neutral"
+      },
+      {
+        "title": "Residents express broad opposition to rapid data‑center expansion; request stronger transparency and protections | Citizen Portal",
+        "url": "https://citizenportal.ai/articles/10656248/oregon/washington-county/hillsboro/residents-express-broad-opposition-to-rapid-datacenter-expansion-request-stronger-transparency-and-protections",
+        "date": "2026-10-07T17:01:48.000Z",
+        "source": "Citizen Portal",
+        "stance": "oppose"
+      },
+      {
+        "title": "Oregon data centers latest: Hillsboro, Salem consider future of data centers Tuesday",
+        "url": "https://www.koin.com/news/oregon/washington-county-hillsboro-salem-data-center-resolutions-latest-10062026/",
+        "date": "2026-10-06T18:51:54.000Z",
+        "source": "KOIN",
+        "stance": "neutral"
+      },
+      {
+        "title": "Hillsboro residents push back on Century Boulevard Extension at county meeting | Hillsboro Today",
+        "url": "https://hillsborotoday.com/articles/hillsboro-residents-push-back-on-century-boulevard-extension-at-county-meeting-ms8rdbux",
+        "date": "2026-07-31T17:20:10.000Z",
+        "source": "Hillsboro Today",
+        "stance": "oppose"
+      },
+      {
+        "title": "Hillsboro enacts 120-day data center moratorium amid lawsuit, resident pushback | kgw.com",
+        "url": "https://www.kgw.com/article/news/politics/hillsboro-enacts-120-day-data-center-moratorium-lawsuit-resident-pushback/283-485319ce-37ea-4e05-a8f4-1418aa2af69f",
+        "date": "2026-07-27T00:00:00.000Z",
+        "source": "KGW",
+        "stance": "oppose"
+      },
+      {
+        "title": "Oregon residents challenge data center tax breaks as AI concerns grow - Axios Portland",
+        "url": "https://www.axios.com/local/portland/2026/06/24/data-center-backlash-ai-expansion-oregon",
+        "date": "2026-06-24T13:25:04.000Z",
+        "source": "Axios Portland",
+        "stance": "oppose"
+      },
+      {
+        "title": "Hillsboro erupts over data centers: ‘I feel betrayed’ - oregonlive.com",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/06/hillsboro-erupts-over-data-centers-i-feel-betrayed.html",
+        "date": "2026-06-03T18:08:53.000Z",
+        "source": "OregonLive",
+        "stance": "oppose"
+      },
+      {
+        "title": "Hillsboro Data Center Protest Shows Growing Unrest Over Millions Of Tax Giveaways - The Hillsboro Herald",
+        "url": "https://hillsboroherald.com/hillsboro-data-center-protest-shows-growing-unrest-over-millions-of-tax-giveaways/",
+        "date": "2026-05-17T20:12:46.000Z",
+        "source": "The Hillsboro Herald",
+        "stance": "oppose"
+      },
+      {
+        "title": "Residents rally against data centers in Hillsboro: 'This is not okay' | kgw.com",
+        "url": "https://www.kgw.com/article/tech/hillsboro-residents-rally-against-data-centers/283-0d999c4d-ef92-423c-a93a-ef5c68c549bb",
+        "date": "2026-05-16T00:00:00.000Z",
+        "source": "KGW",
+        "stance": "oppose"
+      },
+      {
+        "title": "Hillsboro Residents Push to Halt Data Center Expansion Amid Rising Power Costs | Daily Tidings",
+        "url": "https://www.dailytidings.com/hillsboro-residents-push-to-halt-data-center-expansion-amid-rising-power-costs/",
+        "date": "2026-04-10T14:24:04.000Z",
+        "source": "Daily Tidings",
+        "stance": "oppose"
+      },
+      {
+        "title": "In Hillsboro, petition seeks pause on new data centers amid energy and farmland concerns",
+        "url": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge",
+        "date": "2026-04-09T03:43:35.000Z",
+        "source": "KATU",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=oU5m3QeCgEY",
+        "text": "Washington County Commission District 4 candidates on data centers, affordability and ICE\nChannel: KGW News\nCandidates for Washington County District 4, which includes Hillsboro and Forest Grove, answer questions on public safety, data ...\nوفي هذا المساء، نسلط الضوء على جولة الإعادة في مقاطعة واشنطن، وهي السباق على مقعد مفوضية المقاطعة للمنطقة الرابعة، والذي يضم مدينتي هيلزبورو وفورست غروف. يتنافس مرشحان، عمدة هيلزبورو السابق ستيف كالاواي وعضو مجلس مدينة هيلزبورو الحالي كيبرلين سنكلير. يأتي هذا السباق في وقت يواجه فيه الناخبون مخاوف متزايدة بشأن القدرة على تحمل التكاليف، وتواجه المقاطعة ردود فعل عنيفة بسبب التوسع في مراكز البيانات. لقد دعونا كلا المرشحين للجلوس معنا. قبل كلاهما الدعوة، لكن سنكلير اضطرت للإلغاء بسبب ظروف غير متوقعة ولم تتمكن من إعادة جدولة الموعد. لكنها أرسلت لنا بيانًا جاء فيه جزئيًا: \" في عصر الذكاء الاصطناعي ومراكز البيانات ، تحتاج مقاطعة واشنطن إلى مفوض يلتزم بحماية أراضينا الزراعية، وهوائنا، ومياهنا، وأموالنا العامة\". وبنفس القدر من الأهمية، يجب علينا حماية حق الجم",
+        "date": "2026-10-30T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I think what our community is looking for is an action.",
+        "source": "Nafisa Fai, Washington County Commissioner",
+        "url": "https://www.bankspost.com/washington-county-bars-itself-from-land-deals-ndas-for-big-data-centers/",
+        "date": "2026-10-30T00:03:39.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Twenty megawatts seems to be the normative benchmark.",
+        "source": "Jacob Roloff",
+        "url": "https://www.bankspost.com/washington-county-bars-itself-from-land-deals-ndas-for-big-data-centers/",
+        "date": "2026-10-30T00:03:39.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "In the age of AI and data centers, Washington County needs a commissioner committed to protecting our farmland, our air, our water, and our public dollars.",
+        "source": "Kimberlee Sinclair, Hillsboro City Council member",
+        "url": "https://www.youtube.com/watch?v=oU5m3QeCgEY",
+        "date": "2026-10-30T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We have not included the amendments that had been proposed on October 5th and discussed by your board on October 20th because there was no board consensus or direction asking staff to incorporate those amendments at that time.",
+        "source": "Marni Kuyl, Assistant County Administrator",
+        "url": "https://www.bankspost.com/washington-county-bars-itself-from-land-deals-ndas-for-big-data-centers/",
+        "date": "2026-10-28",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We should stop negotiating from a position of weakness and start recognizing the value that Hillsboro brings to the table,",
+        "source": "Britt Holloway, Hillsboro resident",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/10/hillsboro-moves-toward-a-permanent-ceiling-on-data-centers.html",
+        "date": "2026-10-07",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We need to evaluate power demand, water use, noise, emissions, and impacts on nearby farms and neighborhoods.",
+        "source": "Britt Holloway, Hillsboro resident",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/10/hillsboro-moves-toward-a-permanent-ceiling-on-data-centers.html",
+        "date": "2026-10-07",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I think this is really a step forward in a lot of ways,",
+        "source": "Rob Harris, council President",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/10/hillsboro-moves-toward-a-permanent-ceiling-on-data-centers.html",
+        "date": "2026-10-07",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "The community has asked that this issue be addressed by us, residents deserve to hear their elected leaders discuss it openly.",
+        "source": "Nafisa Fai, Commissioner",
+        "url": "https://www.koin.com/news/oregon/washington-county-hillsboro-salem-data-center-resolutions-latest-10062026/",
+        "date": "2026-10-06",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Residents are asking questions about water, electricity, public health, and the use of public resources.",
+        "source": "Nafisa Fai, Commissioner",
+        "url": "https://www.koin.com/news/oregon/washington-county-hillsboro-salem-data-center-resolutions-latest-10062026/",
+        "date": "2026-10-06",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"A temporary land use moratorium on data and energy storage facilities could help ensure that new policies and recommendations can be enacted thoughtfully,\" said Hillsboro Mayor Beach Pace.",
+        "source": "Beach Pace, Mayor of Hillsboro",
+        "url": "https://www.kgw.com/article/news/politics/hillsboro-enacts-120-day-data-center-moratorium-lawsuit-resident-pushback/283-485319ce-37ea-4e05-a8f4-1418aa2af69f",
+        "date": "2026-07-27",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "\"back door under handed dealing\"",
+        "source": "Jennifer Hagen, Hillsboro resident",
+        "url": "https://hillsborotoday.com/articles/hillsboro-residents-push-back-on-century-boulevard-extension-at-county-meeting-ms8rdbux",
+        "date": "2026-07-26",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Cash-rich data center developers have been reaping tens of millions of dollars in tax incentives every year.",
+        "source": "plaintiffs",
+        "url": "https://www.axios.com/local/portland/2026/06/24/data-center-backlash-ai-expansion-oregon",
+        "date": "2026-06-24T13:25:04.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "This isn't happening in a vacuum.",
+        "source": "Tom Brookes, researcher, Milltown Partners",
+        "url": "https://www.axios.com/local/portland/2026/06/24/data-center-backlash-ai-expansion-oregon",
+        "date": "2026-06-24T13:25:04.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "“I feel betrayed and dismissed by a portion of our city’s leaders,” said Hillsboro resident Mike McTernan, one of three dozen who testified against data centers over nearly two hours at a city council meeting Tuesday night.",
+        "source": "Mike McTernan, Hillsboro resident",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/06/hillsboro-erupts-over-data-centers-i-feel-betrayed.html",
+        "date": "2026-06-02",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "“The claim that these developments are legal and just not up to you is a mentality that does not lend itself to a thriving society,” said lifelong Hillsboro resident Nicole Cook.",
+        "source": "Nicole Cook, lifelong Hillsboro resident",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/06/hillsboro-erupts-over-data-centers-i-feel-betrayed.html",
+        "date": "2026-06-02",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "“We hear you. We see you,” said council member Kipperlyn Sinclair.",
+        "source": "Kipperlyn Sinclair, council member",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/06/hillsboro-erupts-over-data-centers-i-feel-betrayed.html",
+        "date": "2026-06-02",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "“Do everything you can to pump the brakes.”",
+        "source": "Tiffany St. Claire-King, Hillsboro resident",
+        "url": "https://www.oregonlive.com/silicon-forest/2026/06/hillsboro-erupts-over-data-centers-i-feel-betrayed.html",
+        "date": "2026-06-02",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I am formally challenging the EZ Program for subverting its goal of alleviating economic hardship",
+        "source": "Kipperlyn Sinclair, Hillsboro City Councilor",
+        "url": "https://hillsborotoday.com/articles/hillsboro-council-races-hinge-on-data-center-tax-fight-mvirgfqc",
+        "date": "2026-06",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "The trade-off of waiving tens of millions in property tax revenues, effectively starving the county, schools, and city, is that eventually the money that does come in will be very significant.",
+        "source": "Hillsboro Herald column",
+        "url": "https://hillsboroherald.com/hillsboro-data-center-protest-shows-growing-unrest-over-millions-of-tax-giveaways/",
+        "date": "2026-05-17T20:12:46.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "People need to wake up about what data centers are doing,\" Hillsboro resident Barbara Haines said. \"They are increasing our electricity bills. They are taking our water.",
+        "source": "Barbara Haines, Hillsboro resident",
+        "url": "https://www.kgw.com/article/tech/hillsboro-residents-rally-against-data-centers/283-0d999c4d-ef92-423c-a93a-ef5c68c549bb",
+        "date": "2026-05-16",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We've been asking about the effects of data centers in the area and the impacts on people, and all of that is behind a curtain that we're told we can't have or it costs a lot of money for us to have.",
+        "source": "Myrna Muñoz, candidate for Oregon State Senate District 15",
+        "url": "https://www.kgw.com/article/tech/hillsboro-residents-rally-against-data-centers/283-0d999c4d-ef92-423c-a93a-ef5c68c549bb",
+        "date": "2026-05-16",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Forest Grove lost 51 teachers this year, and in Beaverton, they closed down a school.",
+        "source": "Myrna Muñoz, candidate for Oregon State Senate District 15",
+        "url": "https://www.kgw.com/article/tech/hillsboro-residents-rally-against-data-centers/283-0d999c4d-ef92-423c-a93a-ef5c68c549bb",
+        "date": "2026-05-16",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "I championed the POWER Act to hold data centers accountable, and I've called for ending tax breaks for data centers statewide.",
+        "source": "Janeen Sollman, incumbent state Sen.",
+        "url": "https://www.kgw.com/article/tech/hillsboro-residents-rally-against-data-centers/283-0d999c4d-ef92-423c-a93a-ef5c68c549bb",
+        "date": "2026-05-16",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "\"People need to wake up about what data centers are doing,\" Hillsboro resident Barbara Haines told KGW in May.",
+        "source": "Barbara Haines, Hillsboro resident",
+        "url": "https://www.kgw.com/article/news/politics/hillsboro-enacts-120-day-data-center-moratorium-lawsuit-resident-pushback/283-485319ce-37ea-4e05-a8f4-1418aa2af69f",
+        "date": "2026-05",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "A moratorium is not a permanent ban. It is a pause for accountability.",
+        "source": "Kipperlyn Sinclair, Hillsboro City Councilor",
+        "url": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge",
+        "date": "2026-04-08",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "While our residential electricity rates have risen by nearly 50%, data centers continue paying less than half the rate per kilowatt-hour that we do.",
+        "source": "Kipperlyn Sinclair, Hillsboro City Councilor",
+        "url": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge",
+        "date": "2026-04-08",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "They are not paying their share. We are paying that share. So there are huge questions to be answered.",
+        "source": "Tammy Carpenter, candidate for House District 27 and current Beaverton School Board member",
+        "url": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge",
+        "date": "2026-04-08",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Oregon needs revenues. Oregon needs jobs, and so I feel like the moratorium is the right thing to do.",
+        "source": "Dirk Knudsen, Hillsboro Herald editor",
+        "url": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge",
+        "date": "2026-04-08",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "This is not about stopping innovation. It's about stopping the blank check.",
+        "source": "Myrna Muñoz, State Senate candidate and Washington County resident",
+        "url": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge",
+        "date": "2026-04-08",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "On Oct. 28, 2026 (Tuesday), Washington County commissioners voted 3-1 to say the board does not currently support large-scale standalone data centers in unincorporated Washington County, without adopting a moratorium.",
+      "The resolution limits county-owned property sales, leases, NDAs and voluntary easements for known large-scale standalone data centers, and does not support job-creation tax incentives for data centers.",
+      "County staff told the board in September there are no known large-scale standalone data centers or applications in unincorporated Washington County.",
+      "On Oct. 12, the Forest Grove City Council voted unanimously to stop accepting and approving new data center applications for 120 days.",
+      "Gov. Tina Kotek on Oct. 9 ordered Oregon DEQ to pause air and water pollution permits for new or expanded data centers until July 1, 2027.",
+      "Washington County District 4 runoff pits former Hillsboro mayor Steve Callaway against Hillsboro City Council member Kimberlee Sinclair.",
+      "Callaway said he supports the current voluntary statewide pause on data centers and that state-level discussions on incentives and farmland protection are needed during it.",
+      "Sinclair cancelled her KGW interview due to unexpected circumstances and sent a written statement instead.",
+      "Washington County has become a hot spot in the debate over data centers, according to KGW.",
+      "Lawsuit filed in June challenges 17 enterprise zone tax exemptions approved for data center projects in Hillsboro and Washington County",
+      "Hillsboro City Council unanimously approved data center restrictions on Oct. 20 capping permitted acreage at 608 acres across three zones, down from roughly 6,600 industrial acres",
+      "Data centers in Hillsboro received $84 million in local property tax breaks last year and employed 284 people, about $296,000 in tax breaks per job per year",
+      "Temporary moratorium on new standalone data center development remains in place through Nov. 24",
+      "Voters decide Hillsboro council races on Tuesday, Nov. 3",
+      "Hillsboro council plans to vote on the data center ordinance Oct. 20, 2026, after unanimously advancing it.",
+      "The proposed ordinance would limit new standalone data centers to 30 more acres and add a 1,000-foot buffer around schools.",
+      "Data centers in Hillsboro received $84 million in local property tax breaks last year, according to Washington County records, employing 284 people.",
+      "Hillsboro council imposed a temporary moratorium in July 2026 following a backlash over data center incentives.",
+      "Dozens of residents urged the Hillsboro council to slow or halt data center growth and asked it to extend a moratorium while independent studies proceed.",
+      "Residents asked the council to keep a 1,000-foot school buffer and ensure tax and abatement transparency and enforceable water, noise and design protections.",
+      "Washington County commissioners were expected to consider a data center resolution on Oct. 6, 2026 but the item was removed from the agenda",
+      "The agenda item is now set for Oct. 20, with a tentative vote for adoption on Oct. 27",
+      "Hillsboro established a data center moratorium in July that would last 120 days, or until Nov. 14",
+      "Hillsboro resident Jennifer Hagen submitted written testimony on July 26 opposing data centers and battery energy storage facilities in the community.",
+      "The Washington County Board of Commissioners heard residents oppose the Century Boulevard Extension road project on Tuesday, July 28, 2026, with no vote taken.",
+      "Hillsboro City Council voted to enact a 120-day moratorium on data center and battery energy storage applications amid a pending lawsuit",
+      "Lawsuit filed in June by community leaders, farmers and businesses alleges improper approvals for data center property tax breaks",
+      "On July 21, the council approved a 180-day pause on new Strategic Investment Program agreements with stand-alone data centers",
+      "State lawmakers passed a one-year moratorium on data center tax breaks in March, effective June 6",
+      "A group of land-use advocates sued the city of Hillsboro and Washington County over tax incentives granted to data center companies.",
+      "Hillsboro is home to 21 data centers, completed or under construction, spanning roughly 470 acres.",
+      "The lawsuit alleges the data center industry will receive $84 million in tax breaks in 2026 alone.",
+      "Companies rushed to file tax incentive applications before a moratorium on the incentives took effect at the beginning of June.",
+      "Milltown Partners surveyed 6,872 registered voters in May and found nearly half support a temporary pause on new construction.",
+      "Hillsboro city council put off a pause on new data center construction and called a special meeting to resume discussion on June 9, 2026.",
+      "Data centers occupy 436 acres in Hillsboro with 50 more acres under construction.",
+      "The industry receives $84 million in Hillsboro tax breaks this year, and 284 local data center employees work in Hillsboro.",
+      "In March 2026 the Oregon Legislature passed a one-year moratorium on new data center tax incentives, effective June 6, prompting 17 new enterprise zone tax break applications.",
+      "City of Hillsboro has pending approvals for 18 data center property tax waivers under the Enterprise Zone program",
+      "Herald estimates about $67 million per year in exempted property taxes for four visible data center complexes near Shute Farm"
+    ],
+    "groups": [
+      {
+        "name": "1000 Friends of Oregon",
+        "url": "https://hillsborotoday.com/articles/hillsboro-council-races-hinge-on-data-center-tax-fight-mvirgfqc",
+        "date": "2026-10-23T03:02:13.000Z"
+      },
+      {
+        "name": "Oregon Education Association",
+        "url": "https://hillsborotoday.com/articles/hillsboro-council-races-hinge-on-data-center-tax-fight-mvirgfqc",
+        "date": "2026-10-23T03:02:13.000Z"
+      },
+      {
+        "name": "Westside Economic Alliance",
+        "url": "https://www.kgw.com/article/news/politics/hillsboro-enacts-120-day-data-center-moratorium-lawsuit-resident-pushback/283-485319ce-37ea-4e05-a8f4-1418aa2af69f",
+        "date": "2026-07-27T00:00:00.000Z"
+      },
+      {
+        "name": "land-use advocates",
+        "url": "https://www.axios.com/local/portland/2026/06/24/data-center-backlash-ai-expansion-oregon",
+        "date": "2026-06-24T13:25:04.000Z"
+      },
+      {
+        "name": "Tualatin Valley DSA",
+        "url": "https://hillsboroherald.com/hillsboro-data-center-protest-shows-growing-unrest-over-millions-of-tax-giveaways/",
+        "date": "2026-05-17T20:12:46.000Z"
+      },
+      {
+        "name": "MoveOn data center moratorium petition",
+        "url": "https://hillsboroherald.com/hillsboro-data-center-protest-shows-growing-unrest-over-millions-of-tax-giveaways/",
+        "date": "2026-05-17T20:12:46.000Z"
+      },
+      {
+        "name": "Hillsboro residents petition for data center moratorium",
+        "url": "https://www.dailytidings.com/hillsboro-residents-push-to-halt-data-center-expansion-amid-rising-power-costs/",
+        "date": "2026-04-10T14:24:04.000Z"
+      },
+      {
+        "name": "Hillsboro moratorium petition",
+        "url": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge",
+        "date": "2026-04-09T03:43:35.000Z"
+      }
+    ]
+  }
+}

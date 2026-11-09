@@ -1,0 +1,163 @@
+{
+  "28033": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1q7onqp/xai_announces_its_going_to_build_a_20b_data/",
+        "text": "xAI Announces it’s going to build a $20B Data Center in Southaven, Mississippi data center 🤖🚀\n\nElon Musk’s xAI announced a $20 billion data center investment in Southaven, Mississippi, marking the state’s largest corporate investment in history and creating hundreds of permanent jobs in DeSoto County.\nThe facility, named MACROHARDRR, will increase xAI’s computing power to nearly 2 gigawatts and represents the company’s third major data center in the greater Memphis area, with operations set to begin in February 2026.\nGovernor Tate Reeves said the project will generate substantial tax revenue for local services and positions Mississippi as a leader in technology, while the state approved sales and use tax exemptions through its Data Center Incentive program.",
+        "date": "2026-01-08T21:29:42.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Governor Tate Reeves said the project will generate substantial tax revenue for local services and positions Mississippi as a leader in technology, while the state approved sales and use tax exemptions through its Data Center Incentive program.",
+        "source": "Tate Reeves, Governor",
+        "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1q7onqp/xai_announces_its_going_to_build_a_20b_data/",
+        "date": "2026-01-08T21:29:42.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "xAI announced a $20 billion data center investment in Southaven, Mississippi, the state's largest corporate investment in history",
+      "The facility will increase xAI's computing power to nearly 2 gigawatts",
+      "Operations set to begin in February 2026",
+      "Mississippi approved sales and use tax exemptions through its Data Center Incentive program"
+    ],
+    "groups": []
+  },
+  "28049": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "28065": {
+    "news": [],
+    "social": [
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@mississippibrief/video/7691529089340968223",
+        "text": "Now out of all the things we could use six billion for, we get another data center smh. 🙄\n\nA new $6 Billion, 2 million square foot data center is being planned for Jefferson County by Eagle Rock Partners and developers claim the project will create 200 permanent jobs and 1,000 temporary construction jobs. Because the site is on private property, developers have more leeway to build what they want but residents are already questioning the potential negative impacts including water usage, higher utility bills and noise. \n\nJefferson Davis is one of the poorest counties in the nation and apparently the folks in charge believe a data center is the solution. You really can't make this stuff up.\n\n#ourpower #CVpriority",
+        "date": "2026-10-01T03:01:38.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "Planned $6 billion, 2 million square foot data center by Eagle Rock Partners",
+      "Developers claim 200 permanent jobs and 1,000 temporary construction jobs",
+      "Site is on private property, giving developers more leeway",
+      "Residents question water usage, higher utility bills and noise"
+    ],
+    "groups": []
+  },
+  "28075": {
+    "news": [
+      {
+        "title": "Residents voice concerns over data centers at supervisors meeting | Meridian Star",
+        "url": "https://meridianstar.com/2026/05/19/residents-voice-concerns-over-data-centers-at-supervisors-meeting/",
+        "date": "2026-05-19T19:37:15.000Z",
+        "source": "Meridian Star",
+        "stance": "oppose"
+      },
+      {
+        "title": "Compass addresses concerns over data center electric, water usage | Meridian Star",
+        "url": "https://meridianstar.com/2026/05/08/compass-addresses-concerns-over-data-center-electric-water-usage/",
+        "date": "2026-05-08T18:35:51.000Z",
+        "source": "Meridian Star",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data centers bring money to small towns. But do they also bring jobs? : NPR",
+        "url": "https://www.npr.org/2025/04/10/nx-s1-5355017/data-centers-bring-money-to-small-towns-but-do-they-also-bring-jobs",
+        "date": "2025-04-10T20:42:25.000Z",
+        "source": "NPR",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "And that phrase, 'Be a good neighbor,' influences decisions that we make about building design, hiring, everything from noise ordinance compliance all the way down to landscaping,",
+        "source": "Sarah Ridgely, Compass Datacenters Vice President of Campus Strategy",
+        "url": "https://meridianstar.com/2026/05/08/compass-addresses-concerns-over-data-center-electric-water-usage/",
+        "date": "2026-05-07",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "Each of those buildings has a small office space, so that's really the only part of the building that's using municipal water,",
+        "source": "Sarah Ridgely, Compass Datacenters Vice President of Campus Strategy",
+        "url": "https://meridianstar.com/2026/05/08/compass-addresses-concerns-over-data-center-electric-water-usage/",
+        "date": "2026-05-07",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We pay for all for all of the infrastructure that's being built for that project, and that infrastructure in turn actually helps the community,",
+        "source": "Sarah Ridgely, Compass Datacenters Vice President of Campus Strategy",
+        "url": "https://meridianstar.com/2026/05/08/compass-addresses-concerns-over-data-center-electric-water-usage/",
+        "date": "2026-05-07",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "All this stretch of land is about 300 acres, and it's going to be a data center campus.",
+        "source": "Bill Hannah, head of the East Mississippi Business Development Corporation",
+        "url": "https://www.npr.org/2025/04/10/nx-s1-5355017/data-centers-bring-money-to-small-towns-but-do-they-also-bring-jobs",
+        "date": "2025-04-10T20:42:25.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Most data centers, you know, they employ about hundred to 200 people.",
+        "source": "Kartik Hosanagar, codirector of the Wharton Business School's AI research center",
+        "url": "https://www.npr.org/2025/04/10/nx-s1-5355017/data-centers-bring-money-to-small-towns-but-do-they-also-bring-jobs",
+        "date": "2025-04-10T20:42:25.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Residents criticized the Lauderdale County Board of Supervisors at its Monday, May 18, 2026 meeting over data center transparency, noise, generator emissions, and property values.",
+      "Supervisors and staff said economic development projects often begin under confidentiality agreements with limited details until agreements are finalized.",
+      "Officials said anticipated data center tax revenue could go to road improvements, bridge repairs and education facilities.",
+      "Compass announced a $10 billion, 8-building data campus in Lauderdale County, MS in January 2025",
+      "Groundwork began June 2025; first building construction began February 2026",
+      "Compass expects to build roughly one building per year for eight years",
+      "Each building will have about 30 full-time employees; total workforce about 240-300",
+      "Compass Datacenters is investing about $10 billion in a data center campus in Lauderdale County, Mississippi, near Meridian",
+      "Mississippi is giving Compass Datacenters 10 years of state tax breaks",
+      "Mississippi Power agreed to keep burning coal at one of its plants roughly a decade longer than planned",
+      "Hosanagar says in some states data centers consume up to 5% of all energy used, projected to exceed 10% in most states within two to three years"
+    ],
+    "groups": []
+  },
+  "28089": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "28121": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "28149": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

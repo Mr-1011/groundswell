@@ -1,0 +1,119 @@
+{
+  "27015": {
+    "news": [
+      {
+        "title": "Incoming public hearing on data center moratorium - The Journal",
+        "url": "https://www.nujournal.com/news/local-news/2026/10/21/brown-county-to-hold-public-hearing-on-data-center-moratorium/",
+        "date": "2026-10-21T00:00:00.000Z",
+        "source": "The Journal",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I think this is a good idea to put the brakes on for a minute and catch your breath and get ourselves lined up the way we should be,",
+        "source": "Sam Hasen, Brown County Administrator",
+        "url": "https://www.nujournal.com/news/local-news/2026/10/21/brown-county-to-hold-public-hearing-on-data-center-moratorium/",
+        "date": "2026-10-21",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Brown County Board of Commissioners set a public hearing for Nov. 17 at 9:02 a.m. on an interim ordinance for a data center moratorium.",
+      "The proposed moratorium would impose a one-year block on permitting, expanding, or establishing data centers in Brown County's unincorporated areas."
+    ],
+    "groups": []
+  },
+  "27017": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "27037": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "27105": {
+    "news": [
+      {
+        "title": "Geronimo Power proposes data center in Nobles County, Minnesota - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/geronimo-power-proposes-data-center-in-nobles-county-minnesota/",
+        "date": "2026-07-17T03:51:18.000Z",
+        "source": "DCD",
+        "stance": "neutral"
+      },
+      {
+        "title": "Geronimo Power CEO invites comment on review process - The Globe | News, weather, sports from Worthington, Minnesota",
+        "url": "https://www.dglobe.com/news/local/geronimo-power-ceo-invites-comment-on-review-process",
+        "date": "2026-03-23T06:00:00.000Z",
+        "source": "The Globe",
+        "stance": "support"
+      },
+      {
+        "title": "Inside the $4B Data Center Plan in Rural Southwestern Minnesota",
+        "url": "https://constructionreviewonline.com/inside-the-4b-data-center-plan-in-rural-southwestern-minnesota/",
+        "date": "2025-11-27T10:59:42.000Z",
+        "source": "constructionreviewonline.com",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "The land is here to provide for us. And this is an opportunity to use a very small part of the ag land in this area.",
+        "source": "Blake Nixon, President and CEO, Geronimo Power",
+        "url": "https://www.dglobe.com/news/local/geronimo-power-ceo-invites-comment-on-review-process",
+        "date": "2026-03-19",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "We're inviting good, solid comments.",
+        "source": "Blake Nixon, President and CEO, Geronimo Power",
+        "url": "https://www.dglobe.com/news/local/geronimo-power-ceo-invites-comment-on-review-process",
+        "date": "2026-03-19",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "By bringing load into the area, it would pull out some power, allowing the rest to get into the system.",
+        "source": "Jordan Burmeister, senior director of development at Geronimo Power",
+        "url": "https://www.datacenterdynamics.com/en/news/geronimo-power-proposes-data-center-in-nobles-county-minnesota/",
+        "date": "2025-12-02",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "We're trying to take this area from a grid strain to a grid strength area.",
+        "source": "Jordan Burmeister, senior director of development at Geronimo Power",
+        "url": "https://www.datacenterdynamics.com/en/news/geronimo-power-proposes-data-center-in-nobles-county-minnesota/",
+        "date": "2025-12-02",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Nobles County Planning Commission held a work session with Geronimo Power on a potential data center",
+      "Geronimo plans to begin an Alternative Urban Areawide Review (AUAR) before end of 2025 if the County consents",
+      "Geronimo has approximately 2.8GW of wind and solar in operation or under construction in Minnesota",
+      "Target completion for a 400MW data center is 2030; end user could be secured as soon as 2027",
+      "First 30-day public comment period of the AUAR runs until 4 p.m. April 16",
+      "The proposed data center is in Section 19 of Elk Township, Nobles County",
+      "Geronimo Power plans a 400-megawatt data center that could go up to 1,000 megawatts",
+      "The entire site represents 0.2% of the ag land in Nobles County, per Nixon",
+      "Geronimo Power has a signed purchase agreement with landowners in Section 19 of Elk Township",
+      "Geronimo Power plans a $4 billion data center campus near Brewster and Reading in Nobles County, Minnesota",
+      "The project has not yet secured an anchor tenant, which is the key step required before construction can move forward",
+      "The initial phase is estimated to create about 1,000 construction jobs and about 180 full-time operational positions",
+      "A future expansion could add $6 billion in investment"
+    ],
+    "groups": []
+  }
+}

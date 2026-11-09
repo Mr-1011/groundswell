@@ -1,0 +1,335 @@
+{
+  "40013": {
+    "news": [
+      {
+        "title": "Bryan County pauses data center development for one year",
+        "url": "https://www.kxii.com/2026/10/20/bryan-county-pauses-data-center-development-one-year/",
+        "date": "2026-10-20T23:00:00.000Z",
+        "source": "KXII",
+        "stance": "oppose"
+      },
+      {
+        "title": "Boswell residents voice concerns over proposed data center, gas plant at town hall",
+        "url": "https://www.kxii.com/2026/09/23/boswell-residents-voice-concerns-over-proposed-data-center-gas-plant-town-hall/",
+        "date": "2026-09-23T03:45:14.000Z",
+        "source": "KXII",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We want to gather more information. We don’t want to go into this thing blind,",
+        "source": "Justin Boone, Bryan County District 2 commissioner",
+        "url": "https://www.kxii.com/2026/10/20/bryan-county-pauses-data-center-development-one-year/",
+        "date": "2026-10-20",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We looked around and copied basically a resolution off Tulsa County that had been through their DA’s process and then through Choctaw counties,",
+        "source": "Justin Boone, Bryan County District 2 commissioner",
+        "url": "https://www.kxii.com/2026/10/20/bryan-county-pauses-data-center-development-one-year/",
+        "date": "2026-10-20",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We want all the information we can get on this deal and we don’t want it to hurt our natural resources or water and electricity and because it will put a strain on both without a doubt,",
+        "source": "Justin Boone, Bryan County District 2 commissioner",
+        "url": "https://www.kxii.com/2026/10/20/bryan-county-pauses-data-center-development-one-year/",
+        "date": "2026-10-20",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The rural communities feel invaded.",
+        "source": "Rhonda Eastman, nominee for the Oklahoma Corporation Commission",
+        "url": "https://www.kxii.com/2026/09/23/boswell-residents-voice-concerns-over-proposed-data-center-gas-plant-town-hall/",
+        "date": "2026-09-22",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We need to have real regulation, and to do that, we actually need to know what they’re doing. So we need a study,",
+        "source": "Rhonda Eastman, nominee for the Oklahoma Corporation Commission",
+        "url": "https://www.kxii.com/2026/09/23/boswell-residents-voice-concerns-over-proposed-data-center-gas-plant-town-hall/",
+        "date": "2026-09-22",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We want to make sure that every cost that is coming in is going to be placed onto the data centers and not to the community.",
+        "source": "Patrick Southerland, running for State Senate",
+        "url": "https://www.kxii.com/2026/09/23/boswell-residents-voice-concerns-over-proposed-data-center-gas-plant-town-hall/",
+        "date": "2026-09-22",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Bryan County, Oklahoma commissioners enacted a one-year moratorium on data center development effective Sept. 30, 2026, lasting 365 days unless changed or ended early.",
+      "The moratorium was prompted by concern over a possible data center within a mile of a school southeast of Caddo.",
+      "The resolution was modeled on ones from Tulsa County and Choctaw counties.",
+      "The county will research and consult with the district attorney during the pause.",
+      "Choctaw County commissioners adopted a one-year moratorium on data centers, server farms and other tech facilities in May 2026",
+      "Residents passed a petition at the Boswell town hall in opposition to the project",
+      "Eastman cited a facility using 1.1 billion gallons of water a year through open evaporative cooling"
+    ],
+    "groups": [
+      {
+        "name": "Boswell town hall petition",
+        "url": "https://www.kxii.com/2026/09/23/boswell-residents-voice-concerns-over-proposed-data-center-gas-plant-town-hall/",
+        "date": "2026-09-23T03:45:14.000Z"
+      }
+    ]
+  },
+  "40023": {
+    "news": [
+      {
+        "title": "Choctaw County enacts temporary moratorium on data centers | Hugo News",
+        "url": "https://www.hugonews.com/news/choctaw-county-enacts-temporary-moratorium-data-centers",
+        "date": "2026-05-27T11:39:27.000Z",
+        "source": "Hugo News",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Choctaw County Board of County Commissioners approved a temporary data center moratorium by resolution on May 18, 2026",
+      "The moratorium establishes a 365-day pause on permits and applications for new data centers, server farms, cloud-computing and cryptocurrency facilities"
+    ],
+    "groups": []
+  },
+  "40097": {
+    "news": [
+      {
+        "title": "'Protect homeowners'|Mayes County neighbors advocate against future data centers",
+        "url": "https://www.kjrh.com/news/local-news/protect-homeowners-mayes-county-neighbors-advocate-against-future-data-centers",
+        "date": "2026-07-28T02:52:23.000Z",
+        "source": "2 News Oklahoma",
+        "stance": null
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "\"We plan to try to join with other groups across the state that are encountering this same kind of thing,\"",
+        "source": "Kim Ritchie",
+        "url": "https://www.kjrh.com/news/local-news/protect-homeowners-mayes-county-neighbors-advocate-against-future-data-centers",
+        "date": "2026-07-27",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "\"(Local leaders) need to do something at the state level with some legislation to protect just homeowners and property owners that are in the vicinity of where these are going to be located,\"",
+        "source": "Kim Ritchie",
+        "url": "https://www.kjrh.com/news/local-news/protect-homeowners-mayes-county-neighbors-advocate-against-future-data-centers",
+        "date": "2026-07-27",
+        "stance": null,
+        "emotion": null
+      }
+    ],
+    "facts": [
+      "Hundreds of Mayes County neighbors met July 27, 2026 to organize against at least two potential data center locations on rural land",
+      "Mayes County commissioners have not spoken with Arevia Power about a 420-acre site since March",
+      "Mayes County has no zoning, so commissioners alone could not stop a data center project",
+      "A proposed data center complex east of Adair would have 16 buildings between State Highway 28 and East 410 Road"
+    ],
+    "groups": [
+      {
+        "name": "Mayes County neighbors group organized against data centers",
+        "url": "https://www.kjrh.com/news/local-news/protect-homeowners-mayes-county-neighbors-advocate-against-future-data-centers",
+        "date": "2026-07-28T02:52:23.000Z"
+      }
+    ]
+  },
+  "40101": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "40111": {
+    "news": [
+      {
+        "title": "Okmulgee County residents seek answers on proposed data center near wildlife refuge",
+        "url": "https://fox23.com/news/local/okmulgee-county-residents-seek-answers-on-proposed-data-center-near-wildlife-refuge",
+        "date": "2026-07-20T11:31:04.000Z",
+        "source": "FOX23",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We not only worry about the wildlife, but the residents and our vulnerable elderly population,",
+        "source": "Karly Feltz, resident",
+        "url": "https://fox23.com/news/local/okmulgee-county-residents-seek-answers-on-proposed-data-center-near-wildlife-refuge",
+        "date": "2026-07-20T11:31:04.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The American burying beetle is connected to the larger ecosystem through decomposing birds and other wildlife,",
+        "source": "Gano Perez, resident",
+        "url": "https://fox23.com/news/local/okmulgee-county-residents-seek-answers-on-proposed-data-center-near-wildlife-refuge",
+        "date": "2026-07-20T11:31:04.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "Residents say many open records requests about water usage, environmental impact and infrastructure have been delayed or denied.",
+      "The proposed site borders the Deep Fork Wildlife Refuge, habitat for the federally endangered American burying beetle.",
+      "Fluidstack holds a public open house at the OSU Institute of Technology."
+    ],
+    "groups": []
+  },
+  "40113": {
+    "news": [
+      {
+        "title": "Osage residents feel left out of Sand Springs data center debate",
+        "url": "https://tulsaflyer.org/2026/01/27/government/post/osage-residents-feel-left-out-of-sand-springs-data-center-debate/",
+        "date": "2026-01-27T10:59:00.000Z",
+        "source": "Tulsa Flyer",
+        "stance": "oppose"
+      },
+      {
+        "title": "Proposed Sand Springs Data Center raises water and sovereignty concerns - Osage News",
+        "url": "https://osagenews.org/proposed-sand-springs-data-center-raises-water-and-sovereignty-concerns/",
+        "date": "2026-01-13T19:31:41.000Z",
+        "source": "Osage News",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We can't vote on the council or the mayor or anyone who is making these decisions for us,",
+        "source": "Lita Blevins, Osage County resident",
+        "url": "https://tulsaflyer.org/2026/01/27/government/post/osage-residents-feel-left-out-of-sand-springs-data-center-debate/",
+        "date": "2026-01-27T10:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "From where we stand, we don't have a voice either,",
+        "source": "Steve Talburt, Osage County Commissioner",
+        "url": "https://tulsaflyer.org/2026/01/27/government/post/osage-residents-feel-left-out-of-sand-springs-data-center-debate/",
+        "date": "2026-01-27T10:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "When you say you have taxation without representation, basically we have annexation without representation,",
+        "source": "Amanda Sellers, Osage County resident",
+        "url": "https://tulsaflyer.org/2026/01/27/government/post/osage-residents-feel-left-out-of-sand-springs-data-center-debate/",
+        "date": "2026-01-27T10:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "\"It's a liability, not contacting the tribe,\" said Osage energy consultant Saxon Metzger, who also teaches business at NYU Tulsa.",
+        "source": "Saxon Metzger, Osage energy consultant",
+        "url": "https://osagenews.org/proposed-sand-springs-data-center-raises-water-and-sovereignty-concerns/",
+        "date": "2026-01-13T19:31:41.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "\"This development is aligned with corporate interests rather than the interests of the people who call it home,\" wrote Candace Slaten, author of the petition.",
+        "source": "Candace Slaten, Petition author",
+        "url": "https://osagenews.org/proposed-sand-springs-data-center-raises-water-and-sovereignty-concerns/",
+        "date": "2026-01-13T19:31:41.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "City of Sand Springs annexed county land for proposed 827-acre hyperscale data center Project Spring in June 2025, residents learned in November",
+      "Protect Sand Springs Alliance sued the city in January 2026 to overturn the annexation",
+      "City filed a motion to dismiss the lawsuit Jan. 16",
+      "Over 300 people attended a Jan. 20, 2026 city council special meeting on Project Spring",
+      "Another city council hearing set for Feb. 3 for a final vote on the rezoning",
+      "Protect Sand Springs Alliance filed a lawsuit against the City of Sand Springs on Jan. 7, 2026 in the District Court of Osage County",
+      "Change.org petition against the data center had 1,908 signatures",
+      "Sand Springs annexed the property in 2025 after landowners Alan and Susan Ringle petitioned in May 2025"
+    ],
+    "groups": [
+      {
+        "name": "Protect Sand Springs Alliance",
+        "url": "https://tulsaflyer.org/2026/01/27/government/post/osage-residents-feel-left-out-of-sand-springs-data-center-debate/",
+        "date": "2026-01-27T10:59:00.000Z"
+      }
+    ]
+  },
+  "40119": {
+    "news": [
+      {
+        "title": "Stillwater leaders confident of water for data centers - Oklahoma Energy Today",
+        "url": "https://okenergytoday.com/2025/10/stillwater-leaders-confident-of-water-for-data-centers/",
+        "date": "2025-10-29T16:28:55.000Z",
+        "source": "Oklahoma Energy Today",
+        "stance": "support"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=xXE-s2Rre9w",
+        "text": "# County commissioner raises more concerns about planned data center\n\n- Channel: KFOR Oklahoma's News 4\n- Length: 03:54\n- Views: 1.9K\n- Likes: 33\n- Published: 2025-10-26T20:55:32-07:00\n- Category: News & Politics\n- Keywords: local news, news\n- Language: en\n\n## Description\n\nCounty commissioner raises more concerns about planned data center\n\nStay informed about Oklahoma news and weather! Follow KFOR News 4 on our website and social channels. \n\nhttps://kfor.com/\nhttps://www.youtube.com/c/kfor4news\nhttps://www.facebook.com/kfor4\nhttps://twitter.com/kfor\nhttps://www.instagram.com/kfortv4/\n\n## Transcript\n\nTONIGHT. COUNTY LEADER RAISING MORE CONCERNS OVER A PLANNED GOOGLE DATA CENTER COMPLEX OUT IN STILLWATER THIS TIME IT HAS TO DO WITH THE MASSIVE AMOUNT OF WATER. THOSE DATA CENTERS, ONE WZ. AS FOR SPENCER HUMPHREY BREAKING DOWN THE CONCERNS AND WHY THE CITY SAYS IT WON'T BE AN ISSUE. WITHOUT WATER. WE CAN'T LIVE. PAYNE COUNTY COMMISSIONER RHONDA MARKHAM SOUNDING THE ALARM TO STATE LAWMAKERS",
+        "date": "2025-10-27T03:55:32.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "People are concerned because of the drought and that they use a lot of electricity and water,",
+        "source": "Rhonda Markum, Payne County Commissioner",
+        "url": "https://okenergytoday.com/2025/10/stillwater-leaders-confident-of-water-for-data-centers/",
+        "date": "2025-10-29T16:28:55.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Stillwater is blessed that we have 50-million gallons per day water rights up at Kaw Lake,",
+        "source": "Brady Moore, Stillwater City Manager",
+        "url": "https://okenergytoday.com/2025/10/stillwater-leaders-confident-of-water-for-data-centers/",
+        "date": "2025-10-29T16:28:55.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "Without water, we can't live.",
+        "source": "Rhonda Markham, Payne County Commissioner",
+        "url": "https://www.youtube.com/watch?v=xXE-s2Rre9w",
+        "date": "2025-10-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "Oklahoma House Utilities Committee held a hearing on data centers and water use in Stillwater",
+      "Oklahoma has at least 36 data centers, one of them in Stillwater, per Oklahoma Department of Commerce",
+      "Stillwater's peak water demand has reached 14 MGD only twice",
+      "Talks with Google began in 2018; Google chose Stillwater in 2023",
+      "Full plan calls for 6 data centers in Stillwater; first phase of 2 is under construction",
+      "Six data centers would use about 8.1 million gallons of water per day",
+      "Stillwater is allowed to take up to 15 million gallons a day from Kaw Lake, per the report",
+      "Commissioner Markham was the only local leader to vote against the 25-year tax incentive agreement",
+      "Developers must fund water treatment plant capacity improvements before building the remaining data centers"
+    ],
+    "groups": []
+  },
+  "40143": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

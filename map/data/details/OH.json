@@ -1,0 +1,611 @@
+{
+  "39015": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39017": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39027": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39031": {
+    "news": [
+      {
+        "title": "Ground broken for new Aligned Data Centers campus in Conesville",
+        "url": "https://www.yourohionews.com/coshocton/ground-broken-for-new-aligned-data-centers-campus-in-conesville/975588",
+        "date": "2025-10-11T09:00:00.000Z",
+        "source": "The Beacon",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We are looking forward to our future ground breakings for our second, third and fourth buildings in the future and beyond.",
+        "source": "Colton Brown, vice president of strategy and development at Aligned Data Centers",
+        "url": "https://www.yourohionews.com/coshocton/ground-broken-for-new-aligned-data-centers-campus-in-conesville/975588",
+        "date": "2025-10-11",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "This investment brings new hope to our residents, our schools and the entire Coshocton County community.",
+        "source": "Dane Shryock, Coshocton County Commissioners Chairman of the Board",
+        "url": "https://www.yourohionews.com/coshocton/ground-broken-for-new-aligned-data-centers-campus-in-conesville/975588",
+        "date": "2025-10-11",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Our company bought this site in June 2020.",
+        "source": "Rob Zuchlewski, chief operating officer for the Frontier Group of Companies",
+        "url": "https://www.yourohionews.com/coshocton/ground-broken-for-new-aligned-data-centers-campus-in-conesville/975588",
+        "date": "2025-10-11",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Aligned Data Centers will develop a 197-acre parcel adjacent to the former AEP Conesville Power Plant in Coshocton County, Ohio.",
+      "The AEP power plant shut down in May 2020 after 62 years.",
+      "Frontier Group bought the site in June 2020 and demolished the 2,300-megawatt power plant.",
+      "Aligned plans second, third and fourth buildings after the first."
+    ],
+    "groups": []
+  },
+  "39041": {
+    "news": [
+      {
+        "title": "Data Centers in Central Ohio | Ryan Grissinger for Commissioner",
+        "url": "https://ryangrissinger.com/issues/data-centers",
+        "date": null,
+        "source": "Ryan Grissinger for Commissioner",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Ohio's data-center sales-tax exemption commitments total $2.3 billion+; the exemption cost about $1.6 billion in 2025 against a $136 million estimate",
+      "Governor DeWine paused new Ohio data center sales-tax exemptions on May 27, 2026",
+      "Data centers asked AEP Ohio for about 30,000 MW of connections; 2025 tariff requires at least 85 percent of claimed capacity to be paid for",
+      "Sunbury City Council certified a citizen charter amendment banning data centers over 25 MW unanimously on July 15, 2026 for the November 3 ballot",
+      "Sunbury's temporary data center moratorium runs through January 31, 2027"
+    ],
+    "groups": [
+      {
+        "name": "Citizen amendment to Ohio constitution banning data centers over 25 MW",
+        "url": "https://ryangrissinger.com/issues/data-centers",
+        "date": null
+      },
+      {
+        "name": "Sunbury citizen-initiated charter amendment 'Prohibition of Construction of a Data Center'",
+        "url": "https://ryangrissinger.com/issues/data-centers",
+        "date": null
+      }
+    ]
+  },
+  "39045": {
+    "news": [
+      {
+        "title": "US Department of Labor, Holder Construction, local unions partnership will promote workplace safety during Mustang Data Center Project | U.S. Department of Labor",
+        "url": "https://www.dol.gov/newsroom/releases/osha/osha20230512",
+        "date": "2023-05-12T00:00:00.000Z",
+        "source": "U.S. Department of Labor",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "OSHA partnerships provide a proven, collaborative framework for enhancing worker safety and training on major construction projects,",
+        "source": "Larry Johnson, OSHA Area Director in Columbus, Ohio",
+        "url": "https://www.dol.gov/newsroom/releases/osha/osha20230512",
+        "date": "2023-05-12",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "On May 10, 2023, OSHA signed a strategic partnership agreement with Holder Construction and the Ohio Bureau of Workers' Compensation for the Mustang Data Center in Lancaster, Ohio.",
+      "The Mustang Data Center has an approximate 300,000 sq ft footprint.",
+      "More than 600 tradespersons are expected to work on the project, with completion scheduled for June 2025."
+    ],
+    "groups": []
+  },
+  "39049": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39077": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39079": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39089": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39095": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39109": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39129": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39131": {
+    "news": [],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=MbrYCOIb3Y4",
+        "text": "# Federal officials announce $33B data center, power plant in Pike County\n\n- Channel: WBNS 10TV\n- Length: 01:03\n- Views: 215\n- Likes: 2\n- Published: 2026-03-20T16:22:31-07:00\n- Category: News & Politics\n- Keywords: [ boomtown-ohio, local, mobile-auto ], news\n- Language: en\n\n## Description\n\nFederal officials from the Trump administration joined local leaders and SoftBank executives in Pike County to announce a massive new power plant and AI data center.\n\n## Transcript\n\nWe're headed back from Pike County where we just heard an announcement from the Trump administration and local leaders on a massive new data center that's set to be built on the Portsmouth site.\nNow SoftBank, that's a Japanese company, is planning a 10 gigawatt power plant and a 10 gigawatt AI data center.\nNow the CEO and the leaders there today say this is set to be larger than all of the current data centers in the world combined.\nThis site was built back in the 1950s as a weapons plant to support the US during the Cold",
+        "date": "2026-03-20T23:22:31.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=iehXN-geDgA",
+        "text": "Tonight in Boomtown, it is a massive energy project that is coming to southern Ohio, and today the federal government unveiled plans for a new natural gas plant and data center -- at the Portsmouth site that's down in Pike\n-- County. Now this $33 billion project will be operated by the Chinese company SoftBank, Japanese rather, and it will also include an investment to AEP to improve local infrastructure. Tent's Carla Rogner has that story. We took a tour of the Six Mile Square site. This was originally built to be a weapons plant in the 1950s. Leaders today say it played a pivotal role in the Cold War, and now it will help the US win the AI race. SoftBank Energy is planning a 9.2 gigawatt natural gas plant that will power a new 10 gigawatt data center. The CEO of SoftBank says it will be the largest in the world, -- so\n-- this is the center of our super intelligence. This $33 billion project is the first of what will eventually be a $550 billion U.S.Japan Strategic Trade and Investmen",
+        "date": null,
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I mean, the, the, the Cold War was won in Piketon, Ohio, and so, so we're, we're proud of that.",
+        "source": "Tony Montgomery, Pike County Commissioner",
+        "url": "https://www.youtube.com/watch?v=MbrYCOIb3Y4",
+        "date": "2026-03-20",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "SoftBank plans a 10 gigawatt power plant and a 10 gigawatt AI data center at the Portsmouth site in Pike County, Ohio",
+      "Announcement headline cites a $33B investment",
+      "Site was built in the 1950s as a Cold War weapons plant",
+      "SoftBank Energy plans a 9.2 gigawatt natural gas plant to power a 10 gigawatt data center at the Portsmouth site in Pike County, Ohio",
+      "The project is valued at $33 billion and is the first of a $550 billion U.S.-Japan Strategic Trade and Investment Agreement",
+      "Project leaders estimate 35,000 construction jobs at peak and 2,500 permanent jobs",
+      "Data center is expected to be operating within 2 years; construction has begun",
+      "Officials say the on-site power generation will not raise residents' electric bills"
+    ],
+    "groups": []
+  },
+  "39147": {
+    "news": [
+      {
+        "title": "Ziegler rejects data centers; Frankart avoids stance — TiffinOhio.net",
+        "url": "https://tiffinohio.net/posts/ziegler-rejects-data-centers-frankart-avoids-stance/",
+        "date": "2026-09-23",
+        "source": "TiffinOhio.net",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I don't like them,",
+        "source": "David Ziegler, independent Seneca County commissioner candidate",
+        "url": "https://tiffinohio.net/posts/ziegler-rejects-data-centers-frankart-avoids-stance/",
+        "date": "2026-09-23",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "I don't think that we need to be involved with that type of industry in Seneca County, period.",
+        "source": "David Ziegler, independent Seneca County commissioner candidate",
+        "url": "https://tiffinohio.net/posts/ziegler-rejects-data-centers-frankart-avoids-stance/",
+        "date": "2026-09-23",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "As far as data centers, I think the Legislature's really looking hard at them,",
+        "source": "Bill Frankart, Republican Seneca County Commissioner",
+        "url": "https://tiffinohio.net/posts/ziegler-rejects-data-centers-frankart-avoids-stance/",
+        "date": "2026-09-23",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Independent candidate David Ziegler opposed data centers in Seneca County at a Tiffin Area League of Women Voters forum",
+      "Incumbent Bill Frankart did not state whether he supports or opposes data centers in Seneca County",
+      "Frankart noted that Tiffin has a moratorium on data centers",
+      "Frankart said the issue falls back to the townships"
+    ],
+    "groups": []
+  },
+  "39151": {
+    "news": [
+      {
+        "title": "Project Shelby — Panattoni data center in Canton, OH · Compute Atlas",
+        "url": "https://www.compute-atlas.com/facilities/panattoni-project-shelby-canton-oh",
+        "date": "2026-10-29",
+        "source": "Compute Atlas",
+        "stance": "neutral"
+      },
+      {
+        "title": "Project Shelby developers host open house for data center in Canton",
+        "url": "https://www.cantonrep.com/story/news/local/canton/2026/08/19/project-shelby-developers-host-open-house-for-data-center-in-canton/91336118007/",
+        "date": "2026-08-19T09:35:20.000Z",
+        "source": "cantonrep.com",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We don't want this stuff in our neighborhood,",
+        "source": "Michele Vance, lifelong Canton resident",
+        "url": "https://www.cantonrep.com/story/news/local/canton/2026/08/19/project-shelby-developers-host-open-house-for-data-center-in-canton/91336118007/",
+        "date": "2026-08-19T09:35:20.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Nobody ever came to my door and said, 'Hey Mr. Rager, would you like it if we put a data center there?'",
+        "source": "Brian Rager, Canton Township resident",
+        "url": "https://www.cantonrep.com/story/news/local/canton/2026/08/19/project-shelby-developers-host-open-house-for-data-center-in-canton/91336118007/",
+        "date": "2026-08-19T09:35:20.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We have the chance to set this city up for the next three to four decades,",
+        "source": "William V. Sherer II, Mayor",
+        "url": "https://www.cantonrep.com/story/news/local/canton/2026/08/19/project-shelby-developers-host-open-house-for-data-center-in-canton/91336118007/",
+        "date": "2026-08-19T09:35:20.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "The scope and scale of the economic opportunity that we have as a region right now and attracting this kind of investment is generational,",
+        "source": "Jeff Dafler, CEO and president of the Canton Regional Chamber of Commerce",
+        "url": "https://www.cantonrep.com/story/news/local/canton/2026/08/19/project-shelby-developers-host-open-house-for-data-center-in-canton/91336118007/",
+        "date": "2026-08-19T09:35:20.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I just want the residents to be comfortable.",
+        "source": "Chris Smith, Ward 4 Councilwoman",
+        "url": "https://www.cantonrep.com/story/news/local/canton/2026/08/19/project-shelby-developers-host-open-house-for-data-center-in-canton/91336118007/",
+        "date": "2026-08-19T09:35:20.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Panattoni announced a community open house for Project Shelby on a nearly 91-acre former Ford property in Canton, OH, with site plans submitted to the Building Department (2026-08-13)",
+      "Project Shelby listed as proposed at 320 MW, water-cooled, with ~400,000 gal/day peak water demand (2026-10-09)",
+      "Panattoni hosted a community meeting Aug. 18 at the Canton Memorial Civic Center; dozens of residents attended",
+      "Proposed 320-plus megawatt data center on the former Ford property in Canton",
+      "Developers estimate about 670 construction jobs and 100-plus jobs afterward",
+      "Project is in early stages, undergoing engineering, environmental review and permitting",
+      "Project Shelby is the fourth controversial hyperscale data center announced in Stark County"
+    ],
+    "groups": []
+  },
+  "39153": {
+    "news": [
+      {
+        "title": "Data center in South Akron moving forward with major expansion project",
+        "url": "https://www.beaconjournal.com/story/business/2026/11/03/ark-data-centers-planning-south-akron-expansion/92502977007/",
+        "date": "2026-11-03T11:03:55.000Z",
+        "source": "Beacon Journal",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "\"He let everyone at my meeting know that they wouldn't have anything to worry about as far as the expansion over in the industrial park on the south side,\"",
+        "source": "Johnnie Hannah, Akron Councilman, Ward 5",
+        "url": "https://www.beaconjournal.com/story/business/2026/11/03/ark-data-centers-planning-south-akron-expansion/92502977007/",
+        "date": "2026-11-03T11:03:55.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "\"I had never been to a data center and had not very much knowledge on what a data center actually even does,\"",
+        "source": "Margo Sommerville, Council President, Ward 3",
+        "url": "https://www.beaconjournal.com/story/business/2026/11/03/ark-data-centers-planning-south-akron-expansion/92502977007/",
+        "date": "2026-11-03T11:03:55.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "\"There was nothing under the rug that we didn't see or know about,\"",
+        "source": "Johnnie Hannah, Akron Councilman, Ward 5",
+        "url": "https://www.beaconjournal.com/story/business/2026/11/03/ark-data-centers-planning-south-akron-expansion/92502977007/",
+        "date": "2026-11-03T11:03:55.000Z",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Akron City Council passed expansion legislation Sept. 28 by a 12-1 vote, with Fran Wilson the sole no vote",
+      "Ark plans to expand its South Akron data center from about 5 to 41 megawatts over roughly three years",
+      "Starting in 2029, Ark will publish an annual public report with noise, water and power figures",
+      "Ark says its cooling equipment measures 70 to 80 decibels, falling to about 50 decibels at the property line"
+    ],
+    "groups": []
+  },
+  "39155": {
+    "news": [
+      {
+        "title": "Hubbard voters show overwhelming support for data center ban - Tribune Chronicle",
+        "url": "https://www.tribtoday.com/news/local-news/2026/11/hubbard-voters-show-overwhelming-support-for-data-center-ban/",
+        "date": "2026-11-04T00:00:00.000Z",
+        "source": "Tribune Chronicle",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "City council and the administration will respect the will of the voters,",
+        "source": "Ben Kyle, Mayor of Hubbard",
+        "url": "https://www.tribtoday.com/news/local-news/2026/11/hubbard-voters-show-overwhelming-support-for-data-center-ban/",
+        "date": "2026-11-04",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We need to hold our leaders accountable for shaping us into a place that’s known for strong economic development, and right now, that’s not Hubbard.",
+        "source": "Sarah Lee, Hubbard resident",
+        "url": "https://www.tribtoday.com/news/local-news/2026/11/hubbard-voters-show-overwhelming-support-for-data-center-ban/",
+        "date": "2026-11-04",
+        "stance": "support",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Hubbard voters approved a data center ban 76% to 24% in unofficial, incomplete results from the Trumbull County Board of Elections",
+      "Residents collected more than 750 signatures in July 2026 for the ballot initiative, nearly twice the 370 minimum required",
+      "Mayor Ben Kyle confirmed signing a nondisclosure agreement in December 2024 related to Project Milo"
+    ],
+    "groups": [
+      {
+        "name": "Hubbard residents ballot initiative petition",
+        "url": "https://www.tribtoday.com/news/local-news/2026/11/hubbard-voters-show-overwhelming-support-for-data-center-ban/",
+        "date": "2026-11-04T00:00:00.000Z"
+      }
+    ]
+  },
+  "39165": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "39173": {
+    "news": [
+      {
+        "title": "Meta data center – how it went from economic ...",
+        "url": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+        "date": "2026-02-24T00:00:00.000Z",
+        "source": "BG Independent News",
+        "stance": "oppose"
+      },
+      {
+        "title": "Residents angry about data center confront county’s planning commission - Sent-trib",
+        "url": "https://www.sent-trib.com/2026/01/07/residents-angry-about-data-center-confront-countys-planning-commission/",
+        "date": "2026-01-07T07:45:27.000Z",
+        "source": "Sent-trib",
+        "stance": "oppose"
+      },
+      {
+        "title": "Company files to build natural gas power plant next to Wood ...",
+        "url": "https://www.youtube.com/watch?v=bq5bk18biPo",
+        "date": "2025-12-16T18:28:16.000Z",
+        "source": "WTOL11",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "There was no 'anti data center' movement,",
+        "source": "Wade Gottschalk, Wood County Economic Development Director",
+        "url": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+        "date": "2026-02-24T00:00:00.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "What they were was never hidden,",
+        "source": "Rex Huffman, president of the Wood County Port Authority",
+        "url": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+        "date": "2026-02-24T00:00:00.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I can understand people's frustration,",
+        "source": "Craig LaHote, Wood County Commissioner",
+        "url": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+        "date": "2026-02-24T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We can't sign away public records law,",
+        "source": "Wade Gottschalk, Wood County Economic Development Director",
+        "url": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+        "date": "2026-02-24T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The township has the final decision-making authority.",
+        "source": "John Musteric, Wood County Engineer, planning commission chair",
+        "url": "https://www.sent-trib.com/2026/01/07/residents-angry-about-data-center-confront-countys-planning-commission/",
+        "date": "2026-01-06",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "You may be asking us to do something we have no authority to act on.",
+        "source": "John Musteric, Wood County Engineer, planning commission chair",
+        "url": "https://www.sent-trib.com/2026/01/07/residents-angry-about-data-center-confront-countys-planning-commission/",
+        "date": "2026-01-06",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "These people here are scared, I'm scared,",
+        "source": "Mark Patton, Devils Hole Road resident",
+        "url": "https://www.sent-trib.com/2026/01/07/residents-angry-about-data-center-confront-countys-planning-commission/",
+        "date": "2026-01-06",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We may have sympathy for all of you about this, and we understand that, but you're at the wrong meeting. You're asking us to do something we have no authority over,",
+        "source": "Craig LaHote, Wood County Commissioner and planning commission member",
+        "url": "https://www.sent-trib.com/2026/01/07/residents-angry-about-data-center-confront-countys-planning-commission/",
+        "date": "2026-01-06",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The process is all well and good, but they robbed that process from us,",
+        "source": "James Demond, Mercer Road resident",
+        "url": "https://www.sent-trib.com/2026/01/07/residents-angry-about-data-center-confront-countys-planning-commission/",
+        "date": "2026-01-06",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "If you don't want it at your back door, say no,",
+        "source": "Tracy Wyatt, Hull Prairie Road resident",
+        "url": "https://www.sent-trib.com/2026/01/07/residents-angry-about-data-center-confront-countys-planning-commission/",
+        "date": "2026-01-06",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "You guys are our firewall,",
+        "source": "Unnamed resident, resident",
+        "url": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+        "date": "2026-01-01",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "I'm against giving away so much – as taxpayers,",
+        "source": "Russ Fought, neighbor of the project",
+        "url": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+        "date": "2023-09-01",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "About 150 residents attended the January 2026 Wood County Planning Commission meeting for over 2.5 hours",
+      "Residents asked for a moratorium on new data centers; Ohio law does not let counties impose land-use moratoriums",
+      "County commissioners approved a 75% 15-year tax abatement in September 2023",
+      "Meta's name was revealed in summer 2024; the project was called Project Accordion before that",
+      "Meta letter dated Jan. 7, 2026 to Middleton Township Trustees gave water and energy updates",
+      "About 150 people attended the 2.5-hour Wood County Planning Commission meeting on Jan. 6, 2026.",
+      "Rezoning requests were from agriculture to industrial in Middleton Township.",
+      "Township zoning changes take effect 30 days after trustee approval, leaving a window to gather signatures for a referendum.",
+      "Only Commissioner Ted Bowlus and citizen representative John Schuerman said they would vote no on another data center; Brian Swope said yes.",
+      "Rumors are circulating about a data center in Perrysburg Township.",
+      "Will-Power OH LLC filed for the Apollo Power Generation Facility, a natural gas power plant in Middleton Township, Wood County, Ohio",
+      "Plant would sit on nearly 150 acres next to the Meta data center site under construction",
+      "Power Siting Board to receive a full report in January 2026",
+      "Project could be approved by early February 2026 if no changes are needed"
+    ],
+    "groups": []
+  },
+  "39175": {
+    "news": [
+      {
+        "title": "A town of 6,600 people took on a $900 million AI data center — and won. Here's how they did it. | Tom's Guide",
+        "url": "https://www.tomsguide.com/ai/a-town-of-6-600-people-took-on-a-usd900-million-ai-data-center-and-won-heres-how-they-did-it",
+        "date": "2026-11-08T06:00:00.000Z",
+        "source": "Tom's Guide",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We saw it as a threat to our rural way of life.",
+        "source": "Angela Huffman, Farm Action president",
+        "url": "https://www.tomsguide.com/ai/a-town-of-6-600-people-took-on-a-usd900-million-ai-data-center-and-won-heres-how-they-did-it",
+        "date": "2026-11-08T06:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "On November 3, 2026, Upper Sandusky voters approved a charter amendment banning data centers above 25 MW with nearly 77% support",
+      "Upper Sandusky City Council unanimously approved a six-month data center moratorium on July 6",
+      "Organizers submitted 301 signatures on August 3; 192 were accepted, and the charter required 212",
+      "An additional 50 signatures submitted August 5 yielded 37 accepted, for a final total of 229",
+      "Smartland Energy proposed a roughly $900 million project on about 146 acres in June"
+    ],
+    "groups": [
+      {
+        "name": "Conserve Ohio",
+        "url": "https://www.tomsguide.com/ai/a-town-of-6-600-people-took-on-a-usd900-million-ai-data-center-and-won-heres-how-they-did-it",
+        "date": "2026-11-08T06:00:00.000Z"
+      },
+      {
+        "name": "Upper Sandusky Facebook group",
+        "url": "https://www.tomsguide.com/ai/a-town-of-6-600-people-took-on-a-usd900-million-ai-data-center-and-won-heres-how-they-did-it",
+        "date": "2026-11-08T06:00:00.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "54003": {
+    "news": [
+      {
+        "title": "Berkeley County Commission discusses review process (or lack thereof) for incoming data centers | Business And Economy | journal-news.net",
+        "url": "https://www.journal-news.net/news/business_and_economy/berkeley-county-commission-discusses-review-process-or-lack-thereof-for-incoming-data-centers/article_49ef5335-8f87-5341-b207-18ffa1735e62.html",
+        "date": "2026-07-09T20:34:00.000Z",
+        "source": "journal-news.net",
+        "stance": "oppose"
+      },
+      {
+        "title": "Q&A with Writer, Teacher, and State Senate Candidate Elizabeth Ferris",
+        "url": "https://newsletter.nextgencomp.tech/p/q-and-a-with-writer-teacher-and-state",
+        "date": "2026-05-14T13:34:24.000Z",
+        "source": "NextGen Competition",
+        "stance": "neutral"
+      },
+      {
+        "title": "Unanswered questions linger over Bedington data center project | Business And Economy | journal-news.net",
+        "url": "https://www.journal-news.net/news/business_and_economy/unanswered-questions-linger-over-bedington-data-center-project/article_3d8d5015-bd03-53f8-aa72-796f67f9e57c.html",
+        "date": "2026-03-24T14:59:00.000Z",
+        "source": "The Journal",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "They're not under the local rules and regulations as any other development would be,",
+        "source": "Eddie Gochenour, Commission President, Berkeley County Commission",
+        "url": "https://www.journal-news.net/news/business_and_economy/berkeley-county-commission-discusses-review-process-or-lack-thereof-for-incoming-data-centers/article_49ef5335-8f87-5341-b207-18ffa1735e62.html",
+        "date": "2026-07-09",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "If they're not going to go through the same planning review as any other industrial, commercial or residential builder does in our county, then I have zero interest in doing that.",
+        "source": "John Hardy, Commissioner, Berkeley County Commission",
+        "url": "https://www.journal-news.net/news/business_and_economy/berkeley-county-commission-discusses-review-process-or-lack-thereof-for-incoming-data-centers/article_49ef5335-8f87-5341-b207-18ffa1735e62.html",
+        "date": "2026-07-09",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "If the staff has the time and is getting paid to do it, why wouldn't we review it and at least respond to their request, and maybe they'll listen to some of the things we suggest,",
+        "source": "Steve Catlett, Commissioner, Berkeley County Commission",
+        "url": "https://www.journal-news.net/news/business_and_economy/berkeley-county-commission-discusses-review-process-or-lack-thereof-for-incoming-data-centers/article_49ef5335-8f87-5341-b207-18ffa1735e62.html",
+        "date": "2026-07-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I'm cautiously open to the idea that in the right places, with appropriate guardrails and opportunity for local input, AI Data Centers could be part of West Virginia's economic development strategy.",
+        "source": "Elizabeth Ferris, Democratic candidate for State Senate in West Virginia's 15th District",
+        "url": "https://newsletter.nextgencomp.tech/p/q-and-a-with-writer-teacher-and-state",
+        "date": "2026-05-14T13:34:24.000Z",
+        "stance": "neutral",
+        "emotion": "hope"
+      },
+      {
+        "text": "The first thing that needs to happen is that we need to restore local control and make impact studies public.",
+        "source": "Elizabeth Ferris, Democratic candidate for State Senate in West Virginia's 15th District",
+        "url": "https://newsletter.nextgencomp.tech/p/q-and-a-with-writer-teacher-and-state",
+        "date": "2026-05-14T13:34:24.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We must require these facilities be located on environmentally appropriate sites, produce their own power, use the most up-to-date water-saving technologies, and have publicly available plans in place for maintaining the health and safety of nearby residents.",
+        "source": "Elizabeth Ferris, Democratic candidate for State Senate in West Virginia's 15th District",
+        "url": "https://newsletter.nextgencomp.tech/p/q-and-a-with-writer-teacher-and-state",
+        "date": "2026-05-14T13:34:24.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "“They called us on a Friday and said, ‘Hey, can you meet on Monday?’ So that’s how fast that happened,” Gochenour said, emphasizing the limited notice given to county officials.",
+        "source": "Eddie Gochenour, Berkeley County Commission President",
+        "url": "https://www.journal-news.net/news/business_and_economy/unanswered-questions-linger-over-bedington-data-center-project/article_3d8d5015-bd03-53f8-aa72-796f67f9e57c.html",
+        "date": "2026-03-24T14:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "“When they do all the digging, what will happen to our wells and our homes?” asked Joanna Gregory, a longtime Bedington resident.",
+        "source": "Joanna Gregory, Bedington resident",
+        "url": "https://www.journal-news.net/news/business_and_economy/unanswered-questions-linger-over-bedington-data-center-project/article_3d8d5015-bd03-53f8-aa72-796f67f9e57c.html",
+        "date": "2026-03-24T14:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "“We’re going to be left with a husk of a building sitting in the middle of our farmland,” said David Valente.",
+        "source": "David Valente",
+        "url": "https://www.journal-news.net/news/business_and_economy/unanswered-questions-linger-over-bedington-data-center-project/article_3d8d5015-bd03-53f8-aa72-796f67f9e57c.html",
+        "date": "2026-03-24T14:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "“Don’t shoot the messenger,” Hardy said. “This is state level out of the governor’s office. We had no say in it.”",
+        "source": "John Hardy, Berkeley County Commissioner",
+        "url": "https://www.journal-news.net/news/business_and_economy/unanswered-questions-linger-over-bedington-data-center-project/article_3d8d5015-bd03-53f8-aa72-796f67f9e57c.html",
+        "date": "2026-03-24T14:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "“I feel that the governor and the legislature should have a town hall. They’re the ones that voted for this law. Let them come explain it to the public,” Gochenour said.",
+        "source": "Eddie Gochenour, Berkeley County Commission President",
+        "url": "https://www.journal-news.net/news/business_and_economy/unanswered-questions-linger-over-bedington-data-center-project/article_3d8d5015-bd03-53f8-aa72-796f67f9e57c.html",
+        "date": "2026-03-24T14:59:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Berkeley County Commission discussed review process for incoming data centers at a regular Thursday meeting",
+      "House Bill 2014 puts control of data center approvals with the state, so developers need not follow county planning committee recommendations",
+      "Commissioners Jim Whitacre and H.D. Boyd agreed with Hardy against sending plans through the planning process",
+      "County planners are to develop a 'data center criteria' with best practices",
+      "HB2014, passed in 2025 at the urging of Governor Patrick Morrisey, exempts data centers from all local planning laws and ordinances and keeps their impact studies off the public record.",
+      "Penzance Management's planned data center campus in Berkeley County's Falling Waters District is $4 billion and 600 megawatts.",
+      "The Penzance Falling Waters project is the first project approved under HB2014.",
+      "Over 500 people attended a Berkeley County town hall on the proposed Bedington data center at Spring Mills High School",
+      "The 600-megawatt, $4 billion Bedington campus was announced by Gov. Patrick Morrisey and would bypass local zoning under House Bill 2014",
+      "Under HB 2014, 50% of tax proceeds reduce the state personal income tax and 30% stay in the host county",
+      "Commissioners did not directly respond to questions during the meeting; the governor's office did not respond to a request for comment"
+    ],
+    "groups": []
+  },
+  "54005": {
+    "news": [],
+    "social": [
+      {
+        "platform": "x",
+        "url": "https://x.com/TheValueist/status/2119423053641957778",
+        "text": "https://t.co/uJFnPpxm9t\n\nGAI DATA CENTER DEVELOPMENT DAILY DIGEST, SATURDAY, NOVEMBER 7, 2026\n\nLEAD ITEMS\n\n• Project Country Roads, Boone County, West Virginia: a 1.4 GW AI campus at the former Hobet Mine was certified by the state on 09/30/26 with no public announcement, and",
+        "date": "2026-11-08T13:33:27.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "Project Country Roads, a 1.4 GW AI campus at the former Hobet Mine in Boone County, West Virginia, was certified by the state on 09/30/26 with no public announcement"
+    ],
+    "groups": []
+  },
+  "54053": {
+    "news": [
+      {
+        "title": "‘Total shocker’: Residents react to second data center coming to Mason County",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04T22:58:32.000Z",
+        "source": "WSAZ",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "x",
+        "url": "https://x.com/TravisAustinWV/status/2100719648459076055",
+        "text": "Just caught NBC Nightly News and feel bad for the couple that has lived in Mason County, WV 42 years. Their new neighbor is a Data Center and has ruined their beautiful neighborhood and home. We’re being sold out.",
+        "date": "2026-09-17T22:52:48.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=JyfagAK88ts",
+        "text": "# Mason County residents faced with buyout as AI data center campus goes up\n\n- Channel: WOWK 13 News\n- Length: 02:17\n- Views: 228\n- Likes: 7\n- Published: 2026-06-11T07:55:40-07:00\n- Category: News & Politics\n- Keywords: News\n- Language: en\n\n## Description\n\nThe company behind a hyperscale AI data center campus is offering to buy neighboring properties impacted by the construction. However, the mostly retired homeowners feel they’re being pushed out of the homes they’ve lived in for decades.\n\n## Transcript\n\nDELIBERATE PEARSON'S FATE TOMORROW MORNING CONSTRUCTION ON THE HYPERSCALE DATA CENTER CAMPUS IN MASON COUNTY IS FULLY UNDERWAY, BUT COMPLICATIONS WITH THOSE WHO LIVE THERE CONTINUE 13 NEWS POLITICAL REPORTER MAGGIE SPERLING SPOKE WITH NEIGHBORS WHO SAY THEY WERE NOT WARNED ABOUT WHAT'S TAKING PLACE CURRENTLY.\n>> JUST OUTSIDE OF POINT PLEASANT, WEST VIRGINIA, A MASSIVE HIGH IMPACT THAT A CENTER IS FULLY UNDERWAY RIGHT IN THE BACKYARD OF A SMALL COMMUNITY MOSTLY RETIRING.\n>> IN ITS EARL",
+        "date": "2026-06-11T14:55:40.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Their new neighbor is a Data Center and has ruined their beautiful neighborhood and home.",
+        "source": "TravisAustinWV",
+        "url": "https://x.com/TravisAustinWV/status/2100719648459076055",
+        "date": "2026-09-17",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "It was a total, total shocker,",
+        "source": "Elaine Matheny, member of Mason County United",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "[West Columbia] needs the growth. It needs the income that it's going to produce for people, because everybody around here is pretty much low income except for a few homes,",
+        "source": "Sandra Kapp, resident",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "That much land getting taken away was kind of a bummer,",
+        "source": "Jacob Hatcher, resident",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "I do think that the businesses have to do a good job of communicating with the neighbors and following all the regulations that we have in the state.",
+        "source": "Jim Butler, Del. (R-Mason)",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Local government has limited control over data centers. With that being said, the commissioners have sent a letter to lawmakers requesting amendments to [HB 2014].",
+        "source": "Sam Nibert, Mason County Commissioner",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "West Virginia has been at the forefront of defining a clear set of standards for responsible development.",
+        "source": "Anthony Balestrieri, CEO of SDV",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "IT WAS WHEN THEY STARTED BREAKING GROUND OVER HERE THAT WE REALLY FOUND OUT ABOUT IT.",
+        "source": "Unnamed resident, resident",
+        "url": "https://www.youtube.com/watch?v=JyfagAK88ts",
+        "date": "2026-06-11",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "A couple has lived in Mason County, WV for 42 years and says a new neighboring data center has ruined their home and neighborhood.",
+      "Gov. Patrick Morrisey announced Starwood Digital Ventures' approval on Thursday, Sept. 3, 2026",
+      "Starwood plans a $12 billion investment in West Virginia",
+      "Project expected to create more than 1,000 construction jobs and 300 permanent jobs",
+      "Mason County commissioners asked lawmakers to amend HB 2014 for more local control",
+      "This is the second data center in Mason County, WV",
+      "Construction on a hyperscale data center campus near Point Pleasant in Mason County, West Virginia is underway.",
+      "The company started a buyout program for neighboring properties.",
+      "Residents report flooding, property damage, noise and tremors.",
+      "West Virginia lawmakers voted down efforts this past session to give local communities input on future data center projects.",
+      "Phase one of the campus is not expected to be completed until 2028."
+    ],
+    "groups": [
+      {
+        "name": "Mason County United",
+        "url": "https://www.wsaz.com/2026/09/04/total-shocker-residents-react-second-data-center-coming-mason-county/",
+        "date": "2026-09-04T22:58:32.000Z"
+      }
+    ]
+  },
+  "54069": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "54079": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "54093": {
+    "news": [
+      {
+        "title": "Data Center Panel Reignites Debate On Local Control, Input  - West Virginia Public Broadcasting",
+        "url": "https://wvpublic.org/story/energy-environment/data-center-panel-reignites-debate-on-local-control-input/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "source": "West Virginia Public Broadcasting",
+        "stance": "oppose"
+      },
+      {
+        "title": "How Tucker residents lost any say on a data center",
+        "url": "https://mountainstatespotlight.org/2025/08/03/lawmakers-strip-local-authority-data-centers/",
+        "date": "2025-08-03T10:00:00.000Z",
+        "source": "Mountain State Spotlight",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "All of this is about a right process, right place and a right profit share,",
+        "source": "Amy Margolies, executive director of the grassroots coalition Tucker United",
+        "url": "https://wvpublic.org/story/energy-environment/data-center-panel-reignites-debate-on-local-control-input/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Loudoun County has almost $2 billion a year in real estate taxes for data centers, and they have learned over the past 10 years how residents feel about setbacks,",
+        "source": "Cara Keys, Jefferson County commissioner",
+        "url": "https://wvpublic.org/story/energy-environment/data-center-panel-reignites-debate-on-local-control-input/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Be critical of this bill,",
+        "source": "Cara Keys, Jefferson County commissioner",
+        "url": "https://wvpublic.org/story/energy-environment/data-center-panel-reignites-debate-on-local-control-input/",
+        "date": "2026-04-02T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "All of it just dovetailed so neatly and closely, it seems suspicious,",
+        "source": "Pamela Moe, Tucker County resident",
+        "url": "https://mountainstatespotlight.org/2025/08/03/lawmakers-strip-local-authority-data-centers/",
+        "date": "2025-08-03T10:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "From a local leadership standpoint, none of us were aware that this was even a possibility,",
+        "source": "Al Tomson, mayor of Davis",
+        "url": "https://mountainstatespotlight.org/2025/08/03/lawmakers-strip-local-authority-data-centers/",
+        "date": "2025-08-03T10:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Data centers have significantly, or can significantly, benefit the local economies through job creation, attracting investment.",
+        "source": "Clay Riley, Del. R-Harrison",
+        "url": "https://mountainstatespotlight.org/2025/08/03/lawmakers-strip-local-authority-data-centers/",
+        "date": "2025-08-03T10:00:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "I'm concerned that this bill, as presented, will ultimately discourage local counties and municipalities from attracting data centers to their community,",
+        "source": "Tammy Tincher, president of the County Commission of West Virginia",
+        "url": "https://mountainstatespotlight.org/2025/08/03/lawmakers-strip-local-authority-data-centers/",
+        "date": "2025-04-08",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "West Virginia will be the most attractive state in the country for data centers after this bill is passed,",
+        "source": "Patrick Morrisey, Governor",
+        "url": "https://mountainstatespotlight.org/2025/08/03/lawmakers-strip-local-authority-data-centers/",
+        "date": "2025-03-18",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "House Bill 2014 established West Virginia's microgrid and data center certified program and exempts projects from county or municipal oversight including zoning and building permitting",
+      "The final version of HB 2014 sends 30% of high impact data center tax revenue to counties, versus an original draft sending all to state coffers",
+      "The House passed HB 2014 on April 1, 2025, 88 to 12, and the Legislature passed the final version April 12, 2025",
+      "Final law sends 30% of tax revenue from such projects to the host county and 5% divided across the other 54 counties",
+      "The bill removes local authority to restrict noise, lighting, land use, and regulate data centers and microgrids",
+      "Nearly 300 people attended a community meeting in Davis Volunteer Fire Hall on April 13, 2025"
+    ],
+    "groups": [
+      {
+        "name": "Tucker United",
+        "url": "https://wvpublic.org/story/energy-environment/data-center-panel-reignites-debate-on-local-control-input/",
+        "date": "2026-04-02T00:00:00.000Z"
+      },
+      {
+        "name": "Sierra Club",
+        "url": "https://wvpublic.org/story/energy-environment/data-center-panel-reignites-debate-on-local-control-input/",
+        "date": "2026-04-02T00:00:00.000Z"
+      },
+      {
+        "name": "West Virginia Highlands Conservancy",
+        "url": "https://mountainstatespotlight.org/2025/08/03/lawmakers-strip-local-authority-data-centers/",
+        "date": "2025-08-03T10:00:00.000Z"
+      }
+    ]
+  }
+}

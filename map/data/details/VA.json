@@ -1,0 +1,929 @@
+{
+  "51023": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/VirginiaOpEds/comments/1twpk95/opinion_two_trends_converge_on_botetourt_county/",
+        "text": "Opinion: Two trends converge on Botetourt County: Data centers and solar farms. | Both have stirred opposition, but many stances on both come into conflict with other long-held principles. Here’s an overview of the politics involved and the tension points.",
+        "date": "2026-06-04T14:37:30.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "An opinion piece says data centers and solar farms are both converging on Botetourt County, Virginia, and both have drawn opposition."
+    ],
+    "groups": []
+  },
+  "51031": {
+    "news": [
+      {
+        "title": "Campbell County supervisors urged to reject data center proposal amid concerns",
+        "url": "https://wset.com/news/local/campbell-county-supervisors-urged-to-reject-data-center-proposal-amid-concerns-september-2025-cabin-field-road-concord-route-460",
+        "date": "2025-09-17T20:16:00.000Z",
+        "source": "WSET",
+        "stance": "oppose"
+      },
+      {
+        "title": "Widely attended public hearing on proposed data center ends with board delaying decision | Citizen Portal",
+        "url": "https://citizenportal.ai/articles/7084353/virginia/campbell-county/widely-attended-public-hearing-on-proposed-data-center-ends-with-board-delaying-decision",
+        "date": "2025-09-02T01:52:47.000Z",
+        "source": "Citizen Portal",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I think that our quality of life would be greatly disrupted by this extended construction of a data center.",
+        "source": "Bill Carson, resident on Cabin Field Rd.",
+        "url": "https://wset.com/news/local/campbell-county-supervisors-urged-to-reject-data-center-proposal-amid-concerns-september-2025-cabin-field-road-concord-route-460",
+        "date": "2025-09-17",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Once the door is opened, once they build a data center here, it'll be your community next",
+        "source": "Bill Carson, resident on Cabin Field Rd.",
+        "url": "https://wset.com/news/local/campbell-county-supervisors-urged-to-reject-data-center-proposal-amid-concerns-september-2025-cabin-field-road-concord-route-460",
+        "date": "2025-09-17",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Do we as Campbell County citizens want the government to be able to put data centers wherever they want to?",
+        "source": "Ashby Smith, owns property adjacent to proposed site",
+        "url": "https://wset.com/news/local/campbell-county-supervisors-urged-to-reject-data-center-proposal-amid-concerns-september-2025-cabin-field-road-concord-route-460",
+        "date": "2025-09-17",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "There are better heavy industrial sites in the county, if the county wanted a data center, than this one.",
+        "source": "Matt Cline, Concord district supervisor",
+        "url": "https://wset.com/news/local/campbell-county-supervisors-urged-to-reject-data-center-proposal-amid-concerns-september-2025-cabin-field-road-concord-route-460",
+        "date": "2025-09-17",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "It really is a tough balance for me as an elected representative to make a decision that's best for everybody in the county",
+        "source": "Matt Cline, Concord district supervisor",
+        "url": "https://wset.com/news/local/campbell-county-supervisors-urged-to-reject-data-center-proposal-amid-concerns-september-2025-cabin-field-road-concord-route-460",
+        "date": "2025-09-17",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "MESH Capital LLC seeks to rezone 57.42 acres near Route 460 and Cabin Field Road in the Concord district for three 150,000 sq ft data centers",
+      "Board postponed the rezoning decision in early September 2025 because Concord supervisor Matt Cline was absent",
+      "Only 13 adjacent property owners were notified, six of whom do not live permanently on Cabin Field Road",
+      "Residents cite concerns of over one million gallons of water per day, traffic, noise and quarry blasting",
+      "Board's next meeting is October 7 at 6 p.m.",
+      "Rezoning request covers 57.42 acres near Richmond Highway and Cabinfield Road for a potential data center.",
+      "Dozens of residents testified, raising water, traffic, notice and property-value concerns.",
+      "Board left the public hearing closed but continued the vote for another month."
+    ],
+    "groups": []
+  },
+  "51035": {
+    "news": [
+      {
+        "title": "Grayson County man pays nearly $2600 in records request ...",
+        "url": "https://www.wdbj7.com/2026/09/28/grayson-county-man-pays-nearly-2600-records-request-fight-over-data-center-project/",
+        "date": "2026-09-28T22:01:36.000Z",
+        "source": "WDBJ",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I'm definitely against the data center in rural areas,",
+        "source": "Scott Wagoner, co-owner of The Quick Check convenience store in Independence",
+        "url": "https://www.wdbj7.com/2026/09/28/grayson-county-man-pays-nearly-2600-records-request-fight-over-data-center-project/",
+        "date": "2026-09-28",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "I did not understand why a Freedom of Information Act would cost so much for things that we should already be able to get,",
+        "source": "Scott Wagoner, co-owner of The Quick Check convenience store in Independence",
+        "url": "https://www.wdbj7.com/2026/09/28/grayson-county-man-pays-nearly-2600-records-request-fight-over-data-center-project/",
+        "date": "2026-09-28",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Wagoner received a bill of nearly $2,600 for a public records request on Project Lightning",
+      "Records show the data center is planned for Wildwood Commerce Park in Carroll County, Virginia",
+      "By January, the company behind the project had secured an option on the land; buyer not made public",
+      "Grayson County supervisors will hold a special meeting on an update to the Wildwood Commerce Park agreement"
+    ],
+    "groups": []
+  },
+  "51036": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "51041": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "51047": {
+    "news": [
+      {
+        "title": "Culpeper County – The new Ashburn? - DCD",
+        "url": "https://www.datacenterdynamics.com/en/analysis/culpeper-county-the-new-ashburn/",
+        "date": "2024-11-05T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We are still a community that's very rural.",
+        "source": "Bryan Rothamel, director of Culpeper County Economic Development",
+        "url": "https://www.datacenterdynamics.com/en/analysis/culpeper-county-the-new-ashburn/",
+        "date": "2024-11-05T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We have a 100 percent volunteer fire staff.",
+        "source": "Bryan Rothamel, director of Culpeper County Economic Development",
+        "url": "https://www.datacenterdynamics.com/en/analysis/culpeper-county-the-new-ashburn/",
+        "date": "2024-11-05T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The next five years will fundamentally change things for us.",
+        "source": "Bryan Rothamel, director of Culpeper County Economic Development",
+        "url": "https://www.datacenterdynamics.com/en/analysis/culpeper-county-the-new-ashburn/",
+        "date": "2024-11-05T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "fear"
+      },
+      {
+        "text": "While a very small market now, Culpeper is proving a fairly friendly area for data centers.",
+        "source": "Lilli Flynn, DC Byte analyst",
+        "url": "https://www.datacenterdynamics.com/en/analysis/culpeper-county-the-new-ashburn/",
+        "date": "2024-11-05T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Amazon was granted rezoning of 243 acres in Stevensburg in April 2022",
+      "County consolidated five technology zones into a single 950-acre Culpeper Technology Zone",
+      "Officials previously voted to remove data center zoning from one technology area after a landowner proposed an 88-acre campus",
+      "Construction on projects expected in next two to three years, completing in the 2030s",
+      "Amazon project narrowly approved by supervisors despite planning commission recommending denial"
+    ],
+    "groups": []
+  },
+  "51059": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/nova/comments/1wwn4un/this_is_what_living_97_feet_from_a_reston_data/",
+        "text": "This is what living 97 feet from a Reston data center looks like at night\n\nThis is what happens when data centers are allowed to expand by right and residents have virtually no say in what happens in their own backyards.\nCoreSite is expanding its Reston data center just 97 feet from the backyards of our residential community . We were told we had no meaningful recourse because the project was approved in 2018 and grandfathered under the county’s newer regulations.\nNow we’re dealing with this light pollution at night and construction noise during the day. This is what these development decisions actually look like for the people who have to live with them.\nUpdate:\nSome of you didn’t like my cinematography last night so I went out and got some more for you tonight now that the rain has stopped https://imgur.com/gallery/more-of-reston-data-center-construction-64dG4Rz",
+        "date": "2026-10-03T13:21:24.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/nova/comments/1v2jrn0/if_you_dont_want_another_data_center_in/",
+        "text": "If you don’t want another data center in Alexandria/ Fairfax please read show up to these meetings.\n\nThere is a proposal to build a new data center on the Fairfax/ Alexandria border, near Edsall Road/Plaza 500 facility. This new facility will be less than 67 feet from residential areas and we need your support with the three actions below!\nThe Plaza 500 data center project in the Bren Mar area of Fairfax County (cited in the Virginia Legislature report as a poster child for bad development and called \"unusually close to residents\" by the State Corporation Commission) will have a public hearing and 2232 decision by the Planning Commission on September 24 to determine if the substation can move forward. It is the first and only time that we'll be afforded a public hearing for this otherwise by-right development.\nThis decision has countywide implications given the precedent it would set for other 2232 applications. We will need to put pressure on each of our supervisors to recognize this ",
+        "date": "2026-07-21T14:17:36.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "CoreSite is expanding its Reston data center about 97 feet from residential backyards.",
+      "The project was approved in 2018 and grandfathered under the county's newer regulations.",
+      "Residents say they were told they had no meaningful recourse.",
+      "Planning Commission public hearing and 2232 decision on the Edsall substation is scheduled for September 24, 2026",
+      "Mason District Land Use Committee informational presentation by Dominion is July 28, 2026 at 7:30pm",
+      "Mason District Land Use Committee decision on formal recommendation is September 22, 2026",
+      "The Mason District Land Use Committee in 2022 recommended denial of the Plaza 500 rezoning",
+      "Initial deadline for sign-on to the 2232 data center substation letter was July 26"
+    ],
+    "groups": [
+      {
+        "name": "2232 Data Center Substation Sign-On Letter",
+        "url": "https://www.reddit.com/r/nova/comments/1v2jrn0/if_you_dont_want_another_data_center_in/",
+        "date": "2026-07-21T14:17:36.000Z"
+      }
+    ]
+  },
+  "51067": {
+    "news": [
+      {
+        "title": "Franklin County residents seek restrictions on data center ...",
+        "url": "https://www.wdbj7.com/2026/05/26/franklin-county-residents-seek-restrictions-data-center-development/",
+        "date": "2026-05-26T21:29:53.000Z",
+        "source": "WDBJ",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "No chance for the community to give feedback on whether they want a data center.",
+        "source": "Ed Saunders, Ferrum resident",
+        "url": "https://www.wdbj7.com/2026/05/26/franklin-county-residents-seek-restrictions-data-center-development/",
+        "date": "2026-05-26T21:29:53.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We don’t need a 412-page document of rules and regulations for the constituents and for the landowners.",
+        "source": "Dawn King-Greer, leader of residents' push for data center ordinance",
+        "url": "https://www.wdbj7.com/2026/05/26/franklin-county-residents-seek-restrictions-data-center-development/",
+        "date": "2026-05-26",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We are an agricultural district. So with data centers, they are industrial.",
+        "source": "Dawn King-Greer, leader of residents' push for data center ordinance",
+        "url": "https://www.wdbj7.com/2026/05/26/franklin-county-residents-seek-restrictions-data-center-development/",
+        "date": "2026-05-26",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Residents want a citizen-written ordinance requiring a public hearing and countywide referendum before any data center approval, regardless of zoning.",
+      "The proposed ordinance would cover facilities demanding 25 megawatts or more or water use above 1,000 gallons per day.",
+      "Data centers are allowed by right at Summit View Business Park or on any unzoned property in Franklin County, Virginia.",
+      "As of the article, no data centers are under contract in Franklin County, and the citizen ordinance has not been added to any meeting agenda."
+    ],
+    "groups": [
+      {
+        "name": "Franklin County residents seeking data center ordinance",
+        "url": "https://www.wdbj7.com/2026/05/26/franklin-county-residents-seek-restrictions-data-center-development/",
+        "date": "2026-05-26T21:29:53.000Z"
+      }
+    ]
+  },
+  "51075": {
+    "news": [
+      {
+        "title": "Residents rally against proposed Goochland County data centers ahead of permit filed | Prism News",
+        "url": "https://www.prismnews.com/local/goochland-va/residents-rally-against-proposed-goochland-county-data",
+        "date": "2026-08-03T12:34:03.000Z",
+        "source": "Prism News",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "residents do not want data centers in Goochland.",
+        "source": "Cynthia Haas",
+        "url": "https://www.prismnews.com/local/goochland-va/residents-rally-against-proposed-goochland-county-data",
+        "date": "2026-08-03",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Dozens of residents rallied outside Goochland High School before a formal permit was filed for Tuckahoe Technology Park",
+      "Goochland County adopted Resolution 6394 on July 1, 2025 to initiate a Technology Overlay District zoning amendment",
+      "Board of Supervisors approved the overlay district proposal; four Goochland residents then sued the county",
+      "Community meetings held July 7 and September 8, 2025 and a town hall on October 6, 2025"
+    ],
+    "groups": []
+  },
+  "51085": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "51087": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "51107": {
+    "news": [
+      {
+        "title": "Dulles Airport Markets 200 Acres for Data Center Development - Brightgram",
+        "url": "https://brightgram.com/ashburn-va/10809224/dulles-airport-markets-200-acres-for-data-center-development/",
+        "date": "2026-11-06T08:08:54.000Z",
+        "source": "Brightgram",
+        "stance": "neutral"
+      },
+      {
+        "title": "What to know about Amazon's data center proposal",
+        "url": "https://www.loudountimes.com/news/business_and_economy/real_estate_and_development/what-to-know-about-amazons-data-center-proposal/article_8557f9cb-3f25-4f6d-857a-e58e49d55ed0.html",
+        "date": "2026-09-10T10:00:00.000Z",
+        "source": "Loudoun Times",
+        "stance": "neutral"
+      },
+      {
+        "title": "Loudoun Updates - Summer 2025 - The Piedmont Environmental Council",
+        "url": "https://www.pecva.org/region/loudoun/loudoun-updates-summer-2025/",
+        "date": "2025-07-31T19:23:18.000Z",
+        "source": "The Piedmont Environmental Council",
+        "stance": "neutral"
+      },
+      {
+        "title": "Prologis seeks rezoning of land Sterling, Virginia, possibly for data centers - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/prologis-seeks-rezoning-of-land-sterling-virginia-possibly-for-data-centers/",
+        "date": "2023-10-26T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "neutral"
+      }
+    ],
+    "social": [
+      {
+        "platform": "x",
+        "url": "https://x.com/VirginiaBiz/status/2119414690467983617",
+        "text": "Amazon has spent nearly $100 million to acquire a 23-acre property in Loudoun County where it plans to build a 100-foot-tall data center. https://t.co/LCXFRvxkSZ",
+        "date": "2026-11-08T13:00:13.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/nova/comments/1ximzy0/loudoun_county_virginia_approves_11_data_centers/",
+        "text": "Loudoun County Virginia Approves 11 Data Centers Surrounding Discovery Elementary School With Up To 264 Backup Diesel Generators",
+        "date": "2026-10-29T15:24:08.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/Virginia/comments/1xikxeq/loudoun_county_virginia_approves_11_data_centers/",
+        "text": "Loudoun County Virginia Approves 11 Data Centers Surrounding Discovery Elementary School With Up To 264 Backup Diesel Generators",
+        "date": "2026-10-29T14:05:10.000Z",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1xijxy6/loudoun_county_virginia_approves_11_data_centers/",
+        "text": "Loudoun County Virginia Approves 11 Data Centers Surrounding Discovery Elementary School With Up To 264 Backup Diesel Generators\n\nIn Ashburn, Virginia, Discovery Elementary School sits surrounded by 11 operational data centers located within a half-mile radius, with two additional facilities actively under construction by contractors including DPR Construction, according to geospatial mapping from the Piedmont Environmental Council and Planet Labs. An NBC News investigation led by Senior National Correspondent Stephanie Gosk revealed that state air permits issued by the Virginia Department of Environmental Quality authorize up to 264 industrial backup diesel generators across these surrounding facilities. Local parents, including Coco Lyons whose first-grade daughter attends the school, and resident Jason Mello have documented plumes of exhaust and pervasive chemical odors during multi-day testing cycles, sparking fears over chronic respiratory exposure among developing children.\nVirgi",
+        "date": "2026-10-29T13:26:50.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@tndtok/video/7691845738304638221",
+        "text": "An 800,000-square-foot data center runs around the clock beside a Sterling, Virginia, neighborhood. Residents say the constant noise, exhaust and bright lights have shattered their peace. The company has promised changes, but neighbors say their experience should serve as a warning.\n\nWatch the full investigation, “Take The Power Back,” from The National News Desk and Spotlight on America at the link in our bio.\n\n#DataCenters #AI #Energy #Documentary #PowerGrid",
+        "date": "2026-10-01T23:30:04.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@c4news/video/7691764788031982870",
+        "text": "Donald Trump calls it a \"hoax\" - but the backlash to AI and data centres is fast becoming one of the most divisive issues of the midterms.\n\nChannel 4 News' Anushka Asthana spoke to locals impacted by the construction in Virginia’s Loudoun County, known as the data centre capital of the world.\n\n#DataCentres #Trump #Virginia #AI #C4News ",
+        "date": "2026-10-01T18:15:53.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/nova/comments/1sej8n4/i_took_decibel_readings_of_the_vantage_data/",
+        "text": "I took decibel readings of the Vantage Data Center noise impacting Sterling residents\n\nNEW Audio Comparison: Quiet Neighborhood vs Vantage Data Center Noise\nHey everyone, thank you so much for all the great suggestions on the last post, particularly u/Trilobry , who helped me figure out the best ways to display the data!\nThis time when I did my recordings I also used a decibel meter. I took readings a mile away for comparison. That's how far I had to walk to not hear the datacenter anymore. :(\nInterestingly enough, areas where there is a direct line of sight to the gas turbines, such as the W&OD trail, the noise is actually louder than some areas closer but with a building in between.\nSadly, the Loudoun County Board of Supervisors response to this information has just been this:\n\"The County’s Zoning Enforcement division continues to actively send staff out to Vantage for site inspections and noise detection. They are required to take measurements with an Integrating Sound Level Meter w",
+        "date": "2026-04-07T02:22:14.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It's going to be a long story to actually figure out what they can do, and what we can do or can't do.",
+        "source": "Juli Briskman",
+        "url": "https://www.loudountimes.com/news/business_and_economy/real_estate_and_development/what-to-know-about-amazons-data-center-proposal/article_8557f9cb-3f25-4f6d-857a-e58e49d55ed0.html",
+        "date": "2026-09-10T10:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The County’s Zoning Enforcement division continues to actively send staff out to Vantage for site inspections and noise detection.",
+        "source": "Loudoun County Board of Supervisors, County response",
+        "url": "https://www.reddit.com/r/nova/comments/1sej8n4/i_took_decibel_readings_of_the_vantage_data/",
+        "date": "2026-04-07T02:22:14.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Amazon has spent nearly $100 million to acquire a 23-acre property in Loudoun County",
+      "Planned data center would be 100 feet tall",
+      "Metropolitan Washington Airports Authority is marketing two parcels at Dulles International Airport totaling about 200 acres for data centers, per Washington Business Journal",
+      "The 181-acre site is bordered by Loudoun County Parkway to the west and Old Ox Road to the north",
+      "Loudoun County, Virginia approved 11 data centers surrounding Discovery Elementary School",
+      "The approved data centers include up to 264 backup diesel generators",
+      "Loudoun County, Virginia approved 11 data centers surrounding Discovery Elementary School",
+      "The approved data centers include up to 264 backup diesel generators",
+      "11 operational data centers sit within a half-mile of Discovery Elementary School in Ashburn, VA, with two more under construction",
+      "Virginia DEQ air permits authorize up to 264 backup diesel generators across the surrounding facilities",
+      "Dr. Stephen Fong of VCU says one large data center diesel generator at capacity produces pollution equal to 100 idling eighteen-wheelers",
+      "NBC News investigation by Stephanie Gosk was reported October 28, 2026",
+      "Existing facilities are grandfathered under recent state and county rule updates",
+      "An 800,000-square-foot data center runs around the clock beside a Sterling, Virginia neighborhood",
+      "Residents say constant noise, exhaust and bright lights have disrupted their peace",
+      "Channel 4 News reported on locals affected by data center construction in Loudoun County, Virginia, which it describes as the data centre capital of the world.",
+      "The video says the backlash to AI and data centres is becoming one of the most divisive issues of the midterms.",
+      "Amazon purchased George Washington University's Loudoun campus north of Ashburn in March.",
+      "Amazon submitted a site plan in August with four data center buildings on the campus.",
+      "The Loudoun County Board of Supervisors has not yet taken a vote on the site plan as of this article.",
+      "Residents walked about a mile to no longer hear the Vantage data center noise",
+      "Loudoun County says the average noise readings have never exceeded 55 dBA at the adjacent residential property",
+      "Vantage is in the process of being rezoned to a less restrictive noise ordinance, from 1972 to 1993",
+      "Loudoun has 200+ data centers constructed or approved",
+      "On July 15, 2025 the Board of Supervisors approved Cross Mill and Arcola Grove data centers, each 5-4",
+      "On July 17, 2025 the Leesburg Planning Commission recommended denial of a Town Plan Amendment for 102 acres with data centers",
+      "On July 28, 2025 the TLUC recommended the Phase 2 scope for the countywide data center amendments, including a policy limiting expansion in the Transition Policy Area",
+      "In March 2025 the Board approved Phase 1 requiring legislative applications for all data centers",
+      "Prologis filed two early-stage applications with Loudoun County to rezone two parcels in Sterling, VA.",
+      "Executive Drive lots total 17.2 acres, about 750,000 sq ft allowable density.",
+      "Global Plaza lot is 11.2 acres, about 294,000 sq ft allowable density.",
+      "Prologis has owned the Concord site since 1998."
+    ],
+    "groups": [
+      {
+        "name": "Piedmont Environmental Council",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1xijxy6/loudoun_county_virginia_approves_11_data_centers/",
+        "date": "2026-10-29T13:26:50.000Z"
+      },
+      {
+        "name": "Lansdowne Conservancy",
+        "url": "https://www.pecva.org/region/loudoun/loudoun-updates-summer-2025/",
+        "date": "2025-07-31T19:23:18.000Z"
+      }
+    ]
+  },
+  "51113": {
+    "news": [
+      {
+        "title": "Madison County residents debate future of data centers | News | cbs19news.com",
+        "url": "https://www.cbs19news.com/news/madison-county-residents-debate-future-of-data-centers/article_fccc33c5-136f-46c8-b209-ce30a3729fa7.html",
+        "date": "2025-08-13T01:23:00.000Z",
+        "source": "CBS19 NEWS",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "This county is so well known and so special because of the open space, the histories, the people, the values, the character of this area.",
+        "source": "Unnamed resident",
+        "url": "https://www.cbs19news.com/news/madison-county-residents-debate-future-of-data-centers/article_fccc33c5-136f-46c8-b209-ce30a3729fa7.html",
+        "date": "2025-08-12",
+        "stance": "oppose",
+        "emotion": "sadness"
+      }
+    ],
+    "facts": [
+      "The Madison County Board of Supervisors held a town hall on Tuesday evening to hear residents on whether to welcome data centers and under what conditions",
+      "Jud Buchanan, vice chair of Madison County Economic Development Board, said the scale of development needed for data centers is significant"
+    ],
+    "groups": []
+  },
+  "51121": {
+    "news": [
+      {
+        "title": "Montgomery County supervisors seek to protect local control over data center siting - Cardinal News",
+        "url": "https://cardinalnews.org/2025/09/08/montgomery-county-supervisors-seek-to-protect-local-control-over-data-center-siting/",
+        "date": "2025-09-08T08:12:00.000Z",
+        "source": "Cardinal News",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Montgomery County supervisors will consider opposing legislation that would allow site approval for a data center without local approval as part of 2026 General Assembly priorities",
+      "Supervisors initially reviewed the legislative priorities at an Aug. 11 meeting",
+      "The board will vote on legislative priorities at a meeting in Christiansburg on Monday night"
+    ],
+    "groups": []
+  },
+  "51143": {
+    "news": [
+      {
+        "title": "Data center rezoning to go before board of supervisors | News | chathamstartribune.com",
+        "url": "https://www.chathamstartribune.com/news/article_4951c1bc-2f12-11ef-9b79-3f08e3163801.html",
+        "date": "2024-06-20T14:35:00.000Z",
+        "source": "chathamstartribune.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data Center Rezoning to go before Pittsylvania  County Board of Supervisors",
+        "url": "https://www.danvilleareanews.com/p/data-center-rezoning-go-pittsylvania-county-board-supervisors",
+        "date": "2024-06-08T12:36:31.000Z",
+        "source": "Danville Area News",
+        "stance": "neutral"
+      },
+      {
+        "title": "A proposed data center in Pittsylvania County bring billions of dollars of investments",
+        "url": "https://wset.com/news/local/a-proposed-data-center-in-pittsylvania-county-bring-billions-of-dollars-of-investments-june-2024-ringgold-anchorstone-advisors-sova-llc",
+        "date": "2024-06-08T02:05:09.000Z",
+        "source": "WSET",
+        "stance": "support"
+      },
+      {
+        "title": "Pittsylvania County could see billions in investment with proposed data center - Cardinal News",
+        "url": "https://cardinalnews.org/2024/06/05/a-proposed-data-center-project-would-bring-billions-in-investment-to-southside/",
+        "date": "2024-06-05T16:26:30.000Z",
+        "source": "Cardinal News",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "So many felt that we were left out when the casino came. This is our casino, it's our time to grow",
+        "source": "Janet Mease, Callands-Gretna District representative on the Planning Commission",
+        "url": "https://wset.com/news/local/a-proposed-data-center-in-pittsylvania-county-bring-billions-of-dollars-of-investments-june-2024-ringgold-anchorstone-advisors-sova-llc",
+        "date": "2024-06-07",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "This is very, very much the early stage of a very long term, very large project,",
+        "source": "Matt Rowe, economic development director for the county",
+        "url": "https://cardinalnews.org/2024/06/05/a-proposed-data-center-project-would-bring-billions-in-investment-to-southside/",
+        "date": "2024-06-05",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Our plan is to preserve the mature vegetation and tree stands on the perimeter of the property, wherever they exist, for buffering,",
+        "source": "Thomas Gallagher, presenter for Anchorstone Advisors SOVA LLC",
+        "url": "https://cardinalnews.org/2024/06/05/a-proposed-data-center-project-would-bring-billions-in-investment-to-southside/",
+        "date": "2024-06-04",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We don’t need our property depreciated anymore by this,",
+        "source": "Patty Evans, Ringgold resident",
+        "url": "https://cardinalnews.org/2024/06/05/a-proposed-data-center-project-would-bring-billions-in-investment-to-southside/",
+        "date": "2024-06-04",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Nobody likes fear of the unknown,",
+        "source": "Janet Mease, commissioner",
+        "url": "https://cardinalnews.org/2024/06/05/a-proposed-data-center-project-would-bring-billions-in-investment-to-southside/",
+        "date": "2024-06-04",
+        "stance": "neutral",
+        "emotion": "fear"
+      },
+      {
+        "text": "The good news about data centers is that at buildout, once we’re operational, there’s minimal traffic,",
+        "source": "Thomas Gallagher, presenter for Anchorstone Advisors SOVA LLC",
+        "url": "https://cardinalnews.org/2024/06/05/a-proposed-data-center-project-would-bring-billions-in-investment-to-southside/",
+        "date": "2024-06-04",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Pittsylvania County Planning Commission unanimously recommended approval of the rezoning on June 4, 2024.",
+      "The rezoning covers 945.79 acres off U.S. Highway 58 and State Road 735 (Cedar Road) in the Dan River District.",
+      "This is the first data center application considered in Pittsylvania County.",
+      "On May 21, 2024, the Board of Supervisors amended the County Code to allow data centers by special use permit in M-2 districts.",
+      "The Board of Supervisors will consider the application on July 16, 2024.",
+      "Pittsylvania County Planning Commission unanimously recommended approval of the rezoning on June 4, 2024.",
+      "Board of Supervisors will consider the rezoning on July 16, 2024.",
+      "This is the first data center application considered in Pittsylvania County.",
+      "On May 21, 2024 the Board of Supervisors approved a code revision allowing data centers by special use permit under M-2 zoning.",
+      "Rezoning covers 945.79 acres in the Dan River District.",
+      "Pittsylvania County Planning Commission voted unanimously on Tuesday to recommend approval of rezoning 945 acres off U.S. Highway 58 and State Road 735 in Ringgold",
+      "Project could bring $4 to $5 billion in investment and around 500 jobs",
+      "It would be the county's first data center",
+      "Anchorstone Advisors SOVA LLC must obtain a special use permit before construction",
+      "Board of Supervisors will vote on the application on July 16",
+      "Pittsylvania County Planning Commission unanimously recommended rezoning 946 acres off U.S. 58 in Ringgold from agricultural and residential to industrial",
+      "Board of Supervisors will vote on the rezoning at its July 2024 meeting",
+      "The data center would be the first of its kind in Pittsylvania County",
+      "Conceptual plan shows five buildings on the developable land",
+      "Pittsylvania County IDA passed a resolution in support of the project"
+    ],
+    "groups": [
+      {
+        "name": "Pittsylvania County Industrial Development Authority",
+        "url": "https://cardinalnews.org/2024/06/05/a-proposed-data-center-project-would-bring-billions-in-investment-to-southside/",
+        "date": "2024-06-05T16:26:30.000Z"
+      }
+    ]
+  },
+  "51153": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/stocks/comments/1uojg9b/largest_data_center_project_ever_proposed_is/",
+        "text": "Largest Data Center Project Ever Proposed Is Officially Dead\n\nhttps://finance.yahoo.com/technology/articles/largest-data-center-project-ever-190000713.html\nBlackstone-owned QTS Realty Trust withdrew its appeal to the Virginia Supreme Court on July 2, closing out a three-year legal fight over the Prince William Digital Gateway, a planned 2,100-acre campus in Prince William County, Virginia that would have packed 37 buildings and 22 million square feet of data centers next to Manassas National Battlefield Park. At full build-out, the project carried an estimated $100 billion price tag and would have been the largest data center complex in the world.",
+        "date": "2026-07-06T01:24:26.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "QTS Realty Trust withdrew its appeal to the Virginia Supreme Court on July 2, 2026, ending a three-year legal fight over the Prince William Digital Gateway",
+      "The Prince William Digital Gateway would have covered 2,100 acres with 37 buildings and 22 million square feet of data centers",
+      "The project carried an estimated $100 billion price tag at full build-out"
+    ],
+    "groups": []
+  },
+  "51167": {
+    "news": [
+      {
+        "title": "Forum planned for Russell County data centers proposed ...",
+        "url": "https://cardinalnews.org/2026/10/14/a-forum-is-planned-for-russell-county-residents-who-want-to-learn-about-the-data-centers-planned-for-a-former-mine-site/",
+        "date": "2026-10-14T08:45:00.000Z",
+        "source": "Cardinal News",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "If you’re going to do it, do it to the best of [your] ability,",
+        "source": "Amy Branson, pharmacist from Castlewood",
+        "url": "https://cardinalnews.org/2026/10/14/a-forum-is-planned-for-russell-county-residents-who-want-to-learn-about-the-data-centers-planned-for-a-former-mine-site/",
+        "date": "2026-10-14T08:45:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We’re still very early in the process. We’re not ready to put shovels in the ground,",
+        "source": "Ross Litkenhous, co-founder of Oasis",
+        "url": "https://cardinalnews.org/2026/10/14/a-forum-is-planned-for-russell-county-residents-who-want-to-learn-about-the-data-centers-planned-for-a-former-mine-site/",
+        "date": "2026-10-14",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We were questioned about the details, and it really is, we can’t confirm details because they’re not there yet,",
+        "source": "Laura Gilmer, director of the county’s industrial development authority",
+        "url": "https://cardinalnews.org/2026/10/14/a-forum-is-planned-for-russell-county-residents-who-want-to-learn-about-the-data-centers-planned-for-a-former-mine-site/",
+        "date": "2026-10-14",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "This sounds like what we went through with the trash dump.",
+        "source": "Betsy Dickenson, resident from Cleveland",
+        "url": "https://cardinalnews.org/2026/10/14/a-forum-is-planned-for-russell-county-residents-who-want-to-learn-about-the-data-centers-planned-for-a-former-mine-site/",
+        "date": "2026-10-14",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "No data centers in Russell County … NDAs do not belong in our local government. We have a right to know what’s going on at Moss 3,",
+        "source": "Donna Ball, resident of Cleveland",
+        "url": "https://cardinalnews.org/2026/10/14/a-forum-is-planned-for-russell-county-residents-who-want-to-learn-about-the-data-centers-planned-for-a-former-mine-site/",
+        "date": "2026-10-03",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "facts": [
+      "Oasis will hold a community forum Nov. 18 at the Russell County government center in Lebanon.",
+      "The site was previously proposed for a landfill that county leaders rejected.",
+      "Ten people protested Oct. 3 in Lebanon and collected petition signatures; a second protest was planned.",
+      "Twelve residents spoke against the project at the IDA meeting; concerns included Clinch River impact, noise, NDAs and low tax rates."
+    ],
+    "groups": []
+  },
+  "51171": {
+    "news": [
+      {
+        "title": "Data center opponents win in Strasburg | Nvdaily | nvdaily.com",
+        "url": "https://www.nvdaily.com/nvdaily/data-center-opponents-win-in-strasburg/article_5745b784-b127-5d81-8c71-4583f658feb0.html",
+        "date": "2026-11-04T19:03:00.000Z",
+        "source": "The Northern Virginia Daily",
+        "stance": "oppose"
+      },
+      {
+        "title": "At Project Tallmadge data center open house, new numbers and lingering doubts | Nvdaily | nvdaily.com",
+        "url": "https://www.nvdaily.com/nvdaily/at-project-tallmadge-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27T19:00:00.000Z",
+        "source": "The Northern Virginia Daily",
+        "stance": "oppose"
+      },
+      {
+        "title": "Question session: At data center open house, new numbers and lingering doubts | Nvdaily | nvdaily.com",
+        "url": "https://www.nvdaily.com/nvdaily/question-session-at-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27T19:00:00.000Z",
+        "source": "The Northern Virginia Daily",
+        "stance": "oppose"
+      },
+      {
+        "title": "Home - Project Tallmadge",
+        "url": "https://www.projecttallmadge.com/",
+        "date": null,
+        "source": "Project Tallmadge",
+        "stance": "neutral"
+      },
+      {
+        "title": "MYTH vs FACT",
+        "url": "https://www.projecttallmadge.com/wp-content/uploads/2026/10/Tallmadge-MythvFact-2026.10.15.pdf",
+        "date": null,
+        "source": "projecttallmadge.com",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I want to evaluate Project Tallmadge with a fine-tooth comb, and I want to evaluate its compliance with the UDO that governs this project,” Tanner said.",
+        "source": "Kaylee Tanner, Strasburg Town Council candidate",
+        "url": "https://www.nvdaily.com/nvdaily/data-center-opponents-win-in-strasburg/article_5745b784-b127-5d81-8c71-4583f658feb0.html",
+        "date": "2026-11-04T19:03:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Usually, single issue candidates don't win,” Massoud said. “This became from one data center to three. Everybody woke up, and it became the driving issue.",
+        "source": "John Massoud, chairman of the 6th District Republican Committee",
+        "url": "https://www.nvdaily.com/nvdaily/data-center-opponents-win-in-strasburg/article_5745b784-b127-5d81-8c71-4583f658feb0.html",
+        "date": "2026-11-04T19:03:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "I don't want to see data centers,” Carter said.",
+        "source": "A.D. Carter IV, Strasburg Town Council member",
+        "url": "https://www.nvdaily.com/nvdaily/data-center-opponents-win-in-strasburg/article_5745b784-b127-5d81-8c71-4583f658feb0.html",
+        "date": "2026-11-04T19:03:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Strasburg does not want data centers,” Tanner wrote.",
+        "source": "Kaylee Tanner, Strasburg Town Council candidate",
+        "url": "https://www.nvdaily.com/nvdaily/data-center-opponents-win-in-strasburg/article_5745b784-b127-5d81-8c71-4583f658feb0.html",
+        "date": "2026-11-04",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "\"Here lies our peace and quiet,\" Ruggerio said. \"It was a good neighbor. It never hummed at us.\"",
+        "source": "Tammy Ruggerio",
+        "url": "https://www.nvdaily.com/nvdaily/question-session-at-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27T19:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "\"It's too much for our area,\" Rippey said.",
+        "source": "Robinette Rippey",
+        "url": "https://www.nvdaily.com/nvdaily/question-session-at-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27T19:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"How loud is it actually going to be?\"",
+        "source": "Kassie Donovan, of Strasburg",
+        "url": "https://www.nvdaily.com/nvdaily/question-session-at-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27T19:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"These companies can absolutely afford to find and hire people locally,\" she said.",
+        "source": "Becky Rager, of Frederick County",
+        "url": "https://www.nvdaily.com/nvdaily/question-session-at-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27T19:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It was a good neighbor. It never hummed at us.",
+        "source": "Tammy Ruggerio",
+        "url": "https://www.nvdaily.com/nvdaily/at-project-tallmadge-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "How loud is it actually going to be?",
+        "source": "Kassie Donovan, of Strasburg",
+        "url": "https://www.nvdaily.com/nvdaily/at-project-tallmadge-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27",
+        "stance": "neutral",
+        "emotion": "fear"
+      },
+      {
+        "text": "These companies can absolutely afford to find and hire people locally.",
+        "source": "Becky Rager, of Frederick County",
+        "url": "https://www.nvdaily.com/nvdaily/at-project-tallmadge-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It's too much for our area.",
+        "source": "Robinette Rippey",
+        "url": "https://www.nvdaily.com/nvdaily/at-project-tallmadge-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I think the only frustration is, as with everything, can we believe it?",
+        "source": "Robinette Rippey",
+        "url": "https://www.nvdaily.com/nvdaily/at-project-tallmadge-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27",
+        "stance": "neutral",
+        "emotion": "distrust"
+      },
+      {
+        "text": "I would love to see better resources at our schools.",
+        "source": "Hope Neal",
+        "url": "https://www.nvdaily.com/nvdaily/at-project-tallmadge-data-center-open-house-new-numbers-and-lingering-doubts/article_66eaa70c-9f15-526e-9d6a-402813294cff.html",
+        "date": "2026-10-27",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Kaylee Tanner led all seven Strasburg Town Council candidates with 1,500 votes in the November 2026 election",
+      "Three data center projects are proposed in or near Strasburg: Project Tallmadge, a Providence Digital Capital campus on Oranda Road, and a Bernstein Companies permit request at Dunmore Industrial Park",
+      "Seth Newman, Gabrielle Pywtorak and Kaylee Tanner, who ran against data center development, won council seats",
+      "The movement against the projects began as a Facebook group",
+      "Takanock held an open house at Strasburg's Public Works facility on Oct. 27, 2026 with nine stations for Project Tallmadge",
+      "Noise study by Epsilon Associates recorded ambient sound Aug. 25 to Sept. 2; computer model of added sound still underway",
+      "Design peaks of 130,032 gallons of water and 32,067 gallons of wastewater per day under stacked emergencies",
+      "Projected about 100 permanent jobs (70 data centers, 30 power plant) and about 2,000 construction jobs",
+      "Takanock requests permission to run each of 10 turbines up to 4,400 hours a year",
+      "Takanock's air permit application requests permission to run each of 10 turbines up to 4,400 hours a year",
+      "Projected 100 permanent jobs (70 at data centers, 30 at power plant) and about 2,000 construction jobs",
+      "Takanock schedule projects site plan approval early in 2027 and full campus completion by 2030",
+      "Strasburg would receive $16.4 million in first year of tax revenue",
+      "Sound study computer model of added campus noise was still underway at the open house",
+      "Project Tallmadge is a proposed clean energy data center campus in Strasburg Industrial Park, Strasburg, Shenandoah County, VA",
+      "Project Tallmadge represents a total investment of approximately $4 billion",
+      "Once fully operational, the project is expected to generate $47 million in annual tax revenue and about $1.4 billion over a 30-year lifespan",
+      "Project expects about 2000 construction jobs",
+      "Construction is expected to start in Q1 2027 and end in 2030",
+      "Project Tallmadge will generate about $47 million in tax revenue each year once operational, per the developer",
+      "Project Tallmadge is located in the Strasburg Industrial Park, established in 1994 and zoned for industrial and highway commercial use",
+      "Developer says an independent sound study by Epsilon Associates will be shared once complete"
+    ],
+    "groups": [
+      {
+        "name": "Strasburg anti-data center Facebook group",
+        "url": "https://www.nvdaily.com/nvdaily/data-center-opponents-win-in-strasburg/article_5745b784-b127-5d81-8c71-4583f658feb0.html",
+        "date": "2026-11-04T19:03:00.000Z"
+      }
+    ]
+  },
+  "51197": {
+    "news": [
+      {
+        "title": "County Seat, #10 — the second data center? | by Andy Kegley | Medium",
+        "url": "https://andyrosehill.medium.com/county-seat-10-the-second-data-center-481ccdff4104",
+        "date": "2026-03-27T11:40:39.000Z",
+        "source": "Medium",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Rogg Partnership signed a Memorandum of Contract on March 16, 2026 to sell 500 acres to Ardent Acquisitions, a Georgia LLC, per the author's review of county records",
+      "Solis Arx signed papers with Wythe County in June 2025 but was not disclosed until December; it is to be built on 99 acres",
+      "Draft Wythe County zoning ordinance would allow data centers by right in Industrial and Commercial districts; first informational meeting set for March 30 at Fort Chiswell High School",
+      "The Board of Supervisors went into closed session on project Titan and took no action at its March meeting",
+      "The General Assembly adjourned without a state budget; the state has given data centers about $1.6 billion in sales tax relief"
+    ],
+    "groups": []
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "19039": {
+    "news": [
+      {
+        "title": "June 23, 2025 -",
+        "url": "https://clarkecounty.iowa.gov/wp-content/uploads/2025/07/6-23-2025.pdf",
+        "date": "2025-06-23",
+        "source": "Clarke County Board of Supervisors",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Clarke County Board of Supervisors passed Resolution #25-011 establishing a temporary moratorium on construction of data centers in unincorporated areas of Clarke County, Iowa",
+      "The moratorium remains in place until the Board passes a permanent moratorium, passes a regulating ordinance, or rescinds it",
+      "The moratorium resolution passed 3-0 with Randy Dunbar, Dean Robins and Brian Sorensen voting aye"
+    ],
+    "groups": []
+  },
+  "19045": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "19063": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "19083": {
+    "news": [
+      {
+        "title": "Public comment features back and forth argument over ...",
+        "url": "https://www.timescitizen.com/news/public-comment-features-back-and-forth-argument-over-data-centers/article_88e71f7e-5245-4d0c-acdb-92b5ebb2846e.html",
+        "date": "2026-10-23T18:53:00.000Z",
+        "source": "Times-Citizen",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "It's not good economic development,",
+        "source": "Julie Duhn, Eldora resident",
+        "url": "https://www.timescitizen.com/news/public-comment-features-back-and-forth-argument-over-data-centers/article_88e71f7e-5245-4d0c-acdb-92b5ebb2846e.html",
+        "date": "2026-10-23T18:53:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Donna Juber presented the Hardin County Board of Supervisors with a potential resolution to impose a two-year moratorium on building data centers in Hardin County.",
+      "Juber said half of Iowa's counties have placed moratoriums on data centers.",
+      "On Sept. 3, the Hardin County Zoning Commission voted unanimously not to recommend changes to ordinances prohibiting a battery energy storage system near Radcliffe.",
+      "NextEra's Garden Wind Energy Project began operations in 2009 with 100 turbines, 77 of them in Hardin County."
+    ],
+    "groups": []
+  },
+  "19095": {
+    "news": [
+      {
+        "title": "Iowa County prepares moratorium on data centers | News | hometowncurrent.com",
+        "url": "https://www.hometowncurrent.com/news/iowa-county-prepares-moratorium-on-data-centers/article_2846dad7-a153-47e8-9f48-44f1c5bbac99.html",
+        "date": "2026-07-13T17:49:00.000Z",
+        "source": "Hometown Current",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "“We would approach it from the standpoint that we’re considering zoning,” said McMeen.",
+        "source": "Tim McMeen, County Attorney",
+        "url": "https://www.hometowncurrent.com/news/iowa-county-prepares-moratorium-on-data-centers/article_2846dad7-a153-47e8-9f48-44f1c5bbac99.html",
+        "date": "2026-07-13T17:49:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "“I think our intent is to do an ordinance down the road,” said Supervisor Abigail Maas.",
+        "source": "Abigail Maas, Supervisor",
+        "url": "https://www.hometowncurrent.com/news/iowa-county-prepares-moratorium-on-data-centers/article_2846dad7-a153-47e8-9f48-44f1c5bbac99.html",
+        "date": "2026-07-13T17:49:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The county hasn’t had any requests for data centers, said Heitshusen, but “there have been whisperings and rumbling.”",
+        "source": "Kevin Heitshusen, Supervisor",
+        "url": "https://www.hometowncurrent.com/news/iowa-county-prepares-moratorium-on-data-centers/article_2846dad7-a153-47e8-9f48-44f1c5bbac99.html",
+        "date": "2026-07-13T17:49:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Iowa County is preparing to pass a moratorium on building data centers, as many other counties in the state have",
+      "County Attorney Tim McMeen suggested a 12-month moratorium to study possible requirements for the facilities",
+      "Iowa County does not have zoning ordinances, and the county has not had any requests for data centers"
+    ],
+    "groups": []
+  },
+  "19113": {
+    "news": [
+      {
+        "title": "Google data center near Palo would use 10.4M gallons of water per day | Environmental News, Nature News | thegazette.com",
+        "url": "https://www.thegazette.com/news/environment/google-data-center-near-palo-would-use-10-4m-gallons-of-water-per-day/article_a0df9145-b8ca-49a6-b0e1-dfd0324c7d01.html",
+        "date": "2026-11-03T19:38:00.000Z",
+        "source": "The Gazette",
+        "stance": null
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "There is no influence from Google in the study itself.",
+        "source": "Sami Scheetz, Linn County Supervisor",
+        "url": "https://www.thegazette.com/news/environment/google-data-center-near-palo-would-use-10-4m-gallons-of-water-per-day/article_a0df9145-b8ca-49a6-b0e1-dfd0324c7d01.html",
+        "date": "2026-11-03T19:38:00.000Z",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "At every Google site, we conduct a rigorous, multifactor watershed health assessment.",
+        "source": "Kiran Udayakumar, technical program manager for utility infrastructure strategy and planning at Google",
+        "url": "https://www.thegazette.com/news/environment/google-data-center-near-palo-would-use-10-4m-gallons-of-water-per-day/article_a0df9145-b8ca-49a6-b0e1-dfd0324c7d01.html",
+        "date": "2026-10-22",
+        "stance": null,
+        "emotion": null
+      }
+    ],
+    "facts": [
+      "Google's proposed Palo data center could use up to 10.4 million gallons of water per day from the Cedar River",
+      "Google's assessment estimates 2.3 million gallons returned to the river and 8.1 million lost to evaporation daily",
+      "Linn County approved an agreement with Google for an independent water balance study, due March 2027",
+      "The site is in unincorporated Linn County and Google intends to seek annexation into Palo city limits"
+    ],
+    "groups": []
+  },
+  "19155": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "19181": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

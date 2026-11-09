@@ -1,0 +1,80 @@
+{
+  "08029": {
+    "news": [
+      {
+        "title": "Data center applications barred from Delta County for the next six months | Hydrography | deltacountyindependent.com",
+        "url": "https://www.deltacountyindependent.com/townnews/hydrography/data-center-applications-barred-from-delta-county-for-the-next-six-months/article_aa1d912e-e9c0-407c-81bf-c6fa2e9ca3eb.html",
+        "date": "2026-07-10T19:12:00.000Z",
+        "source": "Delta County Independent",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "until we see how the local governments actually start to regulate these and what it means for Delta County citizens.",
+        "source": "Wendell Koontz, Commissioner",
+        "url": "https://www.deltacountyindependent.com/townnews/hydrography/data-center-applications-barred-from-delta-county-for-the-next-six-months/article_aa1d912e-e9c0-407c-81bf-c6fa2e9ca3eb.html",
+        "date": "2026-07-10T19:12:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "none of them have progressed past the 'tire kicking' stage",
+        "source": "Jack Johnston, CEO of the Delta-Montrose Electric Association (DMEA)",
+        "url": "https://www.deltacountyindependent.com/townnews/hydrography/data-center-applications-barred-from-delta-county-for-the-next-six-months/article_aa1d912e-e9c0-407c-81bf-c6fa2e9ca3eb.html",
+        "date": "2026-07-10T19:12:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "The Delta County Board of Commissioners passed a temporary moratorium on applications for data center facilities in unincorporated county land at a regular board meeting on a Tuesday, blocking applications for at least six months.",
+      "The board and the planning commission will carry out a comprehensive public process to develop regulations, standards and definitions for data centers, which do not yet exist in the county land use code."
+    ],
+    "groups": []
+  },
+  "08123": {
+    "news": [
+      {
+        "title": "Petitions, lawsuit mount against the Weld County data center",
+        "url": "https://www.greeleytribune.com/2026/10/12/weld-data-center-petition/",
+        "date": "2026-10-12T11:15:50.000Z",
+        "source": "Greeley Tribune",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I feel like, overall, this is just a reaction to community members getting blatantly disregarded every step of the way despite there being overwhelming opposition to this data center.",
+        "source": "Patricia Garcia-Nelson, POWER spokeswoman",
+        "url": "https://www.greeleytribune.com/2026/10/12/weld-data-center-petition/",
+        "date": "2026-10-12T11:15:50.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "There are real questions about whether Global AI has or can satisfy these requirements.",
+        "source": "Mark Savala, BROE",
+        "url": "https://www.greeleytribune.com/2026/10/12/weld-data-center-petition/",
+        "date": "2026-10-12",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "POWER committee collected more than 10,000 signatures (11,000 per campaign manager) on petitions to repeal the county approval; deadline Nov. 13 to gather 9,120 valid signatures",
+      "Windsor Renewal LLC, a BROE affiliate, filed a lawsuit against the Board of County Commissioners on Oct. 7, 2026 claiming Global AI did not meet water and electricity requirements",
+      "Special election on the data center could take place between mid-February and early March 2027",
+      "Global AI plans to operate alongside Nvidia and Humain"
+    ],
+    "groups": [
+      {
+        "name": "Protect Our Water and Energy Resources (POWER)",
+        "url": "https://www.greeleytribune.com/2026/10/12/weld-data-center-petition/",
+        "date": "2026-10-12T11:15:50.000Z"
+      }
+    ]
+  }
+}

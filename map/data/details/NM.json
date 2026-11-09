@@ -1,0 +1,643 @@
+{
+  "35013": {
+    "news": [
+      {
+        "title": "Guest column: Project Jupiter and AI data centers are good for the El Paso-Las Cruces region  | Guest Columns | elpasoinc.com",
+        "url": "https://www.elpasoinc.com/opinion/guest_columns/guest-column-project-jupiter-and-ai-data-centers-are-good-for-the-el-paso-las/article_51102bd5-ebf7-4d52-a1d4-9d9264f5419b.html",
+        "date": "2026-06-25T19:51:00.000Z",
+        "source": "elpasoinc.com",
+        "stance": "support"
+      },
+      {
+        "title": "Worries over water as a giant data center moves into the New Mexico desert : NPR",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "date": "2026-06-14T12:26:48.000Z",
+        "source": "NPR",
+        "stance": "oppose"
+      },
+      {
+        "title": "As AI Data Centers Target the Water-Scarce Borderlands, New Mexico Invests in Desalination – The Border Chronicle",
+        "url": "https://www.theborderchronicle.com/as-ai-data-centers-target-the-water/",
+        "date": "2025-10-07T15:21:59.000Z",
+        "source": "The Border Chronicle",
+        "stance": "neutral"
+      },
+      {
+        "title": "Opposition to data centers grows in the borderland | Puente Collaborative | elpasoinc.com",
+        "url": "https://www.elpasoinc.com/news/puente_collaborative/opposition-to-data-centers-grows-in-the-borderland/article_38ed562a-00a2-4eeb-b9e0-9db7d80d8eab.html",
+        "date": "2025-09-23T21:53:00.000Z",
+        "source": "Puente News Collaborative",
+        "stance": "oppose"
+      },
+      {
+        "title": "Resistance to data centers rises on the border - High Country News",
+        "url": "https://www.hcn.org/articles/resistance-to-data-centers-rises-on-the-border/",
+        "date": "2025-09-12T08:01:00.000Z",
+        "source": "High Country News",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=Vok78b57H7U",
+        "text": "$165 billion with a B. That's how much a firm out of Austin says it's going to invest to build a huge data center campus in Donana County next door to El Paso. That's an absolutely astronomical dollar figure one so big it raises a lot of questions. Who is Borderplex Digital Assets, the company behind this? And how could this group possibly plan to spend this much in a small New Mexico border county? What does it mean for our economy and maybe more importantly for the future of our water and electricity systems here in the borderland? I'm Diego Mendoza Moyers, a reporter and host of the El Paso Matters podcast. And I want to spend a few minutes talking through this company's proposal and see what questions we have answers to at this point and what we still don't know. And if you want some more background and facts about all of this, you can visit el paso matters.org to read the story we published last week. But before we go any further, I want to mention that this El Paso Matters podcas",
+        "date": null,
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=tLb66ERHAwM",
+        "text": "IT PROMISES TO CREATE A THOUSAND JOBS AND A BOOST TO THE LOCAL ECONOMY. BUT A PLANNED MULTI-BILLION DOLLAR DATA CENTER IN SOUTHERN NEW MEXICO IS STIRRING CONTROVERSY. NEWS 13'S BELA OLAGUE EXPLAINS ITS LATEST HURDLE AS IT INCHES ITS WAY TOWARDS APPROVAL. DEVELOPERS SAY PROJECT JUPITER WILL GIVE DONA ANA COUNTY A MAJOR ECONOMIC BOOST... BUT MANY CONTINUE TO PUSH BACK, WORRIED ABOUT THE FACILITY'S WATER USAGE AND ENVIRONMENTAL IMPACTS. Opposition \"The vast expansion in fossil fuel gas usage, would be an environmental disaster.\" In english: \"It will generate many jobs and bring significant development to the entire region, something that hasn't happened in many years.\" CONSTRUCTION ON THE 165 BILLION DOLLAR A-I DATA CENTER IN SANTA TERESA IS UNDERWAY. BACK IN SEPTEMBER, DONA ANA COUNTY COMMISSIONERS VOTED TO FINANCE THE PROJECT, SPEARHEADED BY ORACLE AND OPEN A-I, THROUGH INDUSTRIAL REVENUE BONDS THAT DECISION CAME AFTER HOURS OF PUBLIC COMMENT. Opposition \"we have told you clearly, this ",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Growth just for the sake of growth is not always for the best.",
+        "source": "Jack Heydemann",
+        "url": "https://www.elpasoinc.com/opinion/guest_columns/guest-column-project-jupiter-and-ai-data-centers-are-good-for-the-el-paso-las/article_51102bd5-ebf7-4d52-a1d4-9d9264f5419b.html",
+        "date": "2026-06-30",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Moratoriums do not stop AI development.",
+        "source": "Louis Rouanet, UTEP economist, assistant professor at the University of Texas at El Paso",
+        "url": "https://www.elpasoinc.com/opinion/guest_columns/guest-column-project-jupiter-and-ai-data-centers-are-good-for-the-el-paso-las/article_51102bd5-ebf7-4d52-a1d4-9d9264f5419b.html",
+        "date": "2026-06-25",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "\"I have a little plot of land out here, grow some pecans,\" says Eddie Estrada, a weekend farmer who works at the state capital.",
+        "source": "Eddie Estrada, weekend farmer",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "date": "2026-06-14T12:26:48.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"I, like so many of the constituents I represent, were very surprised to see that our county commission here in Doña Ana was taking a $165 billion vote on a proposal that we knew about for less than a month,\" says State Rep. Micaela Lara Cadena (D-Las Cruces)",
+        "source": "Micaela Lara Cadena, State Rep. (D-Las Cruces)",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "date": "2026-06-14T12:26:48.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "\"Most of us got excited about this huge data center coming in with all this money that was going to be thrown around without really thinking: what is it going to look like in one year?\"",
+        "source": "Susana Chaparro, Doña Ana County commissioner",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "date": "2026-06-14T12:26:48.000Z",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "\"We've never had that type of money here in Doña Ana County,\" says Manny Sanchez, chairman of the county commission.",
+        "source": "Manny Sanchez, chairman of the county commission",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "date": "2026-06-14T12:26:48.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "\"If you don't have water, all you have is dirt.\"",
+        "source": "Edward Ogaz, president of the New Mexico Chile Association",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "date": "2026-06-14T12:26:48.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The basic idea is to conserve fresh water for residential and agricultural use and use the brackish water for manufacturing,",
+        "source": "Drew Goretzka, director of communications for the New Mexico Environment Department",
+        "url": "https://www.theborderchronicle.com/as-ai-data-centers-target-the-water/",
+        "date": "2025-10-07T15:21:59.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We know desal works at scale.",
+        "source": "Jonas Armstrong, director of the Water Protection Division of the New Mexico Environment Department",
+        "url": "https://www.theborderchronicle.com/as-ai-data-centers-target-the-water/",
+        "date": "2025-10-07T15:21:59.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I don't think anybody knew that meeting was going to be the release of something that huge,",
+        "source": "Jonathan Delgado, teacher who helped organize local opposition to the project",
+        "url": "https://www.theborderchronicle.com/as-ai-data-centers-target-the-water/",
+        "date": "2025-10-07T15:21:59.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "“This thing that’s coming consumes a lot of power, a lot of water,” Márquez said.",
+        "source": "Márquez",
+        "url": "https://www.elpasoinc.com/news/puente_collaborative/opposition-to-data-centers-grows-in-the-borderland/article_38ed562a-00a2-4eeb-b9e0-9db7d80d8eab.html",
+        "date": "2025-09-23T21:53:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "“I want scientific reports about how a closed-loop system works and what is the level of water evaporation and recharge needed every year,” she said.",
+        "source": "Daisy Maldonado, director of local nonprofit Empowerment Congress",
+        "url": "https://www.elpasoinc.com/news/puente_collaborative/opposition-to-data-centers-grows-in-the-borderland/article_38ed562a-00a2-4eeb-b9e0-9db7d80d8eab.html",
+        "date": "2025-09-23T21:53:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "“One of the things that we insist on as part of this discussion is that … this data center is not going to have a negative impact on the water situation down in Santa Teresa and in Sunland Park,” County Commissioner Shannon Reynolds said.",
+        "source": "Shannon Reynolds, County Commissioner",
+        "url": "https://www.elpasoinc.com/news/puente_collaborative/opposition-to-data-centers-grows-in-the-borderland/article_38ed562a-00a2-4eeb-b9e0-9db7d80d8eab.html",
+        "date": "2025-09-23T21:53:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I don’t understand much of the technology. But we have a lot of basic needs here in Sunland Park.",
+        "source": "Alma Márquez, Sunland Park resident",
+        "url": "https://www.hcn.org/articles/resistance-to-data-centers-rises-on-the-border/",
+        "date": "2025-09-12T08:01:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We don’t want any of that. What we want is quality water.",
+        "source": "Joe Anthony Martinez, Sunland Park resident, 76",
+        "url": "https://www.hcn.org/articles/resistance-to-data-centers-rises-on-the-border/",
+        "date": "2025-09-12T08:01:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I don’t want a PowerPoint presentation that just says, ‘Don’t worry, we’re not going to use that much water.’ And I think the community deserves to know.",
+        "source": "Daisy Maldonado, director of Empowerment Congress",
+        "url": "https://www.hcn.org/articles/resistance-to-data-centers-rises-on-the-border/",
+        "date": "2025-09-12T08:01:00.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "One of the things that we insist on as part of this discussion is that…this data center is not going to have a negative impact on the water situation down in Santa Teresa and in Sunland Park.",
+        "source": "Shannon Reynolds, County Commissioner",
+        "url": "https://www.hcn.org/articles/resistance-to-data-centers-rises-on-the-border/",
+        "date": "2025-09-12T08:01:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "So the technology is advanced to where data centers run closed loop systems, water consumption is minimal.",
+        "source": "Lam Napier, chairman of Borderplex Digital Assets",
+        "url": "https://www.youtube.com/watch?v=Vok78b57H7U",
+        "date": null,
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "So just know upfront it will be adding power. We will not be using the existing power. So nobody's power prices are going up.",
+        "source": "Lam Napier, chairman of Borderplex Digital Assets",
+        "url": "https://www.youtube.com/watch?v=Vok78b57H7U",
+        "date": null,
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Essentially the amount of carbon pollution that they're going to emit will wipe out 20 years of progress in the entire state of New Mexico.",
+        "source": "David Baake, Environmental attorney",
+        "url": "https://www.youtube.com/watch?v=tLb66ERHAwM",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Please vote in favor of this today, we need this to go through in order to provide these jobs for our community.",
+        "source": "Unnamed supporter",
+        "url": "https://www.youtube.com/watch?v=tLb66ERHAwM",
+        "date": null,
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Project Jupiter in Doña Ana County will create 4,000 construction jobs and 1,500 ongoing project-supported jobs",
+      "Currently 38 states offer dedicated tax incentives for data centers",
+      "Activists and some policymakers are seeking local moratoriums on data center facilities",
+      "Doña Ana County commissioners voted 4-1 to approve $165 billion in industrial revenue bonds for Project Jupiter last September",
+      "Oracle says the data center and fuel cell system together will use about 11 million gallons of non-potable water, recycled in closed-loop systems",
+      "Developers pledged $360 million for schools and local infrastructure and $50 million for a local water utility upgrade",
+      "The Center for Biological Diversity filed a protest letter with the State Engineer over groundwater draws from the lower Rio Grande basin",
+      "Last month the US Supreme Court approved an interstate water compact that will retire 9,200 acres of irrigated farmland over the next decade",
+      "Project Jupiter was approved September 19, 2025 by the Doña Ana Board of County Commissioners in a 4-1 vote",
+      "Project Jupiter is planned at 700 to 900 megawatts and is located just north of the Santa Teresa port of entry, less than 10 miles from El Paso, Texas",
+      "Locals learned of the $165 billion project just one month before the county approved it",
+      "New Mexico's HB137 created the Strategic Water Supply program, allocating $40 million for desalination grants",
+      "Doña Ana County commissioners approved Project Jupiter bond proposal 4-1 on Sept. 19, 2025",
+      "Project Jupiter would avoid property taxes for 30 years in exchange for $360 million in payments to the county",
+      "On Sept. 16, 2025 the city of Sunland Park joined calls to delay the vote",
+      "Data Center Watch counted $64 billion of data center projects delayed or paused amid local opposition in two years",
+      "Developers plan to invest up to $165 billion in Project Jupiter, promising 2,500 construction jobs and over 750 permanent jobs",
+      "Doña Ana commissioners voted 4-1 in late August to advance an industrial revenue bond, with a final vote set for Sept. 19",
+      "The bond would exempt BorderPlex from property taxes for 30 years, with $300 million in payments to the county in lieu",
+      "Developers said average daily water use would be about 20,000 gallons, capped at 60,000",
+      "On Sept. 5, Commissioner Reynolds posted names of people who submitted opposing public comments on Facebook",
+      "Borderplex Digital Assets says it will invest $165 billion in a data center campus in Doña Ana County, NM.",
+      "Doña Ana County commissioners are scheduled to vote on the project on September 19.",
+      "Borderplex would pay Doña Ana County $300 million in direct payments over about 30 years in exchange for no property taxes.",
+      "The project is projected to create over 2,000 construction jobs and 750 permanent jobs paying $75,000-$100,000.",
+      "El Paso Electric says it has been designing electricity infrastructure to serve the data center for over two years.",
+      "Doña Ana County commissioners voted in September to finance the project through industrial revenue bonds",
+      "Air permit comment period is 30 days; community groups ask for an extra 30 days",
+      "Developers seek air quality construction permits for two microgrids to power the facility",
+      "Project promises about a thousand jobs"
+    ],
+    "groups": [
+      {
+        "name": "Center for Biological Diversity",
+        "url": "https://www.npr.org/2026/06/12/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "date": "2026-06-14T12:26:48.000Z"
+      },
+      {
+        "name": "Empowerment Congress",
+        "url": "https://www.theborderchronicle.com/as-ai-data-centers-target-the-water/",
+        "date": "2025-10-07T15:21:59.000Z"
+      },
+      {
+        "name": "New Mexico Environmental Law Center",
+        "url": "https://www.elpasoinc.com/news/puente_collaborative/opposition-to-data-centers-grows-in-the-borderland/article_38ed562a-00a2-4eeb-b9e0-9db7d80d8eab.html",
+        "date": "2025-09-23T21:53:00.000Z"
+      }
+    ]
+  },
+  "35025": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "35049": {
+    "news": [
+      {
+        "title": "Proposed Data Center Moratorium Ordinance will be heard by Santa Fe County Commission on Tuesday the 30th. The draft has a hyperscale sized loophole that must be amended.",
+        "url": "https://www.newenergyeconomy.org/post/proposed-data-center-moratorium-ordinance-will-be-heard-by-santa-fe-county-commission-on-tuesday-the",
+        "date": "2026-06-23T06:00:00.000Z",
+        "source": "New Energy Economy",
+        "stance": "oppose"
+      },
+      {
+        "title": "Santa Fe County eyes yearlong data center moratorium | Local News | santafenewmexican.com",
+        "url": "https://www.santafenewmexican.com/news/local_news/santa-fe-county-eyes-yearlong-data-center-moratorium/article_12c46f96-6c21-42f7-9f3d-273c0efec0f8.html",
+        "date": "2026-05-27T04:00:00.000Z",
+        "source": "The Santa Fe New Mexican",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I think it is very important for us to do this moratorium, given that some data centers are good, and some are bad,",
+        "source": "Hank Hughes, Commissioner",
+        "url": "https://www.santafenewmexican.com/news/local_news/santa-fe-county-eyes-yearlong-data-center-moratorium/article_12c46f96-6c21-42f7-9f3d-273c0efec0f8.html",
+        "date": "2026-05-26",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We're really in an unprecedented energy growth phase. The total national energy demand, as we've been hearing, is supposed to increase by 20% by 2030, and that's largely due to data center growth,",
+        "source": "Shelby Butz, National Association of Counties",
+        "url": "https://www.santafenewmexican.com/news/local_news/santa-fe-county-eyes-yearlong-data-center-moratorium/article_12c46f96-6c21-42f7-9f3d-273c0efec0f8.html",
+        "date": "2026-05-26",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Santa Fe County Commission will hear a proposed one-year data center moratorium ordinance at 2:00PM on June 30.",
+      "Draft moratorium applies only to large-scale data centers with aggregate IT load of 100 MW or greater.",
+      "New Energy Economy says most moratorium proposals nationwide either define data centers descriptively or use thresholds of 5-20 MW.",
+      "Group says a 15 MW data center can consume as much water as three average hospitals.",
+      "Group says a 1 MW facility with evaporative cooling can use about 6.9 million gallons of water annually.",
+      "Santa Fe County commissioners are weighing a yearlong prohibition on data center developments.",
+      "No data centers exist or have been proposed in Santa Fe County or Northern New Mexico.",
+      "86 localities have passed data center bans and 57 more are under consideration, per the U.S. Data Center Moratorium Tracker.",
+      "Maine's statewide moratorium was vetoed by Gov. Janet Mills.",
+      "Bernalillo County adopted strict data center regulations."
+    ],
+    "groups": [
+      {
+        "name": "New Energy Economy",
+        "url": "https://www.newenergyeconomy.org/post/proposed-data-center-moratorium-ordinance-will-be-heard-by-santa-fe-county-commission-on-tuesday-the",
+        "date": "2026-06-23T06:00:00.000Z"
+      }
+    ]
+  },
+  "35051": {
+    "news": [
+      {
+        "title": "Spaceport America in talks with Green Data for data center project in Sierra County",
+        "url": "https://www.abqjournal.com/news/spaceport-america-data-center-proposal-sparks-curiosity/3084192",
+        "date": "2026-07-18T20:42:08.000Z",
+        "source": "Albuquerque Journal",
+        "stance": "neutral"
+      },
+      {
+        "title": "PROJECT CONSEQUENCES | Opinion | gpkmedia.com",
+        "url": "https://www.gpkmedia.com/opinion/project-consequences/article_e5c77a3b-82dc-4ecd-bb0f-71d4ceb13c00.html",
+        "date": "2026-07-08T15:00:00.000Z",
+        "source": "gpkmedia.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data Center Opposition Meeting Launches Project Consequences | News | gpkmedia.com",
+        "url": "https://www.gpkmedia.com/news/data-center-opposition-meeting-launches-project-consequences/article_5eb24f27-b31b-4a99-b510-983c3ec46cc6.html",
+        "date": "2026-07-03T17:02:00.000Z",
+        "source": "gpkmedia.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data Center Concerns Addressed At Commission Meeting | News | gpkmedia.com",
+        "url": "https://www.gpkmedia.com/news/data-center-concerns-addressed-at-commission-meeting/article_8e7c7e44-bacb-4db5-a486-5e82495dfd43.html",
+        "date": "2026-06-24T13:54:00.000Z",
+        "source": "gpkmedia.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "Development 3 - Sierra County Citizen",
+        "url": "https://sierracountycitizen.org/tag/development/page/3/",
+        "date": "2026-05-22T00:00:00.000Z",
+        "source": "Sierra County Citizen",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "the potential Spaceport America project is not a relocation of the Socorro proposal.",
+        "source": "Spaceport America, statement",
+        "url": "https://www.abqjournal.com/news/spaceport-america-data-center-proposal-sparks-curiosity/3084192",
+        "date": "2026-07-18",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "has serious concerns about the tremendous strain that some data centers put on water systems and other natural resources.",
+        "source": "Stephanie Garcia Richard, Commissioner of Public Lands (State Land Office statement)",
+        "url": "https://www.abqjournal.com/news/spaceport-america-data-center-proposal-sparks-curiosity/3084192",
+        "date": "2026-07-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "This is OUR home.",
+        "source": "Alice Hutchins, letter writer, Truth or Consequences, NM",
+        "url": "https://www.gpkmedia.com/opinion/project-consequences/article_e5c77a3b-82dc-4ecd-bb0f-71d4ceb13c00.html",
+        "date": "2026-07-08",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We will not allow outside forces to decide quality of life in Sierra County.",
+        "source": "Alice Hutchins, letter writer, Truth or Consequences, NM",
+        "url": "https://www.gpkmedia.com/opinion/project-consequences/article_e5c77a3b-82dc-4ecd-bb0f-71d4ceb13c00.html",
+        "date": "2026-07-08",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "It is obvious we do not have water and energy to spare.",
+        "source": "Alice Hutchins, letter writer, Truth or Consequences, NM",
+        "url": "https://www.gpkmedia.com/opinion/project-consequences/article_e5c77a3b-82dc-4ecd-bb0f-71d4ceb13c00.html",
+        "date": "2026-07-08",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "This is a bipartisan issue,",
+        "source": "Sulome Anderson, Monticello resident who led the meeting",
+        "url": "https://www.gpkmedia.com/news/data-center-opposition-meeting-launches-project-consequences/article_5eb24f27-b31b-4a99-b510-983c3ec46cc6.html",
+        "date": "2026-07-02",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Sixty-five percent of Republicans, 75 percent of Democrats and about 74 percent of Independents agree that they do not want a data center where they live.",
+        "source": "Sulome Anderson, Monticello resident who led the meeting",
+        "url": "https://www.gpkmedia.com/news/data-center-opposition-meeting-launches-project-consequences/article_5eb24f27-b31b-4a99-b510-983c3ec46cc6.html",
+        "date": "2026-07-02",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We’ve had nobody come forward,",
+        "source": "Jim Paxon, Commission Chair",
+        "url": "https://www.gpkmedia.com/news/data-center-concerns-addressed-at-commission-meeting/article_8e7c7e44-bacb-4db5-a486-5e82495dfd43.html",
+        "date": "2026-06-23",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "They may in the future, but when they do, we will address that with a public forum and also with the opportunity for the public to participate in this. And that’s a guarantee we make.",
+        "source": "Jim Paxon, Commission Chair",
+        "url": "https://www.gpkmedia.com/news/data-center-concerns-addressed-at-commission-meeting/article_8e7c7e44-bacb-4db5-a486-5e82495dfd43.html",
+        "date": "2026-06-23",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Spaceport America has had ongoing discussions with Green Data since 2021",
+      "Initial phase demand estimated at 4 MW",
+      "Spaceport director signed sublease application in February 2026",
+      "State lawmakers vowed to pursue a statewide data center moratorium in 2027",
+      "Socorro County commissioners enacted a one-year moratorium days after New Mexico Tech's June announcement",
+      "Spaceport America Master Plan calls for six data centers by 2034",
+      "Sierra County Commissioners' meeting is scheduled for July 21, 2026 at 10:00 a.m.",
+      "Spaceport America's master plan lists 'loss of public and political support' as a threat",
+      "Residents met July 2, 2026 at the Charles Motel and Hot Springs to plan opposition to data centers in Sierra County",
+      "Attendees approved the name Project Consequences for the citizen action group",
+      "The group plans a petition asking for a Sierra County moratorium on data center projects",
+      "State legislators announced intent to introduce a statewide moratorium on large-scale data centers in next year's session",
+      "At the June 23, 2026 Sierra County commission meeting, three community members raised concerns about future data center development",
+      "Concerns cited were environmental impacts, water scarcity and possible increases in electrical costs",
+      "County administration has not been approached by any data center company interested in locating in the county",
+      "Chair Paxon promised a public forum with public participation if a data center company comes forward",
+      "Article headline: defeat of Socorro data center has some worrying about relocation to Sierra County's Spaceport America",
+      "Some locals want a Sierra County moratorium on computer data centers",
+      "County commission chairman reportedly threatened to eject proponents for applauding during public comment",
+      "BLM fast-tracked review of 'Green Chile' pipeline construction for Project Jupiter"
+    ],
+    "groups": [
+      {
+        "name": "Project Consequences",
+        "url": "https://www.abqjournal.com/news/spaceport-america-data-center-proposal-sparks-curiosity/3084192",
+        "date": "2026-07-18T20:42:08.000Z"
+      },
+      {
+        "name": "New Energy Economy",
+        "url": "https://www.gpkmedia.com/news/data-center-opposition-meeting-launches-project-consequences/article_5eb24f27-b31b-4a99-b510-983c3ec46cc6.html",
+        "date": "2026-07-03T17:02:00.000Z"
+      }
+    ]
+  },
+  "35053": {
+    "news": [
+      {
+        "title": "Sitting room only at City Public Forum on Green Data Center",
+        "url": "https://www.dchieftain.com/news/sitting-room-only-at-city-public-forum-on-green-data-center/3038768",
+        "date": "2026-05-07T21:16:28.000Z",
+        "source": "El Defensor Chieftain",
+        "stance": "oppose"
+      },
+      {
+        "title": "Developer plans 'world’s largest' green data center in Socorro",
+        "url": "https://www.abqjournal.com/news/developer-plans-worlds-largest-green-data-center-in-socorro/3023420",
+        "date": "2026-04-16T02:08:48.000Z",
+        "source": "Albuquerque Journal (El Defensor Chieftain)",
+        "stance": "neutral"
+      },
+      {
+        "title": "Green Data Center: Beam me up, Scotty",
+        "url": "https://www.dchieftain.com/news/green-data-center-beam-me-up-scotty/3023511",
+        "date": "2026-04-16T00:50:27.000Z",
+        "source": "El Defensor Chieftain",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "“The community deserves answers, and we’re committed to earning that trust over time,” Bak said.",
+        "source": "Jason Bak, Green Data CEO",
+        "url": "https://www.dchieftain.com/news/sitting-room-only-at-city-public-forum-on-green-data-center/3038768",
+        "date": "2026-05-07T21:16:28.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "“I'm afraid they might want to use the water at the Plains of San Agustin and have a beneficial use, and that would be a disaster,” Bhasker said, referencing the most recent ruling on the two-decade long legal battle.",
+        "source": "Ravi Bhasker, Mayor of Socorro",
+        "url": "https://www.dchieftain.com/news/sitting-room-only-at-city-public-forum-on-green-data-center/3038768",
+        "date": "2026-05-05",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "“I have not had one person, one constituent, reach out to me in favor of this, and therefore we represent the people that elect us.”",
+        "source": "Joel Partridge, City Councilor",
+        "url": "https://www.dchieftain.com/news/sitting-room-only-at-city-public-forum-on-green-data-center/3038768",
+        "date": "2026-05-05",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "“Quite frankly, we don't have any information yet, so I can't share anything with the regents, with Dr. Jackson, with the public…We haven't even had a sighting discussion until yesterday, talking about, do we even have land for this?”",
+        "source": "Delilah Walsh, New Mexico Tech Vice President for Administration and Finance",
+        "url": "https://www.dchieftain.com/news/sitting-room-only-at-city-public-forum-on-green-data-center/3038768",
+        "date": "2026-05-05",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We are leaders in history. We want to work with other leaders in the industry and the state,",
+        "source": "Jason Bak, CEO of Green Data Center",
+        "url": "https://www.abqjournal.com/news/developer-plans-worlds-largest-green-data-center-in-socorro/3023420",
+        "date": "2026-04-16T02:08:48.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I would not believe anything they say at face value, period",
+        "source": "Will Stephens, Murphysboro mayor",
+        "url": "https://www.dchieftain.com/news/green-data-center-beam-me-up-scotty/3023511",
+        "date": "2026-04-15",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "It was always all flash and no substance.",
+        "source": "Will Stephens, Murphysboro mayor",
+        "url": "https://www.dchieftain.com/news/green-data-center-beam-me-up-scotty/3023511",
+        "date": "2026-04-15",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We are absolutely going to engage with all community members to ensure they are heard",
+        "source": "Jason Bak, CEO of Green Data Center",
+        "url": "https://www.dchieftain.com/news/green-data-center-beam-me-up-scotty/3023511",
+        "date": "2026-04-15",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "I would not believe anything they say at face value, period,",
+        "source": "Will Stephens, Murphysboro, Illinois mayor",
+        "url": "https://www.abqjournal.com/news/developer-plans-worlds-largest-green-data-center-in-socorro/3023420",
+        "date": "2026-04-15",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We are absolutely going to engage with all community members to ensure they are heard,",
+        "source": "Jason Bak, CEO of Green Data Center",
+        "url": "https://www.abqjournal.com/news/developer-plans-worlds-largest-green-data-center-in-socorro/3023420",
+        "date": "2026-04-15",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "It was always all flash and no substance.",
+        "source": "Will Stephens, Murphysboro, Illinois mayor",
+        "url": "https://www.abqjournal.com/news/developer-plans-worlds-largest-green-data-center-in-socorro/3023420",
+        "date": "2026-04-15",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "We are leaders in history. We want to work with other leaders in the industry and the state",
+        "source": "Jason Bak, CEO of Green Data Center",
+        "url": "https://www.dchieftain.com/news/green-data-center-beam-me-up-scotty/3023511",
+        "date": "2026-03-01",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Public Forum on Green Data held May 5, 2026 at Socorro City Hall with an estimated 140 attendees",
+      "No one came forward in favor of the data center when Mayor Ravi Bhasker asked the crowd",
+      "Speakers called for a moratorium on development until proper study and public input occur",
+      "New Mexico Tech town hall on the data center scheduled for May 19, 2026, the first of monthly town halls through September",
+      "Mayor Bhasker said he would support a moratorium like the county's and put it on the council agenda",
+      "Green Data Center plans a 2 GW data center in Socorro with a goal of delivering 100 MW per month",
+      "Green Data has worked at Spaceport America in Sierra County for about four years",
+      "Spaceport project: 50 MW solar and battery, roughly 5 MW continuous power, construction planned this year",
+      "New Mexico Legislature passed a bill regulating data centers with renewable energy standards and consumer rate protections",
+      "Green Data has worked at Spaceport America in Sierra County for about four years",
+      "Socorro project aims for 2 GW base-load power, delivering 100 MW per month",
+      "Spaceport project: 50 MW solar and battery, construction planned this year",
+      "New Mexico legislature passed a bill regulating data centers with renewable standards and consumer rate protections",
+      "Bak's earlier Murphysboro, Ill. project spent about $100,000 on demolition and never delivered"
+    ],
+    "groups": [
+      {
+        "name": "Socorro County residents opposed to the data center",
+        "url": "https://www.dchieftain.com/news/sitting-room-only-at-city-public-forum-on-green-data-center/3038768",
+        "date": "2026-05-07T21:16:28.000Z"
+      }
+    ]
+  },
+  "35061": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

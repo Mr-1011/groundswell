@@ -1,0 +1,82 @@
+{
+  "36037": {
+    "news": [
+      {
+        "title": "Citizens voice concerns to City Council: data center will 'leave us high and dry' | The Batavian",
+        "url": "https://www.thebatavian.com/jfbeck99272012/citizens-voice-concerns-to-city-council-data-center-will-leave-us-high-and-dry",
+        "date": "2026-04-14T07:58:00.000Z",
+        "source": "The Batavian",
+        "stance": "oppose"
+      },
+      {
+        "title": "STREAM US Data Centers LLC - Cost Benefit Analysis ...",
+        "url": "https://www.gcedc.com/file-library/100319/STREAMUSDataCentersLLC.CostBenefitAnalysisWithExecutiveSummary.3.12.26.pdf",
+        "date": "2026-03-12",
+        "source": "gcedc.com",
+        "stance": "neutral"
+      }
+    ],
+    "social": [
+      {
+        "platform": "x",
+        "url": "https://x.com/13WHAM/status/2091843006676492353",
+        "text": "Genesee County community protests data centers construction\nhttps://t.co/VRAnDZmWK7",
+        "date": "2026-08-24T11:00:12.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I stand here imploring you all as the leaders of our fine and humble city to make an official stand on behalf of the residents of Batavia, opposing the proposed data center at the Alabama STAMP plant.",
+        "source": "RaeAnn Engler",
+        "url": "https://www.thebatavian.com/jfbeck99272012/citizens-voice-concerns-to-city-council-data-center-will-leave-us-high-and-dry",
+        "date": "2026-04-14T07:58:00.000Z",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "We don't want to stop advancement.",
+        "source": "Sandy Steele",
+        "url": "https://www.thebatavian.com/jfbeck99272012/citizens-voice-concerns-to-city-council-data-center-will-leave-us-high-and-dry",
+        "date": "2026-04-14T07:58:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "And I’m not being metaphorical about that; they’re here for our water.",
+        "source": "Christina Mortellaro",
+        "url": "https://www.thebatavian.com/jfbeck99272012/citizens-voice-concerns-to-city-council-data-center-will-leave-us-high-and-dry",
+        "date": "2026-04-14T07:58:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "So I know this doesn't affect us directly, but are we going to do anything about this and talk about it as a council at all?",
+        "source": "Sammy DiSalvo, City Councilman",
+        "url": "https://www.thebatavian.com/jfbeck99272012/citizens-voice-concerns-to-city-council-data-center-will-leave-us-high-and-dry",
+        "date": "2026-04-14T07:58:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Community protests against data center construction in Genesee County were reported",
+      "Opponents cited a nearly $1.5 billion tax abatement for the STREAM data center, per Christina Mortellaro.",
+      "Proposed buildings are three 750,000 square foot structures standing 52 feet tall, with a 10 to 15 year lifespan and no decommissioning plan stated.",
+      "Speakers suggested council adopt a year-long moratorium, a resolution rejecting STREAM, and a letter of opposition.",
+      "Council President Eugene Jankowski Jr. said the topic was not on the agenda, but it could be placed on a future conference agenda.",
+      "Cost-benefit analysis estimates 3-to-1 local benefit against local costs, discounted at 2%",
+      "Project requests about $716M in local 4% sales tax abatement and $15.6M local mortgage tax abatement",
+      "Project would create 125 data center careers and 45 skilled trades careers"
+    ],
+    "groups": []
+  },
+  "36063": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

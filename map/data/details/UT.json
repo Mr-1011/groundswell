@@ -1,0 +1,480 @@
+{
+  "49003": {
+    "news": [
+      {
+        "title": "Stratos data center: Ranchers weigh Kevin O’Leary’s Utah project – Deseret News",
+        "url": "https://www.deseret.com/magazine/2026/11/08/kevin-oleary-meets-resistance-on-data-center/",
+        "date": "2026-11-08T11:00:01.000Z",
+        "source": "Deseret News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Public forum highlights concerns, questions about proposed Box Elder County data center",
+        "url": "https://kutv.com/news/local/public-forum-highlights-concerns-questions-about-proposed-box-elder-county-data-center",
+        "date": "2026-05-27T03:34:53.000Z",
+        "source": "KUTV",
+        "stance": "oppose"
+      },
+      {
+        "title": "Why Utah residents are protesting a massive AI data center project backed by Kevin O’Leary | CNN Business",
+        "url": "https://www.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition",
+        "date": "2026-05-09T07:00:51.000Z",
+        "source": "CNN Business",
+        "stance": "oppose"
+      },
+      {
+        "title": "Local forum discusses community questions about approved data center in Box Elder County | KSL.com",
+        "url": "https://www.ksl.com/article/news/utah/environment/local-forum-discusses-community-questions-about-approved-data-center-in-box-elder-county/51497598",
+        "date": null,
+        "source": "KSL.com",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1x8cb39/oleary_digital_files_new_utah_water_rights/",
+        "text": "O'Leary Digital files new Utah water rights application for Stratos Project data center and 7.5 GW natural gas plant in Box Elder County\n\nO’Leary Digital Utah DC Sub I, LLC, associated with businessman Kevin O’Leary, submitted a permanent change-of-use application to the Utah Division of Water Rights on October 15, 2026. The application seeks to reallocate existing irrigation water rights from a ranch property in Box Elder County’s Hansel Valley to industrial use for the proposed Stratos Project, a data center campus paired with on-site power generation. The filing describes 11 data center clusters and a 7.5-gigawatt generation facility composed of fifteen 500-megawatt natural-gas blocks operating in a closed-loop configuration that the applicants say recovers 90 percent of water and requires only 10 percent freshwater makeup. Developers state in the nearly 200-page submission that the project’s consumptive use would be lower than the property’s historical agricultural irrigation and t",
+        "date": "2026-10-17T14:58:19.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1uy7l0v/breaking_kevin_oleary_and_fox_news_sued_for/",
+        "text": "BREAKING: Kevin O’Leary and Fox News Sued For Defamation After Falsely Accusing Utah Data Center Critics Of Being Chinese Communist Party Agents, Despite Later Admitting He Had No Evidence 🤖\n\n“Shark Tank” star Kevin O’Leary and Fox News are being sued for defamation after O’Leary made a series of media appearances in May accusing vocal opponents of his data center plans in Box Elder County, Utah, of being foreign-backed agents. Alliance for a Better Utah, Elevate Strategies, and two of the groups’ founders filed the lawsuit Wednesday in a Utah federal district court, alleging O’Leary falsely accused them of being operatives backed by the Chinese Communist Party across at least 10 media appearances between May 11 and June 3. In one Fox News segment, O’Leary accused Elevate Strategies cofounders Gabi Finlayson and Jackie Morgan of being “proxies for the Chinese Government,” with Finlayson now named as one of the plaintiffs, while Alliance for a Better Utah and its founder Joshua Kanter ",
+        "date": "2026-07-16T16:22:06.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/Environmentalism/comments/1t4f1ar/utah_box_elder_county_commission_allows_data/",
+        "text": "(Utah) Box Elder County Commission allows data center to be built DESPITE OVERWHELMING community resistance. And look who the police protected….",
+        "date": "2026-05-05T13:10:18.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/Utah/comments/1t3wds7/box_elder_county_before_todays_data_center_vote/",
+        "text": "Box Elder County before today's data center vote.\n\nI stopped by Box Elder to see what residents think about this data center. The temperature of the people is HOT. 🔥\nSooooo many cars turning in to the fairgrounds to protest. Farmers, ranchers, school teachers. Republicans, Dems. People ARE SO ANGRY!\nVote still to come.\nEDIT update: To save people the effort of scrolling, facility approved.\nAnd the American thing to do now, besides file a protest, is to vote out Cox, Adams and the board who approved it before it reached Box Elder County. Their names were read at the gathering outside. This happened in VERY GOP Missouri and the people who approved a data center got the boot.\nYOU CAN STILL file against data center water rights: https://fogsl.org/newsroom/file-a-protest-against-the-box-elder-data-center-water-rights-application\nWow, the awards, thanks.",
+        "date": "2026-05-04T22:07:59.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We'd rather be at the table than be on the menu.",
+        "source": "Tim Munns, owner, Flying M Ranch",
+        "url": "https://www.deseret.com/magazine/2026/11/08/kevin-oleary-meets-resistance-on-data-center/",
+        "date": "2026-11-08T11:00:01.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "rather than respond to their concerns, Kevin O'Leary chose to launch a national smear campaign built on absurd falsehoods that Fox News repeatedly affirmed and amplified",
+        "source": "Matthew Platkin, plaintiffs' attorney",
+        "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1uy7l0v/breaking_kevin_oleary_and_fox_news_sued_for/",
+        "date": "2026-07-16T16:22:06.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "This is the biggest data center potentially in the world,",
+        "source": "Ben Abbott, executive director of Grow the Flow",
+        "url": "https://kutv.com/news/local/public-forum-highlights-concerns-questions-about-proposed-box-elder-county-data-center",
+        "date": "2026-05-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We're talking about as much power demand as two Utahs — so twice as much as our current electricity demand.",
+        "source": "Ben Abbott, executive director of Grow the Flow",
+        "url": "https://kutv.com/news/local/public-forum-highlights-concerns-questions-about-proposed-box-elder-county-data-center",
+        "date": "2026-05-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "One of the fundamental issues is there hasn't been information out there about how big is this? How's it going to be fueled? How's it going to impact air pollution, water supply?",
+        "source": "Ben Abbott, executive director of Grow the Flow",
+        "url": "https://kutv.com/news/local/public-forum-highlights-concerns-questions-about-proposed-box-elder-county-data-center",
+        "date": "2026-05-26",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "\"Our initial analysis is that they would emit 12,000 tons of emissions per year. This would double the state's CO2 emissions.\"",
+        "source": "Josh Craft, director of Utah Clean Energy",
+        "url": "https://www.ksl.com/article/news/utah/environment/local-forum-discusses-community-questions-about-approved-data-center-in-box-elder-county/51497598",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "\"If we can get a referendum … that is the most powerful tool in the toolbox.\"",
+        "source": "Brig Daniels, environmental lawyer and professor of law at the University of Utah",
+        "url": "https://www.ksl.com/article/news/utah/environment/local-forum-discusses-community-questions-about-approved-data-center-in-box-elder-county/51497598",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "\"We haven't been able to access the water for 10 years,\" Lauritzen said.",
+        "source": "Rhonda Anderson Lauritzen",
+        "url": "https://www.ksl.com/article/news/utah/environment/local-forum-discusses-community-questions-about-approved-data-center-in-box-elder-county/51497598",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Proposed Stratos Hyperscale Data Center in Hansel Valley, Box Elder County, Utah, first broke in April 2026",
+      "Physics professor from Utah State University calculated the 9-gigawatt center would release heat equivalent to 23 atomic bombs daily",
+      "Tim Munns signed papers in March agreeing to conditionally sell land to the project; sale still pending",
+      "O'Leary Digital Utah DC Sub I, LLC filed a permanent change-of-use water application with the Utah Division of Water Rights on October 15, 2026.",
+      "The Stratos Project includes 11 data center clusters and a 7.5 GW generation facility of fifteen 500 MW natural-gas blocks.",
+      "Earlier water-rights applications linked to the project were withdrawn in May 2026 after thousands of public protests.",
+      "No final determination on the October 2026 change application has been issued.",
+      "Alliance for a Better Utah, Elevate Strategies, and two founders sued Kevin O'Leary and Fox News for defamation in a Utah federal district court over claims made about opponents of a data center in Box Elder County, Utah.",
+      "O'Leary allegedly made at least 10 media appearances between May 11 and June 3 accusing the groups of being Chinese Communist Party backed.",
+      "O'Leary wrote in a June 25 Instagram post that he had 'no evidence' the groups were funded by China or the CCP.",
+      "Fox News issued on-air apologies in late June, stating there was 'no evidence' the groups were funded by or coordinating with the CCP.",
+      "Box Elder County commissioners approved MIDA's proposal for the Stratos data center 22 days before the public forum",
+      "Utah State physics professor Rob Davies said the project could raise nighttime temperatures in the valley by as much as 12 degrees",
+      "A referendum effort seeks to reverse the county commission's decision and a decision on it is expected in the coming days",
+      "Box Elder County commissioners approved the large AI data center project on May 4, 2026, in Tremonton, Utah, despite protests",
+      "Hundreds of protesters attended the Box Elder County Commission meeting to oppose the plan",
+      "A group of rural Utah residents wants a chance to vote in November to oppose the project",
+      "Developers hope to begin early work on the site in the fall",
+      "Box Elder County Commission allowed a data center to be built despite overwhelming community resistance, according to a Reddit post titled with that claim",
+      "Residents gathered at the fairgrounds to protest the Box Elder County data center before the vote",
+      "Post edit states the data center facility was approved",
+      "Protest filings against data center water rights are still open",
+      "Stratos Data Center was approved for Box Elder County, Utah",
+      "Citizen referendum and water rights protest are underway by locals",
+      "Utah Clean Energy estimates 12,000 tons of emissions per year"
+    ],
+    "groups": [
+      {
+        "name": "Grow the Flow",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1x8cb39/oleary_digital_files_new_utah_water_rights/",
+        "date": "2026-10-17T14:58:19.000Z"
+      },
+      {
+        "name": "Alliance for a Better Utah",
+        "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1uy7l0v/breaking_kevin_oleary_and_fox_news_sued_for/",
+        "date": "2026-07-16T16:22:06.000Z"
+      },
+      {
+        "name": "Elevate Strategies",
+        "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1uy7l0v/breaking_kevin_oleary_and_fox_news_sued_for/",
+        "date": "2026-07-16T16:22:06.000Z"
+      },
+      {
+        "name": "FOGSL",
+        "url": "https://www.reddit.com/r/Utah/comments/1t3wds7/box_elder_county_before_todays_data_center_vote/",
+        "date": "2026-05-04T22:07:59.000Z"
+      },
+      {
+        "name": "Citizen referendum and water rights protest led by Brenna Williams and Rhonda Anderson Lauritzen",
+        "url": "https://www.ksl.com/article/news/utah/environment/local-forum-discusses-community-questions-about-approved-data-center-in-box-elder-county/51497598",
+        "date": null
+      }
+    ]
+  },
+  "49007": {
+    "news": [
+      {
+        "title": "Powering data centers on nuclear? That's a tough sell in Utah's coal country. | Grist",
+        "url": "https://grist.org/accountability/data-centers-utah-smr-gas-beehive-jurassic-spark/",
+        "date": "2026-10-07T08:45:00.000Z",
+        "source": "Grist",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "It's all descending, these data centers,",
+        "source": "Cindy O'Neil, resident who tracks projects on Facebook community pages",
+        "url": "https://grist.org/accountability/data-centers-utah-smr-gas-beehive-jurassic-spark/",
+        "date": "2026-10-07T08:45:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Torches and pitchforks. Because they're not being heard.",
+        "source": "Cheryl Lupo, candidate for Carbon County commission",
+        "url": "https://grist.org/accountability/data-centers-utah-smr-gas-beehive-jurassic-spark/",
+        "date": "2026-10-07T08:45:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "I will never, ever be a proponent of nuclear,",
+        "source": "Cheryl Lupo, candidate for Carbon County commission",
+        "url": "https://grist.org/accountability/data-centers-utah-smr-gas-beehive-jurassic-spark/",
+        "date": "2026-10-07T08:45:00.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Even with the pushback — we realize that there are a few in our community who will push back — but the silent majority are the ones that we really represent.",
+        "source": "Larry Jensen, Carbon County commissioner",
+        "url": "https://grist.org/accountability/data-centers-utah-smr-gas-beehive-jurassic-spark/",
+        "date": "2026-10-07T08:45:00.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Valar Atomics lease of a square mile of state trust land for up to 100 years was agreed by the Utah Trust Lands Administration",
+      "Altigen selected a 1,200-acre site east of Wellington for Jurassic Spark",
+      "Utah SB 132 allows private companies with 100 MW or more of demand to build their own generating stations",
+      "Since 2023, no coal has been mined in Carbon County",
+      "Carbon County issued a statement on July 3 defending data centers as a tax revenue source"
+    ],
+    "groups": []
+  },
+  "49015": {
+    "news": [
+      {
+        "title": "Was the Emery land sale finished? Valar said Aug 13 it was 'waiting on a clean title'; the state says it 'has also purchased' · Valar Watch",
+        "url": "https://valarwatch.com/fact-loc-014",
+        "date": "2026-08-13T00:00:00.000Z",
+        "source": "Valar Watch",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "currently purchasing",
+        "source": "Max Ukropina, Valar manager",
+        "url": "https://valarwatch.com/fact-loc-014",
+        "date": "2026-08-20",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "waiting on a clean title to purchase the property",
+        "source": "Harry Hansen, Valar representative",
+        "url": "https://valarwatch.com/fact-loc-014",
+        "date": "2026-08-13",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Emery commissioner said on 2026-07-07 that the land 'has been sold'",
+      "Utah Inland Port Authority wrote on 2026-09-10 that Valar 'has also purchased' more than 100 acres",
+      "Orangeville council minutes of 2026-09-10 (DRAFT, approved 2026-10-08) say annexation was held up due to mineral rights and the city was waiting for the purchase to be finalized",
+      "No Valar permit application appeared in planners' notices through 2026-10-19"
+    ],
+    "groups": [
+      {
+        "name": "Protect Carbon & Emery Counties",
+        "url": "https://valarwatch.com/fact-loc-014",
+        "date": "2026-08-13T00:00:00.000Z"
+      }
+    ]
+  },
+  "49021": {
+    "news": [
+      {
+        "title": "Iron County approves data center ordinance, ends moratorium despite calls for delay | News | stgeorgeutah.com",
+        "url": "https://www.stgeorgeutah.com/news/iron-county-approves-data-center-ordinance-ends-moratorium-despite-calls-for-delay/article_cc7c0141-e96b-4f21-aa30-b6b225fd4595.html",
+        "date": "2026-10-27T01:15:00.000Z",
+        "source": "St. George News",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "Yellowhorse said the county's actions involving the Antelope Data Center and the proposed ordinance raised concerns about the tribe's rights and the protection of ancestral lands and natural resources.",
+        "source": "Yellowhorse",
+        "url": "https://www.stgeorgeutah.com/news/iron-county-approves-data-center-ordinance-ends-moratorium-despite-calls-for-delay/article_cc7c0141-e96b-4f21-aa30-b6b225fd4595.html",
+        "date": "2026-10-26",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "Iron County commissioners approved a data center and energy projects ordinance establishing a Strategic Development Zone overlay on Oct. 26, 2026",
+      "Iron County lifted its development moratorium on Oct. 26, 2026, nearly four weeks early",
+      "On Sept. 14, 2026, county commissioners approved a resolution supporting adding Project Juniper property to the Utah Inland Port Authority Iron Springs project area"
+    ],
+    "groups": []
+  },
+  "49027": {
+    "news": [
+      {
+        "title": "Why data centers are increasingly moving into rural Utah communities",
+        "url": "https://www.fox13now.com/news/fox-13-investigates/utahs-data-centers/why-data-centers-are-increasingly-moving-into-rural-utah-communities",
+        "date": "2026-10-21T02:13:46.000Z",
+        "source": "FOX 13 News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Tax credit incentives are awarded to job-generating expansion projects - Park Record",
+        "url": "https://www.parkrecord.com/2026/04/14/tax-credit-incentives-are-awarded-to-job-generating-expansion-projects/",
+        "date": "2026-04-14T19:00:00.000Z",
+        "source": "Park Record",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "\"If a data center can't benefit every single resident in our county – whether they work there or not – they are not necessary for us.\"",
+        "source": "Bill Wright, Millard County Commissioner",
+        "url": "https://www.fox13now.com/news/fox-13-investigates/utahs-data-centers/why-data-centers-are-increasingly-moving-into-rural-utah-communities",
+        "date": "2026-10-21T02:13:46.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "\"Data centers are known for overpromising and underdelivering,\"",
+        "source": "Brenna Williams",
+        "url": "https://www.fox13now.com/news/fox-13-investigates/utahs-data-centers/why-data-centers-are-increasingly-moving-into-rural-utah-communities",
+        "date": "2026-10-21T02:13:46.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "\"Ultimately, the reality will start to step in, and people will be like, 'Oh, the amount of water they consume, the amount of electricity they consume isn't that much relative to the fear of what it is,'\" he added.",
+        "source": "Ray Conley, Creekstone Energy CEO",
+        "url": "https://www.fox13now.com/news/fox-13-investigates/utahs-data-centers/why-data-centers-are-increasingly-moving-into-rural-utah-communities",
+        "date": "2026-10-21T02:13:46.000Z",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "\"It's real; there is a lot of concern,\" he said in an interview.",
+        "source": "Dennis Alldredge, city councilman in Fillmore",
+        "url": "https://www.fox13now.com/news/fox-13-investigates/utahs-data-centers/why-data-centers-are-increasingly-moving-into-rural-utah-communities",
+        "date": "2026-10-21T02:13:46.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "From the establishment of what is expected to be the world's largest AI-optimized data center to the advancement of critical national defense systems, these companies are creating the essential infrastructure that will enhance Utah's economic resilience and technological leadership for decades to come.",
+        "source": "Jefferson Moss, executive director of GOEO",
+        "url": "https://www.parkrecord.com/2026/04/14/tax-credit-incentives-are-awarded-to-job-generating-expansion-projects/",
+        "date": "2026-04-14T19:00:00.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "These two projects exemplify the future direction of Utah's economy, linking a generational investment in energy and technology in rural Millard County with advanced aerospace manufacturing in the Salt Lake Valley,",
+        "source": "Ryan Starks, executive director of EDCUtah",
+        "url": "https://www.parkrecord.com/2026/04/14/tax-credit-incentives-are-awarded-to-job-generating-expansion-projects/",
+        "date": "2026-04-14T19:00:00.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Creekstone Energy's Delta campus is billed as the world's largest data center campus, on more than 1,000 acres in Millard County, with potential use over 10 gigawatts",
+      "Nearly 76% of respondents in a Utah State University survey said they oppose or strongly oppose building new data centers in the state",
+      "Creekstone Energy said it plans to create 106 permanent jobs, per an April press release from the Utah Governor's Office of Economic Development",
+      "Millard County is home to about 13,000 people",
+      "Utah GOEO awarded post-performance tax credit incentives to Creekstone Energy in Millard County and Karman Space & Defense in Salt Lake County",
+      "Creekstone Energy plans a 10 gigawatt AI-optimized data center near Delta, Utah, with $17,082,408,000 investment and 106 jobs",
+      "Combined expansions projected to generate nearly $407 million in new state tax revenue over 20 years"
+    ],
+    "groups": []
+  },
+  "49049": {
+    "news": [
+      {
+        "title": "Eagle Mountain’s Data Centers: The Deals, the Water, the Power",
+        "url": "https://civicrollcall.com/data-centers.html",
+        "date": "2026-10-01T19:43:26.000Z",
+        "source": "Civic Roll Call",
+        "stance": "neutral"
+      }
+    ],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1xcmj9w/utah_county_data_center_ordinance_202609/",
+        "text": "Utah County Data Center Ordinance 2026-09 — Permitting Rules Strip Public Veto While Sheriff's Deputies Slam Protester at Hearing\n\nA resident attending a county zoning hearing in Provo watches sheriff's deputies drag a woman from the room and slam her face-first onto the hallway floor. On October 20, 2026, the Utah County Planning Commission voted unanimously to recommend Application 2026-09, amending Utah County Land Use Ordinance Chapters 2, 8, 10, and 12. The staff report states the rule establishes \"clear and predictable standards,\" but it adds data centers as a permitted use in Mining and Grazing (M&G-1) and Industrial (I-1) zones without individual public hearings.\nResidents meet the change when they pack the Utah County Administration Building to demand a moratorium and discover their input cannot stop permitted-by-right approvals. After commission chair Shayne Pierce ordered an attendee removed following the vote, Utah County Sheriff's Deputy Phil Crawford dragged protester Asp",
+        "date": "2026-10-22T15:59:26.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1xc7hbz/utah_county_planning_commission_approves_data/",
+        "text": "Utah County Planning Commission Approves Data Center Zoning Amendment — Police Arrest Protesters as Local Officials Bypass Public Opposition for Tech Infrastructure\n\nA roomful of residents speaking out against corporate tech infrastructure watches sheriff's deputies tackle and arrest a protestor in a county office corridor. On a designated meeting night in Provo, the Utah County Planning Commission packed its chamber with residents organized by community groups to oppose application 2026-09, which sought to amend land use codes to permit data centers in Mining and Grazing (M&G-1) and Industrial (I-1) zones. Local advocates stated that the amendment was pushed through without proper public input to clear the way for large-scale digital facility development.\nPeople hit this wall when municipal boards fast-track regulatory carve-outs that favor corporate data centers over community welfare. While attendees argued that multi-billion-dollar AI facilities consume vast resources while benefit",
+        "date": "2026-10-22T03:10:30.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/Utah/comments/1xbp4yi/utah_county_commission_is_violently_assaulting/",
+        "text": "Utah County Commission is violently assaulting and arresting data center protesters, including a small woman, after approving a data center ordinance despite over a hundred residents packing the room and demanding a rejection of the ordinance and a full ban on all private data center development.",
+        "date": "2026-10-21T14:45:56.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1vqzwn5/eagle_mountain_utah_183_property_tax_hike_tied_to/",
+        "text": "Eagle Mountain Utah 183% Property Tax Hike Tied to Data Center Tax Incentives\n\nEagle Mountain City Council approved a 183% property tax rate increase in August 2026, the first in 15 years, projected to raise roughly $5.5 million annually. Officials stated the funds would support a Utah County Sheriff’s Office contract and additional deputies. Residents organized a referendum effort, citing the scale of the increase and frustration over prior tax incentives granted to data centers.\nMeta’s Eagle Mountain campus has operated under multi-year Community Reinvestment Area agreements providing substantial property tax abatements, including large shares of real and personal property increment relief originally valued in the hundreds of millions across phases. Similar Tax Increment Financing arrangements apply to other data center projects such as QTS. These incentives reduce the near-term tax contribution of high-value equipment relative to residential and commercial properties.\nUtah’s Truth i",
+        "date": "2026-08-17T18:07:27.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1vmrqzc/eagle_mountain_utah_approves_property_tax_hike/",
+        "text": "Eagle Mountain Utah Approves Property Tax Hike After Meta Data Center Tax Breaks Shift Costs to Residents\n\nEagle Mountain City Council approved a 183 percent property tax rate increase after proposing 220.88 percent to cover Utah County Sheriff’s Office contracts and add deputies. Meta’s Eagle Mountain campus received 100 percent personal property tax relief and 80 percent real property relief for up to 40 years from most local entities, with potential total incentives of 750 million dollars across phases of its more than 1.5 billion dollar facility.\nDuncan Searcy and other residents challenged council members including Melissa Clark, noting the 1.5 trillion dollar company received decades of breaks while median homes face roughly 255 dollars more per year. Utah’s truth-in-taxation rules and rapid equipment depreciation create volatility that transfers fiscal pressure from large digital infrastructure onto residential taxpayers after initial base expansion.\nSuccessive community reinves",
+        "date": "2026-08-12T21:49:04.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "On October 20, 2026 the Utah County Planning Commission voted unanimously to recommend Application 2026-09.",
+      "The amendment changes Utah County Land Use Ordinance Chapters 2, 8, 10, and 12.",
+      "Data centers become permitted in Mining and Grazing (M&G-1) and Industrial (I-1) zones without individual public hearings.",
+      "Protester Aspen Azalea suffered a concussion and was charged with assault on a police officer and disrupting a meeting; two other attendees were cited.",
+      "A Kem C. Gardner Policy Institute brief warns hardware depreciation creates long-term property tax volatility.",
+      "Utah County Planning Commission advanced application 2026-09, which would amend land use codes to permit data centers in Mining and Grazing (M&G-1) and Industrial (I-1) zones.",
+      "Coverage cited by the post reports a unanimous Planning Commission recommendation vote on the data center zoning amendment.",
+      "Sheriff's deputies arrested protesters during the Utah County meeting, according to the post's cited source.",
+      "Local advocates said the amendment was pushed through without proper public input.",
+      "Utah County Commission approved a data center ordinance despite over a hundred residents packing the room demanding rejection",
+      "Residents demanded a full ban on all private data center development",
+      "Meta's Eagle Mountain campus has been online since July 2021",
+      "The city's 2018 Meta tax increment agreement was set at 40 years, the most state law allows",
+      "Meta's Sweetwater #4 expansion of about 567 acres was approved in November 2025",
+      "A 286 MW behind-the-meter gas plant for Meta was approved in March 2026",
+      "Projected $778.5 million would go from taxing bodies to the redevelopment agency over 40 years for Meta's expansion, but none has been collected",
+      "Eagle Mountain City Council approved a 183% property tax rate increase in August 2026, the first in 15 years, projected to raise about $5.5 million annually",
+      "Officials said the funds would support a Utah County Sheriff's Office contract and additional deputies",
+      "Residents organized a referendum effort to repeal the tax increase, citing frustration over data center tax incentives",
+      "Gardner Institute analysis says large data centers can initially lower certified rates, then create a boomerang effect as equipment depreciates",
+      "Eagle Mountain City Council approved a 183% property tax rate increase after proposing 220.88%.",
+      "Meta's Eagle Mountain campus received 100% personal property tax relief and 80% real property relief for up to 40 years.",
+      "Potential total Meta incentives are $750 million across phases of a facility costing over $1.5 billion.",
+      "Median homes face roughly $255 more per year in property tax.",
+      "The tax increase funds Utah County Sheriff's Office contracts and additional deputies."
+    ],
+    "groups": [
+      {
+        "name": "Eagle Mountain residents referendum effort",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1vqzwn5/eagle_mountain_utah_183_property_tax_hike_tied_to/",
+        "date": "2026-08-17T18:07:27.000Z"
+      }
+    ]
+  }
+}

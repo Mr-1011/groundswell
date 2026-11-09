@@ -1,0 +1,589 @@
+{
+  "45003": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "45007": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "45015": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "45021": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "45027": {
+    "news": [
+      {
+        "title": "6-month pause on data centers as residents push for more info on Project 59",
+        "url": "https://cdn7.creativecirclemedia.com/sumter/files/20260918-160330-4cb-0919Binder1.pdf",
+        "date": "2026-09-19",
+        "source": "The Sumter Item",
+        "stance": "oppose"
+      },
+      {
+        "title": "Clarendon County Council advances third, final reading of data center moratorium",
+        "url": "https://www.wistv.com/video/2026/09/14/clarendon-county-council-advances-third-final-reading-data-center-moratorium/",
+        "date": "2026-09-14",
+        "source": "WIS TV",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Clarendon County Council unanimously approved the third and final reading of a six-month moratorium on new data centers and battery energy storage systems outside Industrial 1 and Industrial 2 zoning districts, at its Sept. 14, 2026 meeting",
+      "County officials said the moratorium is aimed at future projects and does not necessarily apply to Project 59",
+      "The county's Land Use Code does not specifically regulate data centers; planning staff treated them like other industrial or warehouse uses",
+      "Clarendon County Council passed its third and final reading of a moratorium pausing future data center development in the county"
+    ],
+    "groups": []
+  },
+  "45029": {
+    "news": [
+      {
+        "title": "Colleton County considering digital infrastructure overlay district, data center development",
+        "url": "https://www.wtoc.com/2026/08/08/colleton-county-considering-digital-infrastructure-overlay-district-data-center-development/",
+        "date": "2026-08-08T02:41:22.000Z",
+        "source": "WCSC",
+        "stance": "neutral"
+      },
+      {
+        "title": "SC legislators denounce Lowcountry data center while mulling regulations for the industry • SC Daily Gazette",
+        "url": "https://scdailygazette.com/2026/02/05/sc-legislators-denounce-lowcountry-data-center-while-mulling-regulations-for-the-industry/",
+        "date": "2026-02-06T00:50:18.000Z",
+        "source": "SC Daily Gazette",
+        "stance": "oppose"
+      },
+      {
+        "title": "Colleton County faces lawsuit over data center ordinance",
+        "url": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-residents-file-lawsuit/article_4ac10fd3-6260-4a2d-9ca9-4eacc896b370.html",
+        "date": "2026-01-09T18:05:00.000Z",
+        "source": "The Post and Courier",
+        "stance": "oppose"
+      },
+      {
+        "title": "Gigawatt data center proposal draws opposition from SC Lowcountry residents, politicians",
+        "url": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-19T21:21:06.000Z",
+        "source": "SC Daily Gazette",
+        "stance": "oppose"
+      },
+      {
+        "title": "As SC county is set to approve new data center, Lowcountry residents prepare for a fight - SC Small Business Chamber of Commerce",
+        "url": "https://scsbc.org/as-sc-county-is-set-to-approve-new-data-center-lowcountry-residents-prepare-for-a-fight/",
+        "date": "2025-12-19T15:25:24.000Z",
+        "source": "SC Small Business Chamber of Commerce",
+        "stance": "oppose"
+      },
+      {
+        "title": "Colleton County erupts as residents clash with developers over controversial data center",
+        "url": "https://abcnews4.com/news/local/colleton-county-erupts-as-residents-clash-with-developers-over-controversial-data-center",
+        "date": "2025-12-18T21:25:00.000Z",
+        "source": "WCIV (ABC News 4)",
+        "stance": "oppose"
+      },
+      {
+        "title": "Colleton County data center proposal draws opposition at zoning hearing",
+        "url": "https://www.live5news.com/2025/12/19/colleton-county-data-center-proposal-draws-opposition-zoning-hearing/",
+        "date": "2025-12-18T00:00:00.000Z",
+        "source": "WCSC",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I just don’t think they’re listening, and I don’t think they get it because nobody is on their side. So, how are they still getting approval for this?",
+        "source": "Valerie Lawson, local Colleton County resident",
+        "url": "https://www.wtoc.com/2026/08/08/colleton-county-considering-digital-infrastructure-overlay-district-data-center-development/",
+        "date": "2026-08-08T02:41:22.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Our power supply is extremely weak. We lose power for hours, sometimes even a day, maybe two, when we get a thunderstorm. There’s absolutely no realistic way that we can support a data center,",
+        "source": "Lawson",
+        "url": "https://www.wtoc.com/2026/08/08/colleton-county-considering-digital-infrastructure-overlay-district-data-center-development/",
+        "date": "2026-08-08T02:41:22.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "There are certain parts of South Carolina that clearly aren't suitable for data centers,",
+        "source": "Tom Davis, Sen. (R-Beaufort)",
+        "url": "https://scdailygazette.com/2026/02/05/sc-legislators-denounce-lowcountry-data-center-while-mulling-regulations-for-the-industry/",
+        "date": "2026-02-06T00:50:18.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Data center developments are not appropriate in the Ace Basin Watershed.",
+        "source": "Seven Colleton County legislators, signers of resolution",
+        "url": "https://scdailygazette.com/2026/02/05/sc-legislators-denounce-lowcountry-data-center-while-mulling-regulations-for-the-industry/",
+        "date": "2026-02-05",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We cannot allow this ordinance to threaten our star-filled night skies, natural quiet, and enjoyment of landscapes with light, water and noise pollution,",
+        "source": "Miles Crosby, Resident, plaintiff",
+        "url": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-residents-file-lawsuit/article_4ac10fd3-6260-4a2d-9ca9-4eacc896b370.html",
+        "date": "2026-01-09T18:05:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Data centers don't belong in the rural ACE Basin,",
+        "source": "Emily Wyche, Senior attorney, Southern Environmental Law Center",
+        "url": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-residents-file-lawsuit/article_4ac10fd3-6260-4a2d-9ca9-4eacc896b370.html",
+        "date": "2026-01-09T18:05:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Whether we like it or not, change has happened throughout our lifetime and it's going to continue to happen,",
+        "source": "Brad Hutto, State Sen.",
+        "url": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-residents-file-lawsuit/article_4ac10fd3-6260-4a2d-9ca9-4eacc896b370.html",
+        "date": "2026-01-05",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Small business owners don't need to be subsidizing Google, Meta and these other big tech companies,",
+        "source": "Frank Knapp, president and CEO of the S.C. Small Business Chamber of Commerce",
+        "url": "https://scsbc.org/as-sc-county-is-set-to-approve-new-data-center-lowcountry-residents-prepare-for-a-fight/",
+        "date": "2025-12-19T15:25:24.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "If there is one place in the state of South Carolina where we should not be putting data centers, this is the place.",
+        "source": "Robby Maynor, climate campaign associate, Southern Environmental Law Center",
+        "url": "https://scsbc.org/as-sc-county-is-set-to-approve-new-data-center-lowcountry-residents-prepare-for-a-fight/",
+        "date": "2025-12-19T15:25:24.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We're always on guard at the end of the year because many developers try to slip through proposals while they think people are distracted by the holidays,",
+        "source": "Faith Rivers James, executive director, Coastal Conservation League",
+        "url": "https://scsbc.org/as-sc-county-is-set-to-approve-new-data-center-lowcountry-residents-prepare-for-a-fight/",
+        "date": "2025-12-19T15:25:24.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "The main question is why here? Why now? The answer is not here, not now, not ever,",
+        "source": "Richard Burke, resident whose parents live near the site",
+        "url": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "The most significant conservation achievement in the state of South Carolina, I’d dare say on the entire East Coast, is the protection of the ACE Basin,",
+        "source": "Chip Campsen, state Sen. (R-Isle of Palms)",
+        "url": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "pride"
+      },
+      {
+        "text": "Rural South Carolina is under attack by for-profits who seek to steal God’s gift to us — our water — right out from underneath our feet,",
+        "source": "Mullins McLeod, Democratic candidate for governor",
+        "url": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "The AI race that our country is in with other countries around the world is real,",
+        "source": "Ken Loeber, co-founder, Eagle Rock Partners",
+        "url": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-18",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The AI race in this country against other countries is real",
+        "source": "Ken Loeber, representing Eagle Rock Partners",
+        "url": "https://abcnews4.com/news/local/colleton-county-erupts-as-residents-clash-with-developers-over-controversial-data-center",
+        "date": "2025-12-18",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Everything I've researched about data centers, the power demand, and the power supply usage is very high,",
+        "source": "Danielle Comley, Walterboro native",
+        "url": "https://abcnews4.com/news/local/colleton-county-erupts-as-residents-clash-with-developers-over-controversial-data-center",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The ACE Basin is one of our nation's treasures, and it is very important to protect this pristine area,",
+        "source": "Faith River James, executive director for Coastal Conservation League",
+        "url": "https://abcnews4.com/news/local/colleton-county-erupts-as-residents-clash-with-developers-over-controversial-data-center",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "It's a big threat to the water source,",
+        "source": "George E. \"Chip\" Campsen, State Sen. (R, Beaufort, Charleston & Colleton Counties)",
+        "url": "https://abcnews4.com/news/local/colleton-county-erupts-as-residents-clash-with-developers-over-controversial-data-center",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "It went quietly through three readings, which is how it gets approved, but the body of the legislation was never published, was never put in an agenda, was never put in any minutes.",
+        "source": "Richard Burke, Resident",
+        "url": "https://www.live5news.com/2025/12/19/colleton-county-data-center-proposal-draws-opposition-zoning-hearing/",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "This is the headwaters of the Ashepoo River. This is the headwaters of the ACE Basin. This is a protected area that is under conservation easement.",
+        "source": "Richard Burke, Resident",
+        "url": "https://www.live5news.com/2025/12/19/colleton-county-data-center-proposal-draws-opposition-zoning-hearing/",
+        "date": "2025-12-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "This is all net new growth for our AI industry for our country. Those jobs are not held by somebody else. This is not a relocation. This is new growth,",
+        "source": "Developer (unnamed)",
+        "url": "https://www.live5news.com/2025/12/19/colleton-county-data-center-proposal-draws-opposition-zoning-hearing/",
+        "date": "2025-12-18",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Colleton County set a six-month moratorium on data center developments one month before the article.",
+      "The Planning Commission approved a text amendment establishing a digital infrastructure overlay district; County Council has the final say.",
+      "The commission also recommended adding the overlay to a property north of Mount Carmel Road near Lightsey Way (Tax Map 059-00-00-005).",
+      "Seven state legislators whose districts cover parts of Colleton County signed a resolution urging Colleton County Council to oppose the proposed data center campus on Cooks Hill Road",
+      "Residents packed the Walterboro town auditorium in December to voice opposition to the Colleton County project",
+      "A pair of residents sued Colleton County last month over a zoning law change that made the 860-acre project possible",
+      "The proposed Colleton County data center would need about 12,000 gallons of water a day",
+      "Two residents sued Colleton County over a policy making data centers in rural areas allowable as a special exception, finalized in November 2025",
+      "The 859-acre proposed data center campus south of Walterboro would be one of the largest data center complexes in the country, per the Southern Environmental Law Center",
+      "In October 2025 the same developers withdrew a rezoning application for a 1.8 million-square-foot data center in Jones County, Ga.",
+      "Proposed 860-acre, nine-building data center campus near Walterboro would be South Carolina's first gigawatt center, requiring about 1,000 MW",
+      "Colleton County zoning board meeting on Dec. 18, 2025 drew opponents; no vote taken",
+      "Project needs a zoning exception from the county for industrial use on timberland",
+      "Developer estimates 12,000 gallons of water per day, about 0.1% of 4.2 billion gallons available annually in the county",
+      "Canadys gas plant (2,200 MW, $5 billion) and $431 million pipeline still in permitting; operations not until the 2030s",
+      "Colleton County Zoning Board of Appeals scheduled a public hearing on the data center on Dec. 18, 2025, the last procedural hurdle before approval",
+      "Colleton County adopted a November 2025 policy making rural data centers allowable as a special exception, approvable in a single vote",
+      "Santee Cooper paid about $1.2 million for a 99-acre plot on the same tax parcel as the proposed data center, per a Nov. 20 deed",
+      "Santee Cooper's experimental rate for data centers requires a 15-year guaranteed payment contract and does not apply to electric co-op areas, where the site falls",
+      "The developers withdrew a rezoning application for a 1.8 million-square-foot data center in Jones County, GA in October",
+      "Hundreds attended Colleton County Civic Center meeting on an 859-acre data center campus proposed by Eagle Rock Partners",
+      "Zoning Board of Appeals was holding public comment on a special exception request",
+      "Residents claim the Special Exception Ordinance was passed weeks earlier with minimal public access",
+      "Unclear if or when the zoning board will discuss or vote again",
+      "Colleton County Zoning Board of Appeals heard an 850-acre AI data center proposal on Thursday, December 18, 2025",
+      "The project has already received county council approval but needs a zoning board special exception because it is outside the current zoning code",
+      "Developer says the project could create potentially 450 jobs",
+      "Multiple residents said few or no county council members attended the special hearing"
+    ],
+    "groups": [
+      {
+        "name": "Colleton County residents opposing the data center",
+        "url": "https://scdailygazette.com/2026/02/05/sc-legislators-denounce-lowcountry-data-center-while-mulling-regulations-for-the-industry/",
+        "date": "2026-02-06T00:50:18.000Z"
+      },
+      {
+        "name": "Southern Environmental Law Center",
+        "url": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-residents-file-lawsuit/article_4ac10fd3-6260-4a2d-9ca9-4eacc896b370.html",
+        "date": "2026-01-09T18:05:00.000Z"
+      },
+      {
+        "name": "SC Coastal Conservation League",
+        "url": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-19T21:21:06.000Z"
+      },
+      {
+        "name": "Coastal Conservation League",
+        "url": "https://scsbc.org/as-sc-county-is-set-to-approve-new-data-center-lowcountry-residents-prepare-for-a-fight/",
+        "date": "2025-12-19T15:25:24.000Z"
+      },
+      {
+        "name": "S.C. Small Business Chamber of Commerce",
+        "url": "https://scsbc.org/as-sc-county-is-set-to-approve-new-data-center-lowcountry-residents-prepare-for-a-fight/",
+        "date": "2025-12-19T15:25:24.000Z"
+      }
+    ]
+  },
+  "45035": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "45037": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "45067": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "45071": {
+    "news": [],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=UWGds9cuVgU",
+        "text": "Now to Newberry tonight. That's where they have hit the pause button on a new data center there. News Nineteen's Taylor Richardson has those details. With county council beginning to start the process of placing a moratorium for the entire county, that will begin a year-long discussion about regulations on how the county should handle data centers in the future. All in favor of passing 3rd reading. Please raise your hand. Dozens of residents filled the Newberry Opera House to speak against a proposed data center. After hearing public comment, County council rejected a purchase agreement for Project Altair and approved the first reading of a twelve-month moratorium on data center permits. To see our county council actually listen to its residents, that kind of renewed my faith again and um. It was a good thing. I was really glad that the council listened to their constituents and voted accordingly. County officials say the next year will be used to develop data center regulations with p",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "To see our county council actually listen to its residents, that kind of renewed my faith again",
+        "source": "Unnamed resident, Resident",
+        "url": "https://www.youtube.com/watch?v=UWGds9cuVgU",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Newberry County Council approved first reading of a 12-month moratorium on data center permits by a 4-2 vote",
+      "Council rejected a purchase agreement for Project Altair",
+      "Second and third readings expected in coming weeks, with the moratorium becoming official in July",
+      "Moratorium can be extended if more time is needed",
+      "Councilman Travis Rieder voted against the measure, saying a year may not be enough"
+    ],
+    "groups": []
+  },
+  "45077": {
+    "news": [
+      {
+        "title": "Pickens County initially approves temporary data center moratorium | News | upstatetoday.com",
+        "url": "https://upstatetoday.com/news/pickens-county-initially-approves-temporary-data-center-moratorium/article_8a55dff0-7e67-43b5-bb6f-35d7f9e29a81.html",
+        "date": "2026-11-03T07:15:00.000Z",
+        "source": "upstatetoday.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Pickens County council holds first reading on six-month data center moratorium",
+        "url": "https://www.foxcarolina.com/2026/11/03/pickens-county-council-holds-first-reading-six-month-data-center-moratorium/",
+        "date": "2026-11-03T04:41:01.000Z",
+        "source": "FOX Carolina",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "x",
+        "url": "https://x.com/UpstatesGrowing/status/2119525355195441637",
+        "text": "Pickens County Advances Six-Month Data Center Moratorium, Joining Anderson, Spartanburg and Laurens in Pausing Projects https://t.co/WeIMfpdEZI",
+        "date": "2026-11-08T20:19:58.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It happened in that instance. It's happened elsewhere where things would be permitted in phases, so at first it appears like it's a much smaller facility when it gets its initial approvals, and then boom, you learn later it's eight times larger than was initially proposed,",
+        "source": "Frank Hollman, senior attorney with the Southern Environmental Law Center",
+        "url": "https://upstatetoday.com/news/pickens-county-initially-approves-temporary-data-center-moratorium/article_8a55dff0-7e67-43b5-bb6f-35d7f9e29a81.html",
+        "date": "2026-11-02",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "The final point I think is all this needs to be set out in an ordinance up front and not negotiated after the construction is already begun and the problems are rising,",
+        "source": "Frank Hollman, senior attorney with the Southern Environmental Law Center",
+        "url": "https://upstatetoday.com/news/pickens-county-initially-approves-temporary-data-center-moratorium/article_8a55dff0-7e67-43b5-bb6f-35d7f9e29a81.html",
+        "date": "2026-11-02",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "All this needs to be set out in an ordinance up front and not negotiated after the construction’s already begun and the problems are arising,",
+        "source": "Unnamed resident, resident",
+        "url": "https://www.foxcarolina.com/2026/11/03/pickens-county-council-holds-first-reading-six-month-data-center-moratorium/",
+        "date": "2026-11-02",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "facts": [
+      "Pickens County is advancing a six-month data center moratorium that would pause data center projects.",
+      "Pickens County is joining Anderson, Spartanburg and Laurens counties in pausing data center projects.",
+      "Pickens County Council approved first reading of a six-month data center moratorium on Nov. 2, 2026",
+      "Ordinance needs two more readings and a public hearing",
+      "Amendment by Councilman Chris Bowers defined data centers to include crypto mining, substations, backup generators and battery storage",
+      "Spartanburg County proposal was expected to use 470 MW versus 13 MW previously, per Hollman",
+      "Chairman Alex Saitta suggested a complete prohibition as one possible approach",
+      "Pickens County Council held first reading Nov. 2, 2026 of a six-month data center moratorium",
+      "Moratorium would prevent any new data center development in the county for six months",
+      "Anderson County adopted a similar six-month moratorium",
+      "Second reading date has not been announced"
+    ],
+    "groups": []
+  },
+  "45083": {
+    "news": [
+      {
+        "title": "Spartanburg OKs three data center deals at election day meeting | South Carolina Public Radio",
+        "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-05/spartanburg-oks-three-data-center-deals-at-election-day-meeting",
+        "date": "2026-11-05T17:20:10.000Z",
+        "source": "South Carolina Public Radio",
+        "stance": "support"
+      },
+      {
+        "title": "Spartanburg, SC County Council approves three data centers",
+        "url": "https://www.postandcourier.com/spartanburg/news/spartanburg-sc-county-data-center-deal-northmark-jones-road-aib/article_80169501-720e-43e7-92b9-657ed590ff2c.html",
+        "date": "2026-11-05T10:00:00.000Z",
+        "source": "The Post and Courier",
+        "stance": "support"
+      },
+      {
+        "title": "‘AI is anti-human’: S.C. protesters express concerns on data centers",
+        "url": "https://www.wrdw.com/2026/03/08/ai-is-anti-human-sc-protesters-express-concerns-data-centers/",
+        "date": "2026-03-08T20:31:13.000Z",
+        "source": "WRDW-TV/WAGT-TV",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I believe that these industries will be as transformative to Spartanburg county as BMW was,",
+        "source": "Monier Abusaft, Councilman",
+        "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-05/spartanburg-oks-three-data-center-deals-at-election-day-meeting",
+        "date": "2026-11-05T17:20:10.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "I think that the requirement to pay into a fund, just goes against everything that I believe in. It's essentially raising a tax,",
+        "source": "Jessica Coker, Councilwoman",
+        "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-05/spartanburg-oks-three-data-center-deals-at-election-day-meeting",
+        "date": "2026-11-05T17:20:10.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Seems council is digging a hole faster under this moratorium that's not a moratorium, than you did without it,",
+        "source": "Martha Foster, county resident",
+        "url": "https://www.postandcourier.com/spartanburg/news/spartanburg-sc-county-data-center-deal-northmark-jones-road-aib/article_80169501-720e-43e7-92b9-657ed590ff2c.html",
+        "date": "2026-11-05T10:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This isn't transparency. It's a calculated corporate ambush designed to minimize our voices.",
+        "source": "Mark Gillespie, Resident",
+        "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-05/spartanburg-oks-three-data-center-deals-at-election-day-meeting",
+        "date": "2026-11-03",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "I just didn't like their agreement, It's incomplete.",
+        "source": "Grand DeShields, council member",
+        "url": "https://www.postandcourier.com/spartanburg/news/spartanburg-sc-county-data-center-deal-northmark-jones-road-aib/article_80169501-720e-43e7-92b9-657ed590ff2c.html",
+        "date": "2026-11-03",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "And if I can't trust you, I can't trust you.",
+        "source": "Monier Abusaft, council member",
+        "url": "https://www.postandcourier.com/spartanburg/news/spartanburg-sc-county-data-center-deal-northmark-jones-road-aib/article_80169501-720e-43e7-92b9-657ed590ff2c.html",
+        "date": "2026-11-03",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "At its core, AI is anti-human,",
+        "source": "Bradley Broughton, attendee",
+        "url": "https://www.wrdw.com/2026/03/08/ai-is-anti-human-sc-protesters-express-concerns-data-centers/",
+        "date": "2026-03-08",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We have health concerns over fossil fuel burning of natural gas generators and diesel generators,",
+        "source": "Eric Allison, represents Facebook group \"No data centers in Spartanburg\"",
+        "url": "https://www.wrdw.com/2026/03/08/ai-is-anti-human-sc-protesters-express-concerns-data-centers/",
+        "date": "2026-03-08",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I think these projects were pushed through without much visibility from the community, and a lot of the people that live very close don't even really understand what's going on or what's being built there,",
+        "source": "Emory Caraviello, represents Powergrid Spartanburg",
+        "url": "https://www.wrdw.com/2026/03/08/ai-is-anti-human-sc-protesters-express-concerns-data-centers/",
+        "date": "2026-03-08",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "facts": [
+      "Spartanburg County Council approved three data center development agreements on second reading at a special called meeting on Election Day, November 3, 2026",
+      "Council voted 3-2 on the Valara data center; Councilman Monier Abusaft voted against Valara after voting for the other two",
+      "Councilwoman Jessica Coker voted against the AIB and 300 Jones Road agreements over Community Benefit Payment provisions",
+      "Council will hold a third and final vote on the three agreements on Monday, Nov. 16",
+      "Spartanburg County Council on Nov. 3, 2026 approved three data center development agreements, including NorthMark, AIB and Jones Road",
+      "Council amended its data center moratorium to allow data centers under 65 megawatts that enter into a development agreement",
+      "NorthMark agreement passed 3-2 with Monier Abusaft and Grand DeShields voting no",
+      "More than two dozen people gathered in Spartanburg on Saturday to protest data center developments",
+      "County council gave no vote on tax incentives for Project Sparrow, tied to Spero Group",
+      "Northmark Strategies received county council approval in 2025 for a Pine Street project"
+    ],
+    "groups": [
+      {
+        "name": "No data centers in Spartanburg",
+        "url": "https://www.wrdw.com/2026/03/08/ai-is-anti-human-sc-protesters-express-concerns-data-centers/",
+        "date": "2026-03-08T20:31:13.000Z"
+      },
+      {
+        "name": "Powergrid Spartanburg",
+        "url": "https://www.wrdw.com/2026/03/08/ai-is-anti-human-sc-protesters-express-concerns-data-centers/",
+        "date": "2026-03-08T20:31:13.000Z"
+      }
+    ]
+  },
+  "45091": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

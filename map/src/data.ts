@@ -87,7 +87,12 @@ export type Data = {
   projects: Project[];
   states: Record<string, StateInfo>;
   rounds: Round[];
+  feed: FeedRow[]; // national totals (feed.json)
+  detailed: Record<string, unknown>; // state codes whose details/<ST>.json arrived; the feed fields of all other counties are empty
 };
+
+// n items of one kind on one day with one stance and emotion. feed.json holds the national rows; a county item is a row with n = 1.
+export type FeedRow = { kind: "news" | "social" | "quote"; date: string | null; stance: Stance | null; emotion: Emotion | null; n: number };
 
 type Shape = Polygon | MultiPolygon;
 export type RegionFeature = Feature<Shape, { id: string; name: string; state: string; score?: number; pred?: string; base?: boolean; predicted?: boolean }>;
@@ -103,15 +108,27 @@ const json = (path: string) =>
   });
 
 export async function loadData(): Promise<{ data: Data; geo: Geo }> {
-  const [counties, projects, states, rounds, atlas] = await Promise.all([
+  const [counties, feed, projects, states, rounds, atlas] = await Promise.all([
     json("/counties.json"),
+    json("/feed.json"),
     json("/projects.json"),
     json("/states.json"),
     json("/rounds.json"),
     json(atlasUrl),
   ]);
-  const data: Data = { counties, projects, states, rounds };
+  for (const c of Object.values(counties as Record<string, County>)) Object.assign(c, { news: [], social: [], quotes: [], facts: [], groups: [] });
+  const data: Data = { counties, projects, states, rounds, feed, detailed: {} };
   return { data, geo: buildGeo(data, atlas) };
+}
+
+// The feeds of one state's counties, keyed by FIPS. A state without a file has no feeds.
+export type Details = Record<string, Pick<County, "news" | "social" | "quotes" | "facts" | "groups">>;
+export const loadDetails = (state: string): Promise<Details> => json(`/details/${state}.json`).catch(() => ({}));
+
+export function withDetails(data: Data, details: Record<string, Details>): Data {
+  const counties = { ...data.counties };
+  for (const d of Object.values(details)) for (const [f, x] of Object.entries(d)) if (counties[f]) counties[f] = { ...counties[f], ...x };
+  return { ...data, counties, detailed: details };
 }
 
 // Joins contract scores onto us-atlas (2017 Census) shapes. Feature id = FIPS or state code.

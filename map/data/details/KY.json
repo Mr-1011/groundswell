@@ -1,0 +1,726 @@
+{
+  "21041": {
+    "news": [
+      {
+        "title": "'We live with this now!' Residents protest second hyper-scale data center in Carroll County | whas11.com",
+        "url": "https://www.whas11.com/article/news/politics/we-live-with-this-now-residents-protest-second-hyper-scale-data-center-in-carroll-county/417-7da206bf-0bb5-48a3-be6c-0945b0bd0af2",
+        "date": "2026-10-22T00:00:00.000Z",
+        "source": "WHAS11",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1xhxh39/carroll_county_kentucky_residents_blast_247_data/",
+        "text": "Carroll County Kentucky Residents Blast 24/7 Data Center Cooling Noise At Fiscal Court Meeting Protesting Two 800-Megawatt Hyperscale Campuses\n\nDuring an October 22, 2026 Carroll County Fiscal Court special meeting in Carrollton, Kentucky, residents interrupted a presentation by Montrose Group consultant Wade regarding a draft community benefits agreement by playing high-decibel recordings of industrial data center cooling fans off their phones and portable audio devices. As Carroll County Sheriff's Lieutenant Detective A. Blanton stepped forward and Judge-Executive David Wilhoite told the audience they had made their point, residents shouted back that they are forced to live with the continuous roar 24 hours a day, 365 days a year. While developers Deca Companies and Poe Companies market the proposed Ghent and Carrollton campuses as quiet warehouse facilities that will contribute $5 million to a community trust and $40 million in annual tax revenue by 2034, residents April Elwood and ",
+        "date": "2026-10-28T19:11:13.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We live with this now!",
+        "source": "Residents",
+        "url": "https://www.whas11.com/article/news/politics/we-live-with-this-now-residents-protest-second-hyper-scale-data-center-in-carroll-county/417-7da206bf-0bb5-48a3-be6c-0945b0bd0af2",
+        "date": "2026-10-22T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We don't need a data center in a community, let alone two hyper-scale data centers in a community of less than a population of 12,000 people",
+        "source": "Laura Beth Austin",
+        "url": "https://www.whas11.com/article/news/politics/we-live-with-this-now-residents-protest-second-hyper-scale-data-center-in-carroll-county/417-7da206bf-0bb5-48a3-be6c-0945b0bd0af2",
+        "date": "2026-10-22T00:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It allows us to establish some ground rules and some barriers of what to expect.",
+        "source": "Scott Nab, Magistrate, Carroll County Fiscal Court",
+        "url": "https://www.whas11.com/article/news/politics/we-live-with-this-now-residents-protest-second-hyper-scale-data-center-in-carroll-county/417-7da206bf-0bb5-48a3-be6c-0945b0bd0af2",
+        "date": "2026-10-22T00:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Carroll County Fiscal Court special meeting on October 22, 2026 featured residents playing recordings of data center cooling noise",
+      "Two proposed Carroll County campuses would each seek 800 MW from Kentucky Utilities, over 1,550 combined acres",
+      "Fiscal Court officials say it lacks land-use authority to block projects on private land",
+      "Gov. Beshear's Executive Order 2026-494 of August 6, 2026 set ratepayer and transparency guidelines but did not pause data center construction",
+      "Deca held an invitation-only stakeholder meeting in July 2026",
+      "Carroll County fiscal court tabled a community benefits agreement needed before both data center projects can move forward",
+      "Carroll County has no planning and zoning body",
+      "County attorney advised a data center moratorium may not be legal and could be challenged",
+      "Oldham County is moving toward rules disallowing projects over 10 MW"
+    ],
+    "groups": [
+      {
+        "name": "Residents opposed to hyper-scale data centers",
+        "url": "https://www.whas11.com/article/news/politics/we-live-with-this-now-residents-protest-second-hyper-scale-data-center-in-carroll-county/417-7da206bf-0bb5-48a3-be6c-0945b0bd0af2",
+        "date": "2026-10-22T00:00:00.000Z"
+      }
+    ]
+  },
+  "21067": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/ObscurePatentDangers/comments/1x1l5g1/lexington_city_council_freezes_ai_data_centers/",
+        "text": "Lexington City Council Freezes AI Data Centers — Blocking Tech Corporations From Offloading Massive Grid Costs Onto Local Ratepayers\n\nLexington, Kentucky’s Urban County Council unanimously extended a moratorium on data center development through October 2027. The freeze targets commercial operators purchasing existing properties, such as the former Lexmark campus, to rent massive computing capacity to outside AI corporations.\nThe failure surface is unchecked local resource extraction. Unregulated hyperscale data facilities demand enormous power and water, directly offloading grid strain and subsequent electricity rate hikes onto residential consumers. This transforms communities into testing grounds for resource-draining tech hubs that provide zero localized benefits.\nTech billionaires push the narrative that deploying this artificial intelligence infrastructure is an inevitable public necessity. Left unchecked, this trajectory allows operators to exploit outdated zoning codes, arguing",
+        "date": "2026-10-09T13:18:28.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "Lexington Urban County Council unanimously extended its data center development moratorium through October 2027",
+      "The moratorium targets commercial operators buying existing properties such as the former Lexmark campus",
+      "Planning commission proposed a 25-megawatt capacity cap and prohibitions on evaporation-based cooling in zoning amendments"
+    ],
+    "groups": []
+  },
+  "21093": {
+    "news": [
+      {
+        "title": "Hardin Fiscal Court proposes moratorium on data centers",
+        "url": "https://www.thenewsenterprise.com/news/local/hardin-fiscal-court-proposes-moratorium-on-data-centers/article_368c0b56-0cf1-5818-86a3-10d9793a2606.html",
+        "date": "2026-09-25T06:20:00.000Z",
+        "source": "The News-Enterprise",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We need to do this to protect our citizens and to assure we do our due diligence in enacting the appropriate ordinance.",
+        "source": "Thompson",
+        "url": "https://www.thenewsenterprise.com/news/local/hardin-fiscal-court-proposes-moratorium-on-data-centers/article_368c0b56-0cf1-5818-86a3-10d9793a2606.html",
+        "date": "2026-09-25",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "I'm willing to listen and learn, and I feel confident that the planning commission can come up with good zoning ordinances within the county's bounds.",
+        "source": "Hick",
+        "url": "https://www.thenewsenterprise.com/news/local/hardin-fiscal-court-proposes-moratorium-on-data-centers/article_368c0b56-0cf1-5818-86a3-10d9793a2606.html",
+        "date": "2026-09-25",
+        "stance": "neutral",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Hardin Fiscal Court heard a first reading Tuesday of an ordinance imposing a temporary moratorium on rezoning and conditional use permits relating to data centers.",
+      "The county planning commission would first review and recommend rezoning and conditional use permit applications for data centers.",
+      "A public hearing on the ordinance and final vote are set for 3:30 p.m. Oct. 13 at the Hardin County Government Building."
+    ],
+    "groups": []
+  },
+  "21107": {
+    "news": [
+      {
+        "title": "Fiscal Court considers data center moratorium | Local News | the-messenger.com",
+        "url": "https://www.the-messenger.com/news/local/article_6bdaf15e-1114-5cd5-a24a-eae2d2bd7eca.html",
+        "date": "2026-11-07T06:00:00.000Z",
+        "source": "The Messenger",
+        "stance": null
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "Magistrate Parrish had initially said at our special called meeting that he would like to see a 90-day moratorium due to the fact that there could be turnover in the court,",
+        "source": "Lee Riddle, Hopkins County Attorney",
+        "url": "https://www.the-messenger.com/news/local/article_6bdaf15e-1114-5cd5-a24a-eae2d2bd7eca.html",
+        "date": "2026-11-07",
+        "stance": null,
+        "emotion": null
+      }
+    ],
+    "facts": [
+      "Hopkins County Fiscal Court magistrates asked the County Attorney to draft an ordinance creating a moratorium on data centers in unincorporated Hopkins County, with the time span left blank.",
+      "The Fiscal Court held a lengthy special called meeting on data centers on Oct. 26, 2026.",
+      "Three of the court's seven magistrates will be replaced in January after the election."
+    ],
+    "groups": []
+  },
+  "21111": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/Louisville/comments/1rk1nul/data_center_public_hearing_this_thursday_352026/",
+        "text": "Data Center Public Hearing this Thursday, 3/5/2026\n\nOn Thursday, March 5, 1:00 pm, the Louisville/Jefferson County Planning Commission is holding a public hearing to \"review for a CATEGORY 3 DEVELOPMENT PLAN for a proposed Telecommunications hotel (Data Center) and Office\" at 6001 Camp Ground Road. This is case # 25-CAT3-0015.\n*There may be other cases heard during this time period.\nCan you make it either in-person or virtually for this important public meeting?\nhttps://mobilize.us/s/8njL0L",
+        "date": "2026-03-03T21:10:46.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [],
+    "facts": [
+      "Louisville/Jefferson County Planning Commission public hearing set for March 5, 2026 at 1:00 pm",
+      "Case 25-CAT3-0015 covers a Category 3 development plan for a data center and office at 6001 Camp Ground Road"
+    ],
+    "groups": []
+  },
+  "21145": {
+    "news": [
+      {
+        "title": "The US Department of Energy is converting a Cold War-era uranium enrichment plant in Kentucky into a",
+        "url": "https://pauls-ai.beehiiv.com/p/the-us-department-of-energy-is-converting-a-cold-war-era-uranium-enrichment-plant-in-kentucky-into-a-c64d",
+        "date": "2026-11-04T18:15:21.000Z",
+        "source": "Paul's AI",
+        "stance": "neutral"
+      },
+      {
+        "title": "Bray, Clymer debate community benefits for data center | <span class=\"tnt-section-tag no-link\">News</span> | WPSD Local 6",
+        "url": "https://www.wpsdlocal6.com/news/bray-clymer-debate-community-benefits-for-data-center/article_7730c404-972a-44f5-aae1-f7ae396a8cdb.html",
+        "date": "2026-10-17T01:00:00.000Z",
+        "source": "WPSD Local 6",
+        "stance": "neutral"
+      },
+      {
+        "title": "State, local leaders react to proposed data center legislation | <span class=\"tnt-section-tag no-link\">News</span> | WPSD Local 6",
+        "url": "https://www.wpsdlocal6.com/news/state-local-leaders-react-to-proposed-data-center-legislation/article_f866e1b7-a8de-44cd-8973-3b43e98eb0e0.html",
+        "date": "2026-08-08T02:30:00.000Z",
+        "source": "WPSD Local 6",
+        "stance": "neutral"
+      },
+      {
+        "title": "The Data Center Next Door",
+        "url": "https://www.pantsuitpoliticsshow.com/p/the-data-center-next-door",
+        "date": "2026-08-07T11:04:05.000Z",
+        "source": "Pantsuit Politics",
+        "stance": "oppose"
+      },
+      {
+        "title": "‘It’s a necessary evil’: Paducah residents react to multi-billion-dollar data center",
+        "url": "https://www.kfvs12.com/2026/08/04/its-necessary-evil-paducah-residents-react-multi-billion-dollar-data-center/",
+        "date": "2026-08-04T00:00:00.000Z",
+        "source": "Heartland News",
+        "stance": "neutral"
+      },
+      {
+        "title": "Who Actually Wrote the County's \"Factual Information\"?",
+        "url": "https://www.protectmccrackencounty.com/post/who-actually-wrote-the-county-s-factual-information",
+        "date": "2026-08-03T14:28:08.000Z",
+        "source": "ProtectMcCrackenCounty",
+        "stance": "oppose"
+      },
+      {
+        "title": "'The best way to do this is to be transparent' — Lt. gov. expresses concerns over Paducah AI data center | <span class=\"tnt-section-tag no-link\">Newsletter Stories</span> | WPSD Local 6",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/the-best-way-to-do-this-is-to-be-transparent-lt-gov-expresses-concerns-over/article_a78dac10-9ca9-42fc-9a01-3735cb07216b.html",
+        "date": "2026-07-31T10:10:00.000Z",
+        "source": "WPSD Local 6",
+        "stance": "oppose"
+      },
+      {
+        "title": "Brookfield, NextEra Launch $100B AI Campus at DOE’s Kentucky Site",
+        "url": "https://www.datacenterknowledge.com/data-center-construction/brookfield-nextera-launch-100b-ai-campus-at-doe-s-paducah-site",
+        "date": "2026-07-29T14:11:45.000Z",
+        "source": "Data Center Knowledge",
+        "stance": "support"
+      },
+      {
+        "title": "Citizens voice concerns regarding Paducah DOE site projects | <span class=\"tnt-section-tag no-link\">Newsletter Stories</span> | WPSD Local 6",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/citizens-voice-concerns-regarding-paducah-doe-site-projects/article_80586a18-d7e3-4603-9fb6-d6beb13d9dfc.html",
+        "date": "2026-05-13T10:05:00.000Z",
+        "source": "WPSD Local 6",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "“It’s tax exempt when it's federal land and being used for a federal government use,” Clymer said. “This is not. This is a private enterprise, private equity funded, and they'll be selling the use of the facility, so it's not federal government use.",
+        "source": "Craig Clymer, McCracken County Judge Executive",
+        "url": "https://www.wpsdlocal6.com/news/bray-clymer-debate-community-benefits-for-data-center/article_7730c404-972a-44f5-aae1-f7ae396a8cdb.html",
+        "date": "2026-10-17T01:00:00.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "“No free land,” Clymer said. “They're not asking for tax rebates. They're paying a full tax bill. Nothing.",
+        "source": "Craig Clymer, McCracken County Judge Executive",
+        "url": "https://www.wpsdlocal6.com/news/bray-clymer-debate-community-benefits-for-data-center/article_7730c404-972a-44f5-aae1-f7ae396a8cdb.html",
+        "date": "2026-10-17T01:00:00.000Z",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "“Data centers are relatively new,” Bray said. “They're popping up everywhere, but some communities have been dealing with them for several years on a smaller scale. This particular project — a $100 billion project — is one of the very largest.",
+        "source": "George Bray, Paducah Mayor",
+        "url": "https://www.wpsdlocal6.com/news/bray-clymer-debate-community-benefits-for-data-center/article_7730c404-972a-44f5-aae1-f7ae396a8cdb.html",
+        "date": "2026-10-17T01:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "“From my perspective this is not anti-business. This is just good business negotiations, and I believe that's my competitive advantage in this race.",
+        "source": "George Bray, Paducah Mayor",
+        "url": "https://www.wpsdlocal6.com/news/bray-clymer-debate-community-benefits-for-data-center/article_7730c404-972a-44f5-aae1-f7ae396a8cdb.html",
+        "date": "2026-10-17T01:00:00.000Z",
+        "stance": "neutral",
+        "emotion": "pride"
+      },
+      {
+        "text": "Happy it’s a hundred billion dollar investment when my family still lives paycheck to paycheck.",
+        "source": "Unnamed resident",
+        "url": "https://www.pantsuitpoliticsshow.com/p/the-data-center-next-door",
+        "date": "2026-08-07T11:04:05.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I believe that these decisions, in the end, should be local.",
+        "source": "Andy Beshear, Governor of Kentucky",
+        "url": "https://www.wpsdlocal6.com/news/state-local-leaders-react-to-proposed-data-center-legislation/article_f866e1b7-a8de-44cd-8973-3b43e98eb0e0.html",
+        "date": "2026-08-07",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think the chances of killing the project are slim to none.",
+        "source": "George Bray, Mayor of Paducah",
+        "url": "https://www.wpsdlocal6.com/news/state-local-leaders-react-to-proposed-data-center-legislation/article_f866e1b7-a8de-44cd-8973-3b43e98eb0e0.html",
+        "date": "2026-08-07",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We'd lose out on the biggest economic opportunity that's ever been in Kentucky times 10, and so that's not going to pass.",
+        "source": "Craig Clymer, McCracken County Judge Executive",
+        "url": "https://www.wpsdlocal6.com/news/state-local-leaders-react-to-proposed-data-center-legislation/article_f866e1b7-a8de-44cd-8973-3b43e98eb0e0.html",
+        "date": "2026-08-07",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "Right now, we all have mixed feelings on what it's going to do,",
+        "source": "Tony Estes, resident",
+        "url": "https://www.kfvs12.com/2026/08/04/its-necessary-evil-paducah-residents-react-multi-billion-dollar-data-center/",
+        "date": "2026-08-04",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Data centers, there's a big scare campaign,",
+        "source": "Chris Wright, U.S. Secretary of Energy",
+        "url": "https://www.kfvs12.com/2026/08/04/its-necessary-evil-paducah-residents-react-multi-billion-dollar-data-center/",
+        "date": "2026-08-04",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "I just think that it's a necessary evil.",
+        "source": "Tony Estes, resident",
+        "url": "https://www.kfvs12.com/2026/08/04/its-necessary-evil-paducah-residents-react-multi-billion-dollar-data-center/",
+        "date": "2026-08-04",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Please plan to attend the next fiscal court meeting, fill all the seats, and just listen to how these meetings are conducted.",
+        "source": "Paulette Stokes",
+        "url": "https://www.protectmccrackencounty.com/post/who-actually-wrote-the-county-s-factual-information",
+        "date": "2026-08-03",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "What I've noticed in communities across Kentucky is they're not being transparent with local communities.",
+        "source": "Jacqueline Coleman, Kentucky Lt. Gov.",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/the-best-way-to-do-this-is-to-be-transparent-lt-gov-expresses-concerns-over/article_a78dac10-9ca9-42fc-9a01-3735cb07216b.html",
+        "date": "2026-07-31",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "The best way to do this is to be transparent and open with these local communities.",
+        "source": "Jacqueline Coleman, Kentucky Lt. Gov.",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/the-best-way-to-do-this-is-to-be-transparent-lt-gov-expresses-concerns-over/article_a78dac10-9ca9-42fc-9a01-3735cb07216b.html",
+        "date": "2026-07-31",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "What will happen to the water system here in this community? I'm concerned about the power, and will, you know, will rates go up?",
+        "source": "Jacqueline Coleman, Kentucky Lt. Gov.",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/the-best-way-to-do-this-is-to-be-transparent-lt-gov-expresses-concerns-over/article_a78dac10-9ca9-42fc-9a01-3735cb07216b.html",
+        "date": "2026-07-31",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The Department of Energy's Paducah Site will be the seed of our plan to invest $100 billion in AI infrastructure.",
+        "source": "Bruce Flatt, CEO, Brookfield",
+        "url": "https://www.datacenterknowledge.com/data-center-construction/brookfield-nextera-launch-100b-ai-campus-at-doe-s-paducah-site",
+        "date": "2026-07-29",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "This project is a proof point for how AI infrastructure should be built in America,",
+        "source": "John Ketchum, Chairman, President, and CEO, NextEra Energy",
+        "url": "https://www.datacenterknowledge.com/data-center-construction/brookfield-nextera-launch-100b-ai-campus-at-doe-s-paducah-site",
+        "date": "2026-07-29",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "It's difficult to overestimate the importance of this project,",
+        "source": "Chris Wright, Energy Secretary",
+        "url": "https://www.datacenterknowledge.com/data-center-construction/brookfield-nextera-launch-100b-ai-campus-at-doe-s-paducah-site",
+        "date": "2026-07-29",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "No one has done a comprehensive report on the environmental and climate impacts of all three projects put together,",
+        "source": "Erica Moore, Paducah resident",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/citizens-voice-concerns-regarding-paducah-doe-site-projects/article_80586a18-d7e3-4603-9fb6-d6beb13d9dfc.html",
+        "date": "2026-05-12",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "For $113 million in tax incentives, only 380 permanent jobs. The math just doesn't add up any way you look at it.",
+        "source": "Erica Moore, Paducah resident",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/citizens-voice-concerns-regarding-paducah-doe-site-projects/article_80586a18-d7e3-4603-9fb6-d6beb13d9dfc.html",
+        "date": "2026-05-12",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Up to this point, we do feel like they're safe, but again, there's always risk, and you're never going to eliminate all risk from anything that we do.",
+        "source": "George Bray, Paducah Mayor",
+        "url": "https://www.wpsdlocal6.com/newsletter_stories/citizens-voice-concerns-regarding-paducah-doe-site-projects/article_80586a18-d7e3-4603-9fb6-d6beb13d9dfc.html",
+        "date": "2026-05-12",
+        "stance": "neutral",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "DOE chose Brookfield Asset Management to redevelop part of the Paducah Gaseous Diffusion Plant into a 1.8-gigawatt AI data center",
+      "NextEra Energy plans 2 gigawatts of natural gas-fired generation and 2.6 gigawatts of battery storage for the site",
+      "Protect McCracken County has raised concerns about proximity to the Ohio River without an independent environmental impact study",
+      "Mayor George Bray proposed a community benefit agreement for the $100 billion Paducah American Energy Hub data center at the Oct. 6 town hall",
+      "Judge Executive Craig Clymer said the project would generate massive property, occupational, sales and intangible taxes and opposed a benefit agreement as anti-business",
+      "Clymer cited a $6 billion Oldham County, Kentucky data center projected to generate over $50 million in average annual local tax revenue",
+      "Rep. Rashida Tlaib (MI-12) introduced the No AI Data Centers on Federal Lands Act in late July 2026, which would permanently ban large AI data centers on federal land.",
+      "Beshear announced an executive order on Thursday establishing criteria and requirements for future AI data centers in Kentucky, including environmental and ratepayer protections.",
+      "Mayor Bray said the executive order likely would not apply to the Paducah American Energy Hub because it is being built on federal land, a question still being researched by legal experts.",
+      "A $100 billion data center with a gas-fired power plant was announced for Paducah's former DOE gaseous diffusion plant site, about a week before the episode.",
+      "NextEra is reportedly building a two-gigawatt natural gas power plant to partly power the data center.",
+      "A new $100 billion data center in Paducah, Ky. is drawing mixed reactions from residents",
+      "A portion of the data center is slated to open in 2028",
+      "Crews are in the middle of site cleanup ahead of development",
+      "Several residents raised concerns about rising utility rates, noise and water usage",
+      "The county website's project information was written by the Paducah American Energy Hub, a marketing brand for Brookfield and NextEra Energy, according to the post.",
+      "The project sits on an active federal Superfund site with cleanup expected to run for decades, which the county's materials do not mention.",
+      "The county's materials answer whether the project will raise electric rates with 'No', while the timeline shows the data center operating years before its power plant is built.",
+      "Protect McCracken County is calling on county leaders to require an independent, cumulative environmental impact study before the project moves forward.",
+      "DOE announced a $100 billion AI data center campus at the DOE Paducah Site with Brookfield, NextEra Energy, Big Rivers Electric Power Corporation, Jackson Purchase Energy Cooperative and Paducah Power System",
+      "Kentucky Lt. Gov. Jacqueline Coleman said neither she nor Gov. Andy Beshear were briefed on the project",
+      "Project estimated to be completed by 2031 and create 8,000 construction jobs and 600 permanent jobs",
+      "Department of Energy selected Brookfield following its November 2025 Request for Offers to lease land and develop the campus at the former Paducah Gaseous Diffusion Plant",
+      "Coalition estimates approximately 8,000 construction jobs and 600 permanent operations jobs",
+      "Project would require approval from the Kentucky Public Service Commission for the power service agreement",
+      "Partnership includes Big Rivers Electric Power Corporation, Jackson Purchase Energy Cooperative, and Paducah Power System",
+      "Announcement did not identify an anchor AI customer or a construction start date",
+      "Moore's document showed $112.9 million in tax incentives committed to the projects so far",
+      "DOE Paducah site cleanup is supposed to finish in 2065",
+      "Paducah city commission meeting on May 12, 2026 featured public comment on the projects",
+      "A public forum on the projects is scheduled at the DOE Paducah site on June 11 and 12"
+    ],
+    "groups": [
+      {
+        "name": "Protect McCracken County",
+        "url": "https://pauls-ai.beehiiv.com/p/the-us-department-of-energy-is-converting-a-cold-war-era-uranium-enrichment-plant-in-kentucky-into-a-c64d",
+        "date": "2026-11-04T18:15:21.000Z"
+      },
+      {
+        "name": "Kentucky Resources Council",
+        "url": "https://pauls-ai.beehiiv.com/p/the-us-department-of-energy-is-converting-a-cold-war-era-uranium-enrichment-plant-in-kentucky-into-a-c64d",
+        "date": "2026-11-04T18:15:21.000Z"
+      },
+      {
+        "name": "Paducah American Energy Hub coalition",
+        "url": "https://www.datacenterknowledge.com/data-center-construction/brookfield-nextera-launch-100b-ai-campus-at-doe-s-paducah-site",
+        "date": "2026-07-29T14:11:45.000Z"
+      }
+    ]
+  },
+  "21161": {
+    "news": [
+      {
+        "title": "Neighbors voice concerns over newly approved Northern Kentucky data center",
+        "url": "https://www.wcpo.com/news/northern-kentucky/im-being-ran-out-of-mason-county-neighbors-voice-concerns-over-northern-kentucky-data-center",
+        "date": "2026-05-25T22:24:04.000Z",
+        "source": "WCPO",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=d8X0KeP0gX8",
+        "text": "# Mason County mother, daughter reject millions as data center land dispute continues\n\n- Channel: LEX News\n- Length: 02:23\n- Views: 1.9K\n- Likes: 22\n- Published: 2026-03-10T07:00:55-07:00\n- Category: News & Politics\n- Keywords: data center, family, maysville\n- Language: en\n\n## Description\n\nA mother and daughter in Mason County are rejecting multimillion-dollar offers for their land as a proposed data center project continues to move forward, and they say they're not budging.\n\nIda Huddleston has been offered $60,000 an acre for her 71-acre property to make way for the project; she has turned down the offer multiple times.\n\n📰 Read the full article here: https://www.lex18.com/news/covering-kentucky/mason-county-mother-daughter-reject-millions-as-data-center-land-dispute-continues\n\n👉 Make sure to subscribe and tap the 🔔 bell icon to get notified whenever we post a new video. That way, you won’t miss a thing! 📲\n\n🌐 Visit our website for full stories, weather updates, and more:\nhttps://w",
+        "date": "2026-03-10T14:00:55.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=sSLa23_axIw",
+        "text": "# Mason County family offered almost $8M for farm in potential data center development\n\n- Channel: LEX News\n- Length: 02:22\n- Views: 5.5K\n- Likes: 39\n- Published: 2025-12-09T07:01:46-08:00\n- Category: News & Politics\n- Keywords: data center, farm, mason county\n- Language: en\n\n## Description\n\n#LEX18 #KentuckyNews\nA Mason County family is turning down offers of nearly $8 million for their farmland as part of a Fortune 100 company's proposed billion-dollar hyper scale data center project.\n\nAndy Grosser and his father, Timothy, raise cattle on rolling pastures along KY 3056 (Germantown Road), where they've been offered $35,000 per acre. The offer came in March from a group representing the data center development.\n\n📰 Read the full article here: https://www.lex18.com/news/covering-kentucky/mason-county-family-offered-almost-8m-for-farm-in-potential-data-center-development\n\n👉 Make sure to subscribe and tap the 🔔 bell icon to get notified whenever we post a new video. That way, you won’t m",
+        "date": "2025-12-09T15:01:46.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I have no idea where I'm gonna go. I have no idea what I'm gonna do.",
+        "source": "Lisa Helphinstine, Resident",
+        "url": "https://www.wcpo.com/news/northern-kentucky/im-being-ran-out-of-mason-county-neighbors-voice-concerns-over-northern-kentucky-data-center",
+        "date": "2026-05-25",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "There's no homes to buy. You have to buy five acres or more. I'm being ran out of Mason County.",
+        "source": "Lisa Helphinstine, Resident",
+        "url": "https://www.wcpo.com/news/northern-kentucky/im-being-ran-out-of-mason-county-neighbors-voice-concerns-over-northern-kentucky-data-center",
+        "date": "2026-05-25",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "They're not gonna stop it.",
+        "source": "Gregory Thomas Jones, Resident of Meadowland Village",
+        "url": "https://www.wcpo.com/news/northern-kentucky/im-being-ran-out-of-mason-county-neighbors-voice-concerns-over-northern-kentucky-data-center",
+        "date": "2026-05-25",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "No, we do not want to sell. The farm is my dad's and it means everything to him.",
+        "source": "Andy Grosser, Mason County farmer",
+        "url": "https://www.youtube.com/watch?v=sSLa23_axIw",
+        "date": "2025-12-09",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "IT WOULD CREATE 400 FULL-TIME POSITIONS ALONG WITH MORE THAN 1500 CONSTRUCTION JOBS.",
+        "source": "Tyler McHugh, Economic Development Director, Maysville Mason County Industrial Development Authority",
+        "url": "https://www.youtube.com/watch?v=d8X0KeP0gX8",
+        "date": "2025-10-01",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "Mason County Fiscal Court approved zoning for a 2,000+ acre data center on a Friday in May 2026",
+      "Residents were offered $50,000 buyouts",
+      "Residents may have 90 days to vacate if the timeline holds in July",
+      "Lawsuit by Mason County residents has been filed with a court hearing set for June 26",
+      "Ida Huddleston was offered $60,000 per acre for her 71-acre property and has refused multiple times",
+      "Her daughter Kelsey Bear turned down $48,000 per acre for a 463-acre property",
+      "Mason County Fiscal Court passed a data center regulation ordinance raising the residential setback from 500 to 750 feet",
+      "The Fortune 100 company behind the project has not been revealed",
+      "Andy Crosser and his father Timothy rejected nearly $8 million for their farm at the site",
+      "A group representing the data center developer offered $35,000 per acre in March for the Grosser family farm",
+      "The Grossers raise cattle along KY 3056 (Germantown Road) in Mason County, Kentucky",
+      "The developer asked for a response within 5 days",
+      "Mason County joint planning commission scheduled special meetings on the project"
+    ],
+    "groups": []
+  },
+  "21167": {
+    "news": [],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1wh83vg/black_council_member_melinda_wofford_saves_town/",
+        "text": "Black council member, Melinda Wofford, saves town from data center by walking out of meeting to stop the vote\n\nFunny that their new lie is that Black people \"hate this country\", when we're the only ones consistently fighting to save it from itself.\n------------\nhttps://kentuckylantern.com/2026/09/09/burgin-city-council-member-walks-out-to-stop-a-vote-for-a-proposed-data-center-project/\nA city council member for a small Mercer County community walked out of a meeting Tuesday evening, stopping a vote that could have restarted efforts to annex land for a proposed hyperscale data center, a project that’s been under local scrutiny for months.\nDuring a special meeting at the city’s fire department, the Burgin city council lost a quorum to be able to conduct business and subsequently ended their meeting after council member Melinda Wofford abruptly walked out of the door of the department’s engine bay.\n“You can’t do business without a quorum,” Wofford told the Kentucky Lantern while standing ",
+        "date": "2026-09-15T18:12:12.000Z",
+        "stance": "oppose",
+        "emotion": "pride"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "You can’t do business without a quorum,",
+        "source": "Melinda Wofford, Burgin city council member",
+        "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1wh83vg/black_council_member_melinda_wofford_saves_town/",
+        "date": "2026-09-09",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Burgin city council lost quorum and ended a special meeting on Tuesday after council member Melinda Wofford walked out, stopping a vote on annexing land for a proposed hyperscale data center",
+      "More than a hundred people attended the meeting; the city has about 1,000 residents",
+      "The council was set to vote on directing the city attorney to draft an annexation ordinance; it would have been the second time the city considered annexing the site"
+    ],
+    "groups": [
+      {
+        "name": "We Are Mercer County",
+        "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1wh83vg/black_council_member_melinda_wofford_saves_town/",
+        "date": "2026-09-15T18:12:12.000Z"
+      }
+    ]
+  },
+  "21185": {
+    "news": [
+      {
+        "title": "Fiscal Court adopts zoning text amendment for data centers over public opposition | Citizen Portal",
+        "url": "https://citizenportal.ai/articles/11391839/kentucky/oldham-county/fiscal-court-adopts-zoning-text-amendment-for-data-centers-over-public-opposition",
+        "date": "2026-10-06T15:14:05.000Z",
+        "source": "Citizen Portal",
+        "stance": "oppose"
+      },
+      {
+        "title": "Court proposes new, more restrictive data center regulations | News | pmg-ky1.com",
+        "url": "https://www.pmg-ky1.com/oldham_era/news/court-proposes-new-more-restrictive-data-center-regulations/article_1bd64cb4-248f-5ec4-810d-30c73876cd24.html",
+        "date": "2026-09-04T21:41:00.000Z",
+        "source": "Oldham Era",
+        "stance": "neutral"
+      },
+      {
+        "title": "Oldham leaders in dispute over data center regulations | News | pmg-ky1.com",
+        "url": "https://www.pmg-ky1.com/oldham_era/news/dispute-over-proposed-data-center-regulations-oldham/article_5ba3bfdc-8486-56ec-ae85-0a44117f4e07.html",
+        "date": "2026-08-25T00:36:00.000Z",
+        "source": "Oldham Era",
+        "stance": "neutral"
+      },
+      {
+        "title": "Oldham County data center moratorium remains in place",
+        "url": "https://www.wdrbwave.com/2026/08/19/oldham-county-data-center-moratorium-remains-place/",
+        "date": "2026-08-19T09:49:08.000Z",
+        "source": "WAVE",
+        "stance": "neutral"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=l-_VB7E-P5g",
+        "text": "News News at News at 11. News at 11. News at 11.\n The News at 11.\n The company News at 11.\n The company is News at 11.\n The company is leaving News at 11.\n The company is leaving Oldham News at 11.\n The company is leaving Oldham\nCounty News at 11.\n The company is leaving Oldham\nCounty entirely. The company is leaving Oldham\nCounty entirely. The company is leaving Oldham\nCounty entirely. The company is leaving Oldham\nCounty entirely.\n After The company is leaving Oldham\nCounty entirely.\n After two The company is leaving Oldham\nCounty entirely.\n After two tries. The company is leaving Oldham\nCounty entirely.\n After two tries. Developers County entirely.\n After two tries. Developers County entirely.\n After two tries. Developers\ntrying County entirely.\n After two tries. Developers\ntrying to County entirely.\n After two tries. Developers\ntrying to build County entirely.\n After two tries. Developers\ntrying to build a County entirely.\n After two tries. Developers\ntrying to build a data County ",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I’ve spoken again with the zoning lawyer in Northern Kentucky … he revised his opinion to me and told me he does not believe it to be a problem.",
+        "source": "D. Berry Baxter, County Attorney",
+        "url": "https://www.pmg-ky1.com/oldham_era/news/court-proposes-new-more-restrictive-data-center-regulations/article_1bd64cb4-248f-5ec4-810d-30c73876cd24.html",
+        "date": "2026-09-04T21:41:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "In my opinion, we've reached the point where the moratorium is no longer effective ...",
+        "source": "David Voegele, Judge Executive",
+        "url": "https://www.pmg-ky1.com/oldham_era/news/dispute-over-proposed-data-center-regulations-oldham/article_5ba3bfdc-8486-56ec-ae85-0a44117f4e07.html",
+        "date": "2026-08-24",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Limiting the maximum megawatt capacity is just one of the issues with the original ordinance,",
+        "source": "Kevin Woosley, Magistrate",
+        "url": "https://www.pmg-ky1.com/oldham_era/news/dispute-over-proposed-data-center-regulations-oldham/article_5ba3bfdc-8486-56ec-ae85-0a44117f4e07.html",
+        "date": "2026-08-24",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We don't need to rush into this,",
+        "source": "Stephanie Logsdon, Magistrate",
+        "url": "https://www.pmg-ky1.com/oldham_era/news/dispute-over-proposed-data-center-regulations-oldham/article_5ba3bfdc-8486-56ec-ae85-0a44117f4e07.html",
+        "date": "2026-08-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "in keeping with commitment to the community, the project will be withdrawn and will not proceed.",
+        "source": "Western Hospitality Partners, company statement",
+        "url": "https://www.youtube.com/watch?v=l-_VB7E-P5g",
+        "date": null,
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Oldham County Fiscal Court adopted Ordinance KOC 26-920-38, a text amendment to Section 250-340 of the zoning ordinance on data centers, on Oct. 6, 2026, by an 8-1 roll-call vote",
+      "Magistrate Michael Logsdon cast the sole no vote on the data center zoning text amendment",
+      "On Aug. 18, the Oldham County Fiscal Court voted 5-4 to deny its original data center regulations.",
+      "On Sept. 1, the court conducted a new first reading on more restrictive data center regulations, and the proposed changes passed unanimously.",
+      "The proposed changes remove references to 'large' and 'hyperscale' and set a maximum power capacity of 10 megawatts, effectively banning hyperscale data centers.",
+      "The court plans a public hearing and final vote on the data center regulations at its Oct. 6 meeting.",
+      "Voegele said the court's data center moratorium had expired.",
+      "Oldham County Fiscal Court voted 5-4 on Aug. 18, 2026 to deny its proposed data center regulations and hire a consultant for further review.",
+      "Judge Executive David Voegele held a special-called meeting on Aug. 24, 2026 and conducted a new first reading, claiming the county's data center moratorium is effectively expired after 13 months.",
+      "Magistrate Stephanie Hawkins' motion to adjourn the Aug. 24 meeting was disregarded by Voegele; County Attorney D. Berry Baxter later said the motion was not valid.",
+      "The Study Review Committee and Planning and Zoning Commission denied requests to bar data centers from Industrial Park District zones and to require decommissioning bonds, with the latter denial occurring in June 2026.",
+      "The Oldham County Fiscal Court's next meeting is scheduled for Sept. 1, 2026 at 2 p.m.",
+      "The Oldham County Planning Commission recommended data center guidelines requiring specific cooling equipment, noise reduction technology, and generator power.",
+      "The proposed guidelines would keep data centers at least 1,000 feet from neighboring properties and 1,500 feet from schools.",
+      "The county magistrate moved to deny the proposed regulations so an expert can help draft more specific guidelines.",
+      "The county's existing data center moratorium remains in place for the time being.",
+      "Oldham County fiscal court placed a 150-day moratorium on any data center development with no carve outs.",
+      "Western Hospitality Partners withdrew its plans two days after the moratorium.",
+      "It was the developers' second attempt to build a data center in Oldham County.",
+      "The latest proposal would have placed a data center at the Sauerbeck Family Drive-In."
+    ],
+    "groups": []
+  },
+  "21211": {
+    "news": [
+      {
+        "title": "Fiscal Court approves data center moritorium | News | pmg-ky1.com",
+        "url": "https://www.pmg-ky1.com/sentinel_news/news/fiscal-court-approves-data-center-moritorium/article_140cead6-4643-5a32-8130-92e861273cba.html",
+        "date": "2026-08-06T05:00:00.000Z",
+        "source": "The Sentinel-News",
+        "stance": null
+      },
+      {
+        "title": "Shelby County places moratorium on large data centers | News | pmg-ky1.com",
+        "url": "https://www.pmg-ky1.com/sentinel_news/news/county-places-moratorium-on-large-scale-data-centers/article_57c61d9f-0761-5c77-880f-75fecac264d9.html",
+        "date": "2026-07-16T05:34:00.000Z",
+        "source": "The Sentinel-News",
+        "stance": null
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "We do not have the power in this community for a super data center,",
+        "source": "Dan Ison, Shelby County Judge Executive",
+        "url": "https://www.pmg-ky1.com/sentinel_news/news/county-places-moratorium-on-large-scale-data-centers/article_57c61d9f-0761-5c77-880f-75fecac264d9.html",
+        "date": "2026-07-16T05:34:00.000Z",
+        "stance": null,
+        "emotion": null
+      }
+    ],
+    "facts": [
+      "Shelby County Fiscal Court approved a moratorium on large-scale data centers on second reading, effective after publication of notice in The Sentinel-News",
+      "Moratorium remains in effect until December 31, 2026, during which Planning and Zoning will review impacts and present recommendations",
+      "There are currently four existing data centers in the county, exempt from the moratorium",
+      "Shelby County Fiscal Court introduced an ordinance establishing a temporary moratorium on consideration of new data center projects in Kentucky's Shelby County.",
+      "The moratorium remains in effect until December 31, 2026, and the Fiscal Court may extend it.",
+      "A second reading of the ordinance was scheduled for the July 21 meeting, with effect after publication in The Sentinel-News.",
+      "Existing data centers are exempt; the county currently has four, two in Shelbyville and two in Simpsonville."
+    ],
+    "groups": []
+  }
+}

@@ -1,0 +1,1157 @@
+{
+  "29021": {
+    "news": [
+      {
+        "title": "New details emerge on proposed data center on Pickett Road | Government | newspressnow.com",
+        "url": "https://www.newspressnow.com/news/local_news/government/new-details-emerge-on-proposed-data-center-on-pickett-road/article_a35a5235-66b7-4201-839d-caea63f0edd4.html",
+        "date": "2026-06-18T20:08:07.000Z",
+        "source": "News-Press NOW",
+        "stance": "neutral"
+      },
+      {
+        "title": "St. Joseph to host July 16 town hall on proposed data center - Northwest MO Info",
+        "url": "https://www.northwestmoinfo.com/local-news/st-joseph-to-host-july-16-town-hall-on-proposed-data-center/",
+        "date": "2026-06-15T20:56:37.000Z",
+        "source": "Northwest MO Info",
+        "stance": "neutral"
+      },
+      {
+        "title": "St. Joseph residents hold meeting about proposed data center, aim to spread awareness - KQ2 | St. Joseph, Missouri News, Weather & Sports",
+        "url": "https://www.kq2.com/news/2026/06/13/st-joseph-residents-hold-meeting-about-proposed-data-center-aim-to-spread-awareness/",
+        "date": "2026-06-14T00:34:35.000Z",
+        "source": "KQ2",
+        "stance": "oppose"
+      },
+      {
+        "title": "Project leaders say data center project can help community - KQ2 | St. Joseph, Missouri News, Weather & Sports",
+        "url": "https://www.kq2.com/news/2026/06/11/project-leaders-say-data-center-project-can-help-community/",
+        "date": "2026-06-11T17:03:12.000Z",
+        "source": "KQ2",
+        "stance": "support"
+      },
+      {
+        "title": "Property Being Considered For Data Center | 680 KFEQ",
+        "url": "https://www.680kfeq.com/2026/06/09/property-being-considered-for-data-center/",
+        "date": "2026-06-09T15:20:07.000Z",
+        "source": "680 KFEQ",
+        "stance": "neutral"
+      },
+      {
+        "title": "Property at 6321 Pickett Road is being considered for potential data center development | 680 KFEQ",
+        "url": "https://www.680kfeq.com/2026/06/08/property-at-6321-pickett-road-is-being-considered-for-potential-data-center-development/",
+        "date": "2026-06-09T00:29:33.000Z",
+        "source": "680 KFEQ",
+        "stance": "neutral"
+      },
+      {
+        "title": "St. Joseph officials release details on proposed data center - Northwest MO Info",
+        "url": "https://www.northwestmoinfo.com/local-news/st-joseph-officials-release-details-on-proposed-data-center/",
+        "date": "2026-06-08T16:37:46.000Z",
+        "source": "Northwest MO Info",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data center campus confirmed to be part of Pickett Road development proposal - KQ2 | St. Joseph, Missouri News, Weather & Sports",
+        "url": "https://www.kq2.com/news/2026/06/08/data-center-campus-confirmed-to-be-part-of-pickett-road-development-proposal/",
+        "date": "2026-06-08T16:37:35.000Z",
+        "source": "KQ2",
+        "stance": "neutral"
+      },
+      {
+        "title": "Data Centers: Daily Notes | May 27, 2026",
+        "url": "https://writing.strisker.com/data-centers-daily-notes-may-27-2026/",
+        "date": "2026-05-27T14:30:33.000Z",
+        "source": "STRisker",
+        "stance": "neutral"
+      },
+      {
+        "title": "City Council holds public hearing on Pickett Road annexation | Government | newspressnow.com",
+        "url": "https://www.newspressnow.com/news/local_news/government/city-council-holds-public-hearing-on-pickett-road-annexation/article_3a6a2dd4-6610-4079-a929-63b0e6ff2f4d.html",
+        "date": "2026-05-27T00:45:35.000Z",
+        "source": "newspressnow.com",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "It's scary to think about raising our kids here",
+        "source": "Ellen Johnson, Buchanan County resident who lives near Pickett Road",
+        "url": "https://www.kq2.com/news/2026/06/13/st-joseph-residents-hold-meeting-about-proposed-data-center-aim-to-spread-awareness/",
+        "date": "2026-06-13",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Noise pollution, light pollution, environmental pollution, we're not excited about that in our backyard.",
+        "source": "Ellen Johnson, Buchanan County resident who lives near Pickett Road",
+        "url": "https://www.kq2.com/news/2026/06/13/st-joseph-residents-hold-meeting-about-proposed-data-center-aim-to-spread-awareness/",
+        "date": "2026-06-13",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I was shocked whenever we heard that",
+        "source": "Cydney Byous, organizer",
+        "url": "https://www.kq2.com/news/2026/06/13/st-joseph-residents-hold-meeting-about-proposed-data-center-aim-to-spread-awareness/",
+        "date": "2026-06-13",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We're nervous about our property values. Nobody's going to want to move there. We'll never be able to sell our house.",
+        "source": "Ellen Johnson, Buchanan County resident who lives near Pickett Road",
+        "url": "https://www.kq2.com/news/2026/06/13/st-joseph-residents-hold-meeting-about-proposed-data-center-aim-to-spread-awareness/",
+        "date": "2026-06-13",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The question of annexation is separate from the future use of the property.",
+        "source": "City of St. Joseph, City statement",
+        "url": "https://www.kq2.com/news/2026/06/08/data-center-campus-confirmed-to-be-part-of-pickett-road-development-proposal/",
+        "date": "2026-06-08",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "We understand the level of public interest surrounding this potential project. City staff and elected officials are committed to a transparent process that provides residents with meaningful information and opportunities for engagement before any decisions are made,",
+        "source": "City of St. Joseph, City statement",
+        "url": "https://www.kq2.com/news/2026/06/08/data-center-campus-confirmed-to-be-part-of-pickett-road-development-proposal/",
+        "date": "2026-06-08",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Capstone submitted an annexation request for 6321 Pickett Road on April 3, 2026.",
+      "A rezoning application for 6321 Pickett Road was filed June 3 and withdrawn June 4, 2026.",
+      "An amended rezoning application adding 5701 Pickett Road was submitted June 9, 2026.",
+      "A rezoning proposal was sent in March 2026 to former Mayor John Josendale.",
+      "City documents were released June 18, 2026; the project was not on the agenda for the council work session on June 22.",
+      "City of St. Joseph will host a town hall July 16 at 6 p.m. at the Missouri Theater, 717 Edmond St., on the proposed data center.",
+      "No City Council action will be taken at the July 16 town hall.",
+      "City Council first readings of annexation and rezoning requests are scheduled for Aug. 17.",
+      "Public hearings and final votes on the ordinances are tentatively scheduled for Aug. 31.",
+      "Proposed data center is on 130 acres on Pickett Road; owner Capstone Technology Campus LLC seeks to bring the land into city limits.",
+      "Residents met Saturday, June 13, 2026 to spread awareness of a proposed AI data center along Pickett Road in St. Joseph",
+      "The proposed site is about a block from one resident's home and close to an elementary school",
+      "A council member urged Byous to attend the city council meeting on the 26th",
+      "Facebook group 'Say No to Data Centers St. Joe' has over 1,800 members",
+      "Capstone Technology Campus LLC proposes annexing 130 acres at 6321 S.E. Pickett Road into St. Joseph for a four-building data center campus",
+      "Developer projects more than 1,000 construction jobs and 150-250 permanent jobs",
+      "Developer estimates about $50 million in annual tax revenue",
+      "The property is currently outside St. Joseph city limits and needs city council approval of annexation",
+      "Proposed annexation in St. Joseph, Missouri, could bring a campus of four data center buildings",
+      "Project would house up to 200 employees",
+      "No tax incentives are involved",
+      "Community meeting expected in mid-July 2026",
+      "St. Joseph is considering annexation of 130 acres at 6321 Pickett Road for a data center with four buildings and up to 200 employees",
+      "Rezoning request postponed to the July 23 Planning Commission meeting",
+      "Final decisions tentatively scheduled for August",
+      "City plans a community meeting in mid-July",
+      "City has requested more information about the project",
+      "Developer Capstone Technology Campus LLC petitioned for voluntary annexation of a 130-acre site in April 2026.",
+      "A public hearing on the annexation was held May 26.",
+      "Rezoning request is set for the July 23 Planning Commission meeting.",
+      "First readings for annexation and rezoning are scheduled for Aug. 17, with second and final readings Aug. 31.",
+      "City has not received tax incentive offers and has not entered any non-disclosure agreement.",
+      "Petition for voluntary annexation of 130 acres at 6321 SE Pickett Road filed in early April 2026",
+      "STJ Data Center LLC was registered with the Missouri Secretary of State in February 2025",
+      "Rezoning request postponed from June 25 to the July 23 Planning Commission meeting",
+      "City Council first readings of annexation and rezoning tentatively Aug. 17, final readings Aug. 31",
+      "No tax incentives offered or requested",
+      "St. Joseph City Council held a public hearing May 26, 2026 on annexing 6321 SE Pickett Road for Capstone Technology Campus.",
+      "City Manager Mike Schumacher said the only matter before council was the annexation and the city has no further details on land use.",
+      "No official proposal for the St. Joseph site has been filed."
+    ],
+    "groups": [
+      {
+        "name": "Say No to Data Centers St. Joe",
+        "url": "https://www.kq2.com/news/2026/06/13/st-joseph-residents-hold-meeting-about-proposed-data-center-aim-to-spread-awareness/",
+        "date": "2026-06-14T00:34:35.000Z"
+      }
+    ]
+  },
+  "29037": {
+    "news": [
+      {
+        "title": "A Rural Missouri Town Fights Big Tech, and Itself",
+        "url": "https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html",
+        "date": "2024-10-29T13:00:20.000Z",
+        "source": "The New York Times",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [],
+    "facts": [
+      "Peculiar, Mo. is a town of about 6,000 people, described as a pit stop on trips from Kansas City to the Ozarks",
+      "Residents in Peculiar have planted yard signs and signed petitions in a fight over a tech giant's proposed data center"
+    ],
+    "groups": []
+  },
+  "29071": {
+    "news": [
+      {
+        "title": "Neighbors react after Franklin County approves rezoning requests for 2 data centers | ksdk.com",
+        "url": "https://www.ksdk.com/video/news/community/data-centers/neighbors-react-after-franklin-county-approves-rezoning-requests-for-2-data-centers/63-a7c12998-63e2-4975-aefe-cffd5710159f",
+        "date": "2026-09-23T00:00:00.000Z",
+        "source": "ksdk.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Franklin County residents consider crossing party lines to block data centers",
+        "url": "https://www.firstalert4.com/2026/08/06/franklin-county-residents-consider-crossing-party-lines-block-data-centers/",
+        "date": "2026-08-06T03:26:03.000Z",
+        "source": "First Alert 4",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=39QDTibpS6g",
+        "text": "# Franklin County residents, officials react after commission votes to move data center forward\n\n- Channel: KSDK News\n- Length: 01:58\n- Views: 158\n- Likes: 0\n- Published: 2026-04-22T17:02:06-07:00\n- Category: News & Politics\n- Keywords: [ local, news, ott ], ott-topical, syndication\n- Language: en\n\n## Description\n\nThe Franklin County Planning and Zoning Commission's mixed decision on data center rezoning has left local residents frustrated and determined to continue fighting\n\n## Transcript\n\nTonight we're hearing from Franklin County's presiding commissioner Dave Schatz.\nHe's one of only 3 people who will cast a deciding vote on 2 massive data center projects in the county.\nLast night, one of those projects got the green light from the planning and zoning.\nTracy Henson talked to neighbors, pledging not to give up the fight and from Schatz, who said he has to weigh all options.\nA vote in favor of rezoning 575 acre diamond farms in Villa Ridge was not what neighbors wanted.\nWe're disappoi",
+        "date": "2026-04-23T00:02:06.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=xYTQjzzYi5g",
+        "text": "# Franklin County data center projects draw packed crowd, opposition at planning meeting\n\n- Channel: KMOV St. Louis\n- Length: 02:30\n- Views: 365\n- Likes: 4\n- Published: 2026-03-19T15:22:13-07:00\n- Category: News & Politics\n- Language: en\n\n## Description\n\nHundreds of people filled a Union High School gymnasium Tuesday night to speak out against two proposed data center projects that would rezone agricultural land \n \nFor more Local News from KMOV: https://www.firstalert4.com/ \nFor more YouTube Content: https://www.youtube.com/channel/UCwHKLYLfz6M14SbBahFH5VA\n\n## Transcript\n\n>> >> WELCOME >> WELCOME BACK.\n>> WELCOME BACK.\nPEOPLE >> WELCOME BACK.\nPEOPLE IN >> WELCOME BACK.\nPEOPLE IN FRANKLIN >> WELCOME BACK.\nPEOPLE IN FRANKLIN COUNTY >> WELCOME BACK.\nPEOPLE IN FRANKLIN COUNTY ARE PEOPLE IN FRANKLIN COUNTY ARE PEOPLE IN FRANKLIN COUNTY ARE\nSTILL PEOPLE IN FRANKLIN COUNTY ARE\nSTILL TALKING PEOPLE IN FRANKLIN COUNTY ARE\nSTILL TALKING TO PEOPLE IN FRANKLIN COUNTY ARE\nSTILL TALKING TO THE PEOPL",
+        "date": "2026-03-19T22:22:13.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "AI hyperscale data centers are not wanted in Franklin County,",
+        "source": "Dana Bowers, Franklin County resident",
+        "url": "https://www.firstalert4.com/2026/08/06/franklin-county-residents-consider-crossing-party-lines-block-data-centers/",
+        "date": "2026-08-06T03:26:03.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "They don't belong next door to any residences, they don't belong on agricultural land,",
+        "source": "Nancy Watson, Pacific resident",
+        "url": "https://www.firstalert4.com/2026/08/06/franklin-county-residents-consider-crossing-party-lines-block-data-centers/",
+        "date": "2026-08-06T03:26:03.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We're disappointed.",
+        "source": "Berta Carpenter, Neighbor",
+        "url": "https://www.youtube.com/watch?v=39QDTibpS6g",
+        "date": "2026-04-22",
+        "stance": "oppose",
+        "emotion": "sadness"
+      },
+      {
+        "text": "This is now where the real work begins because the final approval is ahead of us.",
+        "source": "Mark Baxa, Neighbor",
+        "url": "https://www.youtube.com/watch?v=39QDTibpS6g",
+        "date": "2026-04-22",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "Obviously the job creation, the amount of investment in the county, the tax generation from them is something that we've got to take a strong look at.",
+        "source": "Dave Schatz, Franklin County Presiding Commissioner",
+        "url": "https://www.youtube.com/watch?v=39QDTibpS6g",
+        "date": "2026-04-22",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "This meeting is really just a slap in the face to the residents.",
+        "source": "Unnamed resident",
+        "url": "https://www.youtube.com/watch?v=xYTQjzzYi5g",
+        "date": "2026-03-17",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Really disheartening and discouraging to see two retired people have that ripped away by three commissioners who only see the tax benefits.",
+        "source": "Unnamed resident",
+        "url": "https://www.youtube.com/watch?v=xYTQjzzYi5g",
+        "date": "2026-03-17",
+        "stance": "oppose",
+        "emotion": "sadness"
+      }
+    ],
+    "facts": [
+      "Franklin County commissioners approved rezoning requests for two data centers, one in Villa Ridge and one in Pacific.",
+      "Dave Schatz secured the Republican nomination for Franklin County presiding commissioner in the August 2026 primary with 38.7% of the vote.",
+      "The decision to approve two proposed data centers rests with Franklin County's commissioner's office.",
+      "Some lifelong Republicans say they will vote for Democratic candidate Richele Landa in November because she opposes data centers in the county.",
+      "Franklin County Planning and Zoning voted to recommend rezoning 575-acre Diamond Farms in Villa Ridge for a data center.",
+      "Three county commissioners have the final vote and can overrule the recommendation.",
+      "Two massive data center projects are under consideration in Franklin County, Missouri.",
+      "The county will set a date for another public hearing; the previous one reportedly ran until 4 a.m.",
+      "Hundreds of people packed the Union High School gym Tuesday night to speak against two proposed data center projects in Franklin County, Missouri",
+      "Both Gateway Digital Campus and Beltline Energy would require rezoning agricultural land for industrial use",
+      "The issue was brought up less than two months earlier and tabled for six months",
+      "Planning and Zoning Commission heard the proposals"
+    ],
+    "groups": []
+  },
+  "29095": {
+    "news": [
+      {
+        "title": "Aug 03, 2026 County Legislature - Jackson County, MO",
+        "url": "https://jacksoncountymo.new.swagit.com/videos/395013?Mode2=Video&place=holder&start=1458",
+        "date": "2026-08-03",
+        "source": "Jackson County, MO Legislature",
+        "stance": "neutral"
+      },
+      {
+        "title": "Jackson County approves data center moratorium",
+        "url": "https://fox4kc.com/news/jackson-county-legislature-approves-180-day-data-center-moratorium/",
+        "date": "2026-06-23T03:53:42.000Z",
+        "source": "FOX 4 Kansas City",
+        "stance": "oppose"
+      },
+      {
+        "title": "County Legislature on 2026-06-08 3:00 PM - Nineteenth Regular - INDEPENDENCE (Final)",
+        "url": "https://jacksonco.granicus.com/player/clip/6879?Mode2=",
+        "date": "2026-06-08",
+        "source": "jacksonco.granicus.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "Jackson County residents weigh in on data center zoning ...",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01T22:11:03.000Z",
+        "source": "Kansas City Star",
+        "stance": "neutral"
+      },
+      {
+        "title": "",
+        "url": "https://jacksoncountymo.new.swagit.com/videos/394509/transcript",
+        "date": null,
+        "source": "Jackson County, Missouri Legislature",
+        "stance": "neutral"
+      },
+      {
+        "title": "Jackson County Legislature — Data Center Siting Framework",
+        "url": "https://gridwatchtheusa.com/docket/missouri/jackson/jackson-county-legislature-data-center-siting-framework/",
+        "date": null,
+        "source": "GridWatch the USA",
+        "stance": "neutral"
+      },
+      {
+        "title": "Jackson County Missouri - File #: 22323",
+        "url": "https://jacksonco.legistar.com/LegislationDetail.aspx?GUID=99EB257B-19FB-46D5-A097-E3922BE891D3&ID=8118016&Options=&Search=",
+        "date": null,
+        "source": "jacksonco.legistar.com",
+        "stance": "neutral"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=BtGGkhpQLY0",
+        "text": "Today, an Independence group filed a lawsuit to halt construction of the data center being built in that area. So, that's where we start tonight's coverage with KSHB 41 News' Todd Palmer. He has the latest on this community pushback. Residents along Bly Road in the Little Blue Valley of Independence filed a 16-count, 52-page lawsuit hoping to stop this data center development behind me. We are not exaggerating when we say this is a harm this is a handful of homeowners standing against some of the most powerful institution and financial interest in the state. I know. I can't have We're not anti-growth. We're not anti-progress. We are upset, angry, disappointed, frustrated. What What would you do? The Independence City Council approved billions in incentives for a Dutch company, Nebius, to build and operate a 400-acre hyperscale AI data factory at the south end of Bly Road in March. Nebius broke ground on the first phase of the project in April. Well, you can see here constant noise, dus",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "What should happen is there should be a good set of rules,",
+        "source": "Sean Smith, Legislator, Jackson County Legislature",
+        "url": "https://fox4kc.com/news/jackson-county-legislature-approves-180-day-data-center-moratorium/",
+        "date": "2026-06-23T03:53:42.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "It’s really clear the community feels like there needs to be some rules about these things, there’s a lot of concerns.",
+        "source": "Sean Smith, Legislator, Jackson County Legislature",
+        "url": "https://fox4kc.com/news/jackson-county-legislature-approves-180-day-data-center-moratorium/",
+        "date": "2026-06-23T03:53:42.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "That’s what this is intended to do – have a little pause, not too long",
+        "source": "Sean Smith, Legislative Vice-Chair, Jackson County Legislature",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think the moratorium is reasonable",
+        "source": "Beto Martinez, executive director of RiSe4EJ",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "Our community would like for this to come to a conclusion",
+        "source": "Donna Peyton, Legislator",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We just need parameters, and we need them quickly",
+        "source": "Kelli Jabs, Buckner resident",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Battery storage facilities are not new. Data centers are not new",
+        "source": "Mike Talboy, political director, Greater KC Building & Construction Trades",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "We're not anti-growth. We're not anti-progress.",
+        "source": "Unnamed resident, Bly Road resident",
+        "url": "https://www.youtube.com/watch?v=BtGGkhpQLY0",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "We have been treated as an afterthought at best and an obstacle to be managed at worst.",
+        "source": "Unnamed resident, Bly Road resident",
+        "url": "https://www.youtube.com/watch?v=BtGGkhpQLY0",
+        "date": null,
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "UM, FOR EXAMPLE, THE LEGISLATURE WRITES CODES AND ORDINANCES PUT THAT IN THERE AND, UH, LEGISLATOR SEAN SMITH WAS WORKING WITH WHAT HE THOUGHT HE HAD A TEMPLATE FROM ANOTHER COUNTY OR ANOTHER CITY THAT HAD SOME, UH, UH, BASIC CODES, REGULATIONS THAT WOULD IMPLEMENT FOR DATA CENTERS AND THAT, AND HE WAS GOING TO, UH, MAYBE AMEND THIS LEGISLATION TO PUT THAT IN THERE.",
+        "source": "Unidentified legislator",
+        "url": "https://jacksoncountymo.new.swagit.com/videos/394509/transcript",
+        "date": null,
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Jackson County Legislature Aug 03, 2026 agenda includes Resolution 22323 directing development of a framework governing siting, construction, expansion, and operation of artificial intelligence and high-capacity data center facilities within Jackson County, Missouri",
+      "Jackson County Legislature unanimously approved a 180-day moratorium on data centers and battery storage systems in unincorporated areas of the county",
+      "Legislator Sean Smith originally proposed a 120-day moratorium",
+      "Independence leaders approved a data center contract with Dutch company Nebius with no apparent input from the community",
+      "Six legislators' terms will be up in December, meaning a future legislative body will decide what to do after the moratorium concludes",
+      "Jackson County Legislature agenda includes Bill 6074, a 120-day moratorium on processing data center and Battery Energy Storage System land use applications.",
+      "Bill 6087 would establish a temporary moratorium on new data center development projects within Jackson County, Missouri.",
+      "Proposed Jackson County ordinance would set a 120-day moratorium on data center and BESS land use applications in unincorporated areas",
+      "Legislators held the issue one week to potentially extend the moratorium to 180 days",
+      "Legislature has considered the temporary ban since early April 2026",
+      "At least 10 hyperscale data centers are in progress in the Kansas City metro area",
+      "Kansas City Council passed limits on data center locations in late 2025",
+      "Residents along Bly Road in Independence, MO filed a 16-count, 52-page lawsuit in Jackson County Circuit Court seeking to pause the Nebius data center",
+      "Independence City Council approved billions in incentives for Nebius's 400-acre hyperscale AI data center in March",
+      "Nebius broke ground on the first phase in April",
+      "Lawsuit alleges violations of zoning laws, sunshine laws and the city charter",
+      "City says approvals and processes complied with applicable law",
+      "Resolution 22323 directs the County Executive and departments to develop a framework governing siting, construction, expansion and operation of AI and high-capacity data centers in Jackson County, Missouri.",
+      "A legislator argued data center rules should come from the legislature rather than county departments, noting the Missouri House is working on statutes on this topic.",
+      "The Public Works committee held Resolution 22323 on data center regulation and referred it to the councilor's office for further work.",
+      "Jackson County Legislature agenda item on October 5, 2026 would establish a framework governing siting, construction, expansion, and operation of AI and high-capacity data center facilities",
+      "Outcome not yet recorded as of the record; the record remains open pending minutes and vote results",
+      "Jackson County, Missouri Resolution No. 22323, introduced June 22, 2026 by County Legislator Manuel Abarca IV, would direct county agencies to develop a framework for siting and operating AI and high-capacity data centers.",
+      "Section 1 of the resolution, titled Moratorium Established, directs county departments to suspend and re[view data center approvals] (text truncated in the document).",
+      "The legislation's listed status is withdrawn, with a final action date of 10/19/2026.",
+      "The resolution was assigned to committee on 6/22/2026, discharged on 7/27/2026, and then repeatedly carried over to later meetings through 10/1/2026."
+    ],
+    "groups": [
+      {
+        "name": "RiSe4EJ",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01T22:11:03.000Z"
+      },
+      {
+        "name": "Missouri Coalition for the Environment",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01T22:11:03.000Z"
+      },
+      {
+        "name": "Greater KC Building & Construction Trades",
+        "url": "https://www.kansascity.com/news/local/article315969377.html",
+        "date": "2026-06-01T22:11:03.000Z"
+      }
+    ]
+  },
+  "29097": {
+    "news": [
+      {
+        "title": "Local lawmakers host information session on proposed ...",
+        "url": "https://www.koamnewsnow.com/news/top-stories/local-lawmakers-host-information-session-on-proposed-jasper-county-data-center-project/article_81002b67-9f0a-4764-9525-fc82524e64f1.html",
+        "date": "2026-04-24T03:32:00.000Z",
+        "source": "KOAM News Now",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I remember what happened in Joplin, and it seemed like that if they would have had a pre information meeting before the main meeting, then maybe people would have been able to get they would have been able to get ahead of all the concerns,",
+        "source": "Ann Kelley, Missouri State Representative",
+        "url": "https://www.koamnewsnow.com/news/top-stories/local-lawmakers-host-information-session-on-proposed-jasper-county-data-center-project/article_81002b67-9f0a-4764-9525-fc82524e64f1.html",
+        "date": "2026-04-23",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think one of the misconceptions with County Commission is that we have the ability to approve or deny anything we want to, and that's simply not the case,",
+        "source": "Jimmy Morris, County Commissioner",
+        "url": "https://www.koamnewsnow.com/news/top-stories/local-lawmakers-host-information-session-on-proposed-jasper-county-data-center-project/article_81002b67-9f0a-4764-9525-fc82524e64f1.html",
+        "date": "2026-04-23",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "These are fact finding conversations right where you're able to share, 'Hey, this is what we know from some Senate bills that have passed and some House bills that we're working on there.' There is an emerging conversation about it,",
+        "source": "Jill Carter, State Senator",
+        "url": "https://www.koamnewsnow.com/news/top-stories/local-lawmakers-host-information-session-on-proposed-jasper-county-data-center-project/article_81002b67-9f0a-4764-9525-fc82524e64f1.html",
+        "date": "2026-04-23",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Local lawmakers hosted a community information session at Sarcoxie High School on Geronimo Power's proposed data center in Jasper County, MO.",
+      "Jasper County does not have zoning laws that would prevent Geronimo from moving forward with construction.",
+      "The lawmakers and Sarcoxie High School officials have not publicly indicated whether they support or oppose the project."
+    ],
+    "groups": []
+  },
+  "29099": {
+    "news": [
+      {
+        "title": "County Council approves building regs for data centers | Local News | myleaderpaper.com",
+        "url": "https://www.myleaderpaper.com/news/jefferson-county-council-approves-building-regulations-for-data-centers/article_62bc155b-0cda-47be-ac14-0eebe534f53e.html",
+        "date": "2026-04-29T21:30:00.000Z",
+        "source": "myleaderpaper.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "Main Title 1 secondary Title 2",
+        "url": "https://www.jeffcomo.gov/DocumentCenter/View/21051/Data-Center-Presentation-for-Feb-4-by-Mitch-Bair-PDF",
+        "date": "2026-02-04",
+        "source": "jeffcomo.gov",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "The process to get these UDO ordinances surrounding data centers has been a long and fruitful conversation,",
+        "source": "Billy Crow, Councilman (District 2, Arnold)",
+        "url": "https://www.myleaderpaper.com/news/jefferson-county-council-approves-building-regulations-for-data-centers/article_62bc155b-0cda-47be-ac14-0eebe534f53e.html",
+        "date": "2026-04-29T21:30:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I don’t support taking the kind of risk that some of you are willing to accept,",
+        "source": "Tim Brown, Councilman (District 6, De Soto)",
+        "url": "https://www.myleaderpaper.com/news/jefferson-county-council-approves-building-regulations-for-data-centers/article_62bc155b-0cda-47be-ac14-0eebe534f53e.html",
+        "date": "2026-04-29T21:30:00.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "There is no project or application – this is being done proactively.",
+        "source": "Mitch Bair, County Services Director",
+        "url": "https://www.jeffcomo.gov/DocumentCenter/View/21051/Data-Center-Presentation-for-Feb-4-by-Mitch-Bair-PDF",
+        "date": "2026-02-04",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "On April 27, 2026, the Jefferson County Council approved data center building regulations 5-2, to be added to the county's Unified Development Order.",
+      "The regulations cover noise, water and light pollution, building and design standards, setbacks, zoning and community benefit agreements for unincorporated parts of the county.",
+      "An amendment to require a 1,000-foot setback from existing homes failed 5-2.",
+      "An amendment to replace the community benefit agreement section failed 5-2.",
+      "County Executive Dennis Gannon issued an executive order on Dec. 2 directing County Services to draft data center regulations with the EDOC committee.",
+      "Draft data center regulations were scheduled for discussion at the February 4, 2026 Economic Committee meeting, with draft regulations to be posted by February 20, 2026.",
+      "Planning and Zoning Commission public hearing and recommendation to the County Council are scheduled for March 12, 2026, with final passage of the ordinance scheduled for April 27, 2026.",
+      "Data centers would be permitted only with an approved Development Plan in the Planned Business Park (PB) and Planned Industrial (PI) zone districts.",
+      "Draft standards include a 100 ft landscape buffer, a 150 ft parking setback and a 200 ft structure setback from external property lines.",
+      "The draft standards require an Environmental and Community Impact Analysis with any data center application and apply only to unincorporated areas of the county."
+    ],
+    "groups": []
+  },
+  "29139": {
+    "news": [
+      {
+        "title": "Data center bus tour stops in county - Montgomery Standard",
+        "url": "https://www.mystandardnews.com/stories/data-center-bus-tour-stops-in-county,173594",
+        "date": "2026-09-28T18:42:00.000Z",
+        "source": "Montgomery Standard",
+        "stance": null
+      },
+      {
+        "title": "Montgomery County commissioners confirm two data centers developments",
+        "url": "https://krcgtv.com/news/local/montgomery-county-commissioners-confirm-two-data-centers",
+        "date": "2025-11-28T18:09:05.000Z",
+        "source": "KRCG",
+        "stance": "support"
+      }
+    ],
+    "social": [
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/watch?v=ERmbY4kTKtw",
+        "text": "Montgomery County residents push back against possible Amazon data center\nChannel: KMIZ ABC 17 News\nRead more: https://abc17news.com.\nعبر العديد من سكان  مقاطعة مونتغمري عن  استيائهم من مركز  بيانات مقترح بالقرب  من بلدة نيو فلورنس. >> أصبحت مراكز البيانات  موضوعاً ساخناً في  جميع أنحاء ميسوري  نظراً لمتطلبات  الطاقة العالية. ولا  تختلف مقاطعة  مونتغمري عن ذلك، حيث  أراد العشرات اليوم  الحصول على إجابات حول  مشروع أمازون. >> كانت ماري مويا من  قناة ABC 17 حاضرة في  الاجتماع. >> بدءاً من الساعة 9:00  صباحاً اليوم، توافد  سكان مقاطعة مونتغمري  إلى قاعة اجتماعات  اللجنة مستعدين  للاعتراض على مركز  بيانات مقترح بسبب  مخاوف بيئية محتملة.  يدعي مؤيدو البناء أن  مقاطعة مونتغمري يمكن  أن تستفيد من الوظائف  والبنية التحتية التي  قد يجلبها المركز. >> الاقتراح بفرض تعليق  مؤقت الآن. >> أنا أؤيد ذلك. >> نعم. >> من المؤيد لذلك؟ >> أنا. >> أنا. >> اكتظت المقاعد  بالسكان خلال اجتماع  لجنة مقاطعة مونتغمري  يوم الخميس لمناقشة  مشروع مركز بيانات  محتمل. المطروح للنقاش  هو مشروع مركز بيانات  على مساحة 10",
+        "date": "2025-12-06",
+        "stance": "oppose",
+        "emotion": "frustration"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "This is your land and this is your home. You have a right to be here and they do not. You are the only ones who can protect it.",
+        "source": "Amy Kremer, Chairwoman, Humans First",
+        "url": "https://www.mystandardnews.com/stories/data-center-bus-tour-stops-in-county,173594",
+        "date": "2026-09-22",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "We had the people and they had the money and we managed to prevail.",
+        "source": "Harry Cope, Republican nominee for Presiding Commissioner",
+        "url": "https://www.mystandardnews.com/stories/data-center-bus-tour-stops-in-county,173594",
+        "date": "2026-09-22",
+        "stance": null,
+        "emotion": null
+      },
+      {
+        "text": "We look forward to continuing our work with county leaders as this process moves ahead.",
+        "source": "Preston Grisham, Head of U.S. Policy Communications at Amazon Web Services",
+        "url": "https://krcgtv.com/news/local/montgomery-county-commissioners-confirm-two-data-centers",
+        "date": "2025-11-28T18:09:05.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Amazon's interest in Montgomery County reflects the region's talented workforce, reliable infrastructure, and clear commitment to economic development,",
+        "source": "Preston Grisham, Head of U.S. Policy Communications at Amazon Web Services",
+        "url": "https://krcgtv.com/news/local/montgomery-county-commissioners-confirm-two-data-centers",
+        "date": "2025-11-28T18:09:05.000Z",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "An AI Data Center Revolt bus rally was held at Ridgley Farms, west of Jonesburg, on Sept. 22, 2026, drawing more than 50 people",
+      "Two data centers are being built along the I-70/Highway 19 interchange outside New Florence, with Google and Amazon investing a combined $25 billion",
+      "Harry Cope won the Republican seat for Presiding Commissioner in August 2026 and is against the data centers being built in the county",
+      "The AI Data Center Revolt bus tour began Sept. 12 and is scheduled to end Oct. 5 after 36 stops in 27 states",
+      "Amazon proposed a 1000-acre data center near New Florence in Montgomery County",
+      "Residents asked the county commission to consider a temporary moratorium on the project",
+      "Residents raised concerns about water and electricity use, citing heat reaching 110 degrees in summer",
+      "A public meeting on the data center was scheduled for Monday, December 8, at 6:30 p.m. at Montgomery City Elementary School",
+      "New details about tax incentives offered to Amazon were reported",
+      "Montgomery County commissioners signed off on land-use approvals for two data center developments on November 21, 2025",
+      "Project Spade would span 780 acres in unincorporated Montgomery County and 130 acres within New Florence city limits",
+      "Project Green would cover roughly 1,000 acres in Montgomery County northeast of the I-70, Highway 19 interchange",
+      "A public town hall on the projects is scheduled for December 8 at 6:30 p.m. at Montgomery City Elementary School",
+      "County officials say the developments could represent billions in private investment"
+    ],
+    "groups": [
+      {
+        "name": "Humans First",
+        "url": "https://www.mystandardnews.com/stories/data-center-bus-tour-stops-in-county,173594",
+        "date": "2026-09-28T18:42:00.000Z"
+      }
+    ]
+  },
+  "29165": {
+    "news": [
+      {
+        "title": "Transparency questioned, right about the data center, city clerk musical chairs - The Platte County Landmark Newspaper",
+        "url": "https://plattecountylandmark.com/2025/10/16/transparency-questioned-right-about-the-data-center-city-clerk-musical-chairs/",
+        "date": "2025-10-16T20:49:16.000Z",
+        "source": "The Platte County Landmark Newspaper",
+        "stance": "oppose"
+      },
+      {
+        "title": "Facebook parent announces new data center in Kansas City",
+        "url": "https://www.ky3.com/2022/03/24/facebook-parent-announces-new-data-center-kansas-city/",
+        "date": "2022-03-24T16:59:22.000Z",
+        "source": "KY3",
+        "stance": "support"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "Meta is excited to call Kansas City our new home.",
+        "source": "Darcy Nothnagle, director of community and economic development, Meta",
+        "url": "https://www.ky3.com/2022/03/24/facebook-parent-announces-new-data-center-kansas-city/",
+        "date": "2022-03-24",
+        "stance": "support",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Data center complex coming to Platte County will be within KCI-29, the industrial mega site owned by Hunt Midwest",
+      "Code-named Project Kestrel, it has six phases and pledges about 50 jobs per phase",
+      "The Landmark first reported the likelihood of the data center on March 19, 2025",
+      "A county commissioner had told the editor by text that Project Kestrel is not a data center",
+      "Meta announced an $800 million data center in northern Kansas City on March 24, 2022",
+      "The 1 million-square-foot facility is planned for the Golden Plains Technology Park along the Platte and Clay county border",
+      "Opening is targeted for 2024 and it is expected to support 100 jobs"
+    ],
+    "groups": []
+  },
+  "29183": {
+    "news": [
+      {
+        "title": "St. Charles data center ban pushed by councilmembers | ksdk.com",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-to-ban-data-center-construction-applications-for-year-city-council-special-session-friday/63-fabaca60-3379-49fd-b7ed-3249c26aae61",
+        "date": "2025-08-21T17:29:09.000Z",
+        "source": "ksdk.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "St. Charles data center dead after developers withdraw offer, mayor says | ksdk.com",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18T16:44:54.000Z",
+        "source": "ksdk.com",
+        "stance": "neutral"
+      },
+      {
+        "title": "St. Charles group says no to Data Center",
+        "url": "https://www.audacy.com/kmox/news/local/st-charles-group-says-no-to-data-center",
+        "date": "2025-08-18T01:59:50.000Z",
+        "source": "KMOX (Audacy)",
+        "stance": "oppose"
+      },
+      {
+        "title": "Angry Missouri residents question secretive data center: 'They don't care about the little people' | KCUR - Kansas City news and NPR",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17T06:39:47.000Z",
+        "source": "KCUR (St. Louis Public Radio)",
+        "stance": "oppose"
+      },
+      {
+        "title": "St. Charles residents pack open house to question planned data center | STLPR",
+        "url": "https://www.stlpr.org/health-science-environment/2025-08-15/angry-st-charles-residents-question-secretive-planned-data-center",
+        "date": "2025-08-15T06:00:00.000Z",
+        "source": "St. Louis Public Radio",
+        "stance": "oppose"
+      },
+      {
+        "title": "St. Charles farmers voice concerns over 'Project Cumulus' data center | ksdk.com",
+        "url": "https://www.ksdk.com/article/tech/science/environment/construction-massive-data-center-in-st-charles-impact-on-water-supply/63-ff2f0d83-0106-4927-8ab7-87b84f13acdf",
+        "date": "2025-08-12T04:23:48.000Z",
+        "source": "KSDK",
+        "stance": "oppose"
+      },
+      {
+        "title": "\"St. Charles Data Center Sparks Environmental Battle!\"",
+        "url": "https://newsletter.stcharlesspotlight.com/n/st-charles-data-center-sparks-environmental-battle",
+        "date": "2025-08-11T00:00:00.000Z",
+        "source": "St. Charles Spotlight",
+        "stance": "oppose"
+      },
+      {
+        "title": "Massive St. Charles data center gets residential push back ahead of open house | ksdk.com",
+        "url": "https://www.ksdk.com/article/money/economy/energy/missouri-controversial-data-center-st-charles-petition-public-meeting-thursday/63-2b4cf5b9-8b2e-434b-a1c5-ce08e2603618",
+        "date": "2025-08-08T00:00:00.000Z",
+        "source": "ksdk.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data center in St Charles, Missouri, receives partial recommendation for approval - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/data-center-in-st-charles-missouri-receives-partial-recommendation-for-approval/",
+        "date": "2025-07-25T00:00:00.000Z",
+        "source": "DatacenterDynamics",
+        "stance": "neutral"
+      },
+      {
+        "title": "St. Charles residents don't want a data center in their city",
+        "url": "https://www.stlmag.com/business/st-charles-data-center/",
+        "date": "2025-07-15T10:30:00.000Z",
+        "source": "St. Louis Magazine",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "Residents deserve better communication, real transparency, and the chance to have their voices recorded through an open vote,",
+        "source": "Justin Foust, Councilmember, Ward 6",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-to-ban-data-center-construction-applications-for-year-city-council-special-session-friday/63-fabaca60-3379-49fd-b7ed-3249c26aae61",
+        "date": "2025-08-21",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Unfortunately, the decision to pull the application was made by the applicant, not the City Council.",
+        "source": "Justin Foust, Councilmember, Ward 6",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-to-ban-data-center-construction-applications-for-year-city-council-special-session-friday/63-fabaca60-3379-49fd-b7ed-3249c26aae61",
+        "date": "2025-08-21",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I think it's very important that people understand, we listened and even if they hadn't withdrawn it, I'm almost positive it would not have made it on Tuesday,",
+        "source": "Dan Borgmeyer, St. Charles Mayor",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "Residents deserve better communication, real transparency, and the chance to have their voices recorded through an open vote,",
+        "source": "Justin Foust, Councilmember, Ward 6",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It's our protected water source. So, we need to get together and see if we can get it re-zoned back to agricultural and stop the filling on top of our water source,",
+        "source": "Tim Kline, longtime farmer in the St. Charles area",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "It was time to re-evaluate the approach that we made to the site and look at really focusing on what changes can we make to the site that may garner more support, but also what changes can we make to the process,",
+        "source": "Korb Maxwell, Project Cumulus attorney",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "The culprit was transparency,",
+        "source": "Dan Borgmeyer, St. Charles Mayor",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I don't see any positive in any of this, actually.",
+        "source": "Chad Coleman, resident living about 600 feet from the site",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "There is plenty of land in St. Charles County that is industrial, that isn't by private citizens, that they could have built on.",
+        "source": "Chad Coleman, resident",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It's the jobs, it's the tax revenues, it's the construction jobs that are coming.",
+        "source": "Korb Maxwell, lawyer for the company",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "How in the world can you work for the citizens of St. Charles and not be able to discuss this project with them before you take a vote on it?",
+        "source": "Tim Kline, third-generation farmer",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "These money people, they don't care about me.",
+        "source": "Charles Cross, resident",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Data centers are a critical part of our economic development strategy.",
+        "source": "Maggie Kost, chief business attraction officer, Greater St. Louis Inc.",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I don't see any positive in any of this, actually.",
+        "source": "Chad Coleman, resident living about 600 feet from the site",
+        "url": "https://www.stlpr.org/health-science-environment/2025-08-15/angry-st-charles-residents-question-secretive-planned-data-center",
+        "date": "2025-08-15",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It's the jobs, it's the tax revenues, it's the construction jobs that are coming.",
+        "source": "Korb Maxwell, lawyer for the project",
+        "url": "https://www.stlpr.org/health-science-environment/2025-08-15/angry-st-charles-residents-question-secretive-planned-data-center",
+        "date": "2025-08-15",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "How in the world can you work for the citizens of St. Charles and not be able to discuss this project with them before you take a vote on it?",
+        "source": "Tim Kline, third-generation farmer neighboring the site",
+        "url": "https://www.stlpr.org/health-science-environment/2025-08-15/angry-st-charles-residents-question-secretive-planned-data-center",
+        "date": "2025-08-15",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "Not all data centers are built equally.",
+        "source": "Colin Wellenkamp, State Rep.",
+        "url": "https://www.stlpr.org/health-science-environment/2025-08-15/angry-st-charles-residents-question-secretive-planned-data-center",
+        "date": "2025-08-15",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "These money people, they don't care about me.",
+        "source": "Charles Cross, resident",
+        "url": "https://www.stlpr.org/health-science-environment/2025-08-15/angry-st-charles-residents-question-secretive-planned-data-center",
+        "date": "2025-08-15",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "Data centers are a critical part of our economic development strategy.",
+        "source": "Maggie Kost, chief business attraction officer, Greater St. Louis Inc.",
+        "url": "https://www.stlpr.org/health-science-environment/2025-08-15/angry-st-charles-residents-question-secretive-planned-data-center",
+        "date": "2025-08-15",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I don't think words can express how worried I am,",
+        "source": "Tim Kline, St. Charles farmer who lives next to the proposed data center site",
+        "url": "https://www.ksdk.com/article/tech/science/environment/construction-massive-data-center-in-st-charles-impact-on-water-supply/63-ff2f0d83-0106-4927-8ab7-87b84f13acdf",
+        "date": "2025-08-12",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "How can you chance building something like this, something this dangerous, right in your wellhead water field?",
+        "source": "Tim Kline, St. Charles farmer",
+        "url": "https://www.ksdk.com/article/tech/science/environment/construction-massive-data-center-in-st-charles-impact-on-water-supply/63-ff2f0d83-0106-4927-8ab7-87b84f13acdf",
+        "date": "2025-08-12",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "The developers have refused to disclose several important details of the plan and are avoiding accountability and public transparency,",
+        "source": "Petition organizers, Stop the Hazardous Data Center petition",
+        "url": "https://www.ksdk.com/article/money/economy/energy/missouri-controversial-data-center-st-charles-petition-public-meeting-thursday/63-2b4cf5b9-8b2e-434b-a1c5-ce08e2603618",
+        "date": "2025-08-08",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "This is not about technology, it’s about misplaced industrial development in the heart of a residential, family-centered community.",
+        "source": "Petition organizers, Stop the Hazardous Data Center petition",
+        "url": "https://www.ksdk.com/article/money/economy/energy/missouri-controversial-data-center-st-charles-petition-public-meeting-thursday/63-2b4cf5b9-8b2e-434b-a1c5-ce08e2603618",
+        "date": "2025-08-08",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "There is no acceptable version of this project. No mitigation. No compromise.",
+        "source": "Petition organizers, Stop the Hazardous Data Center petition",
+        "url": "https://www.ksdk.com/article/money/economy/energy/missouri-controversial-data-center-st-charles-petition-public-meeting-thursday/63-2b4cf5b9-8b2e-434b-a1c5-ce08e2603618",
+        "date": "2025-08-08",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "They’ll evaluate it, and they’ll either decide to support the nay vote or they’ll override it,",
+        "source": "Dan Borgmeyer, St. Charles Mayor",
+        "url": "https://www.stlmag.com/business/st-charles-data-center/",
+        "date": "2025-07-14",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "This will come up again and again,",
+        "source": "Dan Borgmeyer, St. Charles Mayor",
+        "url": "https://www.stlmag.com/business/st-charles-data-center/",
+        "date": "2025-07-14",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Hazardous materials like petroleum pose a permanent contamination risk,",
+        "source": "Bob Burns, resident",
+        "url": "https://www.stlmag.com/business/st-charles-data-center/",
+        "date": "2025-07-14",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I don’t understand why they’re coming to the bottoms with this,",
+        "source": "Tim Klein, farmer on Huster Road",
+        "url": "https://www.stlmag.com/business/st-charles-data-center/",
+        "date": "2025-07-14",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "The developer, they just don’t want to say,",
+        "source": "Dan Borgmeyer, St. Charles Mayor",
+        "url": "https://www.stlmag.com/business/st-charles-data-center/",
+        "date": "2025-07-14",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It is a serious investment with 440 acres,",
+        "source": "Dan Borgmeyer, St. Charles Mayor",
+        "url": "https://www.ksdk.com/article/tech/science/environment/construction-massive-data-center-in-st-charles-impact-on-water-supply/63-ff2f0d83-0106-4927-8ab7-87b84f13acdf",
+        "date": "2025-07-14",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "It's land that's lain fallow for probably 50 years and will probably lie fallow for another 50 years if we don't do something like this.",
+        "source": "Dan Borgmeyer, St. Charles Mayor",
+        "url": "https://www.ksdk.com/article/tech/science/environment/construction-massive-data-center-in-st-charles-impact-on-water-supply/63-ff2f0d83-0106-4927-8ab7-87b84f13acdf",
+        "date": "2025-07-14",
+        "stance": "support",
+        "emotion": "hope"
+      }
+    ],
+    "facts": [
+      "All 10 St. Charles City Council members signed on to a bill for a one-year moratorium on data center applications",
+      "Special session scheduled for 2 p.m. Friday (Aug 22, 2025) to vote on the moratorium",
+      "Developers withdrew their application 24 hours before a Tuesday council meeting",
+      "Over 5,500 residents pushed back against the data center",
+      "Public comment at special session limited to three minutes each",
+      "Project Cumulus withdrew its conditional use permit application ahead of the August 19, 2025 St. Charles City Council meeting",
+      "Over 5,500 residents pushed back against the project",
+      "Petition 'Stop the Hazardous Data Center' got nearly 5,000 signatures within a week",
+      "Project would have used 125 diesel generators",
+      "Mayor Borgmeyer withdrew his support after the open house",
+      "Gateway Patriots planned a protest at the Saint Charles Convention Center on Tuesday.",
+      "St. Charles City Council was to vote on the data center project Tuesday evening at 7:00.",
+      "Council meeting was moved because of the large expected crowd.",
+      "Residents allege threats to water supply, dozens of diesel generators, electromagnetic fields and wildlife disruption.",
+      "The proposed data center covers 440 acres in St. Charles, Missouri.",
+      "St. Charles City Council planned to vote on zoning approvals on the Tuesday after the Aug. 14, 2025 open house.",
+      "Residents wore red shirts to the open house to show opposition.",
+      "Clayco has built three data centers in St. Charles for Centene, BJC Healthcare and CitiMortgage.",
+      "Residents fear water contamination, higher energy prices and lower property values.",
+      "Proposed data center covers 440 acres off Highway 370 and Hayford Road in St. Charles",
+      "St. Charles City Council planned to vote on zoning approvals the Tuesday after the Aug. 14, 2025 open house",
+      "Site is about 600 feet from a resident's home",
+      "CRG Cumulus is a registered agent of Clayco, which built data centers in St. Charles for Centene, BJC Healthcare and CitiMortgage",
+      "Residents fear water contamination, higher energy prices and lower property values",
+      "On July 14, 2025 the St. Charles planning and zoning commission denied a hazardous substance handling permit by one vote but approved a site plan permit.",
+      "Project Cumulus site is 440 acres near Highway 370, Harry S. Truman Boulevard and Elm Point Road.",
+      "60% of St. Charles' water is local from the Elm Point Road plant; 40% is bought from the City of St. Louis.",
+      "Public open house set for 5-7 p.m. Thursday at the Foundry Art Center; final council vote expected the following Tuesday at 7 p.m.",
+      "Petition against the proposed St. Charles data center gained nearly 700 signatures in under 24 hours",
+      "Proposed site is located in a protected wellhead zone near residential neighborhoods",
+      "City officials scheduled an open house to address public concerns",
+      "Planning and Zoning Commission denied the hazardous substance handling permit by one vote on July 14, 2025, but approved the site plan",
+      "Project Cumulus is a 440-acre site referenced in city documents since at least March 2025",
+      "Petition gained nearly 700 signatures in 24 hours and just under 3,000 by the following Monday",
+      "Open house scheduled Aug. 14, 2025, 5-7 p.m. at the Foundry Art Centre",
+      "Petition asks City Council to reject all future permits and zoning approvals for the project",
+      "Planning and Zoning Commission voted July 14, 2025 to recommend the data center site plan for approval.",
+      "Commission denied a recommendation for the Conditional Use Permit for liquid petroleum products and electrical power generators.",
+      "Proposed site is 440 acres north and south of Highway 370 between Huster Road and Harry S Truman Boulevard.",
+      "Both items will now go to the city council for a vote."
+    ],
+    "groups": [
+      {
+        "name": "Good Government Committee",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18T16:44:54.000Z"
+      },
+      {
+        "name": "Stop the Hazardous Data Center petition",
+        "url": "https://www.ksdk.com/article/news/local/st-charles-data-center-is-dead-canceled-developers-withdraw-offer/63-7ef14448-0ab6-4144-8ebd-6ef6a3c39841",
+        "date": "2025-08-18T16:44:54.000Z"
+      },
+      {
+        "name": "Gateway Patriots",
+        "url": "https://www.audacy.com/kmox/news/local/st-charles-group-says-no-to-data-center",
+        "date": "2025-08-18T01:59:50.000Z"
+      },
+      {
+        "name": "Greater St. Louis Inc.",
+        "url": "https://www.kcur.org/housing-development-section/2025-08-17/st-charles-data-center-secret-project",
+        "date": "2025-08-17T06:39:47.000Z"
+      },
+      {
+        "name": "Petition against St. Charles data center",
+        "url": "https://newsletter.stcharlesspotlight.com/n/st-charles-data-center-sparks-environmental-battle",
+        "date": "2025-08-11T00:00:00.000Z"
+      }
+    ]
+  },
+  "29219": {
+    "news": [
+      {
+        "title": "Smaller ‘edge site’ data centers discussed at Warren County Commission meeting - Warren County Record",
+        "url": "https://www.warrencountyrecord.com/stories/smaller-edge-site-data-centers-discussed-at-warren-county-commission-meeting,205134",
+        "date": "2026-08-07T10:00:00.000Z",
+        "source": "Warren County Record",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "I see these data centers as snake oil salesmen that come here to try to sell us things that will destroy our life, or our lifestyle, I should say.",
+        "source": "Rene Lambert",
+        "url": "https://www.warrencountyrecord.com/stories/smaller-edge-site-data-centers-discussed-at-warren-county-commission-meeting,205134",
+        "date": "2026-07-28",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "If they're going to keep building these data centers, what's going to happen if they continue to take our water?",
+        "source": "Nathan Knuffman",
+        "url": "https://www.warrencountyrecord.com/stories/smaller-edge-site-data-centers-discussed-at-warren-county-commission-meeting,205134",
+        "date": "2026-07-28",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Our focus these days really is these sub-50-megawatt-size projects, so much smaller than what you guys have seen in the news,",
+        "source": "Dan Curry, vice president of data center development with Oppidan Connect Data Centers",
+        "url": "https://www.warrencountyrecord.com/stories/smaller-edge-site-data-centers-discussed-at-warren-county-commission-meeting,205134",
+        "date": "2026-07-28",
+        "stance": "support",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Dan Curry of Oppidan Connect Data Centers presented to the Warren County Commission on July 28, 2026, and said Oppidan has not acquired land in Warren County",
+      "Amazon and Google data centers are currently under development in Montgomery County, while Crusoe Energy Systems is working on a project in Warrenton, according to the article",
+      "Jess Sutton said there is already data center-owned property in the county and raised concerns about a related party tied to the community contact"
+    ],
+    "groups": []
+  }
+}

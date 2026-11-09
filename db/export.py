@@ -6,6 +6,7 @@ Layer GeoJSON files are not written here; they go straight to map/data/layers/.
 
 import json
 import sqlite3
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -22,12 +23,17 @@ def main():
     con.row_factory = sqlite3.Row
 
     counties = {}
+    feed = Counter()  # national panel: items per kind, day, stance and emotion (feed.json)
     for c in rows(con, "SELECT * FROM counties ORDER BY fips"):
         fips = c.pop("fips")
         items = rows(con, "SELECT * FROM items WHERE fips = ? ORDER BY date DESC", fips)
 
         def pick(kind, *keys):
             return [{k: i[k] for k in keys} for i in items if i["kind"] == kind]
+
+        for i in items:
+            if i["kind"] in ("news", "social", "quote"):
+                feed[(i["kind"], i["date"] and i["date"][:10], i["stance"], None if i["kind"] == "news" else i["emotion"])] += 1
 
         groups, seen = [], set()  # one entry per group name (the extractor stores the plain name in `source`)
         for i in items:
@@ -72,6 +78,22 @@ def main():
         }
 
     rounds = rows(con, "SELECT round, accuracy, n FROM rounds ORDER BY round")
+
+    # the first load holds only what the US view needs; the feeds of a state load when it is selected (map/README.md)
+    details = {}
+    for f, c in counties.items():
+        details.setdefault(c["state"], {})[f] = {k: c.pop(k) for k in ("news", "social", "quotes", "facts", "groups")}
+    (OUT / "details").mkdir(exist_ok=True)
+    for st, d in details.items():
+        (OUT / "details" / f"{st}.json").write_text(json.dumps(d, indent=2, ensure_ascii=False) + "\n")
+    print(f"map/data/details/: {len(details)} states")
+
+    feed_rows = [
+        {"kind": k, "date": d, "stance": s, "emotion": e, "n": n}
+        for (k, d, s, e), n in sorted(feed.items(), key=lambda kv: tuple(x or "" for x in kv[0]))
+    ]
+    (OUT / "feed.json").write_text("[\n" + ",\n".join(json.dumps(r) for r in feed_rows) + "\n]\n")  # one row per line
+    print(f"map/data/feed.json: {len(feed_rows)}")
 
     for name, data in [("counties", counties), ("projects", projects), ("states", states), ("rounds", rounds)]:
         (OUT / f"{name}.json").write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")

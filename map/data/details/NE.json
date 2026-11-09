@@ -1,0 +1,169 @@
+{
+  "31025": {
+    "news": [
+      {
+        "title": "Cass County approves new power limit restricting data centers - KETV",
+        "url": "https://www.ketv.com/article/cass-county-commissioners-approve-data-center-development/74324610",
+        "date": "2026-11-04T00:25:00.000Z",
+        "source": "KETV",
+        "stance": "oppose"
+      },
+      {
+        "title": "Cass County commissioners pause new data centers for year amid neighbor concerns",
+        "url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns",
+        "date": "2026-08-11T21:49:39.000Z",
+        "source": "KMTV",
+        "stance": "oppose"
+      },
+      {
+        "title": "Cass County Board of Commissioners unanimously vote for data center moratorium",
+        "url": "https://www.klkntv.com/cass-county-board-of-commissioners-unanimously-vote-for-data-center-moratorium/",
+        "date": "2026-08-11T00:00:00.000Z",
+        "source": "KLKN",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "The board has eliminated class three, and that was wonderful. They are trying their best to slow this down,",
+        "source": "Jeanette Freel, Cass County native",
+        "url": "https://www.ketv.com/article/cass-county-commissioners-approve-data-center-development/74324610",
+        "date": "2026-11-04T00:25:00.000Z",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "While local governments have an important role in land-use planning, responsibility for electric service, system planning, and grid reliability rests with Nebraska's public power utilities.",
+        "source": "OPPD, utility",
+        "url": "https://www.ketv.com/article/cass-county-commissioners-approve-data-center-development/74324610",
+        "date": "2026-11-04T00:25:00.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "It would change our entire quality of life,",
+        "source": "Lisa Hild",
+        "url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns",
+        "date": "2026-08-11T21:49:39.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "There's a lot of worry about water usage, there's worry about electricity usage,",
+        "source": "Jayden Speed",
+        "url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns",
+        "date": "2026-08-11T21:49:39.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Obviously, it generates the tax revenue, but I've seen a lot of donations to specifically like, the schools and specific organizations for community betterment,",
+        "source": "Eric Klein",
+        "url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns",
+        "date": "2026-08-11T21:49:39.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Look at the uptick of the communities (with data centers) from the inflow of dollars. It's helped them immensely,",
+        "source": "Mike Dale",
+        "url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns",
+        "date": "2026-08-11T21:49:39.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "It just doesn't seem like rural Cass County is the place to build a data center right now,",
+        "source": "Lisa Hild",
+        "url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns",
+        "date": "2026-08-11T21:49:39.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Cass County commissioners approved Resolution No. 2026-11 limiting electricity usage of future data centers to 15 megawatts",
+      "The county has a 12-month moratorium on data centers that remains in place and expires next August unless commissioners lift it",
+      "There are currently no approved data centers in Cass County",
+      "Cass County commissioners voted for a 12-month pause on new data centers",
+      "Commissioners voted to postpone a resolution regulating data centers",
+      "Tenaska has optioned land near a Cass County farm as a possible data center site",
+      "A data center representative reportedly offered upwards of $70,000 an acre for land, per a resident",
+      "Cass County Board of Commissioners voted 5-0 to approve a 12-month moratorium on data center permits on August 11, 2026",
+      "Proposed data center regulations were tabled until Sep. 22"
+    ],
+    "groups": [
+      {
+        "name": "Cass County Data Center Watch",
+        "url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns",
+        "date": "2026-08-11T21:49:39.000Z"
+      }
+    ]
+  },
+  "31055": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "31109": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "31119": {
+    "news": [
+      {
+        "title": "Madison County amends land use matrix to require conditional use permits for data centers | Select | norfolkdailynews.com",
+        "url": "https://norfolkdailynews.com/select/madison-county-amends-land-use-matrix-to-require-conditional-use-permits-for-data-centers/article_2f9bf933-e986-481c-bdde-e944aef936a1.html",
+        "date": "2026-05-06T15:17:00.000Z",
+        "source": "norfolkdailynews.com",
+        "stance": "neutral"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "The ultimate goal would be to ban them, period,",
+        "source": "Kimberly Davis, Norfolk resident",
+        "url": "https://norfolkdailynews.com/select/madison-county-amends-land-use-matrix-to-require-conditional-use-permits-for-data-centers/article_2f9bf933-e986-481c-bdde-e944aef936a1.html",
+        "date": "2026-05-06",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "So I did not want that to happen with us,",
+        "source": "Heather McWhorter, Madison County planning and zoning administrator",
+        "url": "https://norfolkdailynews.com/select/madison-county-amends-land-use-matrix-to-require-conditional-use-permits-for-data-centers/article_2f9bf933-e986-481c-bdde-e944aef936a1.html",
+        "date": "2026-05-06",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Right now, if we don't change anything and a data center wants to come in and apply as light industrial, they can, and the only thing they got to do is get a building permit,",
+        "source": "Eric Stinson, county commissioner",
+        "url": "https://norfolkdailynews.com/select/madison-county-amends-land-use-matrix-to-require-conditional-use-permits-for-data-centers/article_2f9bf933-e986-481c-bdde-e944aef936a1.html",
+        "date": "2026-05-06",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "Madison County Board of Commissioners voted 3-0 to amend the land use matrix to make industrial data center a conditional use in agriculture intensive, general agriculture and industrial districts",
+      "Geronimo Power is considering roughly 1,000 acres in Northeast Nebraska counties for a data center; the county has not received any applications",
+      "Woolery said discussions were very preliminary and planning could take more than a year"
+    ],
+    "groups": []
+  },
+  "31153": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { MapRef } from "react-map-gl/maplibre";
 import type { FeatureCollection } from "geojson";
-import { INFRA, LAYERS, MODEL_LAYERS, RAMP, STATUSES, STATUS_LABEL, bbox, isBaseline, isPredicted, loadData, loadLayer, type Data, type Geo, type RegionFeature, type Status } from "./data";
+import { INFRA, LAYERS, MODEL_LAYERS, RAMP, STATUSES, STATUS_LABEL, bbox, isBaseline, isPredicted, loadData, loadDetails, loadLayer, withDetails, type Data, type Details, type Geo, type RegionFeature, type Status } from "./data";
 import { DEFAULT_FILTERS, inWindow, type Action, type Selection, type WindowSpec } from "./state";
 import MapView, { US_BOUNDS } from "./MapView";
 import { CountyView, InfraView, NationalView, NewsView, ProjectView, RoundsView, StateView, type ViewProps } from "./Panels";
@@ -54,9 +54,17 @@ function Skeleton() {
   );
 }
 
-function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: Record<string, FeatureCollection | null> }) {
+// Shareable links: #county/48453 or #state/TX
+const fromHash = (): Selection => {
+  const m = location.hash.match(/^#(state|county)\/([A-Z]{2}|\d{5})$/);
+  return m ? { kind: m[1] as "state" | "county", id: m[2] } : null;
+};
+
+function Dashboard({ data: base, geo, layerData }: { data: Data; geo: Geo; layerData: Record<string, FeatureCollection | null> }) {
   const mapRef = useRef<MapRef>(null);
-  const [selection, setSelection] = useState<Selection>(null);
+  const [details, setDetails] = useState<Record<string, Details>>({}); // by state code
+  const data = useMemo(() => withDetails(base, details), [base, details]);
+  const [selection, setSelection] = useState<Selection>(fromHash);
   const [filters, setFilters] = useState(DEFAULT_FILTERS);
   const [highlighted, setHighlighted] = useState<string[]>([]);
   const [windows, setWindows] = useState<WindowSpec[]>([]); // last = on top
@@ -95,6 +103,16 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
     if (s && fly) flyTo(s.kind, s.id);
     if (!s && fly) mapRef.current?.fitBounds(US_BOUNDS, { padding: 24, duration: 1200, bearing: 0, pitch: 0 });
   };
+
+  useEffect(() => {
+    history.replaceState(null, "", selection ? `#${selection.kind}/${selection.id}` : location.pathname + location.search);
+  }, [selection]);
+  // a link pasted into the open tab, or back/forward
+  useEffect(() => {
+    const on = () => select(fromHash());
+    addEventListener("hashchange", on);
+    return () => removeEventListener("hashchange", on);
+  }, []);
 
   // never zooms out: a click at street level only re-centers
   const flyToSite = (lon: number, lat: number) =>
@@ -259,6 +277,12 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
   const focusProject = (topProject && data.projects.find((x) => x.name === topProject.id)) ?? null;
   const stateId = selection?.kind === "state" ? selection.id : selection ? data.counties[selection.id]?.state ?? regions.get(`county:${selection.id}`)?.properties.state : undefined;
 
+  // the feeds of a state load when the state or one of its counties is selected
+  useEffect(() => {
+    if (!stateId || details[stateId]) return;
+    loadDetails(stateId).then((d) => setDetails((x) => ({ ...x, [stateId]: d })));
+  }, [stateId]);
+
   const windowTitle = (w: WindowSpec) =>
     w.kind === "rounds"
       ? "Learning loop"
@@ -293,6 +317,7 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
           }}
           onZoomOut={() => setSelection(null)}
           onHome={() => select(null)}
+          onReady={() => selection && flyTo(selection.kind, selection.id)}
         />
 
         <button className={`filter-btn${drawer ? " on" : ""}`} onClick={() => setDrawer(!drawer)} aria-expanded={drawer}>

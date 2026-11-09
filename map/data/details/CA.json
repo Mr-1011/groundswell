@@ -1,0 +1,984 @@
+{
+  "06009": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "06025": {
+    "news": [
+      {
+        "title": "Tensions flare during Board of Supervisors meeting over proposed data center | News | thedesertreview.com",
+        "url": "https://www.thedesertreview.com/news/tensions-flare-during-board-of-supervisors-meeting-over-proposed-data-center/article_7a2f87ef-905a-4c05-8509-a781af3a9646.html",
+        "date": "2026-11-06T00:15:00.000Z",
+        "source": "The Desert Review",
+        "stance": "oppose"
+      },
+      {
+        "title": "Residents speak out against proposed data center in Imperial County - Los Angeles Times",
+        "url": "https://www.latimes.com/california/story/2026-03-27/residents-speak-out-against-proposed-data-center-in-imperial-county",
+        "date": "2026-03-28T02:23:48.000Z",
+        "source": "Los Angeles Times",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts - Los Angeles Times",
+        "url": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts",
+        "date": "2026-03-23T10:00:00.000Z",
+        "source": "Los Angeles Times",
+        "stance": "oppose"
+      },
+      {
+        "title": "Imperial County Residents Protest against Proposed $10 Billion Data Center near Imperial — 760 News Media l The only good news in the Imperial Valley",
+        "url": "https://www.760newsmedia.com/local-news/imperial-county-residents-protest-against-proposed-10-billion-data-center-near-imperial",
+        "date": "2026-01-15T01:10:52.000Z",
+        "source": "760 News Media",
+        "stance": "oppose"
+      }
+    ],
+    "social": [
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@calmatters/video/7657711913404599583",
+        "text": "This million-square-foot data center in Imperial County would be the biggest in the state. County leaders initially approved it, but now local leaders are challenging it.\n\nThe project recently came to a halt when the county board walked back its decision, declaring a 45-day moratorium on data centers and forming a public commission to advise the county on zoning policy for the facilities.\n\nTheir reversal came after months of backlash, and a more than hour-long public hearing in which residents voiced sharp criticism of the sweeping project and its swift approval.\n\nThe developer, Sebastian Rucci, said he’s filing a lawsuit to seek a temporary restraining order against the moratorium, arguing that the county failed to show a true emergency, explain what harms and impacts it will cause, and what specific concerns residents have raised.\n\nAudio credits:\nSurprise, shock, garn! (Okehi)(901710), Yatto_Aetane\nWoosh, Official Sound Studio\nPop. Sound to open the lid, stopper, cap (high), MANURE S",
+        "date": "2026-07-01T23:53:34.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/aiecosystem/comments/1ub6cj1/imperial_valley_residents_runs_data_center/",
+        "text": "Imperial Valley residents runs Data Center Developer Out of County Meeting\n\nFull meeting here: https://youtube.com/watch?v=1wRcjM5-\\_\\_g&ra=m\nNo Data Center’ Chants Ring Out at Imperial County Board Meeting\nMay 28, 2026\nE**L CENTRO** — Imperial Valley residents held “Not In My Backyard” signs and chanted “No Data Centers,” demonstrating overwhelming opposition to the proposed hyperscale AI data center as they gathered for a special Board of Supervisors meeting on Thursday evening, March 26.\nThe 6 p.m. meeting quickly reached capacity before it even began, prompting the county to open two overflow rooms where people could watch and make public comments via livestream. These overflow rooms reached capacity by the time the meeting began, leaving out more than 50 people who would then gather in the administration building parking lot.\n“This community will remember who stood with the people and who stood with the developer; this community will remember the decisions made here and will respo",
+        "date": "2026-06-20T20:14:58.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/fuck_ai_slop/comments/1uavznk/imperial_valley_residents_runs_data_center/",
+        "text": "Imperial Valley residents runs Data Center Developer Out of County Meeting\n\nFull meeting here: https://youtube.com/watch?v=1wRcjM5-\\_\\_g&ra=m\n‘No Data Center’ Chants Ring Out at Imperial County Board Meeting\nMay 28, 2026\nE L CENTRO — Imperial Valley residents held “Not In My Backyard” signs and chanted “No Data Centers,” demonstrating overwhelming opposition to the proposed hyperscale AI data center as they gathered for a special Board of Supervisors meeting on Thursday evening, March 26.\nThe 6 p.m. meeting quickly reached capacity before it even began, prompting the county to open two overflow rooms where people could watch and make public comments via livestream. These overflow rooms reached capacity by the time the meeting began, leaving out more than 50 people who would then gather in the administration building parking lot.\n“This community will remember who stood with the people and who stood with the developer; this community will remember the decisions made here and will respond",
+        "date": "2026-06-20T12:57:52.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "When lawsuits forced these projects to halt, when courts ruled that the county broke the law and demanded full environmental reviews under CEQA, the speculative house of cards collapsed.",
+        "source": "Jake Tison, anti-data center activist",
+        "url": "https://www.thedesertreview.com/news/tensions-flare-during-board-of-supervisors-meeting-over-proposed-data-center/article_7a2f87ef-905a-4c05-8509-a781af3a9646.html",
+        "date": "2026-11-03",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "The court did not find that the board acted illegally.",
+        "source": "Kris Becker, County Counsel",
+        "url": "https://www.thedesertreview.com/news/tensions-flare-during-board-of-supervisors-meeting-over-proposed-data-center/article_7a2f87ef-905a-4c05-8509-a781af3a9646.html",
+        "date": "2026-11-03",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "I have recently been accused of accepting donations from a company associated with a data center, which is not true.",
+        "source": "Peggy Price, Imperial County Supervisor",
+        "url": "https://www.thedesertreview.com/news/tensions-flare-during-board-of-supervisors-meeting-over-proposed-data-center/article_7a2f87ef-905a-4c05-8509-a781af3a9646.html",
+        "date": "2026-11-03",
+        "stance": "neutral",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Satisfying the NIMBYs and satisfying your committee that met last night regarding data centers was a mandatory requirement of them, and now you are hearing that they don't want that because they just don't want anything.",
+        "source": "Matt Dessert, resident of El Centro",
+        "url": "https://www.thedesertreview.com/news/tensions-flare-during-board-of-supervisors-meeting-over-proposed-data-center/article_7a2f87ef-905a-4c05-8509-a781af3a9646.html",
+        "date": "2026-11-03",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This community will remember who stood with the people and who stood with the developer; this community will remember the decisions made here and will respond accordingly through public process, public record, and at the ballot box,",
+        "source": "Franscico Leal",
+        "url": "https://www.reddit.com/r/fuck_ai_slop/comments/1uavznk/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T12:57:52.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "As soon as the data center started getting put in, we could already see it doubled or tripled its speed; that's an issue that we need to at least get investigated, because if I have to get 3 to 4 more degrees in our 120 degrees, I'm gonna be paying a lot more than $25 to get that AC going back up,",
+        "source": "Jared Sanchez, a school teacher and resident of Imperial County",
+        "url": "https://www.reddit.com/r/fuck_ai_slop/comments/1uavznk/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T12:57:52.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Open AI itself has lost $16 billion, with a B, since 2023. What's the developer's plan in the event that the AI industry collapses?",
+        "source": "Ian Hayasaka, an electrical engineering student",
+        "url": "https://www.reddit.com/r/fuck_ai_slop/comments/1uavznk/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T12:57:52.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "The data center is soaking up all of Nevada's energy. 49,000 people are losing their utility company because they can't afford the electricity, because the data center is getting it and I don't want that to happen here.",
+        "source": "Shirley Mah, a lifelong Imperial Valley resident",
+        "url": "https://www.reddit.com/r/fuck_ai_slop/comments/1uavznk/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T12:57:52.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "He's posturing in front of us that he's putting all his money and time to get this project done as if he is doing us a favor, but Rucci enjoys the lawsuits, he enjoys the smalltown drama this is not extraneous labor for him, this is all part of his process, he thinks we are stupid and most importantly that you guys are stupid,",
+        "source": "Reina Adame",
+        "url": "https://www.reddit.com/r/fuck_ai_slop/comments/1uavznk/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T12:57:52.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "I understand about being part of the community, I do, but we can't just block out one sector of your constituents; we're all taxpayers, we all live here,",
+        "source": "Jose Garcia, representing Laborers International Union of America Local 1184",
+        "url": "https://www.reddit.com/r/fuck_ai_slop/comments/1uavznk/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T12:57:52.000Z",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This project does not exist in isolation; it impacts real neighborhoods, families and schools and is also setting a precedent for how you treat your constituent",
+        "source": "Unnamed speaker",
+        "url": "https://www.latimes.com/california/story/2026-03-27/residents-speak-out-against-proposed-data-center-in-imperial-county",
+        "date": "2026-03-26",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "This community will remember who stood with the people and who stood with the developer; this community will remember the decisions made here and will respond accordingly through public process, public record, and at the ballot box.",
+        "source": "Franscico Leal, public commenter",
+        "url": "https://www.reddit.com/r/aiecosystem/comments/1ub6cj1/imperial_valley_residents_runs_data_center/",
+        "date": "2026-03-26",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "As soon as the data center started getting put in, we could already see it doubled or tripled its speed; that's an issue that we need to at least get investigated, because if I have to get 3 to 4 more degrees in our 120 degrees, I'm gonna be paying a lot more than $25 to get that AC going back up,",
+        "source": "Jared Sanchez, school teacher and resident of Imperial County",
+        "url": "https://www.reddit.com/r/aiecosystem/comments/1ub6cj1/imperial_valley_residents_runs_data_center/",
+        "date": "2026-03-26",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "There's no work for him right now; he has to travel out to San Diego or to Riverside County to find work.",
+        "source": "Jose Garcia, representing Laborers International Union of America Local 1184",
+        "url": "https://www.reddit.com/r/aiecosystem/comments/1ub6cj1/imperial_valley_residents_runs_data_center/",
+        "date": "2026-03-26",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I understand about being part of the community, I do, but we can't just block out one sector of your constituents; we're all taxpayers, we all live here,",
+        "source": "Jose Garcia, representing Laborers International Union of America Local 1184",
+        "url": "https://www.reddit.com/r/aiecosystem/comments/1ub6cj1/imperial_valley_residents_runs_data_center/",
+        "date": "2026-03-26",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "A lot of people in the county are asthmatic,",
+        "source": "Fernanda Camarillo, 27-year-old resident living behind the proposed site",
+        "url": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts",
+        "date": "2026-03-23",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "I’ve been anxious — so many of us are voicing our concerns.",
+        "source": "Fernanda Camarillo, 27-year-old resident living behind the proposed site",
+        "url": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts",
+        "date": "2026-03-23",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "We're against the way they're trying to do it. Do it right.",
+        "source": "Francisco Leal, resident and project manager",
+        "url": "https://www.760newsmedia.com/local-news/imperial-county-residents-protest-against-proposed-10-billion-data-center-near-imperial",
+        "date": "2026-01-14",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "It will not stop at just one data center.",
+        "source": "Gilberto Manzanares, community organizer, founder of VALLE IMPERIAL RESISTE",
+        "url": "https://www.760newsmedia.com/local-news/imperial-county-residents-protest-against-proposed-10-billion-data-center-near-imperial",
+        "date": "2026-01-14",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We're just a coalition of neighbors.",
+        "source": "Francisco Leal, resident",
+        "url": "https://www.760newsmedia.com/local-news/imperial-county-residents-protest-against-proposed-10-billion-data-center-near-imperial",
+        "date": "2026-01-14",
+        "stance": "oppose",
+        "emotion": "pride"
+      }
+    ],
+    "facts": [
+      "Imperial County Board of Supervisors meeting on Nov. 3, 2026 saw confrontations over the proposed data center and deputies intervened",
+      "A court judgment found a CEQA procedural error, not illegality, and the county's lot merger and road vacation were treated as exempt from environmental review",
+      "Writ of mandate dated 2026-09-20 sets aside Resolution 2026-057 and 2026-056 and requires an environmental impact report before reapproval",
+      "Allegations that Supervisor Peggy Price accepted a campaign donation from a company tied to the data center remain unverified and she denies them",
+      "Imperial County board approved the million-square-foot data center, then walked back its decision and declared a 45-day moratorium on data centers",
+      "County also formed a public commission to advise on zoning policy for data centers",
+      "Developer Sebastian Rucci said he is filing a lawsuit arguing the county failed to show a true emergency",
+      "Special Board of Supervisors meeting on Thursday, March 26 reached capacity; more than 50 people gathered outside in the administration building parking lot",
+      "In November 2025 the county granted the data center project a CEQA exemption",
+      "Development Management Group's presentation found the project would create between 100 and 200 permanent direct operation jobs",
+      "Developer Sebastian Rucci left the meeting during a recess amid 'No Data Centers' chants",
+      "County granted the data center project a CEQA exemption in November 2025",
+      "Developer's presentation said the project would be a 950,000-square-foot AI data center at West Aten Road and Clark Road",
+      "Economic consultant Mike Bracken's findings concluded the project would create between 100 and 200 permanent direct operation jobs",
+      "Special Board of Supervisors meeting on the project reached capacity, with overflow rooms also full and more than 50 people gathering outside",
+      "Opponents demanded the board reject the ministerial classifications, require full CEQA review, and impose a moratorium on data centers",
+      "Imperial County Board of Supervisors held a Thursday meeting to solicit feedback on a proposed data center",
+      "The proposed data center is 950,000 square feet and located near the city of Imperial",
+      "The plan would move forward without a state environmental review",
+      "Speakers were overwhelmingly opposed, citing health and environmental concerns",
+      "Proposed 950,000-square-foot data center in Imperial, Calif., has drawn fierce community opposition",
+      "The Imperial County facility received an exemption from environmental review",
+      "Residents fear impacts on air quality and rising utility bills",
+      "Imperial County residents protested a proposed $10 billion data center near Imperial on Saturday, January 10, 2026 in El Centro",
+      "Protesters planned to attend a county workshop on the 14th at 6 p.m. at the Imperial County Board of Supervisors chamber",
+      "Developers cited the closure of Spreckels Sugar plant, which they said removed about $243 million annually and more than 700 jobs"
+    ],
+    "groups": [
+      {
+        "name": "Sierra Club",
+        "url": "https://www.thedesertreview.com/news/tensions-flare-during-board-of-supervisors-meeting-over-proposed-data-center/article_7a2f87ef-905a-4c05-8509-a781af3a9646.html",
+        "date": "2026-11-06T00:15:00.000Z"
+      },
+      {
+        "name": "City of Imperial",
+        "url": "https://www.thedesertreview.com/news/tensions-flare-during-board-of-supervisors-meeting-over-proposed-data-center/article_7a2f87ef-905a-4c05-8509-a781af3a9646.html",
+        "date": "2026-11-06T00:15:00.000Z"
+      },
+      {
+        "name": "Imperial Valley residents opposing the AI data center",
+        "url": "https://www.reddit.com/r/aiecosystem/comments/1ub6cj1/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T20:14:58.000Z"
+      },
+      {
+        "name": "Laborers International Union of America Local 1184",
+        "url": "https://www.reddit.com/r/aiecosystem/comments/1ub6cj1/imperial_valley_residents_runs_data_center/",
+        "date": "2026-06-20T20:14:58.000Z"
+      },
+      {
+        "name": "Not In My Backyard Imperial (NIMBY Imperial)",
+        "url": "https://www.760newsmedia.com/local-news/imperial-county-residents-protest-against-proposed-10-billion-data-center-near-imperial",
+        "date": "2026-01-15T01:10:52.000Z"
+      },
+      {
+        "name": "VALLE IMPERIAL RESISTE",
+        "url": "https://www.760newsmedia.com/local-news/imperial-county-residents-protest-against-proposed-10-billion-data-center-near-imperial",
+        "date": "2026-01-15T01:10:52.000Z"
+      }
+    ]
+  },
+  "06029": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "06037": {
+    "news": [
+      {
+        "title": "SGV residents unite in fight against proposed data center | Environmental | calonews.com",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z",
+        "source": "calonews.com",
+        "stance": "oppose"
+      },
+      {
+        "title": "Local residents orchestrate impressive takedown of massive data center project",
+        "url": "https://www.thecooldown.com/green-business/opposition-to-data-center-in-monterey-park/",
+        "date": "2026-03-22T16:00:00.000Z",
+        "source": "The Cool Down",
+        "stance": "oppose"
+      },
+      {
+        "title": "Puente Hills Mall may soon be transformed into battery energy storage facilities, sparks environmental and economic concerns - ABC7 Los Angeles",
+        "url": "https://abc7.com/post/puente-hills-mall-may-soon-transformed-battery-energy-storage-facilities-sparks-environmental-economic-concerns/18654773/",
+        "date": "2026-02-27T00:00:00.000Z",
+        "source": "ABC7 Los Angeles",
+        "stance": "oppose"
+      },
+      {
+        "title": "California Data Center Map: 411 Facilities Tracked",
+        "url": "https://dcmap.us/states/california/",
+        "date": "2026-02-20T02:32:21.000Z",
+        "source": "dcmap.us",
+        "stance": "neutral"
+      },
+      {
+        "title": "Monterey Park Votes To Explore A Permanent Data Center Ban",
+        "url": "https://www.bisnow.com/news/los-angeles/data-center-development/monterey-park-data-center-ban-133138",
+        "date": "2026-02-09T20:49:00.000Z",
+        "source": "Bisnow",
+        "stance": "oppose"
+      },
+      {
+        "title": "Rage against the machine: a California community rallied against a datacenter – and won | Technology | The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/feb/07/california-monterey-park-stop-datacenter-construction",
+        "date": "2026-02-07T16:00:07.000Z",
+        "source": "The Guardian",
+        "stance": "oppose"
+      },
+      {
+        "title": "Voters could decide fate of proposed Monterey Park data center - ABC7 Los Angeles",
+        "url": "https://abc7.com/post/voters-could-decide-fate-proposed-monterey-park-data-center/18543627/",
+        "date": "2026-02-05T05:49:00.000Z",
+        "source": "ABC7 Los Angeles",
+        "stance": "oppose"
+      },
+      {
+        "title": "Data Center Boom Coming to San Gabriel Valley. Residents had no idea. - People's Tribune",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-02-02T04:54:41.000Z",
+        "source": "People's Tribune",
+        "stance": "oppose"
+      },
+      {
+        "title": "How Monterey Park residents pushed back on a data center | LAist",
+        "url": "https://laist.com/news/politics/how-monterey-park-residents-pushed-back-on-a-data-center-and-changed-the-conversation",
+        "date": "2026-01-25T14:12:27.000Z",
+        "source": "LAist",
+        "stance": "oppose"
+      },
+      {
+        "title": "Monterey Park neighbors push back on proposed data center, citing environmental and health concerns - ABC7 Los Angeles",
+        "url": "https://abc7.com/post/monterey-park-neighbors-push-back-proposed-data-center-citing-environmental-health-concerns/18445805/",
+        "date": "2026-01-22T06:44:41.000Z",
+        "source": "ABC7 Los Angeles",
+        "stance": "oppose"
+      },
+      {
+        "title": "A data center boom is coming to the San Gabriel Valley. Residents had no idea",
+        "url": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-01-14T18:44:59.000Z",
+        "source": "LA Public Press",
+        "stance": "oppose"
+      },
+      {
+        "title": "Southern California's unlikely AI mecca is this very industrial city - Los Angeles Times",
+        "url": "https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon",
+        "date": "2025-12-30T11:01:00.000Z",
+        "source": "Los Angeles Times",
+        "stance": "neutral"
+      },
+      {
+        "title": "Proposal for 250,000 sq ft data center in Monterey Park, California, facing opposition - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/proposal-for-250000-sq-ft-data-center-in-monterey-park-california-facing-opposition/",
+        "date": "2025-12-05T00:00:00.000Z",
+        "source": "DCD",
+        "stance": "oppose"
+      },
+      {
+        "title": "Monterey Park City Council tables proposal for massive ...",
+        "url": "https://www.cbsnews.com/losangeles/news/monterey-park-city-council-tables-proposal-for-massive-data-center/",
+        "date": "2025-12-04T06:39:00.000Z",
+        "source": "CBS Los Angeles",
+        "stance": "neutral"
+      },
+      {
+        "title": "Monterey Park    - 5774338",
+        "url": "https://projects.constructconnect.com/details/7058574-data-centers-new-construction&find_loc=california-91755",
+        "date": "2025-05-02T04:07:35.000Z",
+        "source": "ConstructConnect",
+        "stance": "neutral"
+      },
+      {
+        "title": "HMC files to develop data center in Los Angeles, California - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/hmc-files-to-develop-data-center-in-los-angeles-california/",
+        "date": "2025-04-09T00:00:00.000Z",
+        "source": "DatacenterDynamics",
+        "stance": "neutral"
+      },
+      {
+        "title": "Vacant Monterey Park Office Building to be Converted Into ...",
+        "url": "https://www.latimes.com/b2b/ai-technology/story/2024-12-20/vacant-monterey-park-office-building-to-be-converted-into-data-center",
+        "date": "2024-12-20T22:30:44.000Z",
+        "source": "Los Angeles Times",
+        "stance": "neutral"
+      },
+      {
+        "title": "Los Angeles Suburbs Are Data Center Developers' Newest Frontier",
+        "url": "https://www.bisnow.com/news/los-angeles/data-center/los-angeles-data-centers-vernon-monterey-park-el-segundo-127101",
+        "date": "2024-12-09T12:00:00.000Z",
+        "source": "Bisnow",
+        "stance": "neutral"
+      },
+      {
+        "title": "1977 Saturn Data Center Project",
+        "url": "https://ceqanet.lci.ca.gov/2024101397",
+        "date": "2024-10-31T03:34:35.000Z",
+        "source": "CEQAnet (California Governor's Office of Land Use and Climate Innovation)",
+        "stance": "neutral"
+      },
+      {
+        "title": "Project Overview",
+        "url": "https://www.montereyparkdatacenter.com/overview",
+        "date": "2018-12-11T15:15:52.000Z",
+        "source": "montereyparkdatacenter.com",
+        "stance": "support"
+      }
+    ],
+    "social": [
+      {
+        "platform": "reddit",
+        "url": "https://www.reddit.com/r/sgv/comments/1xiwiz6/puente_hills_mall_data_center_proposal_blueprint/",
+        "text": "Puente Hills Mall - Data Center proposal (blueprint)\n\nHere is a photo of the proposed Data Center for the Puente Hills Mall (once it is demolished). This data center is going to cause our utilities to SKYROCKET.\nThe City of Industry tried to fast-track this project under the radar with a quick, lightweight environmental review (just like Marici BESS across from Hacienda Heights). But the CEQA contractor blew the whistle on unmitigated noise and dangerous air pollution. Because they got caught, the City was forced to pull back its quick approval and is now legally required to conduct a full, deep-dive Environmental Impact Report.\nBehind closed doors, the City of Industry is quietly pushing through two massive redevelopment projects at the exact same time—the Puente Hills Mall site and the old Boomers site right next door. By reviewing them as separate projects instead of one huge overhaul, they are hiding the true, combined nightmare of truck traffic, noise, electrical grid overload, an",
+        "date": "2026-10-29T21:17:48.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "What they do in the City of Industry affects all these other cities touching the City of Industry, because it is basically shaped like a tapeworm throughout the East SGV,",
+        "source": "Steven Kung, co-founder of No Data Center Monterey Park",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "We're going to stop them by any means necessary.",
+        "source": "Steven Kung, co-founder of No Data Center Monterey Park",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "I think all of these very fast developments are very frightening,",
+        "source": "Sophia Ramirez, Whittier resident",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "Most of us are either retired or come from low income families,",
+        "source": "Manuel Maldonado, longtime area resident",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "It galvanized a lot of people in a way that I haven't really seen,",
+        "source": "Samuel Brown Vazquez, environmental activist in Bassett, member of Avocado Heights Vaqueros",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "It's like the third act of an Oscar-winning movie,",
+        "source": "Steven Kung, co-founder of No Data Center Monterey Park",
+        "url": "https://www.thecooldown.com/green-business/opposition-to-data-center-in-monterey-park/",
+        "date": "2026-03-22",
+        "stance": "oppose",
+        "emotion": "pride"
+      },
+      {
+        "text": "This is about community members rising to the occasion to look out for one another,",
+        "source": "Andrew Yip, community organizer, San Gabriel Valley Progressive Action",
+        "url": "https://www.thecooldown.com/green-business/opposition-to-data-center-in-monterey-park/",
+        "date": "2026-03-22",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "We won a victory, but there's still a lot of work to do,",
+        "source": "Steven Kung, co-founder of No Data Center Monterey Park",
+        "url": "https://www.thecooldown.com/green-business/opposition-to-data-center-in-monterey-park/",
+        "date": "2026-03-22",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "There's been a fire a month since 2021,",
+        "source": "Samuel Brown, environmental advocate",
+        "url": "https://abc7.com/post/puente-hills-mall-may-soon-transformed-battery-energy-storage-facilities-sparks-environmental-economic-concerns/18654773/",
+        "date": "2026-02-27",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "My concern is water access cost being passed on to my neighbors,",
+        "source": "Raphael Plunkett, Diamond Bar resident",
+        "url": "https://abc7.com/post/puente-hills-mall-may-soon-transformed-battery-energy-storage-facilities-sparks-environmental-economic-concerns/18654773/",
+        "date": "2026-02-27",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "I don't want noise pollution. I don't want higher water bills. I don't want higher energy bills,",
+        "source": "Unnamed resident, public commenter",
+        "url": "https://abc7.com/post/puente-hills-mall-may-soon-transformed-battery-energy-storage-facilities-sparks-environmental-economic-concerns/18654773/",
+        "date": "2026-02-26",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "I’m here tonight to inform the city that its actions are creating real litigation risk and financial liability,",
+        "source": "James Pugh, Sheppard Mullin partner, lawyer representing HMC Capital",
+        "url": "https://www.bisnow.com/news/los-angeles/data-center-development/monterey-park-data-center-ban-133138",
+        "date": "2026-02-09",
+        "stance": "support",
+        "emotion": "anger"
+      },
+      {
+        "text": "We look forward to have the opportunity to show that this project is designed sustainably. We want to be good partners to the community,",
+        "source": "Laziza Lambert, spokesperson for the 1977 Saturn Data Center Project",
+        "url": "https://abc7.com/post/voters-could-decide-fate-proposed-monterey-park-data-center/18543627/",
+        "date": "2026-02-05",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Southern California Edison has said that there will not be any pass to cost to residents. The developer is also going to be funding the infrastructure upgrades,",
+        "source": "Laziza Lambert, spokesperson for the 1977 Saturn Data Center Project",
+        "url": "https://abc7.com/post/voters-could-decide-fate-proposed-monterey-park-data-center/18543627/",
+        "date": "2026-02-05",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "The residents were so mad at the applicant that the city council heard us and they decided to implement a moratorium on data centers, which is completely beyond our wildest imaginations, so we're in the middle of the 45-day moratorium,",
+        "source": "Steven Kung, helped organize the opposition",
+        "url": "https://abc7.com/post/voters-could-decide-fate-proposed-monterey-park-data-center/18543627/",
+        "date": "2026-02-05",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "We're going to push back and let them know that nobody in this town wants it - not the city council, not the residents,",
+        "source": "Steven Kung, helped organize the opposition",
+        "url": "https://abc7.com/post/voters-could-decide-fate-proposed-monterey-park-data-center/18543627/",
+        "date": "2026-02-05",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "They voluntarily agreed to pursue an environmental impact review, and that process is not only strictest process in the state but the country,",
+        "source": "Laziza Lambert, spokesperson for the 1977 Saturn Data Center Project",
+        "url": "https://abc7.com/post/voters-could-decide-fate-proposed-monterey-park-data-center/18543627/",
+        "date": "2026-02-05",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "They want to build a data center when they can't handle the current load,",
+        "source": "Barbara, Monterey Park resident",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-02-02T04:54:41.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Internet data doesn't live in the cloud,",
+        "source": "Shaolei Ren, Associate professor, UC Riverside",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-02-02T04:54:41.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "That is more than I ever could have hoped for from this meeting,",
+        "source": "Steven J. Kung, resident",
+        "url": "https://laist.com/news/politics/how-monterey-park-residents-pushed-back-on-a-data-center-and-changed-the-conversation",
+        "date": "2026-01-25T14:12:27.000Z",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "Monterey Park should be built for people, not machines,",
+        "source": "Alex Leon, mathematician and resident",
+        "url": "https://laist.com/news/politics/how-monterey-park-residents-pushed-back-on-a-data-center-and-changed-the-conversation",
+        "date": "2026-01-25T14:12:27.000Z",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "I'm not going to vote for something that's going to hurt my own family,",
+        "source": "Elizabeth Yang, Monterey Park council member",
+        "url": "https://laist.com/news/politics/how-monterey-park-residents-pushed-back-on-a-data-center-and-changed-the-conversation",
+        "date": "2026-01-25T14:12:27.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "We just really want to be good, long-term partners with the community and hope to have open and honest conversations,",
+        "source": "Laziza Lambert, developer representative",
+        "url": "https://laist.com/news/politics/how-monterey-park-residents-pushed-back-on-a-data-center-and-changed-the-conversation",
+        "date": "2026-01-25T14:12:27.000Z",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "I have dinner with you guys,",
+        "source": "Katherine Torres, real estate agent and president of the Monterey Park Women's Club",
+        "url": "https://laist.com/news/politics/how-monterey-park-residents-pushed-back-on-a-data-center-and-changed-the-conversation",
+        "date": "2026-01-25T14:12:27.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "They see a small city full of Asians and Latinos, and they don't think we'll fight back,",
+        "source": "Steven J. Kung, resident",
+        "url": "https://laist.com/news/politics/how-monterey-park-residents-pushed-back-on-a-data-center-and-changed-the-conversation",
+        "date": "2026-01-25T14:12:27.000Z",
+        "stance": "oppose",
+        "emotion": "anger"
+      },
+      {
+        "text": "They've made no effort to educate the residents or even outreach to us,",
+        "source": "Steve Kung, resident",
+        "url": "https://abc7.com/post/monterey-park-neighbors-push-back-proposed-data-center-citing-environmental-health-concerns/18445805/",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "They're going to have Edison build a substation to support their data center, and then Edison is going to pass the cost on to the residents,",
+        "source": "Steve Kung, resident",
+        "url": "https://abc7.com/post/monterey-park-neighbors-push-back-proposed-data-center-citing-environmental-health-concerns/18445805/",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "These are all the real concerns, along with the diesel generator and the substation that the applicant needs to address. It's not the city's job to defend them,",
+        "source": "Elizabeth Yang, Monterey Park Mayor",
+        "url": "https://abc7.com/post/monterey-park-neighbors-push-back-proposed-data-center-citing-environmental-health-concerns/18445805/",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "These generators, they emit particulate matter, they emit nitrogen oxides, which are extremely harmful for public health. They cause asthma, they cause lung cancer, even heart problems,",
+        "source": "Meredith Stevenson, Center for Biological Diversity",
+        "url": "https://abc7.com/post/monterey-park-neighbors-push-back-proposed-data-center-citing-environmental-health-concerns/18445805/",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "I don't believe greater connectivity is a sufficient benefit for the health and environmental costs we'll be asked to bear,",
+        "source": "Jesse Damon, resident",
+        "url": "https://abc7.com/post/monterey-park-neighbors-push-back-proposed-data-center-citing-environmental-health-concerns/18445805/",
+        "date": "2026-01-22",
+        "stance": "oppose",
+        "emotion": null
+      },
+      {
+        "text": "Did they just think that nobody would pay attention?",
+        "source": "Kana Lee, Monterey Park resident",
+        "url": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-01-14T18:44:59.000Z",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "They want to build a data center when they can't handle the current load,",
+        "source": "Barbara, Monterey Park resident",
+        "url": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-01-14T18:44:59.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "As the applicant has not withdrawn its application, and it has not yet been considered by the City Council, the City cannot comment further on the project,",
+        "source": "Diana Garcia, Monterey Park assistant city manager",
+        "url": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-01-14T18:44:59.000Z",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "Did they just think that nobody would pay attention?",
+        "source": "Kana Lee, Monterey Park resident",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-01-10",
+        "stance": "oppose",
+        "emotion": "distrust"
+      },
+      {
+        "text": "It's apparent that the applicant should take some time for community outreach and address a lot of community's concerns,",
+        "source": "Elizabeth Yang, Mayor of Monterey Park",
+        "url": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2025-12-03",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We do feel like there's been a lot of misinformation out there so we'd like to set the record straight,",
+        "source": "Bryan Marsh, chief executive of SDCF Monterey Park, LLC",
+        "url": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2025-12-03",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "The data center represents a substantial capital investment that will generate high-quality construction jobs, expand pathways for state-certified apprentices, and contribute to the region's long-term economic stability,",
+        "source": "Keith Harkey, business manager, Ironworkers Local 433",
+        "url": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2025-12-03",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "Primarily, I have concerns about the pollution that would be happening, both physical and noise-wise,",
+        "source": "Tilda DeWolfe, Monterey Park resident for 50 years",
+        "url": "https://www.cbsnews.com/losangeles/news/monterey-park-city-council-tables-proposal-for-massive-data-center/",
+        "date": "2025-12-03",
+        "stance": "oppose",
+        "emotion": "fear"
+      },
+      {
+        "text": "Ideally, they should be hosted in places not too close to residential communities, because of the noise pollution, air quality, water impact and electricity power demand,",
+        "source": "Shaolei Ren, UC Riverside Associate Professor",
+        "url": "https://www.cbsnews.com/losangeles/news/monterey-park-city-council-tables-proposal-for-massive-data-center/",
+        "date": "2025-12-03",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "It's apparent that the applicant should take some time for community outreach and address a lot of community's concerns,",
+        "source": "Elizabeth Yang, Mayor of Monterey Park",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2025-12-03",
+        "stance": "oppose",
+        "emotion": "none"
+      },
+      {
+        "text": "We do feel like there's been a lot of misinformation out there so we'd like to set the record straight,",
+        "source": "Bryan Marsh, Chief executive of SDCF Monterey Park, LLC",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2025-12-03",
+        "stance": "support",
+        "emotion": "frustration"
+      },
+      {
+        "text": "The data center represents a substantial capital investment that will generate high-quality construction jobs, expand pathways for state-certified apprentices, and contribute to the region's long-term economic stability,",
+        "source": "Keith Harkey, Business manager, Ironworkers Local 433",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2025-12-03",
+        "stance": "support",
+        "emotion": "hope"
+      },
+      {
+        "text": "We're seeing a lot of cities being more open to data centers when they traditionally weren't because they were focused on office or industrial,",
+        "source": "Darren Eades, JLL Managing Director",
+        "url": "https://www.bisnow.com/news/los-angeles/data-center/los-angeles-data-centers-vernon-monterey-park-el-segundo-127101",
+        "date": "2024-12-09",
+        "stance": "support",
+        "emotion": "none"
+      },
+      {
+        "text": "When you have 50,000 people working on airplanes, that's a lot different than 15 people running a data center,",
+        "source": "Chris Pimentel, El Segundo Mayor Pro Tem",
+        "url": "https://www.bisnow.com/news/los-angeles/data-center/los-angeles-data-centers-vernon-monterey-park-el-segundo-127101",
+        "date": "2024-12-09",
+        "stance": "neutral",
+        "emotion": "none"
+      },
+      {
+        "text": "They leased that up before it was out of the ground,",
+        "source": "Darren Eades, JLL Managing Director",
+        "url": "https://www.bisnow.com/news/los-angeles/data-center/los-angeles-data-centers-vernon-monterey-park-el-segundo-127101",
+        "date": "2024-12-09",
+        "stance": "support",
+        "emotion": "pride"
+      },
+      {
+        "text": "I don't think we’ll ever be able to catch up,",
+        "source": "Darren Eades, JLL Managing Director",
+        "url": "https://www.bisnow.com/news/los-angeles/data-center/los-angeles-data-centers-vernon-monterey-park-el-segundo-127101",
+        "date": "2024-12-09",
+        "stance": "neutral",
+        "emotion": "none"
+      }
+    ],
+    "facts": [
+      "City of Industry pulled back its quick approval and is legally required to conduct a full Environmental Impact Report after the CEQA contractor flagged unmitigated noise and air pollution",
+      "Proposed data center would replace Puente Hills Mall site, rezoned to heavy industrial, alongside the nearby old Boomers site redevelopment",
+      "Residents learned of City of Industry plans to convert Puente Hills Mall into a data center in mid-December 2025",
+      "City of Industry has a population of fewer than 300 people",
+      "Public comment at City of Industry Council meetings was reduced from three minutes to one minute, with no interpretation services",
+      "Surrounding unincorporated communities include Hacienda Heights, San Jose Hills, Valinda and parts of Whittier",
+      "Monterey Park residents succeeded in getting a data center moratorium",
+      "A 45-day moratorium has stalled the Monterey Park data center as the city prepares a permanent ban",
+      "No Data Center Monterey Park and allies gathered 5,000 signatures",
+      "The project would require 14 diesel generators",
+      "The city council may put a permanent ban to a vote in November",
+      "City of Industry council voted unanimously to change zoning to allow battery energy storage systems at sites like the former Puente Hills Mall",
+      "City of Industry council is elected by fewer than 300 residents",
+      "Residents from neighboring cities raised concerns about noise, water use and utility costs",
+      "City officials acknowledged data center plans for the mall property in theory but say focus is battery storage",
+      "Los Angeles County has 56 tracked sites: 51 operational, 5 in pipeline, 306.2 MW reported power",
+      "California has 366 tracked data center facilities and projects, 3.6 GW reported power",
+      "Monterey Park voters passed Measure NDC in June 2026, permanently banning data centers citywide",
+      "Coachella City Council terminated Stronghold Power agreement and imposed data center moratorium in June 2026",
+      "California pipeline of planned or under-construction projects totals 2.2 GW",
+      "Monterey Park has a 45-day moratorium on new data center projects in place since late January 2026",
+      "City council directed staff to report back on March 4 on options including zoning regulations and a ballot measure to prohibit data centers citywide",
+      "Saturn Street site is about 16 acres and five minutes from the Mesa substation, which SCE upgraded to roughly double its capacity",
+      "HMC Capital bought the Saturn Street site for $39M from EQ Office in December 2024",
+      "A southern California city council proposed a datacenter the size of four football fields in Monterey Park last December.",
+      "Five residents started the campaign against the proposed datacenter.",
+      "A teach-in and rally drew hundreds of participants.",
+      "Monterey Park City Council unanimously agreed early Thursday (Feb 5, 2026) to explore a ballot proposition for a citywide data center ban, possibly on a June ballot",
+      "The city's temporary 45-day moratorium on data centers remains in place while staff work on long-term rules",
+      "Nearly 80 people attended the Wednesday meeting to voice opposition; union members warned a ban could cost jobs",
+      "The city will survey residents over the next month or so",
+      "The proposed 247,000 sq ft facility would replace a two-story office building at 1977 Saturn St.",
+      "Proposed 218,400 sq ft data center at 1977 Saturn St., Monterey Park, on 15.8 acres",
+      "Peak use expected at 49.9 MW, per UC Riverside's Shaolei Ren",
+      "Monterey Park City Council postponed the Dec. 3 vote; Jan. 21 vote also postponed with no new date",
+      "Over 200 people emailed comments opposing the project before the Dec. 3 meeting",
+      "Nearest home is less than 500 feet from the site",
+      "Monterey Park City Council unanimously approved a 45-day moratorium on data centers.",
+      "Council committed to drafting an ordinance for a permanent data center ban for a later vote.",
+      "Nearly 80 residents spoke at the meeting, which ran past midnight."
+    ],
+    "groups": [
+      {
+        "name": "Puente Hills Community Preservation Alliance (phcpa.org)",
+        "url": "https://www.reddit.com/r/sgv/comments/1xiwiz6/puente_hills_mall_data_center_proposal_blueprint/",
+        "date": "2026-10-29T21:17:48.000Z"
+      },
+      {
+        "name": "No Data Centers SGV Coalition",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z"
+      },
+      {
+        "name": "SGV Progressive Action",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z"
+      },
+      {
+        "name": "Avocado Heights Vaqueros",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z"
+      },
+      {
+        "name": "No Data Center Monterey Park",
+        "url": "https://www.calonews.com/featured-topics/environmental/san-gabriel-valley-residents-unite-in-fight-against-proposed-puente-hills-mall-data-center/article_92d86ea9-a1fc-42b0-bc9f-249934fc1951.html",
+        "date": "2026-03-26T12:00:00.000Z"
+      },
+      {
+        "name": "San Gabriel Valley Progressive Action",
+        "url": "https://www.thecooldown.com/green-business/opposition-to-data-center-in-monterey-park/",
+        "date": "2026-03-22T16:00:00.000Z"
+      },
+      {
+        "name": "San Gabriel Valley (SGV) Progressive Action",
+        "url": "https://www.theguardian.com/us-news/2026/feb/07/california-monterey-park-stop-datacenter-construction",
+        "date": "2026-02-07T16:00:07.000Z"
+      },
+      {
+        "name": "Ironworkers Local 433",
+        "url": "https://peoplestribune.org/2026/02/data-center-boom-coming-to-san-gabriel-valley-residents-had-no-idea/",
+        "date": "2026-02-02T04:54:41.000Z"
+      },
+      {
+        "name": "Union workers",
+        "url": "https://www.cbsnews.com/losangeles/news/monterey-park-city-council-tables-proposal-for-massive-data-center/",
+        "date": "2025-12-04T06:39:00.000Z"
+      }
+    ]
+  },
+  "06085": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  },
+  "06099": {
+    "news": [
+      {
+        "title": "Modesto residents opposed to potential data center organize protest, petition aimed at sending message to city leaders - The Modesto Focus",
+        "url": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/",
+        "date": "2026-08-11T20:03:58.000Z",
+        "source": "The Modesto Focus",
+        "stance": "oppose"
+      }
+    ],
+    "social": [],
+    "quotes": [
+      {
+        "text": "When I saw the story, I was action-minded.",
+        "source": "Elizabeth Miranda Morales, 34-year-old local project coordinator",
+        "url": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/",
+        "date": "2026-08-11T20:03:58.000Z",
+        "stance": "oppose",
+        "emotion": "hope"
+      },
+      {
+        "text": "We don't need data centers making those issues worse.",
+        "source": "Colby Zavala, spokesperson for Modesto 50501",
+        "url": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/",
+        "date": "2026-08-11T20:03:58.000Z",
+        "stance": "oppose",
+        "emotion": "frustration"
+      },
+      {
+        "text": "Here in Modesto, water is a key issue for us.",
+        "source": "Elizabeth Miranda Morales, petition starter",
+        "url": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/",
+        "date": "2026-08-11T20:03:58.000Z",
+        "stance": "oppose",
+        "emotion": "fear"
+      }
+    ],
+    "facts": [
+      "Five of seven Modesto council members said they favored a moratorium on data centers at a meeting with about 200 attendees",
+      "Change.org petition against data centers in Stanislaus County had more than 1,700 signatures within about a week of launch",
+      "Staff is gathering information for a potential data center moratorium on a future council agenda",
+      "Pirates for Peace post 'We Don't Want Data Centers in Modesto' had more than 11,500 likes"
+    ],
+    "groups": [
+      {
+        "name": "Pirates for Peace",
+        "url": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/",
+        "date": "2026-08-11T20:03:58.000Z"
+      },
+      {
+        "name": "Modesto 50501",
+        "url": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/",
+        "date": "2026-08-11T20:03:58.000Z"
+      },
+      {
+        "name": "Central Valley Black, Indigenous and People of Color Coalition (CVBIPOCC)",
+        "url": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/",
+        "date": "2026-08-11T20:03:58.000Z"
+      }
+    ]
+  },
+  "06107": {
+    "news": [],
+    "social": [],
+    "quotes": [],
+    "facts": [],
+    "groups": []
+  }
+}

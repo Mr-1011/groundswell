@@ -1,6 +1,6 @@
 // Detail views for the INFO tab and the floating windows.
 import { Fragment, useState, type CSSProperties, type ReactNode } from "react";
-import { STATUSES, STATUS_LABEL, isBaseline, isPredicted, rampColor, type County, type CountyProfile, type Data, type Driver, type Emotion, type Stance, type Status } from "./data";
+import { STATUSES, STATUS_LABEL, isBaseline, isPredicted, rampColor, type County, type CountyProfile, type Data, type Driver, type Emotion, type FeedRow, type Stance, type Status } from "./data";
 import { inWindow, type Filters, type Selection, type WindowSpec } from "./state";
 import { Meter, OutcomeBar, RoundsChart, ScoreHistogram, StanceBar, Timeline } from "./charts";
 import { Shape } from "./shapes";
@@ -247,15 +247,24 @@ function feed(c: County, f: Filters) {
   };
 }
 
-function Coverage({ counties, filters }: { counties: County[]; filters: Filters }) {
-  const items = counties.flatMap((c) => {
-    const f = feed(c, filters);
-    return [...f.news, ...f.social];
-  });
+// The same counts as rows: the state and county panels count their items, the national panel reads feed.json.
+const rowsOf = (counties: County[]): FeedRow[] =>
+  counties.flatMap((c) => [
+    ...c.news.map((i) => ({ kind: "news" as const, date: i.date, stance: i.stance, emotion: null, n: 1 })),
+    ...c.social.map((i) => ({ kind: "social" as const, date: i.date, stance: i.stance, emotion: i.emotion ?? null, n: 1 })),
+    ...c.quotes.map((i) => ({ kind: "quote" as const, date: i.date, stance: null, emotion: i.emotion ?? null, n: 1 })),
+  ]);
+const SOURCE = { news: "news", social: "social", quote: "quotes" } as const;
+// same rules as feed(): the stance filter does not apply to quotes
+const keepRow = (r: FeedRow, f: Filters) =>
+  f.sources.includes(SOURCE[r.kind]) && inWindow(r.date, f.since) && (r.kind === "quote" || !r.stance || f.stances.includes(r.stance));
+
+function Coverage({ rows, filters }: { rows: FeedRow[]; filters: Filters }) {
+  const items = rows.filter((r) => r.kind !== "quote" && keepRow(r, filters));
   const stance: Record<Stance, number> = { oppose: 0, support: 0, neutral: 0 };
-  for (const i of items) stance[i.stance ?? "neutral"]++;
+  for (const i of items) stance[i.stance ?? "neutral"] += i.n;
   return (
-    <Section title={`Coverage · ${items.length} news + social`}>
+    <Section title={`Coverage · ${items.reduce((a, i) => a + i.n, 0)} news + social`}>
       <Timeline items={items} />
       <div style={{ marginTop: 8 }}>
         <StanceBar counts={stance} />
@@ -294,12 +303,9 @@ function Groups({ counties, withCounty, onOpen }: { counties: County[]; withCoun
 }
 
 // Emotion labels on social posts and quotes; "none" and unlabeled items are left out.
-function Emotions({ counties, filters }: { counties: County[]; filters: Filters }) {
+function Emotions({ rows: feedRows, filters }: { rows: FeedRow[]; filters: Filters }) {
   const n: Record<string, number> = {};
-  for (const c of counties) {
-    const f = feed(c, filters);
-    for (const i of [...f.social, ...f.quotes]) if (i.emotion && i.emotion !== "none") n[i.emotion] = (n[i.emotion] ?? 0) + 1;
-  }
+  for (const r of feedRows) if (r.kind !== "news" && r.emotion && r.emotion !== "none" && keepRow(r, filters)) n[r.emotion] = (n[r.emotion] ?? 0) + r.n;
   const rows = Object.entries(n).sort((a, b) => b[1] - a[1]);
   if (!rows.length) return null;
   const total = rows.reduce((a, [, v]) => a + v, 0);
@@ -384,8 +390,8 @@ export function NationalView({ data, filters, onSelect, onOpen }: ViewProps) {
       <Section title="Most resistant counties">
         <CountyRows ids={top} data={data} withState onPick={(fips) => onSelect({ kind: "county", id: fips })} />
       </Section>
-      <Coverage counties={all} filters={filters} />
-      <Emotions counties={all} filters={filters} />
+      <Coverage rows={data.feed} filters={filters} />
+      <Emotions rows={data.feed} filters={filters} />
       <Section title="Resistance by county">
         <ScoreHistogram scores={scores} />
       </Section>
@@ -427,8 +433,8 @@ export function StateView({ id, data, filters, onSelect, onOpen, regionCenter }:
       <Section title={`Counties (${ids.length})`}>
         <CountyRows ids={ids} data={data} onPick={(fips) => onSelect({ kind: "county", id: fips })} />
       </Section>
-      <Coverage counties={counties} filters={filters} />
-      <Emotions counties={counties} filters={filters} />
+      {data.detailed[id] ? <Coverage rows={rowsOf(counties)} filters={filters} /> : <div className="skel skel-line" />}
+      <Emotions rows={rowsOf(counties)} filters={filters} />
       <Groups key={`g${id}`} counties={counties} withCounty onOpen={onOpen} />
       <Section title="Projects by status">
         <StatusBars counts={s.projects_by_status} />
@@ -483,7 +489,7 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
               "-"
             ),
           ],
-          ["sources", c.news.length + c.social.length + c.quotes.length],
+          ["sources", data.detailed[c.state] ? c.news.length + c.social.length + c.quotes.length : "…"],
           ["projects", projects.length],
         ]}
       />
@@ -527,8 +533,8 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
           </div>
         </Section>
       )}
-      {c.news.length + c.social.length + c.quotes.length > 0 && <Coverage key={`cov${id}`} counties={[c]} filters={filters} />}
-      <Emotions counties={[c]} filters={filters} />
+      {c.news.length + c.social.length + c.quotes.length > 0 && <Coverage key={`cov${id}`} rows={rowsOf([c])} filters={filters} />}
+      <Emotions rows={rowsOf([c])} filters={filters} />
       <Groups key={`g${id}`} counties={[c]} onOpen={onOpen} />
       {projects.length > 0 && (
         <Section title="Projects">
