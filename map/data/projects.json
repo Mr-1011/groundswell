@@ -26,6 +26,19 @@
     "source_url": "https://www.heycherokeecounty.com/p/issue003"
   },
   {
+    "name": "Alabama Power Data Center Contracts",
+    "developer": "Alabama Power",
+    "fips": "01017",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://readtheroom.news/the-frequency/issue/26/"
+  },
+  {
     "name": "Alabama Power transmission line Shelby County",
     "developer": "Alabama Power",
     "fips": "01117",
@@ -195,6 +208,32 @@
     "source_url": "https://www.birminghamal.gov/news/city-birmingham-proposes-temporary-pause-new-data-center-applications"
   },
   {
+    "name": "Blount County AI Data Center Moratorium",
+    "developer": null,
+    "fips": "01009",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "http://www.thedailytimes.com/news/blount-county-board-of-commissioners-workshop-agenda-has-moratoriums-ambulances-and-alpr-cameras-on-agenda/article_f41478cd-4709-4e0d-b733-4c6f5affc239.html"
+  },
+  {
+    "name": "Blount County Data Center Moratorium",
+    "developer": null,
+    "fips": "01009",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-07-29",
+    "source_url": "https://www.thedailytimes.com/news/blount-county-planning-commission-requests-12-month-moratorium-on-ai-data-centers-while-it-develops/article_02323a27-16df-46e7-8cda-bd059e2916c4.html"
+  },
+  {
     "name": "Blue Cross Birmingham",
     "developer": null,
     "fips": "01073",
@@ -219,6 +258,19 @@
     "size_mw": null,
     "date": "2026-08-11",
     "source_url": "https://www.youtube.com/watch?v=0-4nnEHkcL4"
+  },
+  {
+    "name": "Burkville Data Center",
+    "developer": null,
+    "fips": "01085",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.lowndessignal.com/news/commission-debates-hearing-data-center-opposition-76e19fb8"
   },
   {
     "name": "CDC Birmingham",
@@ -247,6 +299,19 @@
     "source_url": "https://280living.com/news/chelsea-city-council-to-consider-moratorium-on-data-centers-/"
   },
   {
+    "name": "Chilton County Data Center Moratorium",
+    "developer": null,
+    "fips": "01021",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/8037466/alabama/chilton-county/commissioner-proposes-up-to-yearlong-moratorium-on-data-center-development-while-county-drafts-regulations"
+  },
+  {
     "name": "Chilton County moratorium",
     "developer": null,
     "fips": "01021",
@@ -273,6 +338,32 @@
     "source_url": "https://claycounty.novusagenda.com/agendapublic/CoverSheet.aspx?ItemID=16886&MeetingID=2160"
   },
   {
+    "name": "Cloverleaf Burkville",
+    "developer": "Cloverleaf Infrastructure",
+    "fips": "01085",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.lowndessignal.com/news/data-center-opposition-meets-in-fort-deposit-f43e0fa2"
+  },
+  {
+    "name": "Cloverleaf Lowndes",
+    "developer": "Cloverleaf Infrastructure",
+    "fips": "01085",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 1500.0,
+    "date": null,
+    "source_url": "https://yellowhammernews.com/mystery-data-center-could-receive-30-year-tax-break-beside-sacred-selma-march-ground/"
+  },
+  {
     "name": "Cloverleaf Red Clay Lowndes",
     "developer": "Cloverleaf Infrastructure",
     "fips": "01085",
@@ -286,6 +377,19 @@
     "source_url": "https://constructionreviewonline.com/lambdas-33-1-billion-alabama-data-center-faces-lawsuit-over-tax-breaks-and-public-approval/"
   },
   {
+    "name": "Coffee County Data Center Moratorium",
+    "developer": null,
+    "fips": "01031",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-06-09",
+    "source_url": "https://thunder1320.com/coffee-county-commission-approves-12-month-data-center-moratorium/"
+  },
+  {
     "name": "Coffee County moratorium",
     "developer": null,
     "fips": "01031",
@@ -297,6 +401,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.youtube.com/watch?v=nWrWUhsRWwc"
+  },
+  {
+    "name": "Compass Lauderdale",
+    "developer": "Compass Datacenters",
+    "fips": "01077",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.lauderdalecounty.org/lauderdale-county-supervisors-pass-fy27-budget/"
   },
   {
     "name": "Compass Lauderdale County",
@@ -375,6 +492,19 @@
     "size_mw": null,
     "date": "2026-10-26",
     "source_url": "https://www.waff.com/video/2026/10/23/trinity-neighbors-oppose-industrial-rezoning-property-is-advertised-potential-data-center/"
+  },
+  {
+    "name": "Cullman Data Center Moratorium",
+    "developer": null,
+    "fips": "01043",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "withdrawn",
+    "size_mw": null,
+    "date": "2026-09-01",
+    "source_url": "https://writing.strisker.com/data-centers-daily-notes-june-24-2026/"
   },
   {
     "name": "Cullman moratorium",
@@ -468,6 +598,19 @@
     "source_url": "https://fieldprospects.com/counties/alabama/shelby/"
   },
   {
+    "name": "DC Blox Shelby Expansion",
+    "developer": "DC Blox",
+    "fips": "01117",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 54.0,
+    "date": null,
+    "source_url": "https://mobilebaynow.com/data-center-growth-in-alabama-492-alabamians-weigh-in/"
+  },
+  {
     "name": "DataCanopy Tuscaloosa",
     "developer": null,
     "fips": "01125",
@@ -533,6 +676,19 @@
     "source_url": "https://insideclimatenews.org/news/13072026/alabama-data-center-non-disclosure-agreement/"
   },
   {
+    "name": "Digihost Shelby",
+    "developer": "Digihost",
+    "fips": "01117",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 55.0,
+    "date": null,
+    "source_url": "https://mobilebaynow.com/data-center-growth-in-alabama-492-alabamians-weigh-in/"
+  },
+  {
     "name": "Dotier Montgomery",
     "developer": "Dotier, LLC",
     "fips": "01101",
@@ -570,6 +726,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://communitydigitaltech.com/projects/greenville-380-acre-data-center-and-energy-site-elm-lane-greenville-al"
+  },
+  {
+    "name": "Elmore County Data Center Moratorium",
+    "developer": null,
+    "fips": "01051",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-07-02",
+    "source_url": "https://www.mountainhomenews.com/opinion/elmore-county-commission-issues-moratorium-on-data-center-permits-ac5302d2"
   },
   {
     "name": "Enfinity EG Saturn Solar",
@@ -620,7 +789,7 @@
     "geo_precision": null,
     "status": "moratorium",
     "size_mw": null,
-    "date": "2025-09-08",
+    "date": "2026-06-16",
     "source_url": "https://www.youtube.com/watch?v=NkKt9lPkOII"
   },
   {
@@ -780,6 +949,19 @@
     "source_url": "https://www.wbrc.com/2026/06/04/west-jefferson-neighbors-concerned-about-potential-development-across-county-line/"
   },
   {
+    "name": "Homewood Data Center Moratorium",
+    "developer": null,
+    "fips": "01043",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://abc3340.com/news/local/homewood-cullman-data-center-moratoriums-alabama-2026"
+  },
+  {
     "name": "Homewood moratorium",
     "developer": null,
     "fips": "01073",
@@ -843,6 +1025,19 @@
     "size_mw": null,
     "date": "2026-10-24",
     "source_url": "https://trackdatacenters.com/usa/alabama/counties/mobile-county"
+  },
+  {
+    "name": "M.E.N.S. Ranch Choctaw County",
+    "developer": null,
+    "fips": "01023",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.hugonews.com/news/data-center-item-weeks-commissioner-agenda"
   },
   {
     "name": "MS Industries II Russellville",
@@ -1047,7 +1242,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "approved",
+    "status": "planned",
     "size_mw": 300.0,
     "date": null,
     "source_url": "https://www.wbhm.org/local-news/2026-08-14/judge-hits-pause-on-hearings-in-lawsuit-challenging-oxmoor-valley-data-center"
@@ -1131,6 +1326,19 @@
     "source_url": "https://www.al.com/news/2026/08/pinson-enacts-yearlong-data-center-moratorium-as-officials-study-impacts.html"
   },
   {
+    "name": "Prichard Data Center",
+    "developer": null,
+    "fips": "01097",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://businessalabama.com/wood-products-company-plan-colbert-county-facility-birmingham-proposes-45-million-investment-in-career-training-more-prichard-will-hold-public-hearing-about-data-center/"
+  },
+  {
     "name": "Prichard moratorium",
     "developer": null,
     "fips": "01097",
@@ -1194,6 +1402,19 @@
     "size_mw": 403.0,
     "date": "2026-04-21",
     "source_url": "https://www.youtube.com/watch?v=UAazASk9cf4"
+  },
+  {
+    "name": "Project Red Clay Lowndes",
+    "developer": "Cloverleaf Infrastructure",
+    "fips": "01085",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://mobilebaynow.com/data-center-growth-in-alabama-492-alabamians-weigh-in/"
   },
   {
     "name": "Prologis Shelbyville",
@@ -1268,10 +1489,23 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "planned",
+    "status": "approved",
     "size_mw": 1500.0,
-    "date": null,
+    "date": "2026-10-13",
     "source_url": "https://www.youtube.com/watch?v=_6O85xzeJqg"
+  },
+  {
+    "name": "Reece City Data Center Moratorium",
+    "developer": null,
+    "fips": "01055",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-10-13",
+    "source_url": "https://gadsdenthrive.com/around-etowah-county-town-councils-october-14-2026/"
   },
   {
     "name": "Regions Operations Center",
@@ -1320,9 +1554,9 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "planned",
+    "status": "approved",
     "size_mw": 260.0,
-    "date": null,
+    "date": "2025-12-01",
     "source_url": "https://www.youtube.com/watch?v=o6IVLSArr6g"
   },
   {
@@ -1430,6 +1664,19 @@
     "source_url": "https://baxtel.com/data-center/tuscaloosa"
   },
   {
+    "name": "Springville Data Center Moratorium",
+    "developer": null,
+    "fips": "01115",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-07-06",
+    "source_url": "https://www.wvtm13.com/article/springville-pauses-data-center-proposals-with-one-year-moratorium/71844280"
+  },
+  {
     "name": "Springville moratorium",
     "developer": null,
     "fips": "01115",
@@ -1519,6 +1766,19 @@
     "size_mw": null,
     "date": "2026-09-08",
     "source_url": "https://datacenterrecord.org/states/al/talladega-county/leaders"
+  },
+  {
+    "name": "Tallassee Mill Data Center",
+    "developer": null,
+    "fips": "01123",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 20.0,
+    "date": null,
+    "source_url": "https://tallasseetimes.com/2026/04/30/wiginton-elaborates-on-mill-property-data-center/"
   },
   {
     "name": "Tarrant moratorium",
@@ -2392,6 +2652,19 @@
     "source_url": "https://baynews9.com/fl/tampa/news/2026/06/18/talks-continue-over-pre-moratorium-data-center-proposal"
   },
   {
+    "name": "DCIP DeSoto",
+    "developer": "DeSoto County Industrial Park Group",
+    "fips": "12027",
+    "state": "FL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-10-06",
+    "source_url": "https://www.winknews.com/news/desoto/desoto-data-center-plan-hits-wall-over-unanswered-community-concerns/article_22948b84-85a5-49c6-9c97-ceb8dc99ba10.html"
+  },
+  {
     "name": "Defense AI Escambia",
     "developer": null,
     "fips": "12033",
@@ -2483,6 +2756,19 @@
     "source_url": "https://app.govly.com/public/meetings/35513"
   },
   {
+    "name": "Kanner Highway Martin County",
+    "developer": null,
+    "fips": "12085",
+    "state": "FL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-10-12",
+    "source_url": "https://www.wflx.com/2026/10/13/martin-county-commissioners-unanimously-move-forward-with-1-year-moratorium-data-centers/"
+  },
+  {
     "name": "Leon County FL Data Center Moratorium",
     "developer": null,
     "fips": "12073",
@@ -2535,6 +2821,19 @@
     "source_url": "https://nodatacentercitrus.org/news-citrus-county-residents-organize/"
   },
   {
+    "name": "Project Tango Palm Beach",
+    "developer": "Central Park Commerce Center",
+    "fips": "12099",
+    "state": "FL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://cbs12.com/news/local/county-mayor-to-host-project-tango-town-hall-wednesday"
+  },
+  {
     "name": "Shoal River Ranch Industrial Site",
     "developer": null,
     "fips": "12091",
@@ -2585,6 +2884,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.youtube.com/watch?v=jH5QtZPb1Cs"
+  },
+  {
+    "name": "Washington County Data Center Moratorium",
+    "developer": null,
+    "fips": "12133",
+    "state": "FL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://washingtoncounty.news/2026/07/10/commissioners-review-lodging-tax-ordinance-and-discuss-data-center-moratorium-at-workshop/"
   },
   {
     "name": "Amazon Lamar County",
@@ -2782,6 +3094,19 @@
     "source_url": "https://newschannel9.com/newsletter-daily/more-tennessee-georgia-towns-hit-pause-on-rural-data-centers-as-power-water-worries-grow"
   },
   {
+    "name": "Bulloch County Data Center Ban",
+    "developer": null,
+    "fips": "13031",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-09-01",
+    "source_url": "https://app.govly.com/public/signals/183961"
+  },
+  {
     "name": "Byrd Farm Columbia County",
     "developer": null,
     "fips": "13073",
@@ -2819,6 +3144,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.times-herald.com/news/new-proposed-4-billion-data-center-development-under-review-in-coweta/article_2fad1ded-9f1c-4b67-9be1-29a4f027a3d3.html"
+  },
+  {
+    "name": "Cherokee County Data Center Moratorium",
+    "developer": null,
+    "fips": "13057",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.wsbtv.com/news/local/cherokee-county/data-center-moratorium-more-than-doubled-after-metro-atlanta-commission-vote/AXUQYR3EQZCVFCYTB6JZCZ7VME/"
   },
   {
     "name": "Cherokee County moratorium",
@@ -2962,6 +3300,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.youtube.com/watch?v=gZA17gVm-ho"
+  },
+  {
+    "name": "DeKalb County Data Center Moratorium",
+    "developer": null,
+    "fips": "13089",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.decaturish.com/news/dekalb/south-dekalb-organizers-raise-concerns-over-new-data-centers/article_1df8e982-2fb2-4ff4-9d9b-5ce963435537.html"
   },
   {
     "name": "DeKalb County moratorium",
@@ -3263,6 +3614,32 @@
     "source_url": "https://www.walb.com/2026/02/10/rural-communities-raise-concerns-data-centers-expand-across-georgia-beyond/"
   },
   {
+    "name": "Madison County Data Center Moratorium",
+    "developer": null,
+    "fips": "13195",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-08-03",
+    "source_url": "https://www.mainstreetnews.com/madison/news/boc-denies-group-home-proposals-approves-data-center-moratorium/article_4aae6574-20fb-42fb-85aa-a63bce64a10f.html"
+  },
+  {
+    "name": "Madison County Moratorium",
+    "developer": null,
+    "fips": "13195",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-08-31",
+    "source_url": "https://www.mainstreetnews.com/madison/news/boc-approves-millage-rate-data-center-moratorium/article_b2cd8ff8-2f7b-4c2a-a4bd-5e185f3b348e.html"
+  },
+  {
     "name": "Meta Morgan County",
     "developer": "Meta",
     "fips": "13211",
@@ -3445,6 +3822,19 @@
     "source_url": "https://wgtjradio.com/hcc-tables-vote-on-data-center/"
   },
   {
+    "name": "Oakley Brown Farm Road",
+    "developer": "Oakley Real Estate Partners",
+    "fips": "13015",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.fox5atlanta.com/news/bartow-county-residents-challenge-data-center-plan"
+  },
+  {
     "name": "Old Elberton Road Data Center",
     "developer": null,
     "fips": "13059",
@@ -3504,9 +3894,9 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "planned",
+    "status": "rejected",
     "size_mw": null,
-    "date": "2025-11-20",
+    "date": "2026-08-13",
     "source_url": "https://www.wabe.org/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/"
   },
   {
@@ -3783,6 +4173,32 @@
     "source_url": "https://wnegradio.com/stephens-county-commissioners-hold-work-session-on-date-centers-ordinance/"
   },
   {
+    "name": "Tallapoosa Haralson Site",
+    "developer": null,
+    "fips": "13143",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.fox5atlanta.com/video/fmc-nq2oovdqd83ni80x"
+  },
+  {
+    "name": "Terrell County Data Center Moratorium",
+    "developer": null,
+    "fips": "13273",
+    "state": "GA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-07-07",
+    "source_url": "https://albanyherald.com/news/terrell-county-data-center-moratorium/"
+  },
+  {
     "name": "Thomas County data center moratorium",
     "developer": null,
     "fips": "13275",
@@ -3965,6 +4381,19 @@
     "source_url": "https://epoch.ai/data/data-centers"
   },
   {
+    "name": "Byron Constellation Ogle",
+    "developer": "Constellation Energy",
+    "fips": "17141",
+    "state": "IL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.farmweeknow.com/general/ifb-members-grapple-with-data-center-boom/article_dd055bf6-7a81-4b6f-953d-0015905d118e.html"
+  },
+  {
     "name": "Cloverleaf Granite City",
     "developer": "Cloverleaf Infrastructure",
     "fips": "17119",
@@ -4002,6 +4431,19 @@
     "size_mw": null,
     "date": "2024-07-25",
     "source_url": "https://www.shawlocal.com/ogle-county-news/2024/07/27/constellation-earns-ogle-county-zba-approval-to-rezone-596-acres/"
+  },
+  {
+    "name": "CyrusOne Sangamon",
+    "developer": "CyrusOne",
+    "fips": "17167",
+    "state": "IL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 636.0,
+    "date": null,
+    "source_url": "https://www.farmweeknow.com/general/ifb-members-grapple-with-data-center-boom/article_dd055bf6-7a81-4b6f-953d-0015905d118e.html"
   },
   {
     "name": "Digital Realty Elk Grove Village",
@@ -4782,6 +5224,19 @@
     "size_mw": null,
     "date": "2025-06-25",
     "source_url": "https://www.pecosvalleypartners.com/the-backlash-is-real-bipartisan-and-already-killing-projects/"
+  },
+  {
+    "name": "Project Louie Monrovia",
+    "developer": "Google",
+    "fips": "18109",
+    "state": "IN",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2025-02-18",
+    "source_url": "https://www.ipm.org/news/2026-09-21/how-ndas-are-hiding-data-center-details-from-the-public"
   },
   {
     "name": "Project Louie Morgan County",
@@ -5993,6 +6448,19 @@
     "source_url": "https://www.youtube.com/watch?v=xYTQjzzYi5g"
   },
   {
+    "name": "Geronimo Jasper",
+    "developer": "Geronimo Power",
+    "fips": "29097",
+    "state": "MO",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.koamnewsnow.com/news/top-stories/local-lawmakers-host-information-session-on-proposed-jasper-county-data-center-project/article_81002b67-9f0a-4764-9525-fc82524e64f1.html"
+  },
+  {
     "name": "Google New Florence",
     "developer": "Google",
     "fips": "29139",
@@ -6056,6 +6524,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.warrencountyrecord.com/stories/smaller-edge-site-data-centers-discussed-at-warren-county-commission-meeting,205134"
+  },
+  {
+    "name": "Pacific Franklin County",
+    "developer": null,
+    "fips": "29071",
+    "state": "MO",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.ksdk.com/video/news/community/data-centers/neighbors-react-after-franklin-county-approves-rezoning-requests-for-2-data-centers/63-a7c12998-63e2-4975-aefe-cffd5710159f"
   },
   {
     "name": "Project Green",
@@ -6134,6 +6615,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.stlpr.org/government-politics-issues/2026-11-02/madison-county-data-center-development"
+  },
+  {
+    "name": "Villa Ridge Franklin County",
+    "developer": null,
+    "fips": "29071",
+    "state": "MO",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.ksdk.com/video/news/community/data-centers/neighbors-react-after-franklin-county-approves-rezoning-requests-for-2-data-centers/63-a7c12998-63e2-4975-aefe-cffd5710159f"
   },
   {
     "name": "AVAIO Digital Taurus",
@@ -6708,6 +7202,45 @@
     "source_url": "https://epoch.ai/data/data-centers"
   },
   {
+    "name": "Oliver County Moratorium",
+    "developer": null,
+    "fips": "38065",
+    "state": "ND",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://hyperscalenews.com/briefings/2026-03-23/nextera-bets-16-billion-that-texas-demand-is-real"
+  },
+  {
+    "name": "Cass County Data Center Moratorium",
+    "developer": null,
+    "fips": "31025",
+    "state": "NE",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-08-11",
+    "source_url": "https://www.klkntv.com/cass-county-board-of-commissioners-unanimously-vote-for-data-center-moratorium/"
+  },
+  {
+    "name": "Cass County Data Center Pause",
+    "developer": null,
+    "fips": "31025",
+    "state": "NE",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-08-11",
+    "source_url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns"
+  },
+  {
     "name": "Geronimo Madison County",
     "developer": "Geronimo Power",
     "fips": "31119",
@@ -6758,6 +7291,32 @@
     "size_mw": 80.0,
     "date": null,
     "source_url": "https://epoch.ai/data/data-centers"
+  },
+  {
+    "name": "Tenaska Cass County",
+    "developer": "Tenaska",
+    "fips": "31025",
+    "state": "NE",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.3newsnow.com/news/local-news/cass-county-commissioners-pause-new-data-centers-for-a-year-amid-neighbor-concerns"
+  },
+  {
+    "name": "Tenaska Google Cass",
+    "developer": "Tenaska",
+    "fips": "31025",
+    "state": "NE",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2025-06-01",
+    "source_url": "https://www.ketv.com/article/cass-county-commissioners-approve-data-center-development/74324610"
   },
   {
     "name": "Microsoft-Nebius New Jersey",
@@ -7072,6 +7631,19 @@
     "source_url": "https://www.gcedc.com/file-library/100319/STREAMUSDataCentersLLC.CostBenefitAnalysisWithExecutiveSummary.3.12.26.pdf"
   },
   {
+    "name": "1957 SR 730 Wilmington",
+    "developer": null,
+    "fips": "39027",
+    "state": "OH",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-11-03",
+    "source_url": "https://statecapitallobbyist.com/artificial-intelligence-ai/data-centers/data-centers-on-the-ballot-where-things-stand/"
+  },
+  {
     "name": "AWS New Albany",
     "developer": "Amazon",
     "fips": "39089",
@@ -7241,6 +7813,19 @@
     "source_url": "https://www.dol.gov/newsroom/releases/osha/osha20230512"
   },
   {
+    "name": "McGuinn Road Wilmington",
+    "developer": null,
+    "fips": "39027",
+    "state": "OH",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-11-03",
+    "source_url": "https://statecapitallobbyist.com/artificial-intelligence-ai/data-centers/data-centers-on-the-ballot-where-things-stand/"
+  },
+  {
     "name": "Meta Bowling Green",
     "developer": "Meta",
     "fips": "39173",
@@ -7371,6 +7956,19 @@
     "source_url": "https://ballot.dcmap.us/"
   },
   {
+    "name": "SR 730 Wilmington",
+    "developer": null,
+    "fips": "39027",
+    "state": "OH",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-11-03",
+    "source_url": "https://statecapitallobbyist.com/artificial-intelligence-ai/data-centers/data-centers-on-the-ballot-where-things-stand/"
+  },
+  {
     "name": "Scioto Township data center",
     "developer": null,
     "fips": "39079",
@@ -7421,6 +8019,19 @@
     "size_mw": 10000.0,
     "date": null,
     "source_url": "https://www.youtube.com/watch?v=iehXN-geDgA"
+  },
+  {
+    "name": "US 68 South Wilmington",
+    "developer": null,
+    "fips": "39027",
+    "state": "OH",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-11-03",
+    "source_url": "https://statecapitallobbyist.com/artificial-intelligence-ai/data-centers/data-centers-on-the-ballot-where-things-stand/"
   },
   {
     "name": "Upper Sandusky Data Center Ban",
@@ -7486,6 +8097,19 @@
     "size_mw": null,
     "date": "2026-09-30",
     "source_url": "https://www.kxii.com/2026/10/20/bryan-county-pauses-data-center-development-one-year/"
+  },
+  {
+    "name": "Choctaw County Data Center Moratorium",
+    "developer": null,
+    "fips": "40023",
+    "state": "OK",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-05-18",
+    "source_url": "https://www.hugonews.com/news/choctaw-county-enacts-temporary-moratorium-data-centers"
   },
   {
     "name": "CoreWeave Muskogee OK",
@@ -9269,6 +9893,19 @@
     "source_url": "https://www.thedailytimes.com/news/workshop-advances-agreement-to-buy-in-on-south-plant-purchase/article_ff185ca9-e48f-4474-94b9-3dfdc641b3c7.html"
   },
   {
+    "name": "Blount County Data Center Moratorium",
+    "developer": null,
+    "fips": "47009",
+    "state": "TN",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-10-20",
+    "source_url": "https://www.wbir.com/article/news/politics/blount-county-commissioners-approve-yearlong-moratoriums-on-data-centers-large-residential-developments/51-d9b5fdea-6ecf-4630-98b1-e7ad8afe19ab"
+  },
+  {
     "name": "Blue Sky AI Johnson County",
     "developer": "Blue Sky AI",
     "fips": "47091",
@@ -9386,6 +10023,45 @@
     "source_url": "https://datacenterfights.com/state-tn"
   },
   {
+    "name": "Hamilton County Data Center Moratorium",
+    "developer": null,
+    "fips": "47065",
+    "state": "TN",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-07-16",
+    "source_url": "https://www.local3news.com/local-news/update-hamilton-county-approves-one-year-moratorium-on-new-data-centers-in-unincorporated-areas/article_9ff722e4-a174-4361-95c3-0cce1db669bc.html"
+  },
+  {
+    "name": "Hamilton County Rural Moratorium",
+    "developer": null,
+    "fips": "47065",
+    "state": "TN",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-07-15",
+    "source_url": "https://newschannel9.com/news/local/hamilton-county-commissioners-approve-1-year-pause-on-new-rural-data-centers"
+  },
+  {
+    "name": "JailHouse Studios Hamilton",
+    "developer": "Urban Story Ventures",
+    "fips": "47065",
+    "state": "TN",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://newschannel9.com/news/local/hamilton-county-commissioners-approve-1-year-pause-on-new-rural-data-centers"
+  },
+  {
     "name": "Meta Gallatin",
     "developer": "Meta",
     "fips": "47165",
@@ -9423,6 +10099,19 @@
     "size_mw": null,
     "date": "2026-10-12",
     "source_url": "https://www.actionnews5.com/2026/10/15/millington-approves-data-center-moratorium-county-memphis-weigh-their-own/"
+  },
+  {
+    "name": "Moore County Moratorium",
+    "developer": null,
+    "fips": "47127",
+    "state": "TN",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://mcobserver.news/news/data-center-moratorium-sent-to-metro-council/"
   },
   {
     "name": "Project River Bradley",
@@ -9685,6 +10374,19 @@
     "source_url": "https://datacenterindex.ai/markets/texas/north-texas"
   },
   {
+    "name": "AI Claude",
+    "developer": null,
+    "fips": "48381",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-03-10",
+    "source_url": "https://amarillotribune.org/2026/03/10/need-to-know-randall-county-commissioners-court-march-10-2026/"
+  },
+  {
     "name": "AI Data Center Northeast Lubbock",
     "developer": null,
     "fips": "48303",
@@ -9735,6 +10437,32 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://hyperscalenews.com/atlas/colorado"
+  },
+  {
+    "name": "Abbott Land Holdings HCR 3106",
+    "developer": "Abbott Land Holdings, LLC",
+    "fips": "48217",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://lakelander.com/2026/06/11/county-rescinds-data-center-moratorium/"
+  },
+  {
+    "name": "Abundia Chambers",
+    "developer": "Abundia Global Impact Group",
+    "fips": "48071",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/9818193/texas/chambers-county/public-hearing-set-for-0324-on-abundia-reinvestment-zone-after-prior-approval-of-economic-development-agreement"
   },
   {
     "name": "Aetheris Paducah",
@@ -9932,6 +10660,45 @@
     "source_url": "https://www.bclwclub.net/post/incoming-new-amazon-data-center-planned-for-cedar-creek"
   },
   {
+    "name": "Amazon Data Services Floyd",
+    "developer": "Amazon Data Services, Inc.",
+    "fips": "48153",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2026-05-11",
+    "source_url": "https://www.floydcountyrecord.com/2026/05/12/floyd-county-commissioners-approve-road-agreements-courthouse-improvements-during-monday-meeting/"
+  },
+  {
+    "name": "Amazon Floyd",
+    "developer": "Amazon",
+    "fips": "48153",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.rfdtv.com/texas-county-uses-tax-incentives-to-steer-data-center-development"
+  },
+  {
+    "name": "Amazon Floyd County",
+    "developer": "Amazon",
+    "fips": "48153",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://aglifemedia.com/texas-county-uses-incentives-to-steer-data-centers-all-ag-news/"
+  },
+  {
     "name": "Amazon Floydada",
     "developer": "Amazon Data Services, Inc.",
     "fips": "48153",
@@ -10069,7 +10836,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "rejected",
+    "status": "planned",
     "size_mw": null,
     "date": null,
     "source_url": "https://the936.com/environmental-the936com/water-growth-and-transparency-dominate-ai-data-center-town-hall"
@@ -10108,7 +10875,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "planned",
+    "status": "moratorium",
     "size_mw": null,
     "date": null,
     "source_url": "https://www.ktre.com/2026/09/29/abbott-says-data-center-permits-frozen-until-power-water-concerns-addressed/"
@@ -10361,6 +11128,19 @@
     "source_url": "https://trackdatacenters.io/projects/bt-gateway-data-center-outside-royse-city-royse-city-proper-is-in-rockwall-county-tx-tx-0115"
   },
   {
+    "name": "BaRupOn LAMP Liberty",
+    "developer": "BaRupOn LLC",
+    "fips": "48291",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 240.0,
+    "date": null,
+    "source_url": "https://www.barupon.com/liberty-american-multi-sourced-power-and-innovation-hub/"
+  },
+  {
     "name": "BaRupOn Raywood",
     "developer": "BaRupOn",
     "fips": "48291",
@@ -10595,6 +11375,19 @@
     "source_url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-100000-sq-ft-data-center-outside-dallas-texas/"
   },
   {
+    "name": "Belltown Royse City",
+    "developer": "Belltown Power",
+    "fips": "48231",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.linkedin.com/posts/amandaallenrealtor_data-centers-are-coming-to-rockwall-county-activity-7495163476978388992-2NWU"
+  },
+  {
     "name": "Bexar ETJ Subdivision Plat",
     "developer": null,
     "fips": "48029",
@@ -10803,6 +11596,19 @@
     "source_url": "https://www.themorningsun.com/2026/08/16/rural-texas-conservatives-love-free-markets-but-not-when-it-comes-to-data-centers/"
   },
   {
+    "name": "Black Mountain Lon Stephenson Road",
+    "developer": "Black Mountain",
+    "fips": "48439",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 980.0,
+    "date": "2026-04-08",
+    "source_url": "https://www.keranews.org/news/2026-07-28/data-centers-require-substantial-water-energy-sustainable-practices-technology-can-lessen-impact"
+  },
+  {
     "name": "Black Mountain Parker",
     "developer": "Black Mountain",
     "fips": "48367",
@@ -10853,6 +11659,19 @@
     "size_mw": null,
     "date": "2026-07-09",
     "source_url": "https://dcmap.us/counties/bexar-county-tx/"
+  },
+  {
+    "name": "Black Mountain Savoy",
+    "developer": null,
+    "fips": "48147",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.ntxe-news.com/cgi-bin/artman/exec/view.cgi?archive=108&num=145202"
   },
   {
     "name": "Black Mountain Weatherford",
@@ -11063,6 +11882,32 @@
     "source_url": "https://txdatacenterwatch.com/county/eastland/"
   },
   {
+    "name": "Brazoria Data Center",
+    "developer": null,
+    "fips": "48039",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 620.0,
+    "date": "2026-03-10",
+    "source_url": "https://www.tpr.org/news/2026-05-07/texas-republicans-have-a-data-center-problem"
+  },
+  {
+    "name": "Brown County Data Center Ban",
+    "developer": null,
+    "fips": "48049",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-09-03",
+    "source_url": "https://www.680kfeq.com/2026/09/03/brown-county-bans-data-centers-battery-storage-facilities/"
+  },
+  {
     "name": "Brownsville moratorium",
     "developer": null,
     "fips": "48061",
@@ -11113,6 +11958,19 @@
     "size_mw": 1400.0,
     "date": null,
     "source_url": "https://parcelandgrid.com/texas/hill-county/"
+  },
+  {
+    "name": "C1 Jack Jack County",
+    "developer": "C1 Jack I LLC",
+    "fips": "48237",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.theia.global/article/wise-county-commissioners-request-legislative-action-to-regulate-data-centers-in-texas-8cbd6fd7"
   },
   {
     "name": "CCAV Van Horn",
@@ -11180,6 +12038,19 @@
     "source_url": "https://post-register.com/private-deal-public-questions/"
   },
   {
+    "name": "Caldwell Valley Technology Park",
+    "developer": null,
+    "fips": "48055",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://insideclimatenews.org/news/19102026/texas-continued-permitting-data-centers-after-moratorium/"
+  },
+  {
     "name": "Cameron Road Pflugerville",
     "developer": null,
     "fips": "48453",
@@ -11245,6 +12116,32 @@
     "source_url": "https://www.youtube.com/watch?v=lOW-GNbrOkI"
   },
   {
+    "name": "Cass County Data Center Moratorium",
+    "developer": null,
+    "fips": "48067",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-08-11",
+    "source_url": "https://www.casscountyfacts.com/post/what-actually-happened-tuesday-understanding-the-cass-county-data-center-meeting"
+  },
+  {
+    "name": "Caviar Road Reinvestment Zone",
+    "developer": null,
+    "fips": "48415",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/10779014/texas/scurry-county/court-opens-hearing-on-1975acre-reinvestment-zone-for-proposed-datacenter-development"
+  },
+  {
     "name": "Cedar Creek Henderson",
     "developer": null,
     "fips": "48213",
@@ -11297,6 +12194,19 @@
     "source_url": "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/"
   },
   {
+    "name": "Cholla Schleicher",
+    "developer": "Cholla, Inc.",
+    "fips": "48413",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://myeldorado.net/stories/no-county-zoning-issues-for-cold-creek-solar-battery-storage-project,144385"
+  },
+  {
     "name": "Cielo Mustang Ridge Travis",
     "developer": null,
     "fips": "48453",
@@ -11308,6 +12218,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://datacentersnearme.org/counties/texas/travis"
+  },
+  {
+    "name": "Cielo Vista Duval",
+    "developer": null,
+    "fips": "48131",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/9253521/texas/duval-county/commissioners-reauthorize-tax-abatement-policy-and-set-hearing-on-cielo-vista-applications"
   },
   {
     "name": "Cipher Barber Lake",
@@ -11360,6 +12283,19 @@
     "size_mw": 1000.0,
     "date": "2025-11-03",
     "source_url": "https://txdatacenterwatch.com/project/cipher-colchis/"
+  },
+  {
+    "name": "Cipher Digital Andrews",
+    "developer": "Cipher Digital",
+    "fips": "48003",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 100.0,
+    "date": null,
+    "source_url": "https://www.newswest9.com/article/news/local/were-the-guinea-pigs-incoming-data-center-raises-concerns-in-andrews-county/513-ccd49578-ef63-4cc5-8be9-4045c50a172a"
   },
   {
     "name": "Cipher Digital Highway 67 Tom Green",
@@ -11662,7 +12598,7 @@
   },
   {
     "name": "CloudBurst Guadalupe",
-    "developer": null,
+    "developer": "Cloudburst Texas LLC",
     "fips": "48187",
     "state": "TX",
     "lat": null,
@@ -11724,6 +12660,19 @@
     "size_mw": 300.0,
     "date": "2026-06-22",
     "source_url": "https://datacenters.cutrerlabs.com/intel/2026-05-nolan-cb-sweetwater-reinvestment-zone/"
+  },
+  {
+    "name": "CloudBurst Texas New Braunfels",
+    "developer": "CloudBurst Texas LLC",
+    "fips": "48187",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-02-24",
+    "source_url": "https://hoodline.com/2026/10/new-braunfels-pushes-data-centers-into-heavy-industry-bars-them-from-aquifer-zone/"
   },
   {
     "name": "CloudHQ San Antonio",
@@ -11854,6 +12803,45 @@
     "size_mw": 600.0,
     "date": null,
     "source_url": "https://interchange.puc.texas.gov/Documents/58561_105_1569036.PDF"
+  },
+  {
+    "name": "Comanche Circle Hood",
+    "developer": "Sailfish Investors",
+    "fips": "48221",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://hyperscalenews.com/briefings/2026-03-11/texas-developers-need-no-permission-rural-counties-are-changing-that"
+  },
+  {
+    "name": "Comanche Circle Hood County",
+    "developer": null,
+    "fips": "48221",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.kbtx.com/2026/06/02/eight-data-centers-threaten-transform-this-small-texas-county-local-officials-say-they-have-no-power-stop-them/"
+  },
+  {
+    "name": "Comanche County Solar Battery Proctor",
+    "developer": null,
+    "fips": "48093",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-07-13",
+    "source_url": "https://www.thecomanchechief.com/news/comanche-county-commissioners-court-highlighted-by-comanche-library-grant-news-county-restoration-salary-increase-and/article_0cd1230e-7e5c-46f3-adbe-79bfed798d9d.html"
   },
   {
     "name": "Comcast Willis",
@@ -11997,6 +12985,19 @@
     "size_mw": 285.0,
     "date": "2026-05-05",
     "source_url": "https://www.datacenterdynamics.com/en/news/core-scientific-buys-land-outside-dallas-texas-for-285mw-data-center-campus/"
+  },
+  {
+    "name": "Core Scientific Hunt",
+    "developer": "Core Scientific",
+    "fips": "48231",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 430.0,
+    "date": null,
+    "source_url": "https://www.heraldbanner.com/news/local_news/updated-county-commissioners-set-for-discussions-concerning-possible-data-center/article_187aee58-364a-4716-8def-3ff416598286.html"
   },
   {
     "name": "Core Scientific Hunt County",
@@ -12155,6 +13156,19 @@
     "source_url": "https://nearbydatacenters.org/projects/tx-lubbock-corva-project-infrared/"
   },
   {
+    "name": "Cotulla Data Center",
+    "developer": null,
+    "fips": "48283",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/9905343/texas/la-salle-county/cotulla/council-hires-datacenter-adviser-consultant-promises-independent-studies-and-contract-oversight"
+  },
+  {
     "name": "Crosspoint College Station",
     "developer": null,
     "fips": "48041",
@@ -12272,6 +13286,19 @@
     "source_url": "https://nearbydatacenters.org/tx/"
   },
   {
+    "name": "Crusoe Kent County",
+    "developer": "Crusoe",
+    "fips": "48263",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://datacenters.cutrerlabs.com/intel/2026-10-kent-county-crusoe-tax-zone-vote-tabled/"
+  },
+  {
     "name": "Crusoe Microsoft Abilene",
     "developer": "Crusoe, Microsoft",
     "fips": "48441",
@@ -12374,6 +13401,19 @@
     "size_mw": 1500.0,
     "date": null,
     "source_url": "https://watchpennies.com/texas/dewitt-county-tx/cuero-tx/data-centers"
+  },
+  {
+    "name": "Cyber/Cipher Digital Cotulla",
+    "developer": "Cyber/Cipher Digital",
+    "fips": "48283",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 70.0,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/10335763/texas/la-salle-county/cotulla/council-tables-datacenter-questions-seeks-formal-application-before-action"
   },
   {
     "name": "CyrusOne Austin",
@@ -12740,6 +13780,19 @@
     "source_url": "http://ci.san-marcos.tx.us/AgendaCenter/ViewFile/Minutes/_03032026-4866"
   },
   {
+    "name": "Data City Texas",
+    "developer": null,
+    "fips": "48479",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 5000.0,
+    "date": null,
+    "source_url": "https://www.kgns.tv/2026/07/31/laredo-officials-call-special-session-moratorium-data-center-permits/"
+  },
+  {
     "name": "DataBank Austin",
     "developer": "DataBank",
     "fips": "48453",
@@ -12894,6 +13947,19 @@
     "size_mw": 47.0,
     "date": "2026-10-27",
     "source_url": "https://txdatacenterwatch.com/texas/brazoria-county/"
+  },
+  {
+    "name": "DeWitt County Data Center Moratorium",
+    "developer": null,
+    "fips": "48123",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.dewittdailynews.com/dewitt-county-to-propose-data-center-moratorium/"
   },
   {
     "name": "Delta County Data Center",
@@ -13063,6 +14129,19 @@
     "size_mw": null,
     "date": "2026-07-23",
     "source_url": "https://www.ksat.com/news/texas/2026/07/23/east-texas-data-center-project-pulled-after-facing-community-backlash/"
+  },
+  {
+    "name": "Diode Ventures East Texas",
+    "developer": "Diode Ventures",
+    "fips": "48001",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.houstonpublicmedia.org/articles/technology/2026/07/24/557888/data-center-poll-texas-politics/"
   },
   {
     "name": "Doster Property San Marcos",
@@ -13754,6 +14833,32 @@
     "source_url": "https://www.youtube.com/watch?v=sGdp_0PN6Gc"
   },
   {
+    "name": "Emergent San Angelo",
+    "developer": "Emergent Data Centers",
+    "fips": "48451",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://conchoobserver.com/the-data-center-shaped-elephant-in-the-room/"
+  },
+  {
+    "name": "Encore 765 kV Data Center Hookups",
+    "developer": "Encore",
+    "fips": "48143",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://cpo.soar.com/articles/8264239/Erath-County/Texas/Local-officials-residents-and-Texas-lawmakers-press-PUC-to-delay-proposed-765-kV-lines-and-data-center-projects"
+  },
+  {
     "name": "Energy Abundance Laredo",
     "developer": "Energy Abundance Development Corp",
     "fips": "48479",
@@ -13765,6 +14870,19 @@
     "size_mw": 5000.0,
     "date": null,
     "source_url": "https://servercountry.org/data/projects/data-city-texas/"
+  },
+  {
+    "name": "Energy Arc Gaines",
+    "developer": null,
+    "fips": "48165",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.seminolesentinel.com/issues/2026-10-13/pages/2/"
   },
   {
     "name": "Energy Ranch Atascosa",
@@ -13908,6 +15026,32 @@
     "size_mw": 500.0,
     "date": "2026-10-05",
     "source_url": "https://txdatacenterwatch.com/county/gaines/"
+  },
+  {
+    "name": "Falcon Point Gaines",
+    "developer": "Falcon Point Digital LLC",
+    "fips": "48165",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-10-05",
+    "source_url": "https://www.seminolesentinel.com/issues/2026-10-06/pages/1/"
+  },
+  {
+    "name": "Fannin Data Center Resolution",
+    "developer": null,
+    "fips": "48147",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.ntxe-news.com/cgi-bin/artman/exec/view.cgi?archive=107&num=145139"
   },
   {
     "name": "Fermi Amarillo",
@@ -14118,6 +15262,32 @@
     "source_url": "https://elpasocounty.myopentexas.org/meetings/2026-11-05-commissioners-court-special-meeting-nov-5-2026-eeacf5d9-32df-4052-813c-937cabadaa47"
   },
   {
+    "name": "Fort Spunky Hood County",
+    "developer": "Pacifico Spunky LLC",
+    "fips": "48221",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.kbtx.com/2026/06/02/eight-data-centers-threaten-transform-this-small-texas-county-local-officials-say-they-have-no-power-stop-them/"
+  },
+  {
+    "name": "Fort Worth Data Center Moratorium",
+    "developer": null,
+    "fips": "48439",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://classifieds.mcclatchy.com/marketplace/fortworth/advert/-Notices_243893"
+  },
+  {
     "name": "Fort Worth developer Parker County site",
     "developer": null,
     "fips": "48367",
@@ -14207,6 +15377,32 @@
     "size_mw": null,
     "date": "2025-10-14",
     "source_url": "https://suedatacenters.org/guides/armstrong-county-texas-data-center-what-the-records-show"
+  },
+  {
+    "name": "Gaines County Data Center",
+    "developer": null,
+    "fips": "48165",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.change.org/p/stop-data-center-from-draining-gaines-county-s-water"
+  },
+  {
+    "name": "Galaxy Digital Dickens",
+    "developer": "Galaxy Digital",
+    "fips": "48125",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 1600.0,
+    "date": null,
+    "source_url": "https://hyperscalenews.com/briefings/2026-03-23/nextera-bets-16-billion-that-texas-demand-is-real"
   },
   {
     "name": "Galaxy Digital Dickens County",
@@ -14324,6 +15520,19 @@
     "size_mw": 74.0,
     "date": "2026-07-28",
     "source_url": "https://citizenportal.ai/articles/11300754/texas/mclennan-county/mcgregor/resident-urges-pause-on-project-merlin-citing-water-heat-and-grid-concerns"
+  },
+  {
+    "name": "Gateway Digital Franklin",
+    "developer": "Provident",
+    "fips": "48159",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.bizjournals.com/stlouis/news/2026/10/13/two-groups-sue-franklin-county-data-centers.html"
   },
   {
     "name": "Gc Data Center Granbury",
@@ -14454,6 +15663,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://communitydigitaltech.com/community/ellis-county-tx"
+  },
+  {
+    "name": "Google Archer",
+    "developer": "Google",
+    "fips": "48009",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-06-22",
+    "source_url": "https://www.aol.com/articles/archer-county-judge-hopes-state-163826000.html"
   },
   {
     "name": "Google Archer County",
@@ -14623,6 +15845,19 @@
     "size_mw": null,
     "date": "2025-06-18",
     "source_url": "https://www.datacentermap.com/usa/texas/abilene/thm1a-data-center/"
+  },
+  {
+    "name": "Google Meitner Gray Roberts",
+    "developer": "Google and Intersect",
+    "fips": "48179",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-06-04",
+    "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7468288160385380353"
   },
   {
     "name": "Google Midlothian",
@@ -14885,6 +16120,19 @@
     "source_url": "https://www.bizjournals.com/sanantonio/news/2026/07/15/frio-county-data-center-project.html"
   },
   {
+    "name": "Halcon Wind",
+    "developer": "Halcon Wind LLC",
+    "fips": "48427",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2026-03-09",
+    "source_url": "https://mytexasrecord.org/starr-county/meetings/2026-03-09-public-hearing-commissioners-court-2026-03-09-62dd49cd-2aac-4665-ab21-c8444ad760b0"
+  },
+  {
     "name": "Harlingen moratorium",
     "developer": null,
     "fips": "48061",
@@ -14989,6 +16237,19 @@
     "source_url": "https://www.fox7austin.com/news/san-marcos-leaders-reject-plans-build-controversial-data-center"
   },
   {
+    "name": "Hill County Data Center Moratorium",
+    "developer": null,
+    "fips": "48217",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "withdrawn",
+    "size_mw": null,
+    "date": "2026-06-01",
+    "source_url": "https://www.fox7austin.com/news/north-texas-county-moratorium-data-centers"
+  },
+  {
     "name": "Hill County moratorium",
     "developer": "RCM Hill, LLC",
     "fips": "48217",
@@ -15000,6 +16261,19 @@
     "size_mw": null,
     "date": "2026-05-15",
     "source_url": "https://texasstandard.org/stories/hill-county-judge-expects-legal-challenges-to-data-center-development-pause/"
+  },
+  {
+    "name": "Hood County Data Centers",
+    "developer": null,
+    "fips": "48221",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-02-10",
+    "source_url": "https://www.banderabulletin.com/article/3183,hell-in-your-back-yard"
   },
   {
     "name": "Hood County data center campus",
@@ -15236,6 +16510,19 @@
     "source_url": "https://www.datacenterdynamics.com/en/news/hyperdatagrid-eyes-data-center-outside-lufkin-texas/"
   },
   {
+    "name": "IONIC Digital Cedarvale",
+    "developer": "IONIC Digital",
+    "fips": "48475",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": 234.0,
+    "date": "2025-10-15",
+    "source_url": "https://www.datacentermap.com/usa/texas/pecos/"
+  },
+  {
     "name": "IP Roman Deaf Smith",
     "developer": "IP Roman Gas",
     "fips": "48117",
@@ -15386,9 +16673,9 @@
     "lat": 32.0148902,
     "lon": -98.5602486,
     "geo_precision": "road",
-    "status": "operating",
+    "status": "planned",
     "size_mw": null,
-    "date": null,
+    "date": "2026-07-13",
     "source_url": "https://www.thecomanchechief.com/agriculture/outdoors/data-center-is-coming-to-comanche-county-but-which-one-ai-or-cryptocurrency-mining/article_08623292-960e-458d-a747-d890448a3d0e.html"
   },
   {
@@ -15496,6 +16783,19 @@
     "source_url": "https://portal.sina.com.hk/finance/finance-globenewswire/globenewswire/2026/09/10/1918922/ionic-digital-receives-base-load-provisional-classification-in-ercots-batch-zero-process/"
   },
   {
+    "name": "Ionic Digital Ward",
+    "developer": "Ionic Digital",
+    "fips": "48475",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 466.0,
+    "date": "2026-09-10",
+    "source_url": "https://btw.media/en/ionic-digital-ward-county-466mw-provisional-power-two-clocks"
+  },
+  {
     "name": "Iron Mountain Hutto",
     "developer": "Iron Mountain",
     "fips": "48491",
@@ -15535,6 +16835,19 @@
     "source_url": "https://www.grahamleader.com/jacksboro-herald-gazette/article_32be0f56-2c6e-4386-b56e-cc3da276ad70.html"
   },
   {
+    "name": "Jayton Kent County",
+    "developer": null,
+    "fips": "48263",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://datacenters.cutrerlabs.com/news/2026-10-02/"
+  },
+  {
     "name": "Jewett Leon County",
     "developer": null,
     "fips": "48289",
@@ -15546,6 +16859,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/leon-county/fighting-back-against-big-data-leon-county-residents-opposing-three-proposed-data-centers"
+  },
+  {
+    "name": "Jim Hogg Hebbronville",
+    "developer": null,
+    "fips": "48247",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.kiiitv.com/video/news/local/massive-data-center-proposal-raises-concerns-in-jim-hogg-county/503-da95077d-1d55-435b-b67b-2ef8a5da0881"
   },
   {
     "name": "Johnson County Data Center 1800 Acres",
@@ -15665,6 +16991,19 @@
     "source_url": "https://www.texasconstructionhub.com/stories/taylor-drafts-data-center-noise-limits-as-large-projects-advance"
   },
   {
+    "name": "Kanner Highway Hyperscale",
+    "developer": null,
+    "fips": "48317",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://treasurecoast.today/articles/2026-10-13-martin-county-commissioners-advance-one-year-moratorium-on-data-centers.html"
+  },
+  {
     "name": "Kaufman Desert Haven",
     "developer": "Kaufman & Company",
     "fips": "48229",
@@ -15685,9 +17024,9 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "moratorium",
+    "status": "rejected",
     "size_mw": null,
-    "date": "2026-05-26",
+    "date": "2026-06-01",
     "source_url": "https://kerrcountylead.com/kerrvilles-new-rules-effectively-block-data-centers-battery-storage-without-an-outright-ban/"
   },
   {
@@ -15715,6 +17054,32 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://data-centers.dish.codes/jurisdictions/dawson-county-tx"
+  },
+  {
+    "name": "Kodiak Ward",
+    "developer": "Kodiak Gas Services",
+    "fips": "48475",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 76.0,
+    "date": null,
+    "source_url": "https://www.thepermianai.com/ai-intelligenc-brief/political-impact-data-centers-in-the-permian"
+  },
+  {
+    "name": "LAMP Raywood",
+    "developer": "BaRuPon LLC",
+    "fips": "48291",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.thevindicator.com/article/3653,public-meeting-set-for-lamp-project"
   },
   {
     "name": "LCEC Expo Center Lubbock",
@@ -15847,6 +17212,19 @@
     "source_url": "https://datacenters.cutrerlabs.com/reports/pecos-county-2026-06/"
   },
   {
+    "name": "Lancium Hardeman",
+    "developer": "Lancium",
+    "fips": "48197",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.texomashomepage.com/news/local-news/hardeman-county-residents-worry-over-ai-centers-water-use/"
+  },
+  {
     "name": "Lancium Hardeman County",
     "developer": "Lancium",
     "fips": "48197",
@@ -15858,6 +17236,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.yahoo.com/news/articles/hardeman-county-residents-worry-over-001732132.html"
+  },
+  {
+    "name": "Lancium Jones",
+    "developer": "Lancium LLC",
+    "fips": "48253",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/8161366/texas/jones-county/commissioners-discuss-lancium-data-center-project-but-take-no-action"
   },
   {
     "name": "Lancium Jones County",
@@ -15951,6 +17342,19 @@
     "source_url": "https://txdatacenterwatch.com/county/guadalupe/"
   },
   {
+    "name": "Legacy Marion",
+    "developer": "Legacy Investing",
+    "fips": "48187",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 50.0,
+    "date": "2026-10-22",
+    "source_url": "https://brentwiewel.substack.com/p/texas-data-center-brief-october-1926"
+  },
+  {
     "name": "Legacy Municipal Management District data center development",
     "developer": "Legacy Municipal Management District (LMMD)",
     "fips": "48479",
@@ -16016,6 +17420,19 @@
     "source_url": "https://parcelandgrid.com/texas/hill-county/"
   },
   {
+    "name": "Limestone County Data Center Moratorium",
+    "developer": null,
+    "fips": "48293",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-05-27",
+    "source_url": "https://citizenportal.ai/articles/8057605/texas/limestone-county/commissioners-adopt-one-year-moratorium-to-study-data-centers-impact-in-limestone-county"
+  },
+  {
     "name": "Lincoln Coit Road Plano",
     "developer": "Lincoln Property Company",
     "fips": "48085",
@@ -16027,6 +17444,19 @@
     "size_mw": 18.0,
     "date": "2026-06-23",
     "source_url": "https://txdatacenterwatch.com/texas/collin-county/"
+  },
+  {
+    "name": "Lingleville Erath",
+    "developer": null,
+    "fips": "48143",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.dublincitizen.com/news/county-addresses-data-concerns"
   },
   {
     "name": "Lonestar Dream Tarbush",
@@ -16118,6 +17548,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://dcmap.us/counties/mclennan-county-tx/"
+  },
+  {
+    "name": "Lumens Titus",
+    "developer": null,
+    "fips": "48449",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-07-27",
+    "source_url": "https://citizenportal.ai/articles/8755506/texas/titus-county/titus-county-declares-intent-to-participate-in-tax-abatement-agreements"
   },
   {
     "name": "Lynn County resolution",
@@ -16367,6 +17810,19 @@
     "source_url": "https://fortworthbusiness.com/technology/fort-worth-considering-20-percent-tax-abatement-for-more-facebook-construction/"
   },
   {
+    "name": "Meta Kermar Road Expansion Houston",
+    "developer": "Meta",
+    "fips": "48201",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/10145342/texas/harris-county/houston/data-center-expansion-prompts-kermar-road-deletion-request-staff-review-and-county-coordination-ongoing"
+  },
+  {
     "name": "Meta Northeast El Paso",
     "developer": "Meta",
     "fips": "48141",
@@ -16588,6 +18044,19 @@
     "source_url": "https://markhurd4tx.com/news/public-record-timeline-data-center-outreach-commissioner-akin"
   },
   {
+    "name": "Monticello Titus",
+    "developer": null,
+    "fips": "48449",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/10007000/texas/titus-county/residents-press-titus-county-to-put-potential-monticello-data-center-on-agenda"
+  },
+  {
     "name": "Moonstone Solar Wilson",
     "developer": "Moonstone Solar/Scout Energy",
     "fips": "48493",
@@ -16601,6 +18070,19 @@
     "source_url": "https://www.wilsoncountynews.com/articles/county-oks-edc-contract-no-action-on-solar-project/"
   },
   {
+    "name": "Moore County Data Center Moratorium",
+    "developer": null,
+    "fips": "48341",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://mcobserver.news/news/moore-county-weighs-moratorium-on-data-centers/"
+  },
+  {
     "name": "NCP Taylor",
     "developer": "NCP Travis TPP Project LLC",
     "fips": "48441",
@@ -16612,6 +18094,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.youtube.com/watch?v=15zUjh2Jh_4"
+  },
+  {
+    "name": "NG Research Lab Killeen",
+    "developer": null,
+    "fips": "48027",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://kdhnews.com/news/local/killeen-council-to-discuss-data-center-regulations-at-city-hall-meeting/article_e30b4462-3e52-443c-b883-52350286cdaa.html"
   },
   {
     "name": "NRG Jewett",
@@ -16731,6 +18226,32 @@
     "source_url": "https://www.oaoa.com/local-news/commissioners-look-to-begin-water-improvements-2/"
   },
   {
+    "name": "Newton County Data Center",
+    "developer": null,
+    "fips": "48351",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.change.org/p/save-newton-county-s-water-from-data-center-threats"
+  },
+  {
+    "name": "NextEra Anderson County Power Generation Hub",
+    "developer": "NextEra Energy",
+    "fips": "48001",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 5200.0,
+    "date": "2026-03-25",
+    "source_url": "https://justthenews.com/nation/states/center-square/new-16b-natural-gas-generation-hub-being-built-east-texas-data-center"
+  },
+  {
     "name": "NextEra Cap Ridge Wind I Sterling City",
     "developer": "NextEra",
     "fips": "48431",
@@ -16757,6 +18278,19 @@
     "source_url": "https://www.datacenterdynamics.com/en/news/nextera-gets-federal-approval-to-build-10gw-of-natural-gas-power-in-texas-and-pennsylvania-for-data-centers/"
   },
   {
+    "name": "NextEra Project Star Encinal",
+    "developer": "NextEra Energy, Lewis Energy, Related Digital",
+    "fips": "48283",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 6300.0,
+    "date": null,
+    "source_url": "https://www.frio-nuecescurrent.com/2026/10/07/i-want-a-seat-at-the-table/"
+  },
+  {
     "name": "Nexus Hubbard",
     "developer": "Nexus Data Centers",
     "fips": "48217",
@@ -16766,7 +18300,7 @@
     "geo_precision": null,
     "status": "approved",
     "size_mw": 600.0,
-    "date": "2026-04-07",
+    "date": "2026-09-22",
     "source_url": "https://lakelander.com/2026/02/19/commissioners-approve-hubbard-data-center-reinvestment-zone/"
   },
   {
@@ -16861,6 +18395,32 @@
     "source_url": "https://mclennancounty.myopentexas.org/issues/data-center-development"
   },
   {
+    "name": "Nscale Ward",
+    "developer": "Nscale",
+    "fips": "48475",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": 234.0,
+    "date": "2025-10-01",
+    "source_url": "https://www.texasconstructionhub.com/stories/nscale-ward-county-microsoft-expansion-base-lease"
+  },
+  {
+    "name": "Nscale Ward County",
+    "developer": "Nscale",
+    "fips": "48475",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "withdrawn",
+    "size_mw": 240.0,
+    "date": null,
+    "source_url": "https://www.briefs.co/news/microsoft-steps-back-from-extra-texas-capacity-with-nscale-a/"
+  },
+  {
     "name": "ONMINE Killeen",
     "developer": "ONMINE",
     "fips": "48027",
@@ -16870,7 +18430,7 @@
     "geo_precision": "road",
     "status": "rejected",
     "size_mw": null,
-    "date": null,
+    "date": "2026-04-27",
     "source_url": "https://globaldatacenters.net/data-centers/united-states/texas/bell-county/"
   },
   {
@@ -17067,6 +18627,19 @@
     "size_mw": 100.0,
     "date": null,
     "source_url": "https://www.pace-infra.ai/"
+  },
+  {
+    "name": "Pace Glasscock",
+    "developer": "Pace",
+    "fips": "48173",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 100.0,
+    "date": "2026-04-27",
+    "source_url": "https://www.datacenterdynamics.com/en/tags/glasscock-county/"
   },
   {
     "name": "Pacifico Alpine",
@@ -17329,6 +18902,19 @@
     "source_url": "https://citizenportal.ai/articles/9977838/texas/reeves-county/pecos/pecos-council-deadlocks-on-nonbinding-loi-for-proposed-pecos-data-park"
   },
   {
+    "name": "Pending FM 1101 Data Center",
+    "developer": null,
+    "fips": "48091",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://hoodline.com/2026/10/new-braunfels-pushes-data-centers-into-heavy-industry-bars-them-from-aquifer-zone/"
+  },
+  {
     "name": "Piney Creek Ranch Data Center Winchester",
     "developer": null,
     "fips": "48149",
@@ -17340,6 +18926,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.fayettecountyrecord.com/news/locals-speak-out-against-proposed-data-center"
+  },
+  {
+    "name": "Pittman Farms Nacogdoches",
+    "developer": "Pittman Farms",
+    "fips": "48347",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://hyperlocalloop.com/is-nacogdoches-getting-a-new-poultry-plant-or-hoodwinked-by-a-data-center/"
   },
   {
     "name": "PlaceMKR Winchester",
@@ -17366,6 +18965,19 @@
     "size_mw": null,
     "date": "2026-07-15",
     "source_url": "https://111things.com/local-headlines/vernon-area-platon-data-center-proposal-raises-new-questions-about-water-demand-and-land-use/"
+  },
+  {
+    "name": "Polk County Data Center Resolution",
+    "developer": null,
+    "fips": "48373",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-03-24",
+    "source_url": "https://mytexasrecord.org/polk-county/meetings/2026-03-24-commissioner-s-court-mar-24-2026-b596d0b2-b815-4d12-9819-b25f08cb9ec0"
   },
   {
     "name": "Poolside Project Horizon Fort Stockton",
@@ -17550,6 +19162,19 @@
     "source_url": "https://www.datacenterdynamics.com/en/news/600mw-data-center-campus-proposed-in-texas/"
   },
   {
+    "name": "Project Anderson",
+    "developer": "NextEra Energy",
+    "fips": "48001",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 5200.0,
+    "date": null,
+    "source_url": "https://hyperscalenews.com/briefings/2026-03-23/nextera-bets-16-billion-that-texas-demand-is-real"
+  },
+  {
     "name": "Project Aquila Hill County",
     "developer": "RCM Hill LLC",
     "fips": "48217",
@@ -17561,6 +19186,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://therealdeal.com/texas/2026/09/08/data-center-moratoriums-restrictions-bans-throughout-texas/"
+  },
+  {
+    "name": "Project Aquila Hillsboro",
+    "developer": "RCM Hill LLC",
+    "fips": "48217",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": 1235.0,
+    "date": "2026-05-12",
+    "source_url": "https://www.keranews.org/energy-environment/2026-06-05/hill-county-drops-data-center-moratorium-after-lawsuit-adopts-new-review-requirements"
   },
   {
     "name": "Project Big Pine Bowie",
@@ -17745,6 +19383,19 @@
     "source_url": "https://texasconstructionmedia.com/cities/childress/project-hyper-childress-data-center/"
   },
   {
+    "name": "Project Hyper Jayton",
+    "developer": "Spur DC Owner 1 LLC and Spur DC Owner 2 LLC",
+    "fips": "48263",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-10-01",
+    "source_url": "https://806connect.com/news/jayton-kent-county-data-center-state-filings"
+  },
+  {
     "name": "Project Jack Hwy 199",
     "developer": null,
     "fips": "48237",
@@ -17823,6 +19474,19 @@
     "source_url": "https://austinfreepress.org/misdeeds-paxton/"
   },
   {
+    "name": "Project Mitchell County AI",
+    "developer": null,
+    "fips": "48335",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 300.0,
+    "date": null,
+    "source_url": "https://www.newswest9.com/article/news/local/tale-of-two-realities-west-texas-town-faces-persistent-water-outages-as-massive-ai-data-center-arrives-colorado-city/513-97980421-0226-442e-9bbe-67c84f5d8fbc"
+  },
+  {
     "name": "Project Orange Lancaster",
     "developer": null,
     "fips": "48113",
@@ -17834,6 +19498,19 @@
     "size_mw": 252.0,
     "date": null,
     "source_url": "https://dcmap.us/counties/dallas-county-tx/"
+  },
+  {
+    "name": "Project Patriot Granbury",
+    "developer": "Bilateral Energy LLC",
+    "fips": "48221",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2026-04-01",
+    "source_url": "https://www.kbtx.com/2026/06/02/eight-data-centers-threaten-transform-this-small-texas-county-local-officials-say-they-have-no-power-stop-them/"
   },
   {
     "name": "Project Raptor Archer",
@@ -17875,6 +19552,45 @@
     "source_url": "https://citizenportal.ai/articles/7932204/texas/hood-county/hood-county-pauses-project-red-and-project-yellow-hearings-after-widespread-resident-objections"
   },
   {
+    "name": "Project Roman Hereford",
+    "developer": "Google",
+    "fips": "48253",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://radio.kttz.org/2026-08-31/after-years-of-hardship-texas-agriculture-faces-a-new-threat-data-centers"
+  },
+  {
+    "name": "Project Saltworks Young",
+    "developer": null,
+    "fips": "48503",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.olneyenterprise.com/news/young-county-commissioners-court-0"
+  },
+  {
+    "name": "Project Stingray Andrews",
+    "developer": null,
+    "fips": "48003",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://measuredai.substack.com/p/amazon-permian-ai-data-centers"
+  },
+  {
     "name": "Project Woodrow Hornsby Bend",
     "developer": "Nolan Ranch DC Owner LLC",
     "fips": "48453",
@@ -17899,6 +19615,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://citizenportal.ai/articles/7932204/texas/hood-county/hood-county-pauses-project-red-and-project-yellow-hearings-after-widespread-resident-objections"
+  },
+  {
+    "name": "Prometheus Hyperscale Reeves",
+    "developer": "Prometheus Hyperscale and Istmo Energy",
+    "fips": "48389",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 1500.0,
+    "date": null,
+    "source_url": "https://www.thepermianai.com/ai-intelligenc-brief/political-impact-data-centers-in-the-permian"
   },
   {
     "name": "Prometheus Hyperscale Talty",
@@ -17938,6 +19667,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://citizenportal.ai/articles/9614948/texas/kaufman-county/residents-ask-court-to-halt-utility-easements-tied-to-proposed-500acre-data-center"
+  },
+  {
+    "name": "Proposed AI Data Center Jim Hogg",
+    "developer": null,
+    "fips": "48247",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-09-01",
+    "source_url": "https://riograndecurrent.substack.com/p/for-luana-gonzalez-jim-hogg-county"
   },
   {
     "name": "Proposed Austin County Data Center",
@@ -18083,6 +19825,32 @@
     "source_url": "https://datacenters.cutrerlabs.com/counties/dallas/"
   },
   {
+    "name": "QTS Lancium Hall",
+    "developer": "QTS, Lancium",
+    "fips": "48191",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-09-01",
+    "source_url": "https://abc7amarillo.com/news/local/data-center-developers-team-with-city-of-turkey-to-address-aging-water-system-qts-lancium-data-center-city-manager-lynette-findley"
+  },
+  {
+    "name": "QTS Lancium Hall County",
+    "developer": "QTS Data Centers and Lancium",
+    "fips": "48191",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 1000.0,
+    "date": null,
+    "source_url": "https://abc7amarillo.com/news/local/hall-county-judge-weighs-benefits-concerns-of-10b-data-center-campus-project-qts-data-centers-ray-powell-mayor-cary-preston-childress-lancium"
+  },
+  {
     "name": "QTS San Antonio II",
     "developer": "Quality Technology Services",
     "fips": "48029",
@@ -18094,6 +19862,45 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://isadatacentercoming.com/tx/bexar-county"
+  },
+  {
+    "name": "QTS Turkey",
+    "developer": "QTS Data Centers",
+    "fips": "48191",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.kcbd.com/2026/09/02/data-center-ceos-testify-before-texas-senate-committee/"
+  },
+  {
+    "name": "QTS Turkey Hall County",
+    "developer": "QTS Data Centers",
+    "fips": "48191",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://abc7amarillo.com/news/local/hall-county-residents-raise-water-housing-concerns-over-10b-data-center-near-turkey-qts-andy-jagor-ryan-kuithe-water-use-valley-high-school"
+  },
+  {
+    "name": "QYK Brands Raywood",
+    "developer": "QYK Brands, LLC",
+    "fips": "48291",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://bluebonnetnews.com/2026/05/26/liberty-county-residents-urged-to-act-on-tceq-comment-deadline-for-raywood-plant/"
   },
   {
     "name": "Quantum Clean Energy Project Haskell",
@@ -18122,6 +19929,19 @@
     "source_url": "https://www.keranews.org/news/2026-09-03/data-center-growth-north-texas-map"
   },
   {
+    "name": "RCM Hill",
+    "developer": "RCM Hill, LLC",
+    "fips": "48217",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "withdrawn",
+    "size_mw": 1235.0,
+    "date": "2026-07-09",
+    "source_url": "https://www.hccommunityjournal.com/article_d7037697-e92d-4b2a-a317-f8b9bc7903e2.html"
+  },
+  {
     "name": "RCM Hill Aquila Hill",
     "developer": "RCM Hill LLC",
     "fips": "48217",
@@ -18133,6 +19953,19 @@
     "size_mw": 1235.0,
     "date": "2026-06-04",
     "source_url": "https://ballot.dcmap.us/county/48217"
+  },
+  {
+    "name": "RCM Hill Hillsboro",
+    "developer": "RCM Hill",
+    "fips": "48217",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "http://www.fayettecountyrecord.com/columns/rural-counties-face-hurdles-regulating-data-centers"
   },
   {
     "name": "RELLIS Campus Data Center",
@@ -18170,7 +20003,7 @@
     "geo_precision": "road",
     "status": "withdrawn",
     "size_mw": 20.0,
-    "date": "2026-07-01",
+    "date": "2026-07-29",
     "source_url": "https://www.rgvbusinessjournal.com/news/05/08/2026/brownsville-data-center-debate-rolled-into-larger-zoning-ban-on-event-centers-social-clubs-and-more/"
   },
   {
@@ -18211,6 +20044,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.noticeregistry.com/texas/notice/public-hearing-red-oak-973956"
+  },
+  {
+    "name": "Red Oak Ovilla",
+    "developer": "Carlos Leal",
+    "fips": "48139",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.noticeregistry.com/texas/notice/public-hearing-red-oak-949521"
   },
   {
     "name": "Red Oak PD 66R7 data center",
@@ -18590,6 +20436,32 @@
     "source_url": "https://www.nasdaq.com/press-release/sos-limited-announces-development-tier-iii-modular-data-center-longfellow-ranch-texas"
   },
   {
+    "name": "SP Energy Cavender Road",
+    "developer": "SP Energy",
+    "fips": "48415",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2026-07-21",
+    "source_url": "https://citizenportal.ai/articles/8583845/texas/scurry-county/scurry-county-designates-1975acre-cavender-road-reinvestment-zone-after-public-hearing-on-proposed-aidata-center"
+  },
+  {
+    "name": "SP Energy Scurry",
+    "developer": "SEDC Gen LLC (SP Energy)",
+    "fips": "48415",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/10779009/texas/scurry-county/commissioners-review-sp-energy-taxpayment-agreement-that-includes-5-million-upfront-payment-and-10year-pilot"
+  },
+  {
     "name": "STACK DFW01C Plano",
     "developer": "STACK Infrastructure",
     "fips": "48085",
@@ -18601,6 +20473,19 @@
     "size_mw": 48.0,
     "date": null,
     "source_url": "https://dcmap.us/counties/collin-county-tx/"
+  },
+  {
+    "name": "SWAIR G-22 Rusk",
+    "developer": "SWAIR, LLC",
+    "fips": "48401",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2026-08-11",
+    "source_url": "https://citizenportal.ai/articles/11139901/texas/rusk-county/rusk-county-approves-ground-lease-for-g-22-with-swair-llc"
   },
   {
     "name": "SWI Digital Leon Creek",
@@ -18627,6 +20512,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.timesrecordnews.com/story/news/local/2026/08/23/data-center-boom-wichita-falls-area/90999595007/"
+  },
+  {
+    "name": "Sabey Round Rock",
+    "developer": "Sabey Data Centers",
+    "fips": "48491",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.kxan.com/investigations/smoke-and-mirrors-texans-call-for-transparency-on-data-center-water-consumption/"
   },
   {
     "name": "Sabey Round Rock Building A",
@@ -18759,6 +20657,19 @@
     "source_url": "https://www.prnewswire.com/news-releases/sangha-renewables-inaugurates-20-mw-project-in-west-texas-energized-by-totalenergies-302639872.html"
   },
   {
+    "name": "Savoy Data Center",
+    "developer": null,
+    "fips": "48147",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.ntxe-news.com/cgi-bin/artman/exec/view.cgi?archive=107&num=145139"
+  },
+  {
     "name": "Saxet Corpus Christi",
     "developer": "Saxet Infrastructure Group",
     "fips": "48355",
@@ -18889,6 +20800,19 @@
     "source_url": "https://www.click2houston.com/news/local/2026/08/04/gov-abbott-orders-review-of-proposed-data-centers-as-ai-boom-raises-questions-about-texas-power-grid-water-use/"
   },
   {
+    "name": "Sherman High School Data Center",
+    "developer": null,
+    "fips": "48181",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "withdrawn",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://shermantxconnect.com/p/sherman-connect-big-update-on-that-data-center-the-site-s-still-getting-developed-just-differently"
+  },
+  {
     "name": "Sherman High School Sherman",
     "developer": null,
     "fips": "48181",
@@ -18900,6 +20824,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.tiktok.com/discover/sherman-tx-data-center"
+  },
+  {
+    "name": "Sherman Planned Development",
+    "developer": null,
+    "fips": "48181",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2026-03-24",
+    "source_url": "https://www.heralddemocrat.com/sherman-pz-approves-planned-development-with-potential-data-center/"
   },
   {
     "name": "Silver Basin Taygete II Pecos County",
@@ -19214,6 +21151,19 @@
     "source_url": "https://www.oaoa.com/opinion/texas-view/texas-view-growth-of-data-centers-will-require-officials-address-our-energy-and-water-needs/"
   },
   {
+    "name": "Somervell Amazon",
+    "developer": "Amazon",
+    "fips": "48425",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": 600.0,
+    "date": null,
+    "source_url": "https://www.tpr.org/news/2026-05-07/texas-republicans-have-a-data-center-problem"
+  },
+  {
     "name": "Somervell County moratorium",
     "developer": null,
     "fips": "48425",
@@ -19299,7 +21249,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "approved",
+    "status": "planned",
     "size_mw": null,
     "date": null,
     "source_url": "https://www.jaredwatkins.com/research/datacenter-opposition/state-breakdown/texas/"
@@ -19316,6 +21266,19 @@
     "size_mw": 1200.0,
     "date": null,
     "source_url": "https://www.change.org/p/protect-falls-county-from-ai-data-centers"
+  },
+  {
+    "name": "Stargate Milam County",
+    "developer": "OpenAI",
+    "fips": "48331",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.tpr.org/news/2026-05-07/texas-republicans-have-a-data-center-problem"
   },
   {
     "name": "Stargate Shackelford",
@@ -19355,6 +21318,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.connectcre.com/stories/data-center-supplier-eyeing-fw-for-80m-plant/"
+  },
+  {
+    "name": "Stephens County Data Center Moratorium",
+    "developer": null,
+    "fips": "48429",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-04-14",
+    "source_url": "https://wnegradio.com/stephens-county-commission-approves-moratorium-on-data-centers/"
   },
   {
     "name": "StoneLake North Austin",
@@ -19604,6 +21580,32 @@
     "source_url": "https://groundedcompute.com/us/texas/hidalgo-county"
   },
   {
+    "name": "TXP Parmer County",
+    "developer": "TXP",
+    "fips": "48369",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://citizenportal.ai/articles/8033298/texas/parmer-county/friona-edc-tells-court-developer-activity-could-affect-300000-acres-across-three-west-texas-counties"
+  },
+  {
+    "name": "Talise Data Center Webb",
+    "developer": "Talise",
+    "fips": "48479",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.kgns.tv/2026/07/31/laredo-officials-call-special-session-moratorium-data-center-permits/"
+  },
+  {
     "name": "Taylor Park Site",
     "developer": null,
     "fips": "48491",
@@ -19747,6 +21749,19 @@
     "source_url": "https://www.youtube.com/watch?v=cky-fPYUWy0"
   },
   {
+    "name": "Tesla Fort Bend Reinvestment Zone",
+    "developer": "Tesla",
+    "fips": "48157",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://abc13.com/post/fort-bend-county-commissioners-return-boycott-may-short-lived/19729519/"
+  },
+  {
     "name": "Tesla Giga Texas Cortex",
     "developer": "Tesla",
     "fips": "48453",
@@ -19784,6 +21799,19 @@
     "size_mw": null,
     "date": "2026-01-16",
     "source_url": "https://www.hppr.org/hppr-news/2026-05-04/what-lubbocks-city-manager-is-asking-from-developers-with-ai-data-center-proposals"
+  },
+  {
+    "name": "Texas-First Glasscock",
+    "developer": null,
+    "fips": "48173",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 100.0,
+    "date": null,
+    "source_url": "https://b2bdaily.com/it/can-a-texas-first-data-center-scale-from-100mw-to-1gw/"
   },
   {
     "name": "Thalia Solar Cottle County",
@@ -19942,6 +21970,19 @@
     "source_url": "https://www.kltv.com/2026/05/12/packed-house-henderson-county-commissioners-court-meeting-future-data-centers/"
   },
   {
+    "name": "Tyler Downtown Data Center",
+    "developer": null,
+    "fips": "48423",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2026-07-07",
+    "source_url": "https://www.cbs19.tv/video/news/local/tyler-data-center-proposal-faces-setback-after-planning-and-zoning-commission-vote/501-acec28ed-b41e-4ec8-b698-e52df35843ad"
+  },
+  {
     "name": "Tyler Vault",
     "developer": null,
     "fips": "48423",
@@ -19966,6 +22007,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://tylerpaper.com/2026/09/24/data-center-in-smith-county-under-investigation-as-paxton-demands-water-usage-report/"
+  },
+  {
+    "name": "Tyler West Erwin Street Data Center",
+    "developer": null,
+    "fips": "48423",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": "2026-07-07",
+    "source_url": "https://www.cbs19.tv/article/news/local/tyler-commission-denies-data-center/501-59051d11-7a2a-4b9a-bd10-370923913081"
   },
   {
     "name": "USBTC Pecos Morris County",
@@ -20111,6 +22165,19 @@
     "source_url": "https://johnsoncounty.myopentexas.org/meetings/3606b85c-0852-4d50-bb25-a10e70627a65"
   },
   {
+    "name": "Upcoming Data Center Andrews",
+    "developer": null,
+    "fips": "48003",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.andrewscountynews.com/section/news"
+  },
+  {
     "name": "Val Verde County moratorium",
     "developer": null,
     "fips": "48465",
@@ -20215,6 +22282,19 @@
     "source_url": "https://dcmap.us/counties/bexar-county-tx/"
   },
   {
+    "name": "Vega Data Center Oldham",
+    "developer": null,
+    "fips": "48359",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://abc7amarillo.com/news/local/thursday-in-amarillo-leaders-discuss-ai-driven-data-center-growth-and-community-concerns-artificial-intelligence-george-p-bush-shawn-ballew-oldham-county-judge-kendra-seawright-panhandle-first-coalition"
+  },
+  {
     "name": "Verizon Business Longview",
     "developer": "Verizon Business",
     "fips": "48183",
@@ -20265,6 +22345,32 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.southtexasnews.com/brenham_banner_press/news/pct-2-candidates-outline-priorities-at-forum/article_0afe2671-3844-5052-a965-59152b568a28.html"
+  },
+  {
+    "name": "Vulcan Core Tyler",
+    "developer": "Vulcan Core",
+    "fips": "48423",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": 12500.0,
+    "date": "2026-07-07",
+    "source_url": "https://www.kltv.com/2026/07/07/tyler-planning-commission-denies-permit-proposed-data-center/"
+  },
+  {
+    "name": "Vultr Houston County",
+    "developer": "Vultr",
+    "fips": "48225",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "withdrawn",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://messenger-news.com/2026/08/09/vultr-reported-out-other-data-centers-applying-for-electric-service/"
   },
   {
     "name": "Waha Energy Campus Reeves",
@@ -20326,10 +22432,23 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "approved",
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2026-08-17",
+    "source_url": "https://www.youtube.com/watch?v=_OnLK3PNMOU"
+  },
+  {
+    "name": "Westlake Highway 377",
+    "developer": null,
+    "fips": "48439",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
     "size_mw": null,
     "date": null,
-    "source_url": "https://www.youtube.com/watch?v=_OnLK3PNMOU"
+    "source_url": "https://www.youtube.com/watch?v=6bhyONtnsFU"
   },
   {
     "name": "Westlake Keller Highway 377",
@@ -20839,6 +22958,19 @@
     "source_url": "https://valarwatch.com/fact-loc-014"
   },
   {
+    "name": "Amazon Ashburn",
+    "developer": "Amazon",
+    "fips": "51107",
+    "state": "VA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.loudountimes.com/news/business_and_economy/real_estate_and_development/what-to-know-about-amazons-data-center-proposal/article_8557f9cb-3f25-4f6d-857a-e58e49d55ed0.html"
+  },
+  {
     "name": "Amazon Loudoun County",
     "developer": "Amazon",
     "fips": "51107",
@@ -21242,6 +23374,19 @@
     "source_url": "https://www.reddit.com/r/stocks/comments/1uojg9b/largest_data_center_project_ever_proposed_is/"
   },
   {
+    "name": "Project Lightning Wildwood",
+    "developer": null,
+    "fips": "51035",
+    "state": "VA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.wdbj7.com/2026/09/28/grayson-county-man-pays-nearly-2600-records-request-fight-over-data-center-project/"
+  },
+  {
     "name": "Project Tallmadge",
     "developer": "Takanock",
     "fips": "51171",
@@ -21476,6 +23621,19 @@
     "source_url": "https://www.youtube.com/watch?v=lkD6To9gCYU"
   },
   {
+    "name": "Vantage VA2",
+    "developer": "Vantage Data Centers",
+    "fips": "51107",
+    "state": "VA",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai"
+  },
+  {
     "name": "Lincoln County moratorium",
     "developer": null,
     "fips": "53043",
@@ -21565,6 +23723,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.youtube.com/watch?v=dhzosXk1J30"
+  },
+  {
+    "name": "Polk County Data Center Resolution",
+    "developer": null,
+    "fips": "55095",
+    "state": "WI",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.theameryfreepress.com/news/data-center-moratorium-to-be-decided-august-board-meeting/article_22200151-6c0d-452a-bcd8-edf8d4e7c546.html"
   },
   {
     "name": "QTS Dane County Hyperscale Campus (DeForest)",

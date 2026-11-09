@@ -1,29 +1,29 @@
 {
   "AL": {
     "name": "Alabama",
-    "score": 0.7704545454545451,
+    "score": 0.7660211182566156,
     "counties_scored": 67,
     "projects_by_status": {
-      "approved": 26,
-      "moratorium": 38,
+      "approved": 29,
+      "moratorium": 43,
       "operating": 39,
-      "planned": 86,
+      "planned": 99,
       "rejected": 1,
-      "withdrawn": 1
+      "withdrawn": 2
     },
-    "moratoria": 35,
+    "moratoria": 43,
     "top_reasons": [
-      "county-wide base rate (R1)",
-      "county-wide case base rate",
-      "county-wide base rate",
-      "county-wide case base rate (R1)",
-      "no local opposition evidence"
+      "county-wide moratorium pattern",
+      "no local opposition evidence",
+      "moratorium in force",
+      "statewide wave of AL moratoria",
+      "active municipal moratorium (Anniston)"
     ],
     "politics": {
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Resistance to data centers in Alabama is concentrated in counties that have already adopted moratoria: Baldwin (county and Foley), Walker (extended 180 days), Morgan (one-year, extended, though unenforceable under Dillon's Rule), and Shelby, where Chelsea, Harpersville, Westover and Helena all paused development. Organized opposition stands out in Jefferson (Bessemer groups, where two council members who backed the rezoning lost their seats), Talladega (685 petition signatures and a pending moratorium push), Lowndes (lawsuits against $2.7B in abatements for the Red Clay campus) and Escambia (commissioners unanimously opposed a 2,700-acre project). Counter-signals include Chilton rescinding its moratorium, Tuscaloosa approving projects with abatements, and Montgomery's leaders promoting data centers, while many counties have little or no local evidence."
+    "summary": "Alabama shows widespread resistance, with 43 moratoria and nearly every county scored high for being blocked; standouts are Coffee, Baldwin, Walker, Morgan and Elmore (scores 0.90-0.93), where commissions unanimously adopted moratoria of roughly six to twelve months citing water, noise and land concerns. Organized pushback is visible in Morgan (Say No to Data Centers petition), Talladega (Save The Creek, 685 signatures), Hale and Marengo (Gallion petitions and forums), Escambia (about 400 signatures against a 2,700-acre project), and Lowndes, where residents sued over the $33.1B Project Red Clay. Resistance is not uniform: Tuscaloosa is the only county scored as approved, Chilton rescinded its moratorium after the chair said state law gives the county no authority to deny data centers, and many high scores are predicted from neighboring counties with no local sources."
   },
   "AR": {
     "name": "Arkansas",
@@ -100,7 +100,7 @@
     "projects_by_status": {
       "approved": 2,
       "moratorium": 7,
-      "planned": 9,
+      "planned": 13,
       "rejected": 1,
       "withdrawn": 1
     },
@@ -117,11 +117,11 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 26,
-      "moratorium": 16,
+      "approved": 27,
+      "moratorium": 21,
       "operating": 10,
       "planned": 45,
-      "rejected": 15,
+      "rejected": 17,
       "withdrawn": 2
     },
     "moratoria": 0,
@@ -169,10 +169,10 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 7,
+      "approved": 8,
       "moratorium": 2,
       "operating": 3,
-      "planned": 25,
+      "planned": 26,
       "rejected": 2
     },
     "moratoria": 0,
@@ -188,7 +188,7 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 15,
+      "approved": 16,
       "moratorium": 5,
       "operating": 3,
       "planned": 27,
@@ -314,9 +314,9 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "approved": 4,
+      "approved": 6,
       "moratorium": 3,
-      "planned": 14,
+      "planned": 15,
       "rejected": 2,
       "withdrawn": 1
     },
@@ -386,6 +386,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 1,
+      "moratorium": 1,
       "operating": 2,
       "rejected": 1
     },
@@ -402,8 +403,9 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
+      "moratorium": 2,
       "operating": 2,
-      "planned": 3
+      "planned": 5
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -438,7 +440,7 @@
       "approved": 4,
       "moratorium": 1,
       "operating": 1,
-      "planned": 11,
+      "planned": 12,
       "withdrawn": 1
     },
     "moratoria": 0,
@@ -492,7 +494,7 @@
       "moratorium": 8,
       "operating": 6,
       "planned": 18,
-      "rejected": 3,
+      "rejected": 7,
       "withdrawn": 3
     },
     "moratoria": 0,
@@ -509,7 +511,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 4,
-      "moratorium": 3,
+      "moratorium": 4,
       "operating": 1,
       "planned": 10
     },
@@ -599,9 +601,9 @@
     "score": null,
     "counties_scored": 0,
     "projects_by_status": {
-      "moratorium": 3,
+      "moratorium": 7,
       "operating": 12,
-      "planned": 16,
+      "planned": 17,
       "rejected": 1
     },
     "moratoria": 0,
@@ -614,29 +616,29 @@
   },
   "TX": {
     "name": "Texas",
-    "score": 0.7195145631067961,
+    "score": 0.7244667751967585,
     "counties_scored": 254,
     "projects_by_status": {
-      "approved": 176,
-      "moratorium": 41,
+      "approved": 190,
+      "moratorium": 52,
       "operating": 122,
-      "planned": 647,
-      "rejected": 39,
-      "withdrawn": 32
+      "planned": 736,
+      "rejected": 47,
+      "withdrawn": 36
     },
-    "moratoria": 35,
+    "moratoria": 52,
     "top_reasons": [
-      "county-wide base rate (R1)",
-      "county-wide base rate",
-      "county-wide case base rate (R1)",
-      "county-wide case base rate",
-      "no local opposition evidence"
+      "no local opposition evidence",
+      "county-wide moratorium pattern",
+      "county-wide jurisdiction question",
+      "no recorded local opposition",
+      "county-wide pattern"
     ],
     "politics": {
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Texas shows widespread resistance: most counties score high, and about 35 moratoria are tallied. The standouts are Hays (5-0 county water pause and a San Marcos ban), Denton, Cameron (Brownsville and Harlingen moratoria), Austin County (a countywide moratorium) and Lubbock, with Archer, Brazoria, Somervell and Caldwell also denying incentives or passing resolutions. Counterweights are that counties lack zoning power, as seen when Hill County rescinded its moratorium after a $100M lawsuit, and that Armstrong, Nolan and Taylor counties lean toward approval, with many high scores resting on thin local evidence."
+    "summary": "Texas shows widespread resistance concentrated in moratorium and pause actions: Austin, Cass, Martin and Stephens counties adopted or approved moratoria, and Hays County passed a 180-day water protection pause after San Marcos banned data centers. Strong opposition also appears in Brazoria and Archer, where commissioners denied tax abatements, and in Henderson County, where a petition led the developer to withdraw a 700-acre project. Resistance is weaker in counties such as Deaf Smith, Nolan, Scurry, Shackelford and Taylor, which approved abatements despite scattered resident objections, and many counties are rated high only by neighbor-based prediction with no local sources."
   },
   "UT": {
     "name": "Utah",
@@ -661,8 +663,8 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 10,
-      "operating": 9,
-      "planned": 31,
+      "operating": 10,
+      "planned": 33,
       "rejected": 3,
       "withdrawn": 2
     },
@@ -697,9 +699,9 @@
     "projects_by_status": {
       "moratorium": 3,
       "operating": 2,
-      "planned": 10,
-      "rejected": 2,
-      "withdrawn": 3
+      "planned": 11,
+      "rejected": 1,
+      "withdrawn": 4
     },
     "moratoria": 0,
     "top_reasons": [],
