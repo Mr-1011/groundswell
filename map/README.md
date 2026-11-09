@@ -142,4 +142,17 @@ POST http://localhost:8787/chat
 
 The chat is stateless: every request stands alone (message plus the current map context), no conversation is kept and nothing is stored on the agent side. `GET /health` returns `{ok: true}`.
 
-Dashboard behavior: `fly_to` also selects the region (the INFO tab follows). `open_window` `news` opens a window with the article (found by `url` in `counties.json`) and its link; `chart` opens the learning-loop window. `**bold**` in `answer` shows as bold. A non-2xx answer shows "Agent not reachable" in the chat.
+Streaming: a request with header `accept: application/x-ndjson` gets `content-type: application/x-ndjson`, one JSON event per line, flushed as it happens:
+
+```
+{"type":"tool","name":"db_query","input":{"sql":"SELECT ..."}}      one per tool call of the chat agent (name without the mcp__ prefix; StructuredOutput is not sent)
+{"type":"tool","name":"region_info","input":{"region":"TX"}}
+{"type":"done","answer":"...","actions":[...]}                      last line on success; same shape as the plain JSON answer
+{"type":"error","error":"..."}                                      last line on failure
+```
+
+Without that header the answer stays one plain JSON object. Validation errors (400) answer before any stream starts. Rate limits (429) come from the Vercel firewall in front of the public chat, not from the server.
+
+Map actions the chat should return: `fly_to` the most specific region the answer is about, `highlight` the counties it names, and `open_window` `news` for 1 to 3 of the strongest sources (the `url` of a news, social or quote item) when the question is about a region or a topic with sources.
+
+Dashboard behavior: `fly_to` also selects the region (the INFO tab follows). `open_window` `news` opens a window with the article (found by `url` in `counties.json`) and its link; `chart` opens the learning-loop window. `**bold**` in `answer` shows as bold; a bold `Name County, ST` or state name is a button that selects the region. Tool events show as live steps; actions run after the answer (fly first, then windows one by one) and stay in the chat as buttons that run them again. A non-2xx answer shows "Agent not reachable" in the chat.
