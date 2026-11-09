@@ -159,6 +159,8 @@ Streaming: a request with header `accept: application/x-ndjson` gets `content-ty
 
 Without that header the answer stays one plain JSON object. Validation errors (400) answer before any stream starts. Rate limits (429) come from the Vercel firewall in front of the public chat, not from the server.
 
+Predicted scores: a county with `basis: "predicted"` has no local sources; the chat calls its score a prediction from nearby counties (naming the strongest ones from `predicted_from`), never local resistance, and keeps it apart from evidence counties in lists and rankings.
+
 Map actions the chat should return: `fly_to` the most specific region the answer is about, `highlight` the counties it names, and `open_window` `news` for 1 to 3 of the strongest sources (the `url` of a news, social or quote item) when the question is about a region or a topic with sources.
 
 Dashboard behavior: `fly_to` also selects the region (the INFO tab follows). `open_window` `news` opens a window with the article (found by `url` in `counties.json`) and its link; `chart` opens the learning-loop window. `**bold**` in `answer` shows as bold; a bold `Name County, ST` or state name is a button that selects the region. Tool events show as live steps; actions run after the answer (fly first, then windows one by one) and stay in the chat as buttons that run them again. A non-2xx answer shows "Agent not reachable" in the chat.
