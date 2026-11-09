@@ -71,7 +71,7 @@ export type Data = {
 };
 
 type Shape = Polygon | MultiPolygon;
-export type RegionFeature = Feature<Shape, { id: string; name: string; state: string; score?: number; pred?: string }>;
+export type RegionFeature = Feature<Shape, { id: string; name: string; state: string; score?: number; pred?: string; base?: boolean }>;
 export type Geo = {
   counties: FeatureCollection<Shape, RegionFeature["properties"]>;
   states: FeatureCollection<Shape, RegionFeature["properties"]>;
@@ -107,6 +107,7 @@ function buildGeo(data: Data, atlas: Topology<{ counties: GeometryCollection; st
     f.properties = { id: fips, name: c?.name ?? f.properties.name, state: STATE_FIPS[fips.slice(0, 2)] ?? "" } as never;
     if (c?.score != null) (f.properties as RegionFeature["properties"]).score = c.score;
     if (c?.prediction) (f.properties as RegionFeature["properties"]).pred = c.prediction;
+    if (c?.confidence === 0) (f.properties as RegionFeature["properties"]).base = true; // score is the state average, no local evidence
   }
 
   const states = shapes("states");

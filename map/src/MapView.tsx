@@ -23,6 +23,8 @@ const scoreFill: ExpressionSpecification = [
   ...RAMP.flatMap((c, i) => [i / (RAMP.length - 1), c]),
 ] as ExpressionSpecification;
 
+const faint = (v: number): ExpressionSpecification => ["case", ["has", "base"], v * 0.3, v];
+
 // Infrastructure tiles (OpenInfraMap): numbers arrive as strings or floats, so coerce.
 const VOLT = ["to-number", ["get", "voltage"], 0] as ExpressionSpecification;
 const MW = ["to-number", ["get", "output"], 0] as ExpressionSpecification;
@@ -221,7 +223,7 @@ export default function MapView(p: Props) {
     const c = p.data.counties[String(pr.id)];
     const count = projectCount.get(String(pr.id));
     return [
-      pr.score != null ? `RESISTANCE ${Number(pr.score).toFixed(2)}` : "NO SCORE",
+      pr.score == null ? "NO SCORE" : c?.confidence === 0 ? `STATE AVG ${Number(pr.score).toFixed(2)} · NO LOCAL EVIDENCE` : `RESISTANCE ${Number(pr.score).toFixed(2)}`,
       count ? `${count} ${count === 1 ? "PROJECT" : "PROJECTS"}` : null,
       c?.prediction ? `PRED ${c.prediction.toUpperCase()}` : null,
     ].filter(Boolean).join(" · ");
@@ -306,7 +308,8 @@ export default function MapView(p: Props) {
               paint={{
                 "fill-color": scoreFill,
                 // strong at US scale, a light tint once the basemap detail matters
-                "fill-opacity": ["interpolate", ["linear"], ["zoom"], 4, sat ? 0.6 : 0.8, 6, sat ? 0.35 : 0.5, 8, sat ? 0.15 : 0.2, 11, 0.08, 13, 0],
+                // counties without local evidence (state average) stay faint, so evidence stands out
+                "fill-opacity": ["interpolate", ["linear"], ["zoom"], 4, faint(sat ? 0.6 : 0.8), 6, faint(sat ? 0.35 : 0.5), 8, faint(sat ? 0.15 : 0.2), 11, faint(0.08), 13, 0],
               }}
             />
             <Layer

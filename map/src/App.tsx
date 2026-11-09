@@ -320,6 +320,12 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
                 </button>
               )}
             </div>
+            <div className="legend-row">
+              <span className="swatches">
+                <i style={{ background: RAMP[RAMP.length - 2], opacity: 0.3 }} />
+              </span>
+              <span>no local evidence: state average</span>
+            </div>
             {shownStatuses.length > 0 && (
               <div className="legend-projects">
                 <div className="legend-head">

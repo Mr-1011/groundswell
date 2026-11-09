@@ -272,7 +272,9 @@ function CountyRows({ ids, data, withState, onPick }: { ids: string[]; data: Dat
                   {withState && <span className="muted">, {c.state}</span>}
                 </span>
                 {c.score != null ? <Meter value={c.score} color={rampColor(c.score)} /> : <span />}
-                <span className="mono num">{c.score != null ? c.score.toFixed(2) : "-"}</span>
+                <span className={c.confidence === 0 ? "mono num dim" : "mono num"} title={c.confidence === 0 ? "state average, no local evidence" : undefined}>
+                  {c.score != null ? c.score.toFixed(2) : "-"}
+                </span>
                 <i className={pred ? PRED[pred] : "empty"} title={pred ? `predicted ${pred}` : "no prediction"} />
                 <span className={prj ? "mono num" : "mono num dim"}>{prj}</span>
               </button>
