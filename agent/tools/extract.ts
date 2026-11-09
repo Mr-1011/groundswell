@@ -22,7 +22,8 @@ export type ExtractSummary = {
   errors: string[];
 };
 
-export async function extractDocuments(docIds: number[], opts: { force?: boolean } = {}): Promise<ExtractSummary> {
+/** opts.trends false skips the per-county pattern refresh (bulk backfills run --trends once afterwards instead). */
+export async function extractDocuments(docIds: number[], opts: { force?: boolean; trends?: boolean } = {}): Promise<ExtractSummary> {
   const sum: ExtractSummary = { documents: 0, relevant: 0, items: 0, projects: [], quotes: 0, classified: 0, errors: [] };
   const newItemIds: number[] = [];
   const counties = new Set<string>(); // counties with new relevant documents: their communication patterns get refreshed
@@ -54,7 +55,7 @@ export async function extractDocuments(docIds: number[], opts: { force?: boolean
   });
 
   sum.classified = await classifyItems(newItemIds);
-  for (const fips of counties) await findTrends(fips);
+  if (opts.trends !== false) for (const fips of counties) await findTrends(fips);
   return sum;
 }
 
