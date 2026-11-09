@@ -1118,6 +1118,24 @@ a.post:hover {
   outline: 1px solid var(--line-2);
   outline-offset: -1px;
 }
+.caption {
+  display: block;
+  width: 100%;
+  margin: 10px 0 2px;
+  text-align: left;
+  font-size: 11.5px;
+  line-height: 1.5;
+  color: var(--ink-3);
+}
+.caption:hover {
+  color: var(--ink-2);
+}
+.caption.clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 .brief.clamp {
   display: -webkit-box;
   -webkit-line-clamp: 3;

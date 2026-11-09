@@ -161,6 +161,16 @@ function Brief({ text, title = "Brief" }: { text: string; title?: string }) {
   );
 }
 
+// Agent summary as a 2-line caption under the numbers, no section; a click shows all of it.
+function Caption({ text }: { text: string }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <button className={open ? "caption" : "caption clamp"} onClick={() => setOpen(!open)} title={open ? undefined : "show all"}>
+      {text}
+    </button>
+  );
+}
+
 const PRED = { blocked: "hatch", approved: "solid" } as const;
 
 // Predicted outcome over a set of counties, same hatch as the map layer.
@@ -358,7 +368,7 @@ export function StateView({ id, data, filters, onSelect, onOpen, regionCenter }:
           ["projects", projects],
         ]}
       />
-      {s.summary && <Brief key={id} text={s.summary} />}
+      {s.summary && <Caption key={id} text={s.summary} />}
       <Outcome counties={counties} />
       <Section title={`Counties (${ids.length})`}>
         <CountyRows ids={ids} data={data} onPick={(fips) => onSelect({ kind: "county", id: fips })} />
@@ -423,7 +433,7 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
           ["projects", projects.length],
         ]}
       />
-      {c.summary && <Brief key={id} text={c.summary} />}
+      {c.summary && <Caption key={id} text={c.summary} />}
       {isPredicted(c) && !!c.predicted_from?.length && (
         <Section title="Predicted from · share">
           <div className="rows">
