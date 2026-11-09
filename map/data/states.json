@@ -613,17 +613,17 @@
   },
   "TX": {
     "name": "Texas",
-    "score": 0.7217961165048541,
+    "score": 0.7225835180796574,
     "counties_scored": 254,
     "projects_by_status": {
-      "approved": 125,
-      "moratorium": 30,
-      "operating": 119,
-      "planned": 473,
-      "rejected": 28,
-      "withdrawn": 26
+      "approved": 121,
+      "moratorium": 32,
+      "operating": 116,
+      "planned": 443,
+      "rejected": 27,
+      "withdrawn": 25
     },
-    "moratoria": 39,
+    "moratoria": 32,
     "top_reasons": [
       "county-wide base rate (R1)",
       "county-wide case base rate (R1)",
@@ -635,7 +635,7 @@
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Texas shows the strongest resistance in Hays, Denton, Cameron, Austin, and Lubbock counties, where officials adopted moratoria or suspended incentives (Hays County 5-0 in June 2026; Denton and Brownsville/Cameron moving moratoria; Austin County's countywide moratorium in July; Lubbock's 5-2 vote for a 90-day pause), backed by packed meetings and organized groups. Caldwell, Tarrant (Fort Worth), Somervell, Henderson, Archer, and Hood also stand out, with incentive suspensions, a Fort Worth moratorium, a withdrawn Cedar Creek Lake project, Archer's rejection of Google's abatement, and Hood's denial of a permit appeal. Across the state, many counties scored high mainly on a county-wide base rate with thin local evidence, and officials repeatedly cite limited county zoning power and lawsuit risk (Hill County rescinded its moratorium after a $100 million suit), while counties like Nolan, Carson, Armstrong, Young, Williamson, and Pecos lean toward approval."
+    "summary": "Texas resistance to data centers is strongest where local bodies have already acted: Austin County (countywide moratorium on AI data centers and battery storage), Hays County (180-day water pause, plus San Marcos's citywide ban), Denton, Cameron (Brownsville and Harlingen moratoria) and Lubbock (moratorium process after a rejected 936-acre rezoning). Other standouts are Somervell, Caldwell, Henderson and Archer, where commissioners opposed or suspended incentives or a developer withdrew, and Hill County, whose moratorium was rescinded after a $100 million lawsuit. Many other high-scoring counties rest mainly on a county-wide base rate with thin local evidence, and several (Armstrong, Young, Nolan) lean toward approval because their commissioners or councils have backed projects, while Texas counties' limited zoning authority tempers what resistance can achieve."
   },
   "UT": {
     "name": "Utah",

@@ -9724,7 +9724,7 @@
     "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2023010309"
   },
   {
-    "name": "Beacon Dove Creek",
+    "name": "Beacon Westline",
     "developer": "Beacon Data Centers",
     "fips": "48451",
     "state": "TX",
@@ -9734,46 +9734,7 @@
     "status": "planned",
     "size_mw": 2409.0,
     "date": "2026-06-16",
-    "source_url": "https://www.conchovalleyhomepage.com/news/local-news/dove-creek-residents-voice-opposition-as-company-explores-data-center-possibility/"
-  },
-  {
-    "name": "Beacon Westline",
-    "developer": "Beacon Data Centers",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": "2026-08-10",
-    "source_url": "https://signaldata.org/tx/data-centers/tom-green/"
-  },
-  {
-    "name": "Beacon Westline 2335",
-    "developer": "Beacon Data Centers",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": "2026-06-12",
-    "source_url": "https://cleanview.co/data-centers/texas/beacon-westline-2335-campus-2596"
-  },
-  {
-    "name": "Beacon Westline Tom Green",
-    "developer": "Beacon Data Centers",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://public.destinyhosted.com/tomgrmindocs/2026/COM/20260602_1222/1187_2_June__-_BEA_Westline_Presentation_Final_June_2.pdf"
+    "source_url": "https://trackdatacenters.io/projects/dove-creek-technology-campus-beacon-data-centers-san-angelo-south-of-tx-tx-0284"
   },
   {
     "name": "Bell County moratorium",
@@ -10060,19 +10021,6 @@
     "size_mw": 25.0,
     "date": "2024-09-01",
     "source_url": "https://www.hellogeorgetown.com/williamson-county-news/the-data-center-boom-reshaping-williamson-county-texas/"
-  },
-  {
-    "name": "Blueprint Projects Data Center Taylor",
-    "developer": "Blueprint Projects",
-    "fips": "48491",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": "2025-04-11",
-    "source_url": "https://austinfreepress.org/misdeeds-paxton/"
   },
   {
     "name": "Blueprint Taylor",
@@ -10370,34 +10318,8 @@
     "geo_precision": null,
     "status": "planned",
     "size_mw": 1000.0,
-    "date": "2026-09-22",
-    "source_url": "https://www.sanangelolive.com/news/politics/2026-06-02/san-angelo-may-end-data-center-it-cant-regulate"
-  },
-  {
-    "name": "Cipher Colchis Tom Green",
-    "developer": "Colchis LLC",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 1000.0,
     "date": "2025-11-03",
-    "source_url": "https://datacenters.cutrerlabs.com/projects/cipher-colchis/"
-  },
-  {
-    "name": "Cipher Digital Tom Green",
-    "developer": "Cipher Digital",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 1000.0,
-    "date": null,
-    "source_url": "https://angelotechnical.com/articles/cipher-digital-meets-tom-green-county"
+    "source_url": "https://txdatacenterwatch.com/project/cipher-colchis/"
   },
   {
     "name": "Cipher Mikeska Doole",
@@ -10699,7 +10621,7 @@
     "source_url": "https://nearbydatacenters.org/tx/bexar-county/"
   },
   {
-    "name": "Cloudnium SANG-1 San Angelo",
+    "name": "Cloudnium San Angelo",
     "developer": "Cloudnium",
     "fips": "48451",
     "state": "TX",
@@ -10723,32 +10645,6 @@
     "size_mw": null,
     "date": "2026-07-14",
     "source_url": "https://ktxs.com/news/local/clyde-city-council-rejects-proposed-ai-data-center-lease-after-residents-speak-out"
-  },
-  {
-    "name": "Colchis Cipher Tom Green",
-    "developer": "Cipher Digital",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 1000.0,
-    "date": "2026-09-21",
-    "source_url": "https://806connect.com/data-centers/county/tom-green"
-  },
-  {
-    "name": "Colchis Tom Green",
-    "developer": "Cipher Digital",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 1000.0,
-    "date": "2025-11-03",
-    "source_url": "https://txdatacenterwatch.com/project/cipher-colchis/"
   },
   {
     "name": "Colovore Alliance",
@@ -10803,6 +10699,19 @@
     "source_url": "https://signaldata.org/tx/data-centers/dallas/"
   },
   {
+    "name": "Comanche Circle Glen Rose",
+    "developer": null,
+    "fips": "48425",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 600.0,
+    "date": null,
+    "source_url": "https://interchange.puc.texas.gov/Documents/58561_105_1569036.PDF"
+  },
+  {
     "name": "Comcast Willis",
     "developer": "Comcast of Houston, LLC",
     "fips": "48339",
@@ -10814,19 +10723,6 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024025831"
-  },
-  {
-    "name": "Commanche Circle",
-    "developer": null,
-    "fips": "48425",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 600.0,
-    "date": null,
-    "source_url": "https://interchange.puc.texas.gov/Documents/58561_105_1569036.PDF"
   },
   {
     "name": "Compal Georgetown",
@@ -11044,7 +10940,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "planned",
+    "status": "moratorium",
     "size_mw": null,
     "date": "2026-07-21",
     "source_url": "https://texasaidocket.com/item/tx-2026-0050/"
@@ -11087,32 +10983,6 @@
     "size_mw": null,
     "date": "2026-05-01",
     "source_url": "https://www.gilmermirror.com/2026/08/10/while-data-centers-boom-in-texas-their-plans-stay-shrouded-in-secrecy/"
-  },
-  {
-    "name": "Crusoe Abilene",
-    "developer": "OpenAI and Oracle",
-    "fips": "48441",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "operating",
-    "size_mw": 1200.0,
-    "date": "2026-09-28",
-    "source_url": "https://www.bisnow.com/news/dallas-ft-worth/data-center-development/13-gw-at-immediate-risk-as-texas-data-center-developers-face-new-power-struggle"
-  },
-  {
-    "name": "Crusoe Abilene Stargate",
-    "developer": "Crusoe Energy Systems LLC",
-    "fips": "48441",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "operating",
-    "size_mw": 1200.0,
-    "date": "2025-10-01",
-    "source_url": "https://www.datacentermap.com/usa/texas/abilene/abilene-clean-campus/"
   },
   {
     "name": "Crusoe Childress",
@@ -11187,7 +11057,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "planned",
+    "status": "approved",
     "size_mw": 900.0,
     "date": null,
     "source_url": "https://datacenters.cutrerlabs.com/tags/behind-the-meter/"
@@ -11204,6 +11074,19 @@
     "size_mw": 1500.0,
     "date": "2025-10-30",
     "source_url": "https://cleanview.co/data-centers/texas/crusoe-port-of-victoria-ai-campus-1777"
+  },
+  {
+    "name": "Crusoe Stargate Abilene",
+    "developer": "Lancium; Crusoe",
+    "fips": "48441",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": 1200.0,
+    "date": "2025-09-30",
+    "source_url": "https://ktxs.com/news/local/lancium-crusoe-executives-brief-abilene-leaders-on-major-northside-investment"
   },
   {
     "name": "Crusoe Sweetwater",
@@ -11492,19 +11375,6 @@
     "source_url": "http://ci.san-marcos.tx.us/AgendaCenter/ViewFile/Minutes/_03032026-4866"
   },
   {
-    "name": "Data City Webb",
-    "developer": "Energy Abundance",
-    "fips": "48479",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 5000.0,
-    "date": null,
-    "source_url": "https://www.texasmonthly.com/news-politics/data-centers-sapping-texas-water-electricity/"
-  },
-  {
     "name": "DataBank Austin",
     "developer": "DataBank",
     "fips": "48453",
@@ -11724,19 +11594,6 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://centexdatacenters.org/"
-  },
-  {
-    "name": "Dove Creek Technology Campus Beacon Data Centers San Angelo",
-    "developer": "Beacon Data Centers",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 2409.0,
-    "date": "2026-06-16",
-    "source_url": "https://trackdatacenters.io/projects/dove-creek-technology-campus-beacon-data-centers-san-angelo-south-of-tx-tx-0284"
   },
   {
     "name": "Duos Edge AI Amarillo",
@@ -12259,19 +12116,6 @@
     "source_url": "https://datacenterrecord.org/states/tx/travis-county"
   },
   {
-    "name": "Emergent San Angelo SA1",
-    "developer": "Emergent Data Centers",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://conchoobserver.com/economic-summit-data-center/"
-  },
-  {
     "name": "Energy Abundance Laredo",
     "developer": "Energy Abundance Development Corp",
     "fips": "48479",
@@ -12387,19 +12231,6 @@
     "size_mw": 150.0,
     "date": null,
     "source_url": "https://fopermian.com/news/scalable-off-grid"
-  },
-  {
-    "name": "Facebook Fort Worth",
-    "developer": "Winner, LLC (Facebook)",
-    "fips": "48439",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "approved",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://fortworthbusiness.com/technology/fort-worth-considering-20-percent-tax-abatement-for-more-facebook-construction/"
   },
   {
     "name": "Falcon Point Digital Seminole",
@@ -12909,19 +12740,6 @@
     "source_url": "https://www.co.carson.tx.us/upload/page/12648/docs/Project%20Raptor%20Slides%20-%20Public%20-%2004-27-26.pdf"
   },
   {
-    "name": "Google Project Rise 2A Vernon",
-    "developer": "Google (Platon Investments LLC)",
-    "fips": "48487",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://www.datacenterdynamics.com/en/news/google-files-for-two-data-centers-in-vernon-texas/"
-  },
-  {
     "name": "Google Red Oak",
     "developer": "Google",
     "fips": "48139",
@@ -13111,7 +12929,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "withdrawn",
+    "status": "moratorium",
     "size_mw": null,
     "date": "2026-05-15",
     "source_url": "https://texasstandard.org/stories/hill-county-judge-expects-legal-challenges-to-data-center-development-pause/"
@@ -13950,7 +13768,7 @@
   },
   {
     "name": "Meta Fort Worth",
-    "developer": "Meta",
+    "developer": "Winner, LLC (Facebook)",
     "fips": "48439",
     "state": "TX",
     "lat": null,
@@ -13959,7 +13777,7 @@
     "status": "operating",
     "size_mw": 300.0,
     "date": null,
-    "source_url": "https://communityimpact.com/keller-roanoke-northeast-fort-worth/government/fort-worth-city-council-approves-steps-to-start-moratorium-process-on-data-centers/"
+    "source_url": "https://fortworthbusiness.com/technology/fort-worth-considering-20-percent-tax-abatement-for-more-facebook-construction/"
   },
   {
     "name": "Meta Temple",
@@ -14118,19 +13936,6 @@
     "source_url": "https://markhurd4tx.com/news/public-record-timeline-data-center-outreach-commissioner-akin"
   },
   {
-    "name": "Mustang Taylor",
-    "developer": null,
-    "fips": "48491",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://austinfreepress.org/misdeeds-paxton/"
-  },
-  {
     "name": "NRG Jewett",
     "developer": "NRG Texas Power LLC; Jewett Data Solutions LLC",
     "fips": "48293",
@@ -14142,19 +13947,6 @@
     "size_mw": null,
     "date": "2026-04-27",
     "source_url": "https://interchange.puc.texas.gov/Documents/59708_1_1632298.PDF"
-  },
-  {
-    "name": "NRG LandBridge Reeves County",
-    "developer": "LandBridge; NRG Energy",
-    "fips": "48389",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 1100.0,
-    "date": "2025-09-23",
-    "source_url": "https://txdatacenterwatch.com/county/reeves/"
   },
   {
     "name": "NRG Tolar",
@@ -14480,19 +14272,6 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://baxtel.com/data-center/qts-howard-county"
-  },
-  {
-    "name": "OpenAI Stargate Abilene",
-    "developer": "Oracle",
-    "fips": "48441",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "operating",
-    "size_mw": 824.0,
-    "date": "2025-09-30",
-    "source_url": "https://samaritan-research.org/data/ai-data-centers/directory/openai-stargate-abilene"
   },
   {
     "name": "Oppidan Temple",
@@ -14859,32 +14638,6 @@
     "source_url": "https://johnsoncounty.myopentexas.org/meetings/3606b85c-0852-4d50-bb25-a10e70627a65"
   },
   {
-    "name": "Project Comal Taylor",
-    "developer": null,
-    "fips": "48491",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 650.0,
-    "date": null,
-    "source_url": "https://austinfreepress.org/misdeeds-paxton/"
-  },
-  {
-    "name": "Project Eagle Boling",
-    "developer": "Amazon",
-    "fips": "48481",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://www.datacenterdynamics.com/en/news/amazon-files-to-develop-two-new-data-center-campuses-in-texas/"
-  },
-  {
     "name": "Project Ember Fort Worth",
     "developer": null,
     "fips": "48439",
@@ -14909,19 +14662,6 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.wfaa.com/video/news/local/tarrant-county/fort-worth-residents-fight-proposed-11b-data-center-over-noise-and-water-concerns/287-3fb99441-3e65-484b-925d-f7c2e4c4a6d4"
-  },
-  {
-    "name": "Project Iron Mountain Taylor",
-    "developer": null,
-    "fips": "48491",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://austinfreepress.org/misdeeds-paxton/"
   },
   {
     "name": "Project Landman Odessa",
@@ -14963,19 +14703,6 @@
     "source_url": "https://austinfreepress.org/misdeeds-paxton/"
   },
   {
-    "name": "Project Mustang Taylor",
-    "developer": "Big Watt and PowerHouse",
-    "fips": "48491",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 477.0,
-    "date": "2026-08-18",
-    "source_url": "https://www.kvue.com/article/news/local/williamson-county/data-center-taylor-residents-push-back-proposed-665-acre-project-mustang/269-8285111e-fa2a-4808-bc56-d40fe3645125"
-  },
-  {
     "name": "Project Orange Lancaster",
     "developer": null,
     "fips": "48113",
@@ -14987,32 +14714,6 @@
     "size_mw": 252.0,
     "date": null,
     "source_url": "https://dcmap.us/counties/dallas-county-tx/"
-  },
-  {
-    "name": "Project Prism Abilene",
-    "developer": null,
-    "fips": "48441",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://www.perrymangroup.com/media/uploads/report/perryman-the-economic-and-fiscal-benefits-of-a-major-data-center-investment-in-abilene-02-21-25.pdf"
-  },
-  {
-    "name": "Project Radiance Abilene",
-    "developer": null,
-    "fips": "48441",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://www.perrymangroup.com/media/uploads/report/perryman-the-economic-and-fiscal-benefits-of-a-major-data-center-investment-in-abilene-02-21-25.pdf"
   },
   {
     "name": "Project Raptor Travis",
@@ -15561,19 +15262,6 @@
     "source_url": "https://www.datacenterdynamics.com/en/news/residents-of-granbury-texas-sue-the-city-after-authorities-rezone-2100-acres-for-potential-data-center-project/"
   },
   {
-    "name": "Sailfish Comanche Circle Hood",
-    "developer": "Sailfish Investors",
-    "fips": "48425",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "rejected",
-    "size_mw": 5000.0,
-    "date": "2026-10-13",
-    "source_url": "https://www.protectpaluxy.com/comanche-circle-data-center-opposition/"
-  },
-  {
     "name": "Sammons Temple",
     "developer": null,
     "fips": "48027",
@@ -15776,7 +15464,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "planned",
+    "status": "approved",
     "size_mw": 1200.0,
     "date": "2026-06-02",
     "source_url": "https://angelotechnical.com/articles/wait-which-data-center-are-we-talking-about"
@@ -15834,20 +15522,7 @@
     "source_url": "https://dcmap.us/counties/collin-county-tx/"
   },
   {
-    "name": "Skybox Old Settlers Round Rock",
-    "developer": "Skybox",
-    "fips": "48491",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "approved",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://scorepropertygroup.com/insights/austin-bastrop-data-center-activity-2026/"
-  },
-  {
-    "name": "Skybox Pflugerville 1",
+    "name": "Skybox Pflugerville",
     "developer": "Austin Data Center 1 LLC / Austin Data Center 2 LLC",
     "fips": "48453",
     "state": "TX",
@@ -15858,19 +15533,6 @@
     "size_mw": 30.0,
     "date": "2024-10-01",
     "source_url": "https://hyperscalenews.com/atlas/travis"
-  },
-  {
-    "name": "Skybox Pflugerville 2",
-    "developer": "Austin Data Center 2, LLC",
-    "fips": "48453",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "approved",
-    "size_mw": null,
-    "date": "2026-07-13",
-    "source_url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024003560"
   },
   {
     "name": "Skybox Round Rock",
@@ -15884,19 +15546,6 @@
     "size_mw": 75.0,
     "date": "2026-02-17",
     "source_url": "https://www.wilcosun.com/news-georgetown-jarrell-liberty-hill-florence-hutto-taylor-east-williamson-county-round-rock-333"
-  },
-  {
-    "name": "Skybox San Angelo",
-    "developer": "Skybox Datacenters",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "approved",
-    "size_mw": 600.0,
-    "date": "2026-01-13",
-    "source_url": "https://www.gosanangelo.com/story/news/local/2026/06/04/tom-green-county-drops-data-center-moratorium-plan/90391702007/"
   },
   {
     "name": "Skybox Wichita Falls",
@@ -16079,58 +15728,6 @@
     "size_mw": 500.0,
     "date": "2026-10-05",
     "source_url": "https://datacenters.cutrerlabs.com/counties/dallas/"
-  },
-  {
-    "name": "Stargate Abilene",
-    "developer": "Oracle, Crusoe Energy",
-    "fips": "48441",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 360.0,
-    "date": null,
-    "source_url": "https://www.texastribune.org/2025/06/05/texas-data-centers-gas-power-plants-ai/"
-  },
-  {
-    "name": "Stargate Frontier Shackelford County",
-    "developer": null,
-    "fips": "48417",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": 1820.0,
-    "date": null,
-    "source_url": "https://www.aiaffairs.com/government/texas-election-data-centre-expansion-hinojosa-moratorium/"
-  },
-  {
-    "name": "Stargate Hamby",
-    "developer": null,
-    "fips": "48417",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://www.youtube.com/watch?v=PgfddjciBuo"
-  },
-  {
-    "name": "Stargate One Abilene",
-    "developer": "Lancium; Crusoe",
-    "fips": "48441",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "operating",
-    "size_mw": 1200.0,
-    "date": "2025-09-30",
-    "source_url": "https://ktxs.com/news/local/lancium-crusoe-executives-brief-abilene-leaders-on-major-northside-investment"
   },
   {
     "name": "Starwood Project Red Hood County",
@@ -16365,19 +15962,6 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://groundedcompute.com/us/texas/hidalgo-county"
-  },
-  {
-    "name": "Taylor Technology Campus",
-    "developer": "Big Watt Digital; PowerHouse Data Centers",
-    "fips": "48491",
-    "state": "TX",
-    "lat": 30.5544536,
-    "lon": -97.410137,
-    "geo_precision": "road",
-    "status": "approved",
-    "size_mw": 1000.0,
-    "date": "2026-10-12",
-    "source_url": "https://projectmustangtx.org/"
   },
   {
     "name": "Taylor moratorium",
@@ -16640,32 +16224,6 @@
     "source_url": "https://nearbydatacenters.org/projects/tx-fannin-grayson-border-data-center/"
   },
   {
-    "name": "Unnamed San Angelo",
-    "developer": null,
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "approved",
-    "size_mw": null,
-    "date": "2026-01-13",
-    "source_url": "https://www.sanangelolive.com/news/politics/2026-03-17/texas-lawmaker-urges-immediate-pause-rural-data-center-projects"
-  },
-  {
-    "name": "Unnamed Willacy",
-    "developer": null,
-    "fips": "48489",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://www.texaspolicyresearch.com/texas-data-center-dilemma-growth-grid-strain-and-water-costs/"
-  },
-  {
     "name": "Unnamed bitcoin facility Dumas",
     "developer": null,
     "fips": "48341",
@@ -16729,19 +16287,6 @@
     "size_mw": 1400.0,
     "date": "2025-07-01",
     "source_url": "https://measuredai.substack.com/p/stargate-site-by-site-status"
-  },
-  {
-    "name": "Vantage Shackelford",
-    "developer": "Vantage Data Centers, VoltaGrid",
-    "fips": "48417",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": null,
-    "source_url": "https://arrington.house.gov/uploadedfiles/final_oracle_oai_data_center_fact_sheet_092225b.pdf"
   },
   {
     "name": "Vantage TX21 TX22 San Antonio",
@@ -16846,32 +16391,6 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-124710/ercot-approved-power-upgrades-south-of-dallas-waxahachie-tx-75167"
-  },
-  {
-    "name": "Westline 2335",
-    "developer": "Westline TX Holdings LLC",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": "2026-06-12",
-    "source_url": "https://insideclimatenews.org/news/25082026/texas-data-center-gas-projects/"
-  },
-  {
-    "name": "Westline Beacon Tom Green",
-    "developer": "Beacon Data Centers",
-    "fips": "48451",
-    "state": "TX",
-    "lat": null,
-    "lon": null,
-    "geo_precision": null,
-    "status": "planned",
-    "size_mw": null,
-    "date": "2026-06-02",
-    "source_url": "https://806connect.com/data-centers/county/tom-green"
   },
   {
     "name": "White Rose Prosper",
