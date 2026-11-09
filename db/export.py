@@ -38,6 +38,8 @@ def main():
         counties[fips] = {
             **c,
             "predicted_from": json.loads(c["predicted_from"] or "[]"),
+            "profile": json.loads(c["profile"]) if c["profile"] else None,
+            "drivers": json.loads(c["drivers"] or "[]"),
             "reasons": rows(con, "SELECT reason, weight FROM reasons WHERE fips = ? ORDER BY weight DESC", fips),
             "news": pick("news", "title", "url", "date", "source", "stance"),
             "social": pick("social", "platform", "url", "text", "date", "stance", "emotion"),

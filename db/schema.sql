@@ -41,6 +41,8 @@ CREATE TABLE IF NOT EXISTS counties (
   confidence REAL,
   basis      TEXT CHECK (basis IN ('evidence', 'predicted', 'baseline')), -- predicted: no local sources, score from the nearest evidence-scored counties
   predicted_from TEXT NOT NULL DEFAULT '[]', -- JSON array of county fips the prediction leans on, most influential first
+  profile    TEXT,                           -- JSON: what the DB holds about the county itself (map/README.md "profile")
+  drivers    TEXT NOT NULL DEFAULT '[]',     -- JSON: fitted-model terms of a predicted score, [{label, value, effect}]
   updated    TEXT
 );
 

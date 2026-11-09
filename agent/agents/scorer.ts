@@ -24,7 +24,7 @@ Output
 - confidence: 0-1, how much evidence supports the score. Thin evidence -> low confidence and a score near 0.4-0.6.
 - organized_opposition: true if a named group, petition or coalition opposes.
 - summary: the public brief shown on the map: 1-2 plain sentences (max 45 words) with the concrete evidence (who, what, when, votes). Facts only: no rule ids, no "this is a county-wide case", no priors, base rates or starting points, no URLs. Rule reasoning goes into rules_applied, never into the summary.
-- reasons: 2-6 short labels with weights that sum to about 1, strongest first.
+- reasons: 2-6 short labels of local drivers (a vote, a group, a project, a water or power dispute, a lawsuit), weights sum to about 1, strongest first. Never a prior, a base rate, a rule id or "county-wide": those are not reasons the public can act on.
 - rules_applied: ids of the rulebook rules that moved the score.
 
 Rules
