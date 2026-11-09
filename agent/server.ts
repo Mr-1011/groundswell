@@ -88,6 +88,7 @@ createServer(async (req, res) => {
 }).listen(PORT, () => console.log(`chat server on http://localhost:${PORT}/chat`));
 
 function finalAnswer(r: SDKResultMessage): ChatOutput {
+  console.log(`[chat] ${r.subtype}, ${r.num_turns} turns, $${r.total_cost_usd.toFixed(4)}`);
   const structured = r.subtype === "success" ? (r.structured_output as ChatOutput | undefined) : undefined;
   return structured ?? { answer: resultText(r), actions: [] };
 }
