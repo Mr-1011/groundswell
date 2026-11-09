@@ -105,6 +105,10 @@ Learning loop accuracy per backtest round, on the held-out cases.
 [{ "round": 1, "accuracy": 0.5, "n": 12 }]
 ```
 
+## og.png
+
+The link preview image (1200x630, the word GROUNDSWELL). A static file made by the dashboard session; `db/export.py` does not touch it.
+
 ## layers/*.geojson
 
 One GeoJSON FeatureCollection per context layer. A missing file means the layer is not ready yet; the UI hides it.
