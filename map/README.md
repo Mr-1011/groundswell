@@ -18,7 +18,7 @@ Stack: Vite + React + TypeScript, MapLibre GL (CARTO dark basemap), county and s
 
 Infrastructure layers (transmission lines, substations, power plants, gas and liquids pipelines, long-haul fiber, OSM data centers) are live OpenInfraMap vector tiles (OpenStreetMap data). They are not files in `map/data/`, and the agent does not need to write them. A click on a plant, substation or data center opens a window with its OpenStreetMap source. The map stays inside the lower 48 (Alaska and Hawaii are out of reach).
 
-The map also shows `counties.json` `prediction: "blocked"` as a hatch, and the number of projects per county ("11 PRJ"). Projects need `lat`/`lon` to get a marker and a site view (z13.5, 1/3/5 km range rings).
+The map also shows `counties.json` `prediction: "blocked"` as a hatch, and the number of projects per county ("11 PROJECTS"). Projects need `lat`/`lon` to get a marker and a site view (z13.5, 1/3/5 km range rings).
 
 ## Rules for all files
 

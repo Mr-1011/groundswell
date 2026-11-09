@@ -121,7 +121,7 @@ export default function MapView(p: Props) {
     return m;
   }, [p.data, p.filters.statuses, p.filters.since]);
 
-  // Label anchor per county with a score or projects (bbox center): "11 PRJ" at state zoom, name, score and prediction closer in.
+  // Label anchor per county with a score or projects (bbox center): "11 PROJECTS" at state zoom, name, score and prediction closer in.
   const countyLabels = useMemo<FeatureCollection>(
     () => ({
       type: "FeatureCollection",
@@ -131,7 +131,7 @@ export default function MapView(p: Props) {
           const [w, s, e, n] = bbox(f.geometry);
           const c = p.data.counties[f.properties.id];
           const count = projectCount.get(f.properties.id) ?? 0;
-          const prj = count ? `${count} PRJ` : "";
+          const prj = count ? `${count} ${count === 1 ? "PROJECT" : "PROJECTS"}` : "";
           const pred = c?.prediction ? `${c.prediction.toUpperCase()}${c.confidence != null ? ` ${c.confidence.toFixed(2)}` : ""}` : "";
           const score = f.properties.score != null ? `  ${f.properties.score.toFixed(2)}` : "";
           return {
@@ -220,7 +220,7 @@ export default function MapView(p: Props) {
     const count = projectCount.get(String(pr.id));
     return [
       pr.score != null ? `RESISTANCE ${Number(pr.score).toFixed(2)}` : "NO SCORE",
-      count ? `${count} PRJ` : null,
+      count ? `${count} ${count === 1 ? "PROJECT" : "PROJECTS"}` : null,
       c?.prediction ? `PRED ${c.prediction.toUpperCase()}` : null,
     ].filter(Boolean).join(" · ");
   };
