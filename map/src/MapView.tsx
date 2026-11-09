@@ -123,39 +123,6 @@ export default function MapView(p: Props) {
     return m;
   }, [p.data, p.filters.statuses, p.filters.since]);
 
-  // Prediction flow: a predicted county (selected, else hovered) linked to the evidence counties it leans on.
-  // Line width and the label at its middle = that county's share of the prediction.
-  const flowId =
-    (p.selection?.kind === "county" && isPredicted(p.data.counties[p.selection.id]) && p.selection.id) ||
-    (hover?.kind === "county-hit" && isPredicted(p.data.counties[hover.id]) && hover.id) ||
-    null;
-  const flow = useMemo<FeatureCollection>(() => {
-    const c = flowId ? p.data.counties[flowId] : undefined;
-    const shape = (id: string) => p.geo.counties.features.find((f) => f.properties.id === id);
-    const mid = (id: string): [number, number] | null => {
-      const f = shape(id);
-      if (!f) return null;
-      const [w, s, e, n] = bbox(f.geometry);
-      return [(w + e) / 2, (s + n) / 2];
-    };
-    const from = flowId ? mid(flowId) : null;
-    const features: FeatureCollection["features"] = [];
-    (c?.predicted_from ?? []).forEach((id, i) => {
-      const to = mid(id);
-      const f = shape(id);
-      if (!from || !to || !f) return;
-      const w = c?.reasons[i]?.weight ?? 0;
-      features.push({ type: "Feature", geometry: f.geometry, properties: { kind: "src" } });
-      features.push({ type: "Feature", geometry: { type: "LineString", coordinates: [from, to] }, properties: { kind: "line", w } });
-      features.push({
-        type: "Feature",
-        geometry: { type: "Point", coordinates: [(from[0] + to[0]) / 2, (from[1] + to[1]) / 2] },
-        properties: { kind: "share", label: `${Math.round(w * 100)}%` },
-      });
-    });
-    return { type: "FeatureCollection", features };
-  }, [flowId, p.data, p.geo]);
-
   // Label anchor per county with a score or projects (bbox center): "11 PROJECTS" at state zoom, name, score and prediction closer in.
   const countyLabels = useMemo<FeatureCollection>(
     () => ({
@@ -380,24 +347,6 @@ export default function MapView(p: Props) {
               filter={["has", "score"]}
               minzoom={6}
               paint={{ "line-color": scoreFill, "line-width": 1, "line-opacity": ["interpolate", ["linear"], ["zoom"], 6, 0, 7, 0.8, 13, 0.5] }}
-            />
-          </Source>
-
-          <Source id="flow" type="geojson" data={flow}>
-            <Layer id="flow-src" type="line" beforeId={before} filter={["==", ["get", "kind"], "src"]} paint={{ "line-color": "#5ad1ff", "line-width": 1, "line-dasharray": [2, 2] }} />
-            <Layer
-              id="flow-line"
-              type="line"
-              beforeId={before} // under the basemap and county labels
-              filter={["==", ["get", "kind"], "line"]}
-              paint={{ "line-color": "#5ad1ff", "line-width": ["interpolate", ["linear"], ["get", "w"], 0, 0.6, 0.5, 3] }}
-            />
-            <Layer
-              id="flow-share"
-              type="symbol"
-              filter={["==", ["get", "kind"], "share"]}
-              layout={{ "text-field": ["get", "label"], "text-font": FONT, "text-size": 10, "text-allow-overlap": true, "text-ignore-placement": true }}
-              paint={{ "text-color": "#e6e6e3", "text-halo-color": "#0b0b0b", "text-halo-width": 2 }}
             />
           </Source>
 
