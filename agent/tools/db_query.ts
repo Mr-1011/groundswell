@@ -27,10 +27,14 @@ export function regionInfo(region: string): Record<string, unknown> {
   if (!fips) return { error: `unknown region ${region}` };
   if (fips.length === 5) {
     if (!COUNTIES[fips]) return { error: `unknown county FIPS ${fips}` };
+    const county = get("SELECT score, label, prediction, confidence, basis, profile, summary, updated, predicted_from FROM counties WHERE fips = ?", fips) ?? null;
+    // predicted_from resolved to rows, so the chat never has to turn a fips into a name from memory (it named 01117 "Lowndes").
+    const from = county ? (JSON.parse(String(county.predicted_from || "[]")) as string[]) : [];
+    const fromRows = from.length ? all(`SELECT fips, name, state, score FROM counties WHERE fips IN (${from.map(() => "?").join(", ")})`, ...from) : [];
     return {
       fips,
       name: regionName(fips),
-      county: get("SELECT score, label, prediction, confidence, basis, predicted_from, profile, summary, updated FROM counties WHERE fips = ?", fips) ?? null,
+      county: county && { ...county, predicted_from: from.map((f) => fromRows.find((r) => r.fips === f)).filter(Boolean) },
       documents: get("SELECT count(*) AS n FROM documents WHERE region_fips = ?", fips)!.n,
       items: all("SELECT kind, stance, count(*) AS n FROM items WHERE fips = ? GROUP BY kind, stance", fips),
       projects: all("SELECT name, developer, status, size_mw, date FROM projects WHERE fips = ?", fips),
