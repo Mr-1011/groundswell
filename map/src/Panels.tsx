@@ -425,19 +425,30 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
       />
       {c.summary && <Brief key={id} text={c.summary} />}
       {isPredicted(c) && !!c.predicted_from?.length && (
-        <Section title="Predicted from">
+        <Section title="Predicted from · share">
           <div className="rows">
-            {c.predicted_from.map((f) => (
-              <button key={f} className="row row-btn row-plain" onClick={() => onSelect({ kind: "county", id: f })}>
-                <span className="row-label">{regionName("county", f)}</span>
-                {data.counties[f]?.score != null && <Meter value={data.counties[f].score!} color={rampColor(data.counties[f].score!)} />}
-                <span className="mono num">{data.counties[f]?.score?.toFixed(2) ?? "-"}</span>
-              </button>
-            ))}
+            {c.predicted_from.map((f, i) => {
+              const n = data.counties[f];
+              const w = c.reasons[i]?.weight ?? 0;
+              const km = c.reasons[i]?.reason.match(/(\d+) km/)?.[1];
+              return (
+                <button key={f} className="row row-btn row-plain" onClick={() => onSelect({ kind: "county", id: f })}>
+                  <span className="row-label">
+                    {regionName("county", f).replace(/ County$/, "")}{" "}
+                    <span className="muted mono">
+                      {n?.score?.toFixed(2) ?? "-"}
+                      {km ? ` · ${km} km` : ""}
+                    </span>
+                  </span>
+                  <Meter value={w} color={n?.score != null ? rampColor(n.score) : undefined} />
+                  <span className="mono num">{Math.round(w * 100)}%</span>
+                </button>
+              );
+            })}
           </div>
         </Section>
       )}
-      {c.reasons.length > 0 && (
+      {!isPredicted(c) && c.reasons.length > 0 && (
         <Section title="Reasons">
           <div className="rows">
             {c.reasons.map((r) => (
@@ -450,7 +461,7 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
           </div>
         </Section>
       )}
-      <Coverage key={id} counties={[c]} filters={filters} />
+      {c.news.length + c.social.length + c.quotes.length > 0 && <Coverage key={id} counties={[c]} filters={filters} />}
       <Emotions counties={[c]} filters={filters} />
       <Groups key={`g${id}`} counties={[c]} onOpen={onOpen} />
       {projects.length > 0 && (
