@@ -29,8 +29,9 @@
     "max_queries_per_region": 2
   },
   "youtube-supadata": {
-    "enabled": false,
-    "max_docs_per_region": 10
+    "enabled": true,
+    "max_docs_per_region": 5,
+    "max_queries_per_region": 1
   },
   "county-minutes": {
     "enabled": false,
