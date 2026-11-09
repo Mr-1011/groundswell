@@ -30,7 +30,7 @@ export function regionInfo(region: string): Record<string, unknown> {
     return {
       fips,
       name: regionName(fips),
-      county: get("SELECT score, label, prediction, confidence, updated FROM counties WHERE fips = ?", fips) ?? null,
+      county: get("SELECT score, label, prediction, confidence, basis, predicted_from, profile, summary, updated FROM counties WHERE fips = ?", fips) ?? null,
       documents: get("SELECT count(*) AS n FROM documents WHERE region_fips = ?", fips)!.n,
       items: all("SELECT kind, stance, count(*) AS n FROM items WHERE fips = ? GROUP BY kind, stance", fips),
       projects: all("SELECT name, developer, status, size_mw, date FROM projects WHERE fips = ?", fips),
@@ -44,7 +44,7 @@ export function regionInfo(region: string): Record<string, unknown> {
     name: regionName(fips),
     documents: get("SELECT count(*) AS n FROM documents WHERE region_fips = ? OR region_fips LIKE ?", fips, `${fips}%`)!.n,
     counties_with_data: all(
-      "SELECT c.fips, c.name, c.score, (SELECT count(*) FROM items i WHERE i.fips = c.fips) AS items, (SELECT count(*) FROM projects p WHERE p.fips = c.fips) AS projects FROM counties c WHERE c.state = ? ORDER BY items DESC",
+      "SELECT c.fips, c.name, c.score, c.basis, (SELECT count(*) FROM items i WHERE i.fips = c.fips) AS items, (SELECT count(*) FROM projects p WHERE p.fips = c.fips) AS projects FROM counties c WHERE c.state = ? ORDER BY items DESC",
       state,
     ),
     projects: all("SELECT name, fips, status, date FROM projects WHERE state = ? ORDER BY date DESC LIMIT 50", state),

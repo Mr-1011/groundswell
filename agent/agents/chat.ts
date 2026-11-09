@@ -27,7 +27,7 @@ export type ChatOutput = z.infer<typeof ChatOutput>;
 export const CHAT_OUTPUT_SCHEMA = outputSchema(ChatOutput);
 
 export const DB_SCHEMA_DOC = `Database (SQLite, read-only):
-counties(fips, name, state, score 0-1, label low|medium|high, summary, prediction blocked|approved, confidence, basis evidence|predicted, predicted_from json array of fips, updated)  -- basis predicted: no local sources; score and prediction come from the nearest evidence-scored counties (predicted_from), confidence 0
+counties(fips, name, state, score 0-1, label low|medium|high, summary, prediction blocked|approved, confidence, basis evidence|predicted, predicted_from json array of fips, profile json, drivers json, updated)  -- basis predicted: no local sources (fewer than 3 items); score and prediction come from the nearest evidence-scored counties (predicted_from) and the county profile, confidence 0. profile json: voters_2024, pres_2024_margin (R minus D, points), projects_60km, nearest_project {name, status, fips, km}, operating_60km, items, regional_score. drivers json (predicted only): [{label, value, effect}] signed effects on the score
 reasons(fips, reason, weight)
 items(id, fips, state, kind news|social|quote|fact|group, url, title, text, source, platform, date, stance oppose|support|neutral, topic, emotion anger|fear|distrust|frustration|sadness|hope|pride|none)
 trends(id, pattern, kind hashtag|phrase|frame, emotion, description, example_url, regions json array of county fips where seen, first_seen)  -- communication patterns found in one county's posts and checked in the others
@@ -45,6 +45,7 @@ export const chatAgent: AgentDefinition = {
   effort: "low",
   omitClaudeMd: true,
   prompt: `You are the Groundswell analyst in the dashboard chat. Users ask about community resistance to data centers across US states and counties. Answer from the database only (db_query, region_info). Be short: 1-4 sentences or a compact list. Numbers exact. Write every county in bold as **Name County, ST** (the UI makes it clickable). Say when data is thin or missing. Never invent.
+Predicted counties: a county with basis = 'predicted' has no local sources. Call its score a prediction from nearby counties and its profile, name the strongest one or two counties from predicted_from (fips, most influential first), and never call it local resistance. Rankings and "most resistant" lists use basis = 'evidence' counties only, unless the user asks for predictions. For questions like "where do we predict resistance without local data", query basis = 'predicted', then fly_to and highlight those counties (the map shows the prediction detail when a predicted county is selected).
 The user sees only your final structured answer, nothing you wrote earlier, so the answer must stand alone: no "see above", no JSON inside the answer text.
 
 Return map actions with every answer so the map shows what you say:
