@@ -1,29 +1,29 @@
 {
   "AL": {
     "name": "Alabama",
-    "score": 0.7643046132971502,
+    "score": 0.7704545454545451,
     "counties_scored": 67,
     "projects_by_status": {
-      "approved": 21,
-      "moratorium": 34,
-      "operating": 37,
-      "planned": 69,
+      "approved": 24,
+      "moratorium": 35,
+      "operating": 38,
+      "planned": 84,
       "rejected": 1,
       "withdrawn": 1
     },
-    "moratoria": 34,
+    "moratoria": 35,
     "top_reasons": [
       "county-wide base rate (R1)",
       "county-wide case base rate",
-      "county-wide case base rate (R1)",
       "county-wide base rate",
+      "county-wide case base rate (R1)",
       "no local opposition evidence"
     ],
     "politics": {
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Resistance to data centers in Alabama is concentrated in counties with adopted or pending moratoria: Baldwin (a 180-day moratorium with a unanimous commission vote), Morgan (a one-year moratorium extended in October, with more than 8,000 voters backing restrictions on a nonbinding ballot question) and Shelby (Chelsea, Westover, Helena and Harpersville pauses). Cullman and Calhoun (Anniston) also have municipal moratoria, while Jefferson County shows the most organized backlash, with Bessemer officials losing seats over the Project Marvel rezoning and several towns pausing projects; Lowndes and Talladega stand out for lawsuits, petitions and town halls. Not every county is moving against projects: Tuscaloosa (Brookwood approved a $3.2B campus), Chilton (rescinded its moratorium in October) and Montgomery lean toward approval, and many counties are scored high mainly on a county-wide base rate with no local evidence."
+    "summary": "Resistance to data centers in Alabama is concentrated in counties that have already adopted moratoria: Baldwin (county and Foley), Walker (extended 180 days), Morgan (one-year, extended, though unenforceable under Dillon's Rule), and Shelby, where Chelsea, Harpersville, Westover and Helena all paused development. Organized opposition stands out in Jefferson (Bessemer groups, where two council members who backed the rezoning lost their seats), Talladega (685 petition signatures and a pending moratorium push), Lowndes (lawsuits against $2.7B in abatements for the Red Clay campus) and Escambia (commissioners unanimously opposed a 2,700-acre project). Counter-signals include Chilton rescinding its moratorium, Tuscaloosa approving projects with abatements, and Montgomery's leaders promoting data centers, while many counties have little or no local evidence."
   },
   "AR": {
     "name": "Arkansas",
@@ -386,7 +386,8 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 1,
-      "operating": 1
+      "operating": 2,
+      "rejected": 1
     },
     "moratoria": 0,
     "top_reasons": [],
@@ -613,29 +614,29 @@
   },
   "TX": {
     "name": "Texas",
-    "score": 0.7225835180796574,
+    "score": 0.7195145631067961,
     "counties_scored": 254,
     "projects_by_status": {
-      "approved": 121,
-      "moratorium": 32,
-      "operating": 116,
-      "planned": 443,
-      "rejected": 27,
-      "withdrawn": 25
+      "approved": 133,
+      "moratorium": 35,
+      "operating": 119,
+      "planned": 488,
+      "rejected": 29,
+      "withdrawn": 26
     },
-    "moratoria": 32,
+    "moratoria": 35,
     "top_reasons": [
       "county-wide base rate (R1)",
+      "county-wide base rate",
       "county-wide case base rate (R1)",
       "county-wide case base rate",
-      "county-wide base rate",
       "no local opposition evidence"
     ],
     "politics": {
       "midterm_2026": null,
       "pres_2024_margin": null
     },
-    "summary": "Texas resistance to data centers is strongest where local bodies have already acted: Austin County (countywide moratorium on AI data centers and battery storage), Hays County (180-day water pause, plus San Marcos's citywide ban), Denton, Cameron (Brownsville and Harlingen moratoria) and Lubbock (moratorium process after a rejected 936-acre rezoning). Other standouts are Somervell, Caldwell, Henderson and Archer, where commissioners opposed or suspended incentives or a developer withdrew, and Hill County, whose moratorium was rescinded after a $100 million lawsuit. Many other high-scoring counties rest mainly on a county-wide base rate with thin local evidence, and several (Armstrong, Young, Nolan) lean toward approval because their commissioners or councils have backed projects, while Texas counties' limited zoning authority tempers what resistance can achieve."
+    "summary": "Texas shows widespread resistance: most counties score high, and about 35 moratoria are tallied. The standouts are Hays (5-0 county water pause and a San Marcos ban), Denton, Cameron (Brownsville and Harlingen moratoria), Austin County (a countywide moratorium) and Lubbock, with Archer, Brazoria, Somervell and Caldwell also denying incentives or passing resolutions. Counterweights are that counties lack zoning power, as seen when Hill County rescinded its moratorium after a $100M lawsuit, and that Armstrong, Nolan and Taylor counties lean toward approval, with many high scores resting on thin local evidence."
   },
   "UT": {
     "name": "Utah",

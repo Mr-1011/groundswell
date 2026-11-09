@@ -156,6 +156,19 @@
     "source_url": "https://nearbydatacenters.org/al/"
   },
   {
+    "name": "Bessemer Land Data Center",
+    "developer": "TPA Group",
+    "fips": "01073",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://linkedin.com/company/alabama-rivers-alliance"
+  },
+  {
     "name": "Birmingham moratorium",
     "developer": null,
     "fips": "01073",
@@ -286,6 +299,19 @@
     "source_url": "https://www.datacenterdynamics.com/en/news/alabama-based-construction-partners-to-build-data-center-as-part-of-corporate-headquarters/"
   },
   {
+    "name": "Core Scientific AUBix Auburn",
+    "developer": "Core Scientific",
+    "fips": "01081",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 4.0,
+    "date": "2025-02-19",
+    "source_url": "https://nearbydatacenters.org/al/"
+  },
+  {
     "name": "Core Scientific Auburn",
     "developer": "Core Scientific",
     "fips": "01081",
@@ -349,6 +375,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://computecompute.org/us/al/jefferson"
+  },
+  {
+    "name": "DC BLOX Shelby County",
+    "developer": "DC BLOX",
+    "fips": "01117",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 54.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=qMEPDk03k2E"
   },
   {
     "name": "DC Blox Birmingham",
@@ -442,6 +481,19 @@
     "source_url": "https://hoodline.com/2026/10/rural-alabama-towns-can-t-stop-data-centers-and-developers-know-it/"
   },
   {
+    "name": "DigiPower X Columbiana",
+    "developer": "DigiPower X",
+    "fips": "01117",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 55.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=qMEPDk03k2E"
+  },
+  {
     "name": "DigiPowerX Columbiana",
     "developer": "DigiPowerX",
     "fips": "01117",
@@ -533,6 +585,19 @@
     "source_url": "https://signaldata.org/al/data-centers/madison/"
   },
   {
+    "name": "Foley Data Center Moratorium",
+    "developer": null,
+    "fips": "01003",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": "2025-09-08",
+    "source_url": "https://www.youtube.com/watch?v=NkKt9lPkOII"
+  },
+  {
     "name": "Foley moratorium",
     "developer": null,
     "fips": "01003",
@@ -544,6 +609,19 @@
     "size_mw": null,
     "date": "2026-09-15",
     "source_url": "https://www.al.com/business/2026/09/data-center-backlash-at-least-17-alabama-cities-pause-development.html"
+  },
+  {
+    "name": "Forge Highlands Brookwood",
+    "developer": "Forge AI Factory (Delta Forge Two)",
+    "fips": "01125",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=h7yQ9iVTLF4"
   },
   {
     "name": "Gallion hyperscale Gallion",
@@ -570,6 +648,32 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://citizenportal.ai/articles/10638568/alabama/geneva-county/residents-speakers-oppose-data-center-at-new-geneva-county-industrial-park-commission-authorizes-price-negotiation-for-school-board"
+  },
+  {
+    "name": "Google Bridgeport",
+    "developer": "Google",
+    "fips": "01071",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=4zw_k52c-VI"
+  },
+  {
+    "name": "Google Jackson County",
+    "developer": "Google",
+    "fips": "01071",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": null,
+    "date": "2019-01-01",
+    "source_url": "https://www.youtube.com/watch?v=gxjn531g2-k"
   },
   {
     "name": "Google Montgomery",
@@ -728,6 +832,32 @@
     "source_url": "https://www.franklinfreepress.net/news/blrb5kjszintu5ro1fsryaaeijfbco"
   },
   {
+    "name": "Marengo Hale Site",
+    "developer": null,
+    "fips": "01091",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=kvgSKYCaR34"
+  },
+  {
+    "name": "Meta Alabama Data Center",
+    "developer": "Meta",
+    "fips": "01101",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": "2024-05-01",
+    "source_url": "https://gridglasses.com/data-centers/alabama"
+  },
+  {
     "name": "Meta Clearview Ranch Macon County",
     "developer": "Meta subsidiary Dotier",
     "fips": "01087",
@@ -752,6 +882,19 @@
     "size_mw": 146.0,
     "date": "2022-06-14",
     "source_url": "https://globaldatacenters.net/data-centers/united-states/alabama/madison-county/"
+  },
+  {
+    "name": "Meta Huntsville Data Center Campus",
+    "developer": "Meta",
+    "fips": "01089",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": 487.0,
+    "date": "2022-01-01",
+    "source_url": "https://watchpennies.com/alabama/morgan-county-al/decatur-al/data-centers"
   },
   {
     "name": "Meta Montgomery",
@@ -793,6 +936,19 @@
     "source_url": "https://www.annistonstar.com/the_daily_home/dh_news/data-center-opposition-stronger-at-third-community-meeting/article_c145cdcb-7d5c-41b8-8bf0-8764a61c7c1e.html"
   },
   {
+    "name": "Monrovia Site",
+    "developer": null,
+    "fips": "01103",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=crtMMTsl9zg"
+  },
+  {
     "name": "Morgan County moratorium",
     "developer": null,
     "fips": "01103",
@@ -817,6 +973,19 @@
     "size_mw": 300.0,
     "date": "2026-03-02",
     "source_url": "https://suedatacenters.org/data-centers/contested"
+  },
+  {
+    "name": "Nepas BHM01 Oxmoor",
+    "developer": "Nepas",
+    "fips": "01073",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 300.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=qMEPDk03k2E"
   },
   {
     "name": "NorthPoint Wilsonville",
@@ -910,6 +1079,45 @@
     "source_url": "https://citizenportal.ai/source/8321018/jackson-county-board-of-county-commissioners-regular-meeting-june-23-2026-900-am-cst"
   },
   {
+    "name": "Project Louis Monrovia",
+    "developer": null,
+    "fips": "01103",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=Pn12EALBWSw"
+  },
+  {
+    "name": "Project Marvel Bessemer",
+    "developer": "QTS",
+    "fips": "01073",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": 403.0,
+    "date": "2025-11-01",
+    "source_url": "https://www.youtube.com/watch?v=UAazASk9cf4"
+  },
+  {
+    "name": "Prologis Shelbyville",
+    "developer": "Prologis",
+    "fips": "01117",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=xIGquEq1PPA"
+  },
+  {
     "name": "Provident Brookwood",
     "developer": "Provident Data Centers",
     "fips": "01125",
@@ -962,6 +1170,19 @@
     "source_url": "https://watchpennies.com/alabama/macon-county-al/tuskegee-al/data-centers"
   },
   {
+    "name": "Red Clay Lowndes",
+    "developer": "Cloverleaf Infrastructure",
+    "fips": "01085",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 1500.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=_6O85xzeJqg"
+  },
+  {
     "name": "Regions Operations Center",
     "developer": null,
     "fips": "01073",
@@ -999,6 +1220,19 @@
     "size_mw": null,
     "date": "2026-10-07",
     "source_url": "https://citizenportal.ai/articles/10895880/alabama/shelby-county/shelby-countys-first-reading-of-a-datacenter-moratorium-splits-commission-amid-health-and-economic-concerns"
+  },
+  {
+    "name": "Silicon Ranch Baldwin",
+    "developer": "Silicon Ranch",
+    "fips": "01003",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 260.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=o6IVLSArr6g"
   },
   {
     "name": "Silicon Ranch Montgomery",
@@ -1274,6 +1508,19 @@
     "source_url": "https://datacenterdata.com/metros/33860-montgomery-al/"
   },
   {
+    "name": "Union Road Bitcoin Mining",
+    "developer": null,
+    "fips": "01103",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 50.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=uiIKKGuClDY"
+  },
+  {
     "name": "Uniti Fiber Mobile",
     "developer": "Uniti Fiber",
     "fips": "01097",
@@ -1298,6 +1545,32 @@
     "size_mw": 14.6,
     "date": "2024-09-01",
     "source_url": "https://watchpennies.com/alabama/tuscaloosa-county-al/tuscaloosa-al/data-centers"
+  },
+  {
+    "name": "Unnamed Demopolis",
+    "developer": null,
+    "fips": "01091",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=OoFlsSrV1bw"
+  },
+  {
+    "name": "Unnamed Morgan County",
+    "developer": null,
+    "fips": "01103",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=BJuMqUTMezQ"
   },
   {
     "name": "VoltCore Somerville",
@@ -1389,6 +1662,19 @@
     "size_mw": null,
     "date": "2026-09-06",
     "source_url": "https://datacentersnearme.org/data-centers/al-jackson-google-data-center-jackson-county-alabama"
+  },
+  {
+    "name": "Wilsonville Data Center",
+    "developer": null,
+    "fips": "01117",
+    "state": "AL",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=7K3cghecK1M"
   },
   {
     "name": "Youngwoo Brookwood",
@@ -9217,6 +9503,19 @@
     "source_url": "https://datacenterindex.ai/markets/texas/north-texas"
   },
   {
+    "name": "AI Data Center Northeast Lubbock",
+    "developer": null,
+    "fips": "48303",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "rejected",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=uU6hIqjtS2U"
+  },
+  {
     "name": "AREP Red Oak",
     "developer": "AREP",
     "fips": "48139",
@@ -9516,6 +9815,19 @@
     "source_url": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
   },
   {
+    "name": "Amps Lufkin",
+    "developer": "Amps AI",
+    "fips": "48005",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 1100.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=dUwM3MH-3Vg"
+  },
+  {
     "name": "Aphorio Carter Fibertown Bryan",
     "developer": "Aphorio Carter",
     "fips": "48041",
@@ -9672,6 +9984,19 @@
     "source_url": "https://baxtel.com/data-center/mara-matagorda-county"
   },
   {
+    "name": "Barrio Energy Matagorda",
+    "developer": "Barrio Energy",
+    "fips": "48321",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 10.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=oz0MQ6dv19c"
+  },
+  {
     "name": "Barrio Energy Tyler",
     "developer": "Barrio Energy with Vulcan Core",
     "fips": "48423",
@@ -9722,6 +10047,32 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2023010309"
+  },
+  {
+    "name": "Beacon Point Nueces",
+    "developer": "Hut 8",
+    "fips": "48355",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=joKVwmK8sYk"
+  },
+  {
+    "name": "Beacon West Line",
+    "developer": "Beacon Data Centers",
+    "fips": "48451",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=yCyqXLtFwEA"
   },
   {
     "name": "Beacon Westline",
@@ -9919,6 +10270,19 @@
     "source_url": "https://www.themorningsun.com/2026/08/16/rural-texas-conservatives-love-free-markets-but-not-when-it-comes-to-data-centers/"
   },
   {
+    "name": "Black Mountain Parker",
+    "developer": "Black Mountain",
+    "fips": "48367",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=1ehaKRhvIRY"
+  },
+  {
     "name": "Black Mountain San Antonio",
     "developer": "Black Mountain",
     "fips": "48029",
@@ -10034,6 +10398,19 @@
     "size_mw": 60.0,
     "date": "2025-07-24",
     "source_url": "https://tayloredc.org/about-tedc/news/datacenter-development-planned-for-taylor-texas"
+  },
+  {
+    "name": "Bolt Albany",
+    "developer": "Bolt Data and Power",
+    "fips": "48417",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=duHLZD1ZZMU"
   },
   {
     "name": "Bolt Shackelford County",
@@ -10216,6 +10593,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.youtube.com/watch?v=lOW-GNbrOkI"
+  },
+  {
+    "name": "Cedar Creek Henderson",
+    "developer": null,
+    "fips": "48213",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "withdrawn",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=pm-NqAjDoCo"
   },
   {
     "name": "Cherokee County data center moratorium",
@@ -10569,6 +10959,32 @@
     "source_url": "https://nearbydatacenters.org/tx/"
   },
   {
+    "name": "Cloud Burst Hays Guadalupe",
+    "developer": "Cloud Burst",
+    "fips": "48209",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=kVkqzC63TUI"
+  },
+  {
+    "name": "CloudBurst Guadalupe",
+    "developer": null,
+    "fips": "48187",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=V0mG-SFtg4g"
+  },
+  {
     "name": "CloudBurst Guadalupe County",
     "developer": "CloudBurst Texas, LLC",
     "fips": "48187",
@@ -10619,6 +11035,19 @@
     "size_mw": 600.0,
     "date": null,
     "source_url": "https://nearbydatacenters.org/tx/bexar-county/"
+  },
+  {
+    "name": "Cloudburst Francis Harris",
+    "developer": "Cloudburst",
+    "fips": "48209",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=BFAZnBHzsZY"
   },
   {
     "name": "Cloudnium San Angelo",
@@ -10840,6 +11269,19 @@
     "size_mw": 285.0,
     "date": "2026-05-05",
     "source_url": "https://www.datacenterdynamics.com/en/news/core-scientific-buys-land-outside-dallas-texas-for-285mw-data-center-campus/"
+  },
+  {
+    "name": "Core Scientific Hunt County",
+    "developer": "Core Scientific",
+    "fips": "48231",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=KnAtAGdketw"
   },
   {
     "name": "Core Scientific Pecos",
@@ -11141,6 +11583,19 @@
     "source_url": "https://signaldata.org/tx/data-centers/travis/"
   },
   {
+    "name": "CyrusOne Bosque",
+    "developer": "CyrusOne",
+    "fips": "48035",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 400.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=9OUq9z6E_9o"
+  },
+  {
     "name": "CyrusOne Carrollton",
     "developer": "CyrusOne",
     "fips": "48121",
@@ -11217,6 +11672,32 @@
     "size_mw": 760.0,
     "date": "2026-01-06",
     "source_url": "https://thenavcochronicle.com/freestone-commissioners-vote-yes-for-data-center-abatement/"
+  },
+  {
+    "name": "CyrusOne Freestone",
+    "developer": "CyrusOne",
+    "fips": "48161",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=2rN40we4IIo"
+  },
+  {
+    "name": "CyrusOne Jack",
+    "developer": "CyrusOne",
+    "fips": "48237",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 144.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=Jxw5OmsscQY"
   },
   {
     "name": "CyrusOne Jack County",
@@ -11492,6 +11973,45 @@
     "source_url": "https://www.ketr.org/news/2026-03-02/delta-county-judge-says-data-center-not-a-good-fit-cites-limited-authority"
   },
   {
+    "name": "Denton Data Centers",
+    "developer": null,
+    "fips": "48121",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=ArInHwz2lL8"
+  },
+  {
+    "name": "Denton Jim Christal",
+    "developer": null,
+    "fips": "48121",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=vZiokd3slKA"
+  },
+  {
+    "name": "Denton data center moratorium",
+    "developer": null,
+    "fips": "48121",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "moratorium",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=_gV26VQ4Jl8"
+  },
+  {
     "name": "Denton moratorium",
     "developer": null,
     "fips": "48121",
@@ -11661,6 +12181,19 @@
     "source_url": "https://dcmap.us/counties/taylor-county-tx/"
   },
   {
+    "name": "Duos Edge Amarillo",
+    "developer": "Duos Edge AI",
+    "fips": "48375",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=zwV4O0zcsfY"
+  },
+  {
     "name": "Duos Edge Lubbock",
     "developer": "Duos Technologies Group",
     "fips": "48303",
@@ -11672,6 +12205,19 @@
     "size_mw": 0.2,
     "date": "2026-05-19",
     "source_url": "https://806connect.com/data-centers/county/lubbock"
+  },
+  {
+    "name": "Duos Edge Potter",
+    "developer": "Duos Edge",
+    "fips": "48375",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=3qckEKENgLM"
   },
   {
     "name": "Duos Edge Victoria",
@@ -11973,6 +12519,45 @@
     "source_url": "https://www.pbs.org/video/data-centers-the-impact-on-west-texas-fxnle2/"
   },
   {
+    "name": "Edge Connect X Bastrop",
+    "developer": "Edge Connect X",
+    "fips": "48021",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=g1YAPEPX__A"
+  },
+  {
+    "name": "Edge Connects Bastrop",
+    "developer": "EdgeConneX",
+    "fips": "48021",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": "2024-12-01",
+    "source_url": "https://www.youtube.com/watch?v=KAwyAFs8HwE"
+  },
+  {
+    "name": "EdgeConneX Bastrop",
+    "developer": "EdgeConneX",
+    "fips": "48021",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=dqZJHw_E_gg"
+  },
+  {
     "name": "EdgeConneX Cedar Creek campus 1",
     "developer": "EdgeConneX, Inc.",
     "fips": "48021",
@@ -12114,6 +12699,19 @@
     "size_mw": 5.0,
     "date": "2023-01-01",
     "source_url": "https://datacenterrecord.org/states/tx/travis-county"
+  },
+  {
+    "name": "Elevon Lavon",
+    "developer": "MA Partners",
+    "fips": "48085",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=sGdp_0PN6Gc"
   },
   {
     "name": "Energy Abundance Laredo",
@@ -12298,6 +12896,32 @@
     "source_url": "https://hyperscalenews.com/topics/place/bastrop-county-tx"
   },
   {
+    "name": "Fermi Matador Carson",
+    "developer": "Fermi America",
+    "fips": "48065",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 222.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=DuFOMJnIc1Y"
+  },
+  {
+    "name": "Fermi Panhandle",
+    "developer": "Fermi",
+    "fips": "48065",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=2oVzMn3o3hs"
+  },
+  {
     "name": "Flatwood Eastland County",
     "developer": null,
     "fips": "48133",
@@ -12415,6 +13039,19 @@
     "source_url": "https://www.southtexasnews.com/the_progress/live-oak-mcmullen-counties-on-frontier-of-ai-data-center-development/article_e1f2c29a-5cb1-4661-ba84-5a57ca509817.html"
   },
   {
+    "name": "Galaxy Helios Dickens",
+    "developer": "Galaxy Digital",
+    "fips": "48125",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": 200.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=acGeeBCVY7g"
+  },
+  {
     "name": "Galaxy Helios Dickens County",
     "developer": "Galaxy Digital",
     "fips": "48125",
@@ -12474,7 +13111,7 @@
     "lat": null,
     "lon": null,
     "geo_precision": null,
-    "status": "approved",
+    "status": "rejected",
     "size_mw": null,
     "date": null,
     "source_url": "https://datacentersnearme.org/counties/texas/hood"
@@ -12530,6 +13167,19 @@
     "size_mw": null,
     "date": "2025-04-15",
     "source_url": "https://signaldata.org/tx/data-centers/projects/midlothian-gifco-quarry-pd186/"
+  },
+  {
+    "name": "Giga Brazoria",
+    "developer": "Giga Energy",
+    "fips": "48039",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": 17.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=u-wq0v2z2oc"
   },
   {
     "name": "Giga Energy Brazoria",
@@ -12701,6 +13351,19 @@
     "source_url": "https://datacenterfootprint.org/regions/texas"
   },
   {
+    "name": "Google Pampa",
+    "developer": "Google",
+    "fips": "48179",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=yNo_RBmjUGw"
+  },
+  {
     "name": "Google Pflugerville",
     "developer": "Google",
     "fips": "48453",
@@ -12816,6 +13479,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://buildingbastropcounty.com/news/bastrop-county-site-selection-scorecard/"
+  },
+  {
+    "name": "Grimes County County Road 179 site",
+    "developer": null,
+    "fips": "48185",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=iNurYLgIwi0"
   },
   {
     "name": "HC Capital Energy Ranch",
@@ -13039,6 +13715,32 @@
     "source_url": "https://poweredlands.com/data-centers/texas/oldham/hut-8-vega-campus"
   },
   {
+    "name": "Hutto Subdivision One",
+    "developer": null,
+    "fips": "48491",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=L56AG5vGep8"
+  },
+  {
+    "name": "Hyper Data Grid Hudson",
+    "developer": "Hyper Data Grid",
+    "fips": "48005",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=3biAe2aQSTk"
+  },
+  {
     "name": "HyperDataGrid Lufkin",
     "developer": "HyperDataGrid",
     "fips": "48005",
@@ -13141,6 +13843,19 @@
     "size_mw": 1200.0,
     "date": "2026-01-21",
     "source_url": "https://www.kwtx.com/2026/05/29/texas-is-already-strained-data-center-opposition-builds-waco-over-water-electricity-concerns/"
+  },
+  {
+    "name": "Infrakey McLennan",
+    "developer": "Infrakey",
+    "fips": "48309",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=xA1soC619dQ"
   },
   {
     "name": "Innomatrix Comanche",
@@ -13494,6 +14209,19 @@
     "source_url": "https://txdatacenterwatch.com/county/guadalupe/"
   },
   {
+    "name": "Legacy Seguin",
+    "developer": "Legacy Investing",
+    "fips": "48187",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=7MrJcHcEC7g"
+  },
+  {
     "name": "Lexington Data Center Lexington",
     "developer": null,
     "fips": "48287",
@@ -13583,6 +14311,19 @@
     "size_mw": null,
     "date": "2026-09-22",
     "source_url": "https://www.noticeregistry.com/texas/notice/public-hearing-lubbock-963236"
+  },
+  {
+    "name": "Lufkin Angelina",
+    "developer": null,
+    "fips": "48005",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=vhTf6-G8O6k"
   },
   {
     "name": "Lumen Lubbock 1",
@@ -13780,6 +14521,19 @@
     "source_url": "https://fortworthbusiness.com/technology/fort-worth-considering-20-percent-tax-abatement-for-more-facebook-construction/"
   },
   {
+    "name": "Meta Northeast El Paso",
+    "developer": "Meta",
+    "fips": "48141",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=_0pcnlr8ICw"
+  },
+  {
     "name": "Meta Temple",
     "developer": "Meta",
     "fips": "48027",
@@ -13789,7 +14543,7 @@
     "geo_precision": "place",
     "status": "operating",
     "size_mw": 178.0,
-    "date": "2026-07-01",
+    "date": "2026-07-22",
     "source_url": "https://epoch.ai/data/data-centers"
   },
   {
@@ -13936,6 +14690,19 @@
     "source_url": "https://markhurd4tx.com/news/public-record-timeline-data-center-outreach-commissioner-akin"
   },
   {
+    "name": "NCP Taylor",
+    "developer": "NCP Travis TPP Project LLC",
+    "fips": "48441",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=15zUjh2Jh_4"
+  },
+  {
     "name": "NRG Jewett",
     "developer": "NRG Texas Power LLC; Jewett Data Solutions LLC",
     "fips": "48293",
@@ -13947,6 +14714,19 @@
     "size_mw": null,
     "date": "2026-04-27",
     "source_url": "https://interchange.puc.texas.gov/Documents/59708_1_1632298.PDF"
+  },
+  {
+    "name": "NRG Reeves Delaware Basin",
+    "developer": "LandBridge",
+    "fips": "48389",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": 1100.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=pbQ5wWWDLd0"
   },
   {
     "name": "NRG Tolar",
@@ -14326,6 +15106,19 @@
     "source_url": "https://www.nextdcx.com/blog/edgeconnex-texas-bastrop-county-data-center"
   },
   {
+    "name": "Pacifico Energy Bastrop",
+    "developer": "Pacifico Energy",
+    "fips": "48021",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=dqZJHw_E_gg"
+  },
+  {
     "name": "Pacifico Energy Blum",
     "developer": "Pacifico Energy LLC",
     "fips": "48217",
@@ -14378,6 +15171,19 @@
     "source_url": "https://buildingbastropcounty.com/"
   },
   {
+    "name": "Palomino Alpha Guadalupe",
+    "developer": null,
+    "fips": "48187",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=V0mG-SFtg4g"
+  },
+  {
     "name": "Palomino Alpha Zorn",
     "developer": "Palomino Alpha, LLC",
     "fips": "48187",
@@ -14389,6 +15195,19 @@
     "size_mw": 1000.0,
     "date": "2026-06-03",
     "source_url": "https://www.sanmarcosrecord.com/news/article_4acd6b6c-ec32-4be8-a6a0-de1a4dd5bc17.html"
+  },
+  {
+    "name": "Pampa Gray",
+    "developer": null,
+    "fips": "48179",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=j48hpc6vRbA"
   },
   {
     "name": "Panamint Twin Oaks",
@@ -14586,6 +15405,19 @@
     "source_url": "https://www.wfaa.com/article/news/local/westlake-mayor-defends-data-center-keller-border-admits-tough-situation/287-abc77fb6-0f7f-4edc-aa8f-160dead8397a"
   },
   {
+    "name": "Prime AUS01 Maxwell",
+    "developer": "Prime Data Centers",
+    "fips": "48055",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=xyZimZG1_ug"
+  },
+  {
     "name": "Prime Data Centers Benbrook",
     "developer": "Prime Data Centers",
     "fips": "48439",
@@ -14623,6 +15455,19 @@
     "size_mw": 600.0,
     "date": "2025-09-11",
     "source_url": "https://www.datacenterdynamics.com/en/news/600mw-data-center-campus-proposed-in-texas/"
+  },
+  {
+    "name": "Project Big Pine Bowie",
+    "developer": "Potential Development",
+    "fips": "48037",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=9vp9lCaLIds"
   },
   {
     "name": "Project Bluebird Johnson County",
@@ -14768,6 +15613,19 @@
     "source_url": "https://www.prometheushyperscale.com/news/prometheus-hyperscale-and-istmo-energy-partner-to-develop-data-center-campus-in-west-texas"
   },
   {
+    "name": "Proposed Grimes County data center",
+    "developer": null,
+    "fips": "48185",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=mDwgLj3dGcI"
+  },
+  {
     "name": "Provident Dallas-Fort Worth Metroplex",
     "developer": "Provident Data Centers",
     "fips": "48113",
@@ -14898,6 +15756,19 @@
     "source_url": "https://isadatacentercoming.com/tx/bexar-county"
   },
   {
+    "name": "Quantum Clean Energy Project Haskell",
+    "developer": "Google",
+    "fips": "48207",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "operating",
+    "size_mw": 640.0,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=JWCvF7CGoz4"
+  },
+  {
     "name": "QumulusAI Denton",
     "developer": "QumulusAI",
     "fips": "48121",
@@ -15026,6 +15897,19 @@
     "size_mw": null,
     "date": "2024-09-17",
     "source_url": "https://fortworthreport.org/2024/09/17/controversial-southwest-fort-worth-data-center-gets-approval-but-more-steps-remain/"
+  },
+  {
+    "name": "Roland Digital Medina",
+    "developer": "Roland Digital Infrastructure",
+    "fips": "48325",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=dSFXcI2_8kI"
   },
   {
     "name": "Rosendin Abilene",
@@ -15260,6 +16144,19 @@
     "size_mw": 5000.0,
     "date": "2026-10-13",
     "source_url": "https://www.datacenterdynamics.com/en/news/residents-of-granbury-texas-sue-the-city-after-authorities-rezone-2100-acres-for-potential-data-center-project/"
+  },
+  {
+    "name": "Sailfish Paluxy Highway Hood County",
+    "developer": "Sailfish Investors",
+    "fips": "48221",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=kEyAcTP7Dkw"
   },
   {
     "name": "Sammons Temple",
@@ -15730,6 +16627,19 @@
     "source_url": "https://datacenters.cutrerlabs.com/counties/dallas/"
   },
   {
+    "name": "Stargate Shackelford",
+    "developer": "Stargate (OpenAI, Oracle, SoftBank)",
+    "fips": "48417",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=t20TdGue_OQ"
+  },
+  {
     "name": "Starwood Project Red Hood County",
     "developer": "Starwood Digital Ventures",
     "fips": "48221",
@@ -15964,6 +16874,32 @@
     "source_url": "https://groundedcompute.com/us/texas/hidalgo-county"
   },
   {
+    "name": "Taylor Park Site",
+    "developer": null,
+    "fips": "48491",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.austinmonthly.com/data-centers-are-skewing-political-party-lines-in-texas/"
+  },
+  {
+    "name": "Taylor Technology Campus",
+    "developer": "Blueprint Projects",
+    "fips": "48491",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.tiktok.com/@therealjeremyknight/video/7694718711835544846"
+  },
+  {
     "name": "Taylor moratorium",
     "developer": null,
     "fips": "48491",
@@ -16003,6 +16939,19 @@
     "source_url": "https://www.datacentermap.com/usa/texas/lubbock/"
   },
   {
+    "name": "Terafab Grimes",
+    "developer": "SpaceX, Tesla and Intel",
+    "fips": "48185",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=NOwsoRWNthc"
+  },
+  {
     "name": "Terisys Thompsons",
     "developer": "Terisys LLC",
     "fips": "48157",
@@ -16014,6 +16963,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://hyperscalenews.com/atlas/fort-bend"
+  },
+  {
+    "name": "Terra Fab Grimes",
+    "developer": "SpaceX",
+    "fips": "48185",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=cky-fPYUWy0"
   },
   {
     "name": "Tesla Giga Texas Cortex",
@@ -16224,6 +17186,58 @@
     "source_url": "https://nearbydatacenters.org/projects/tx-fannin-grayson-border-data-center/"
   },
   {
+    "name": "Unnamed Bowie County site",
+    "developer": null,
+    "fips": "48037",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=rJELihNkfio"
+  },
+  {
+    "name": "Unnamed Henderson County data center",
+    "developer": null,
+    "fips": "48213",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=YZxfxMI9hs8"
+  },
+  {
+    "name": "Unnamed Lufkin site",
+    "developer": null,
+    "fips": "48005",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=3biAe2aQSTk"
+  },
+  {
+    "name": "Unnamed Nolan County site",
+    "developer": null,
+    "fips": "48353",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "approved",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=3Z7qbqcApxI"
+  },
+  {
     "name": "Unnamed bitcoin facility Dumas",
     "developer": null,
     "fips": "48341",
@@ -16300,6 +17314,19 @@
     "size_mw": 16.0,
     "date": "2025-10-01",
     "source_url": "https://nearbydatacenters.org/tx/bexar-county/"
+  },
+  {
+    "name": "Vantage Texas Research Park",
+    "developer": "Vantage",
+    "fips": "48029",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=zoRBlWRHdo0"
   },
   {
     "name": "Vantage Texas Research Park San Antonio",
@@ -16391,6 +17418,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://www.cbre.com/properties/properties-for-lease/land/details/US-SMPL-124710/ercot-approved-power-upgrades-south-of-dallas-waxahachie-tx-75167"
+  },
+  {
+    "name": "Westlake Keller Highway 377",
+    "developer": "Hillwood",
+    "fips": "48439",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=F29k80XoiVk"
   },
   {
     "name": "White Rose Prosper",
@@ -16547,6 +17587,19 @@
     "size_mw": null,
     "date": null,
     "source_url": "https://hyperscalenews.com/atlas/guadalupe"
+  },
+  {
+    "name": "Young County Data Center",
+    "developer": null,
+    "fips": "48503",
+    "state": "TX",
+    "lat": null,
+    "lon": null,
+    "geo_precision": null,
+    "status": "planned",
+    "size_mw": null,
+    "date": null,
+    "source_url": "https://www.youtube.com/watch?v=hgIpMwfQBMs"
   },
   {
     "name": "Zone Frontier Potter County",
