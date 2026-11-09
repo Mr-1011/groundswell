@@ -1137,6 +1137,10 @@ h3 {
 .crow.head span:nth-child(2) {
   grid-column: span 2;
 }
+.crow.head span:nth-child(3) {
+  grid-column: span 2;
+  text-align: right;
+}
 .crow .num {
   text-align: right;
   font-size: 11px;

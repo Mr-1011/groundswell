@@ -259,8 +259,7 @@ function CountyRows({ ids, data, withState, onPick }: { ids: string[]; data: Dat
           <div className="crow head">
             <span>county</span>
             <span>resistance</span>
-            <span />
-            <span className="num">prj</span>
+            <span>projects</span>
           </div>
           {shown.map((fips) => {
             const c = data.counties[fips];
