@@ -59,7 +59,7 @@ Needs Node 24+.
 ```sh
 cd agent
 npm install
-cp .env.example .env            # ANTHROPIC_API_KEY, EXA_API_KEY (+ optional APIFY_TOKEN for Reddit/TikTok, MONID_API_KEY for X, TAVILY_API_KEY, SUPADATA_API_KEY)
+cp .env.example .env            # ANTHROPIC_API_KEY, EXA_API_KEY (+ optional APIFY_TOKEN for Reddit/TikTok, MONID_API_KEY for X, ORIANE_API_KEY for TikTok, SUPADATA_API_KEY for YouTube)
 npm start -- --direct 01097     # one region-researcher on Mobile County, AL (smoke test)
 npm start -- AL TX              # state scans, then the hot counties of each state; writes map/data
 npm start -- --dedupe           # merge duplicate project rows, re-export

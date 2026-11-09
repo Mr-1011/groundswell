@@ -1,8 +1,4 @@
 {
-  "news-tavily": {
-    "enabled": true,
-    "max_docs_per_region": 20
-  },
   "exa": {
     "enabled": true,
     "max_docs_per_region": 20
