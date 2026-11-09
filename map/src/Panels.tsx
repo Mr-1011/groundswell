@@ -1,6 +1,6 @@
 // Detail views for the INFO tab and the floating windows.
-import { Fragment, useState, type ReactNode } from "react";
-import { STATUSES, STATUS_LABEL, rampColor, type County, type Data, type Stance, type Status } from "./data";
+import { Fragment, useState, type CSSProperties, type ReactNode } from "react";
+import { STATUSES, STATUS_LABEL, rampColor, type County, type Data, type Emotion, type Stance, type Status } from "./data";
 import { inWindow, type Filters, type Selection, type WindowSpec } from "./state";
 import { Meter, OutcomeBar, RoundsChart, ScoreHistogram, StanceBar, Timeline } from "./charts";
 import { Shape } from "./shapes";
@@ -94,6 +94,22 @@ const Ext = ({ href, children }: { href: string; children: ReactNode }) => (
   </a>
 );
 
+// A source link: a plain click opens the source window on the map; cmd, ctrl, shift or middle click still opens a browser tab.
+const Src = ({ href, onOpen, children }: { href: string; onOpen: ViewProps["onOpen"]; children: ReactNode }) => (
+  <a
+    href={href}
+    target="_blank"
+    rel="noreferrer"
+    onClick={(e) => {
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      e.preventDefault();
+      onOpen({ kind: "news", id: href });
+    }}
+  >
+    {children}
+  </a>
+);
+
 function StatusBars({ counts }: { counts: Partial<Record<Status, number>> }) {
   const shown = STATUSES.filter((s) => counts[s]);
   if (!shown.length) return <div className="muted mono">no projects</div>;
@@ -181,7 +197,7 @@ function Coverage({ counties, filters }: { counties: County[]; filters: Filters 
 }
 
 // Community groups named in the sources, newest first.
-function Groups({ counties, withCounty }: { counties: County[]; withCounty?: boolean }) {
+function Groups({ counties, withCounty, onOpen }: { counties: County[]; withCounty?: boolean; onOpen: ViewProps["onOpen"] }) {
   const groups = counties
     .flatMap((c) => (c.groups ?? []).map((g) => ({ ...g, county: c.name.replace(/ County$/, "") })))
     .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""));
@@ -197,7 +213,9 @@ function Groups({ counties, withCounty }: { counties: County[]; withCounty?: boo
                   {day(g.date)}
                   {withCounty && ` · ${g.county}`}
                 </div>
-                <Ext href={g.url}>{g.name}</Ext>
+                <Src href={g.url} onOpen={onOpen}>
+                  {g.name}
+                </Src>
               </li>
             ))}
           </ul>
@@ -314,7 +332,7 @@ export function NationalView({ data, filters, onSelect, onOpen }: ViewProps) {
   );
 }
 
-export function StateView({ id, data, filters, onSelect, regionCenter }: ViewProps & { id: string }) {
+export function StateView({ id, data, filters, onSelect, onOpen, regionCenter }: ViewProps & { id: string }) {
   const s = data.states[id];
   if (!s) return <p className="muted">No data for this state yet.</p>;
   const ids = Object.keys(data.counties).filter((f) => data.counties[f].state === id).sort(byScore(data));
@@ -339,7 +357,7 @@ export function StateView({ id, data, filters, onSelect, regionCenter }: ViewPro
       </Section>
       <Coverage counties={counties} filters={filters} />
       <Emotions counties={counties} filters={filters} />
-      <Groups key={id} counties={counties} withCounty />
+      <Groups key={id} counties={counties} withCounty onOpen={onOpen} />
       <Section title="Projects by status">
         <StatusBars counts={s.projects_by_status} />
       </Section>
@@ -408,7 +426,7 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
       )}
       <Coverage key={id} counties={[c]} filters={filters} />
       <Emotions counties={[c]} filters={filters} />
-      <Groups key={`g${id}`} counties={[c]} />
+      <Groups key={`g${id}`} counties={[c]} onOpen={onOpen} />
       {projects.length > 0 && (
         <Section title="Projects">
           <More key={id} items={projects} step={8}>
@@ -436,7 +454,9 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
                     <div className="feed-meta mono">
                       {day(n.date)} · {n.source ?? "?"} · {n.stance ?? "-"}
                     </div>
-                    <Ext href={n.url}>{n.title}</Ext>
+                    <Src href={n.url} onOpen={onOpen}>
+                      {n.title}
+                    </Src>
                   </li>
                 ))}
               </ul>
@@ -454,7 +474,9 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
                     <div className="feed-meta mono">
                       {day(n.date)} · {n.platform} · {n.stance ?? "-"}
                     </div>
-                    <Ext href={n.url}>{n.text}</Ext>
+                    <Src href={n.url} onOpen={onOpen}>
+                      {n.text}
+                    </Src>
                   </li>
                 ))}
               </ul>
@@ -471,7 +493,9 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
                   <li key={q.url + q.text}>
                     <q>{q.text}</q>
                     <div className="feed-meta mono">
-                      <Ext href={q.url}>{q.source ?? "source"}</Ext> · {day(q.date)}
+                      <Src href={q.url} onOpen={onOpen}>
+                        {q.source ?? "source"}
+                      </Src> · {day(q.date)}
                     </div>
                   </li>
                 ))}
@@ -497,7 +521,7 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
   );
 }
 
-export function ProjectView({ id, data, regionName, onSelect, onSite }: ViewProps & { id: string }) {
+export function ProjectView({ id, data, regionName, onSelect, onOpen, onSite }: ViewProps & { id: string }) {
   const p = data.projects.find((x) => x.name === id);
   if (!p) return <p className="muted">Unknown project: {id}</p>;
   const at = p.lat != null && p.lon != null ? [p.lon, p.lat] as const : null;
@@ -537,40 +561,121 @@ export function ProjectView({ id, data, regionName, onSelect, onSite }: ViewProp
         </dd>
         <dt>source</dt>
         <dd>
-          <Ext href={p.source_url}>{URL.canParse(p.source_url) ? new URL(p.source_url).hostname : p.source_url}</Ext>
+          <Src href={p.source_url} onOpen={onOpen}>
+            {URL.canParse(p.source_url) ? new URL(p.source_url).hostname : p.source_url}
+          </Src>
         </dd>
       </dl>
     </>
   );
 }
 
-// A news or social item the agent points at (open_window kind "news"), looked up by URL in the county data.
-export function NewsView({ id, data, regionName, onSelect }: ViewProps & { id: string }) {
-  let hit: { fips: string; title: string; source: string | null; date: string | null; stance: Stance | null } | null = null;
-  for (const [fips, c] of Object.entries(data.counties)) {
+// Players that may be framed. News sites mostly forbid framing (X-Frame-Options), so articles get the text view and a link.
+function embedOf(url: string): { src: string; style: CSSProperties } | null {
+  let m: RegExpMatchArray | null;
+  if ((m = url.match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/)|youtu\.be\/)([\w-]{11})/)))
+    return { src: `https://www.youtube-nocookie.com/embed/${m[1]}`, style: { aspectRatio: "16 / 9" } };
+  if ((m = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/))) return { src: `https://www.tiktok.com/embed/v2/${m[1]}`, style: { aspectRatio: "9 / 16" } };
+  if ((m = url.match(/(?:x|twitter)\.com\/\w+\/status\/(\d+)/)))
+    return { src: `https://platform.twitter.com/embed/Tweet.html?id=${m[1]}&theme=dark&dnt=true`, style: { height: 420 } };
+  if ((m = url.match(/reddit\.com(\/r\/\w+\/comments\/\w+(?:\/[^/?#]*)?)/))) return { src: `https://embed.reddit.com${m[1]}/?embed=true&theme=dark`, style: { height: 300 } };
+  return null;
+}
+
+// Everything the export holds for one source URL (a click on any source link, or the agent's open_window "news"):
+// the news item, post or group, the quotes taken from it, and the counties and projects that cite it.
+export function NewsView({ id, data, regionName, onSelect, onOpen }: ViewProps & { id: string }) {
+  type Item = { title: string | null; text: string | null; source: string | null; date: string | null; stance: Stance | null; emotion?: Emotion | null };
+  let item = null as Item | null; // a cast: TS would narrow a plain null through the loop
+  const fips: string[] = [];
+  const quotes = new Map<string, County["quotes"][number]>(); // one article often feeds several counties: same quote once
+  for (const [f, c] of Object.entries(data.counties)) {
     const n = c.news.find((x) => x.url === id);
     const s = c.social.find((x) => x.url === id);
-    hit = n ? { fips, ...n } : s ? { fips, title: s.text, source: s.platform, date: s.date, stance: s.stance } : null;
-    if (hit) break;
+    const g = c.groups?.find((x) => x.url === id);
+    const qs = c.quotes.filter((x) => x.url === id);
+    if (!n && !s && !g && !qs.length) continue;
+    fips.push(f);
+    item ??= n
+      ? { ...n, text: null }
+      : s
+        ? { title: null, text: s.text, source: s.platform, date: s.date, stance: s.stance, emotion: s.emotion }
+        : g
+          ? { title: g.name, text: null, source: "community group", date: g.date, stance: null }
+          : null;
+    for (const q of qs) quotes.set(q.text, q);
   }
+  const projects = data.projects.filter((p) => p.source_url === id);
+  const host = URL.canParse(id) ? new URL(id).hostname.replace(/^www\./, "") : id;
+  const embed = embedOf(id);
   return (
     <>
-      <Meta items={[["date", hit?.date?.slice(0, 10)], ["src", hit?.source], ["stance", hit?.stance]]} />
-      {hit && <p>{hit.title}</p>}
+      <Meta
+        items={[
+          ["date", item?.date?.slice(0, 10)],
+          ["src", item?.source ?? host],
+          ["stance", item?.stance],
+          ["emotion", item?.emotion && item.emotion !== "none" ? item.emotion : null],
+        ]}
+      />
+      {item?.title && <p className="src-title">{item.title}</p>}
+      {item?.text && <p className="brief">{item.text}</p>}
+      {embed && (
+        <iframe
+          className="embed"
+          src={embed.src}
+          style={embed.style}
+          title={`${host} post`}
+          loading="lazy"
+          allow="encrypted-media; picture-in-picture; fullscreen"
+          allowFullScreen
+          referrerPolicy="strict-origin-when-cross-origin"
+        />
+      )}
+      {quotes.size > 0 && (
+        <Section title={`Quotes from this source (${quotes.size})`}>
+          <More key={id} items={[...quotes.values()]}>
+            {(shown) => (
+              <ul className="feed">
+                {shown.map((q) => (
+                  <li key={q.text}>
+                    <q>{q.text}</q>
+                    <div className="feed-meta mono">{q.source ?? "-"}</div>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </More>
+        </Section>
+      )}
       <dl className="kv">
-        {hit && (
+        {fips.length > 0 && (
           <>
-            <dt>county</dt>
-            <dd>
-              <button className="link" onClick={() => onSelect({ kind: "county", id: hit.fips })}>
-                {regionName("county", hit.fips)}
-              </button>
+            <dt>{fips.length > 1 ? "counties" : "county"}</dt>
+            <dd className="links">
+              {fips.map((f) => (
+                <button key={f} className="link" onClick={() => onSelect({ kind: "county", id: f })}>
+                  {regionName("county", f)}
+                </button>
+              ))}
             </dd>
           </>
         )}
-        <dt>link</dt>
+        {projects.length > 0 && (
+          <>
+            <dt>projects</dt>
+            <dd className="links">
+              {projects.map((p) => (
+                <button key={p.name} className="link" onClick={() => onOpen({ kind: "project", id: p.name })}>
+                  {p.name}
+                </button>
+              ))}
+            </dd>
+          </>
+        )}
+        <dt>original</dt>
         <dd>
-          <Ext href={id}>{URL.canParse(id) ? new URL(id).hostname : id}</Ext>
+          <Ext href={id}>{host} ↗</Ext>
         </dd>
       </dl>
     </>

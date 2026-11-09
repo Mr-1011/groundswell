@@ -383,6 +383,25 @@ h3 {
 .kv dd {
   margin: 0;
 }
+.kv dd.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+}
+/* source window: headline, then the framed post or video when the platform allows it */
+.src-title {
+  margin: 0 0 8px;
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 1.4;
+}
+.embed {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  border: 1px solid var(--line);
+  background: var(--bg);
+}
 .table {
   width: 100%;
   border-collapse: collapse;

@@ -210,7 +210,7 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
     w.kind === "rounds"
       ? "Learning loop"
       : w.kind === "news"
-        ? "Source"
+        ? URL.canParse(w.id) ? new URL(w.id).hostname.replace(/^www\./, "") : "Source"
         : w.kind === "infra"
           ? String(w.props?.name ?? (w.props?.layer === "osm-dc" ? "Data center" : w.props?.layer === "substations" ? "Substation" : "Power plant"))
           : w.kind === "project"
