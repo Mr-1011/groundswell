@@ -1,13 +1,13 @@
 // fill: every county of a state gets a row on the map. One web search per county without a score; a county with
-// evidence gets the scorer, the rest get the state baseline (mean of the counties scored on evidence) with
-// confidence 0, no prediction and a summary that says so. A later run re-checks the baseline counties.
-import { all, get, run, now } from "../db/client.ts";
+// evidence gets the scorer, the rest get a prediction from the nearest evidence-scored counties (predict.ts) with
+// confidence 0 and a summary that says so. A later run re-checks the predicted counties.
+import { all, get } from "../db/client.ts";
 import { COUNTIES, STATE_NAMES, ensureCounty, regionName } from "../db/regions.ts";
 import { pmap } from "../llm/client.ts";
-import { labelFor } from "../agents/scorer.ts";
 import { searchRegion } from "./search.ts";
 import { extractDocuments } from "./extract.ts";
 import { scoreRegion } from "./score_region.ts";
+import { predictState } from "./predict.ts";
 
 const DOCS_PER_COUNTY = 5;
 const EVIDENCE_SCORED = "state = ? AND score IS NOT NULL AND confidence > 0";
@@ -35,14 +35,7 @@ export async function fillState(state: string, concurrency = 5): Promise<void> {
     }
   });
 
-  const base = get(`SELECT avg(score) AS mean, count(*) AS n FROM counties WHERE ${EVIDENCE_SCORED}`, state)!;
-  if (!Number(base.n)) return console.warn(`fill ${state}: no county scored on evidence, so no baseline`);
-  const mean = Number(base.mean);
-  const summary = `No local data center reports found in a web search on ${now().slice(0, 10)}. The score is the ${stateName} baseline: the mean of the ${base.n} counties scored on evidence. No prediction.`;
-  for (const fips of empty) {
-    ensureCounty(fips);
-    run("UPDATE counties SET score = ?, label = ?, summary = ?, prediction = NULL, confidence = 0, updated = ? WHERE fips = ?", mean, labelFor(mean), summary, now(), fips);
-    run("DELETE FROM reasons WHERE fips = ?", fips);
-  }
-  console.log(`fill ${state}: ${todo.length - empty.length} counties scored on evidence, ${empty.length} at the baseline ${mean.toFixed(2)}`);
+  for (const fips of empty) ensureCounty(fips);
+  const predicted = predictState(state);
+  console.log(`fill ${state}: ${todo.length - empty.length} counties scored on evidence, ${predicted} predicted from their neighbors`);
 }

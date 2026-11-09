@@ -103,7 +103,7 @@ export async function scoreRegion(input: ScoreInput): Promise<ScoreResult> {
   if (input.persist !== false) {
     ensureCounty(input.fips);
     run(
-      "UPDATE counties SET score = ?, label = ?, summary = ?, prediction = ?, confidence = ?, updated = ? WHERE fips = ?",
+      "UPDATE counties SET score = ?, label = ?, summary = ?, prediction = ?, confidence = ?, basis = 'evidence', predicted_from = '[]', updated = ? WHERE fips = ?",
       result.score, result.label, result.summary, result.prediction, result.confidence, now(), input.fips,
     );
     run("DELETE FROM reasons WHERE fips = ?", input.fips);

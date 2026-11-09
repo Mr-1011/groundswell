@@ -9,7 +9,9 @@
 //   npm start -- --trends         find communication patterns in every county with social items or quotes, merge the
 //                                 ones that express the same frame, then export (--consolidate-only: merge step only)
 //   npm start -- --fill AL TX     every county of the states gets a score: one web search per unscored county, the
-//                                 scorer where it finds evidence, the state baseline (confidence 0) elsewhere; then export
+//                                 scorer where it finds evidence, a prediction from the nearest evidence-scored
+//                                 counties (confidence 0) elsewhere; then export
+//   npm start -- --predict AL TX  recompute those predictions from the current evidence scores (no web, no model), then export
 import { all, get, run, now, exportMap } from "./db/client.ts";
 import { fips2OfState } from "./db/regions.ts";
 import { MODELS, pmap } from "./llm/client.ts";
@@ -22,6 +24,7 @@ import { geocodeProjects } from "./tools/geocode.ts";
 import { findTrends, consolidateTrends } from "./tools/trends.ts";
 import { importEpoch } from "./tools/import_epoch.ts";
 import { fillState } from "./tools/fill.ts";
+import { predictState } from "./tools/predict.ts";
 
 const ORCHESTRATOR_SYSTEM = `You coordinate Groundswell research. You never research yourself and never write facts: you dispatch region-researcher subagents (Task tool, subagent_type "region-researcher"), check their results with region_info, keep the task queue in order with mark_task and plan_counties, and report. Run up to ${MODELS.parallel_regions} subagents at the same time. Be brief.`;
 
@@ -89,6 +92,11 @@ async function main(): Promise<void> {
       await summarizeState(st);
     }
     await geocodeProjects(firstNewProject); // only the projects this run added; the older ones were tried before
+    return exportMap();
+  }
+
+  if (args.includes("--predict")) {
+    for (const st of args.filter((a) => /^[A-Za-z]{2}$/.test(a)).map((a) => a.toUpperCase())) console.log(`predict ${st}: ${predictState(st)} counties`);
     return exportMap();
   }
 

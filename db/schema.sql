@@ -39,6 +39,8 @@ CREATE TABLE IF NOT EXISTS counties (
   summary    TEXT,
   prediction TEXT CHECK (prediction IN ('blocked', 'approved')),
   confidence REAL,
+  basis      TEXT CHECK (basis IN ('evidence', 'predicted', 'baseline')), -- predicted: no local sources, score from the nearest evidence-scored counties
+  predicted_from TEXT NOT NULL DEFAULT '[]', -- JSON array of county fips the prediction leans on, most influential first
   updated    TEXT
 );
 

@@ -27,7 +27,7 @@ export type ChatOutput = z.infer<typeof ChatOutput>;
 export const CHAT_OUTPUT_SCHEMA = outputSchema(ChatOutput);
 
 export const DB_SCHEMA_DOC = `Database (SQLite, read-only):
-counties(fips, name, state, score 0-1, label low|medium|high, summary, prediction blocked|approved, confidence, updated)
+counties(fips, name, state, score 0-1, label low|medium|high, summary, prediction blocked|approved, confidence, basis evidence|predicted, predicted_from json array of fips, updated)  -- basis predicted: no local sources; score and prediction come from the nearest evidence-scored counties (predicted_from), confidence 0
 reasons(fips, reason, weight)
 items(id, fips, state, kind news|social|quote|fact|group, url, title, text, source, platform, date, stance oppose|support|neutral, topic, emotion anger|fear|distrust|frustration|sadness|hope|pride|none)
 trends(id, pattern, kind hashtag|phrase|frame, emotion, description, example_url, regions json array of county fips where seen, first_seen)  -- communication patterns found in one county's posts and checked in the others
