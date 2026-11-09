@@ -4,10 +4,10 @@
     "score": 0.7704545454545451,
     "counties_scored": 67,
     "projects_by_status": {
-      "approved": 24,
-      "moratorium": 35,
-      "operating": 38,
-      "planned": 84,
+      "approved": 26,
+      "moratorium": 38,
+      "operating": 39,
+      "planned": 86,
       "rejected": 1,
       "withdrawn": 1
     },
@@ -100,7 +100,7 @@
     "projects_by_status": {
       "approved": 2,
       "moratorium": 7,
-      "planned": 7,
+      "planned": 9,
       "rejected": 1,
       "withdrawn": 1
     },
@@ -170,7 +170,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 7,
-      "moratorium": 1,
+      "moratorium": 2,
       "operating": 3,
       "planned": 25,
       "rejected": 2
@@ -191,7 +191,7 @@
       "approved": 15,
       "moratorium": 5,
       "operating": 3,
-      "planned": 26,
+      "planned": 27,
       "withdrawn": 6
     },
     "moratoria": 0,
@@ -366,7 +366,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 4,
-      "moratorium": 9,
+      "moratorium": 10,
       "operating": 3,
       "planned": 14,
       "rejected": 2,
@@ -509,7 +509,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 4,
-      "moratorium": 2,
+      "moratorium": 3,
       "operating": 1,
       "planned": 10
     },
@@ -617,12 +617,12 @@
     "score": 0.7195145631067961,
     "counties_scored": 254,
     "projects_by_status": {
-      "approved": 133,
-      "moratorium": 35,
-      "operating": 119,
-      "planned": 488,
-      "rejected": 29,
-      "withdrawn": 26
+      "approved": 176,
+      "moratorium": 41,
+      "operating": 122,
+      "planned": 647,
+      "rejected": 39,
+      "withdrawn": 32
     },
     "moratoria": 35,
     "top_reasons": [
@@ -715,7 +715,7 @@
     "counties_scored": 0,
     "projects_by_status": {
       "approved": 2,
-      "planned": 8
+      "planned": 9
     },
     "moratoria": 0,
     "top_reasons": [],
