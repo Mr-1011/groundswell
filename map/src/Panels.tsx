@@ -94,9 +94,13 @@ const Ext = ({ href, children }: { href: string; children: ReactNode }) => (
   </a>
 );
 
+// YouTube items are a title line plus channel metadata and description: show the title only.
+const postText = (t: string) => (/\n\s*-?\s*Channel:/.test(t) ? t.split("\n")[0].replace(/^#\s*/, "") : t);
+
 // A source link: a plain click opens the source window on the map; cmd, ctrl, shift or middle click still opens a browser tab.
-const Src = ({ href, onOpen, children }: { href: string; onOpen: ViewProps["onOpen"]; children: ReactNode }) => (
+const Src = ({ href, onOpen, children, className }: { href: string; onOpen: ViewProps["onOpen"]; children: ReactNode; className?: string }) => (
   <a
+    className={className}
     href={href}
     target="_blank"
     rel="noreferrer"
@@ -496,8 +500,8 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
                     <div className="feed-meta mono">
                       {day(n.date)} · {n.platform} · {n.stance ?? "-"}
                     </div>
-                    <Src href={n.url} onOpen={onOpen}>
-                      {n.text}
+                    <Src href={n.url} onOpen={onOpen} className="post">
+                      {postText(n.text)}
                     </Src>
                   </li>
                 ))}
