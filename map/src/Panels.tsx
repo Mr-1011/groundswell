@@ -1,6 +1,6 @@
 // Detail views for the INFO tab and the floating windows.
 import { Fragment, useState, type CSSProperties, type ReactNode } from "react";
-import { STATUSES, STATUS_LABEL, isBaseline, isPredicted, rampColor, type County, type Data, type Emotion, type Stance, type Status } from "./data";
+import { STATUSES, STATUS_LABEL, isBaseline, isPredicted, rampColor, type County, type CountyProfile, type Data, type Driver, type Emotion, type Stance, type Status } from "./data";
 import { inWindow, type Filters, type Selection, type WindowSpec } from "./state";
 import { Meter, OutcomeBar, RoundsChart, ScoreHistogram, StanceBar, Timeline } from "./charts";
 import { Shape } from "./shapes";
@@ -56,6 +56,60 @@ function Stats({ items }: { items: [string, ReactNode][] }) {
         </div>
       ))}
     </div>
+  );
+}
+
+const k = (v: number) => (v >= 1000 ? `${(v / 1000).toFixed(v >= 10000 ? 0 : 1)}k` : String(v));
+
+// What we hold about a county besides news: 2024 vote and the data center projects within 60 km.
+function Profile({ p, onOpen }: { p: CountyProfile; onOpen: ViewProps["onOpen"] }) {
+  const m = p.pres_2024_margin;
+  const np = p.nearest_project;
+  return (
+    <Section title="Profile · 2024 vote · 60 km around">
+      <Stats
+        items={[
+          ["voters", p.voters_2024 != null ? k(p.voters_2024) : "-"],
+          ["margin", m != null ? `${m >= 0 ? "R" : "D"} +${Math.abs(m).toFixed(0)}` : "-"],
+          ["projects", p.projects_60km],
+          ["built", p.operating_60km],
+        ]}
+      />
+      {np && (
+        <button className="row row-btn row-plain nearest" onClick={() => onOpen({ kind: "project", id: np.name })}>
+          <Shape status={np.status} />
+          <span className="row-label">
+            {np.name} {!np.name.toLowerCase().includes(STATUS_LABEL[np.status]) && <span className="muted">{STATUS_LABEL[np.status]}</span>}
+          </span>
+          <span className="mono num">{np.km.toFixed(0)} km</span>
+        </button>
+      )}
+    </Section>
+  );
+}
+
+// Signed bars around a center line: right = raises the predicted score, left = lowers it. Scaled to the largest effect.
+function Drivers({ drivers }: { drivers: Driver[] }) {
+  const max = Math.max(...drivers.map((d) => Math.abs(d.effect)), 1e-9);
+  return (
+    <Section title="Why this prediction">
+      <div className="rows">
+        {drivers.map((d) => (
+          <div key={d.label} className="drow">
+            <span className="row-label wrap">
+              {d.label} <span className="muted mono">{d.value}</span>
+            </span>
+            <span className="dbar">
+              <i className={d.effect < 0 ? "neg" : "pos"} style={{ width: `${(Math.abs(d.effect) / max) * 50}%` }} />
+            </span>
+            <span className="mono num">
+              {d.effect < 0 ? "−" : "+"}
+              {Math.abs(d.effect).toFixed(3)}
+            </span>
+          </div>
+        ))}
+      </div>
+    </Section>
   );
 }
 
@@ -288,7 +342,7 @@ function CountyRows({ ids, data, withState, onPick }: { ids: string[]; data: Dat
                 {c.score != null ? <Meter value={c.score} color={rampColor(c.score)} /> : <span />}
                 <span
                   className={isBaseline(c) ? "mono num dim" : "mono num"}
-                  title={isPredicted(c) ? "predicted from nearby counties, no local evidence" : isBaseline(c) ? "state average, no local evidence" : undefined}
+                  title={isPredicted(c) ? "predicted, no local evidence" : isBaseline(c) ? "state average, no local evidence" : undefined}
                 >
                   {c.score != null ? c.score.toFixed(2) : "-"}
                 </span>
@@ -414,11 +468,11 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
         items={[
           ["resistance", <Score v={c.score} />],
           [
-            pred ?? "predicted",
+            isPredicted(c) ? "predicted" : (pred ?? "predicted"),
             pred && isPredicted(c) ? (
-              <span className="score" title={`predicted ${pred} from nearby counties, no local evidence`}>
+              <span className="score" title="predicted from nearby evidence and the county profile, no local evidence">
                 <i className={PRED[pred]} />
-                model
+                {pred}
               </span>
             ) : pred ? (
               <span className="score" title={`predicted ${pred}, confidence ${c.confidence ?? "-"}`}>
@@ -434,8 +488,10 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
         ]}
       />
       {c.summary && <Caption key={id} text={c.summary} />}
+      {c.profile && <Profile p={c.profile} onOpen={onOpen} />}
+      {isPredicted(c) && !!c.drivers?.length && <Drivers drivers={c.drivers} />}
       {isPredicted(c) && !!c.predicted_from?.length && (
-        <Section title="Predicted from · share">
+        <Section title="Nearby evidence · share">
           <div className="rows">
             {c.predicted_from.map((f, i) => {
               const n = data.counties[f];

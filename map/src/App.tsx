@@ -329,7 +329,7 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
                 <span className="swatches">
                   <i style={{ background: RAMP[RAMP.length - 2], opacity: 0.75 }} />
                 </span>
-                <span>no local evidence: predicted from nearby counties</span>
+                <span>no local evidence: predicted</span>
               </div>
             )}
             {noEvidence.baseline > 0 && (

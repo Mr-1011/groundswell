@@ -1118,6 +1118,49 @@ a.post:hover {
   outline: 1px solid var(--line-2);
   outline-offset: -1px;
 }
+/* prediction drivers: label, signed bar around a center line, signed value */
+.drow {
+  display: grid;
+  grid-template-columns: 1fr 96px 44px;
+  align-items: center;
+  gap: 8px;
+  padding: 3px 0;
+}
+.drow .num {
+  text-align: right;
+  font-size: 11px;
+  color: var(--ink);
+}
+.dbar {
+  position: relative;
+  height: 6px;
+  background: var(--panel-2);
+}
+.dbar::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: -3px;
+  bottom: -3px;
+  width: 1px;
+  background: var(--ink-4);
+}
+.dbar i {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+.dbar i.pos {
+  left: 50%;
+  background: var(--scale-hi);
+}
+.dbar i.neg {
+  right: 50%;
+  background: var(--ink-3);
+}
+.nearest {
+  margin-top: 6px;
+}
 .caption {
   display: block;
   width: 100%;

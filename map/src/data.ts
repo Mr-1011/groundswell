@@ -36,7 +36,20 @@ export type County = {
   confidence?: number | null;
   basis?: "evidence" | "predicted" | "baseline" | null; // predicted = no local sources, score from nearby evidence counties
   predicted_from?: string[]; // FIPS the prediction leans on, most influential first
+  profile?: CountyProfile | null;
+  drivers?: Driver[]; // basis predicted: signed contributions to the score vs the AL/TX mean, by |effect|
 };
+
+export type CountyProfile = {
+  voters_2024: number | null;
+  pres_2024_margin: number | null; // R minus D, points
+  projects_60km: number;
+  nearest_project: { name: string; status: Status; fips: string | null; km: number } | null;
+  operating_60km: number;
+  items: number;
+  regional_score: number | null;
+};
+export type Driver = { label: string; value: string; effect: number };
 
 // No local sources: predicted from nearby counties, or (older exports) the state mean.
 export const isPredicted = (c: County | undefined) => c?.basis === "predicted";
