@@ -429,7 +429,7 @@ export function StateView({ id, data, filters, onSelect, onOpen, regionCenter }:
       </Section>
       <Coverage counties={counties} filters={filters} />
       <Emotions counties={counties} filters={filters} />
-      <Groups key={id} counties={counties} withCounty onOpen={onOpen} />
+      <Groups key={`g${id}`} counties={counties} withCounty onOpen={onOpen} />
       <Section title="Projects by status">
         <StatusBars counts={s.projects_by_status} />
       </Section>
@@ -527,7 +527,7 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onSele
           </div>
         </Section>
       )}
-      {c.news.length + c.social.length + c.quotes.length > 0 && <Coverage key={id} counties={[c]} filters={filters} />}
+      {c.news.length + c.social.length + c.quotes.length > 0 && <Coverage key={`cov${id}`} counties={[c]} filters={filters} />}
       <Emotions counties={[c]} filters={filters} />
       <Groups key={`g${id}`} counties={[c]} onOpen={onOpen} />
       {projects.length > 0 && (
