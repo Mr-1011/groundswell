@@ -12,7 +12,8 @@ import { scoreRegion } from "./score_region.ts";
 const DOCS_PER_COUNTY = 5;
 const EVIDENCE_SCORED = "state = ? AND score IS NOT NULL AND confidence > 0";
 
-export async function fillState(state: string, concurrency = 10): Promise<void> {
+// Two Exa searches per county; Exa allows 10 requests per second per team, so 5 counties at a time.
+export async function fillState(state: string, concurrency = 5): Promise<void> {
   const stateName = STATE_NAMES[state] ?? state;
   const done = new Set(all(`SELECT fips FROM counties WHERE ${EVIDENCE_SCORED}`, state).map((r) => String(r.fips)));
   const todo = Object.keys(COUNTIES).filter((f) => COUNTIES[f]!.state === state && !done.has(f));
@@ -21,7 +22,9 @@ export async function fillState(state: string, concurrency = 10): Promise<void> 
 
   await pmap(todo, concurrency, async (fips) => {
     try {
-      const hits = await searchRegion({ region_fips: fips, queries: [`${COUNTIES[fips]!.name}, ${stateName} data center`], sources: ["exa"], limit: DOCS_PER_COUNTY });
+      const county = COUNTIES[fips]!.name;
+      const queries = [`${county}, ${stateName} data center`, `residents react to a data center proposal in ${county}, ${stateName}`];
+      const hits = await searchRegion({ region_fips: fips, queries, sources: ["exa"], limit: DOCS_PER_COUNTY });
       await extractDocuments(hits.filter((h) => h.new).map((h) => h.id));
       const n = Number(get("SELECT (SELECT count(*) FROM items WHERE fips = ?) + (SELECT count(*) FROM projects WHERE fips = ?) AS n", fips, fips)!.n);
       if (!n) return void empty.push(fips);

@@ -14,7 +14,7 @@ export async function exaSearch(req: SourceRequest, extra: Record<string, unknow
   };
   if (req.since) body.startPublishedDate = toIso(req.since);
   if (req.until) body.endPublishedDate = toIso(req.until);
-  // Exa answers bursts with 500 INTERNAL_ERROR; retry twice with backoff.
+  // Exa answers bursts with 500 INTERNAL_ERROR or 429 (10 requests per second per team); retry three times with backoff.
   for (let attempt = 0; ; attempt++) {
     const res = await fetch("https://api.exa.ai/search", {
       method: "POST",
@@ -23,7 +23,7 @@ export async function exaSearch(req: SourceRequest, extra: Record<string, unknow
     });
     if (res.ok) return ((await res.json()) as { results: ExaResult[] }).results;
     const text = await res.text();
-    if (res.status < 500 || attempt >= 2) throw new Error(`exa ${res.status}: ${text}`);
+    if ((res.status < 500 && res.status !== 429) || attempt >= 3) throw new Error(`exa ${res.status}: ${text}`);
     await new Promise((r) => setTimeout(r, 1500 * 2 ** attempt));
   }
 }
