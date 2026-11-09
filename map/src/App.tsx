@@ -29,12 +29,15 @@ export default function App() {
   return <Dashboard data={loaded.data} geo={loaded.geo} layerData={layerData} />;
 }
 
-// Static outline of the layout while the data loads (no shimmer: the look rules forbid pulsing).
+// Outline of the layout while the data loads; the map area shows the swell animation.
 function Skeleton() {
   return (
     <div className="app" aria-busy="true">
       <main className="map-area skel-map">
-        <span className="mono muted">loading county data…</span>
+        <div className="boot">
+          <div className="swell" />
+          <span className="mono">groundswell</span>
+        </div>
       </main>
       <aside className="side">
         <div className="tabs">

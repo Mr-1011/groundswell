@@ -96,6 +96,48 @@ h3 {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+/* boot animation: a swell of resistance moving across a grid of county cells */
+.boot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  color: var(--ink-3);
+  letter-spacing: 0.3em;
+}
+.swell {
+  --cells: linear-gradient(90deg, var(--bg) 3px, transparent 0) 0 0 / 14px 14px, linear-gradient(var(--bg) 3px, transparent 0) 0 0 / 14px 14px;
+  position: relative;
+  width: 171px;
+  height: 73px;
+  background: var(--cells), var(--panel-2);
+}
+.swell::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--cells), var(--scale-hi);
+  -webkit-mask: linear-gradient(105deg, transparent 30%, rgb(0 0 0 / 0.25) 40%, #000 50%, rgb(0 0 0 / 0.25) 60%, transparent 70%) 0 0 / 300% 100%;
+  mask: linear-gradient(105deg, transparent 30%, rgb(0 0 0 / 0.25) 40%, #000 50%, rgb(0 0 0 / 0.25) 60%, transparent 70%) 0 0 / 300% 100%;
+  animation: swell 2.4s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+}
+@keyframes swell {
+  from {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+  to {
+    -webkit-mask-position: 0 0;
+    mask-position: 0 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .swell::after {
+    animation: none;
+    -webkit-mask-position: 50% 0;
+    mask-position: 50% 0;
+  }
+}
 .skel {
   background: var(--panel-2);
 }
