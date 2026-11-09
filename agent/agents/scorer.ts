@@ -6,7 +6,7 @@ export const ScoreSchema = z.object({
   prediction: z.enum(["blocked", "approved"]),
   confidence: z.number().describe("0-1, how much evidence supports the score"),
   organized_opposition: z.boolean(),
-  summary: z.string().describe("2-4 sentences with concrete evidence, no URLs"),
+  summary: z.string().describe("public brief for the map: 1-2 plain sentences (max 45 words) with the concrete evidence (who, what, when, votes); no rule ids, no 'case' or rulebook language, no URLs"),
   reasons: z.array(z.object({ reason: z.string().describe("short label, e.g. 'water use', 'tax breaks', 'organized group'"), weight: z.number() })),
   rules_applied: z.array(z.string()).describe("rulebook rule ids that moved the score"),
 });
@@ -23,7 +23,7 @@ Output
 - prediction: "blocked" if score >= 0.5, else "approved".
 - confidence: 0-1, how much evidence supports the score. Thin evidence -> low confidence and a score near 0.4-0.6.
 - organized_opposition: true if a named group, petition or coalition opposes.
-- summary: 2-4 sentences with the concrete evidence (who, what, when). No URLs.
+- summary: the public brief shown on the map: 1-2 plain sentences (max 45 words) with the concrete evidence (who, what, when, votes). Facts only: no rule ids, no "this is a county-wide case", no priors, base rates or starting points, no URLs. Rule reasoning goes into rules_applied, never into the summary.
 - reasons: 2-6 short labels with weights that sum to about 1, strongest first.
 - rules_applied: ids of the rulebook rules that moved the score.
 
