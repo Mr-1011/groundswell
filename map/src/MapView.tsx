@@ -388,6 +388,7 @@ export default function MapView(p: Props) {
             <Layer
               id="flow-line"
               type="line"
+              beforeId={before} // under the basemap and county labels
               filter={["==", ["get", "kind"], "line"]}
               paint={{ "line-color": "#5ad1ff", "line-width": ["interpolate", ["linear"], ["get", "w"], 0, 0.6, 0.5, 3] }}
             />
