@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { MapRef } from "react-map-gl/maplibre";
 import type { FeatureCollection } from "geojson";
-import { INFRA, LAYERS, MODEL_LAYERS, RAMP, STATUSES, STATUS_LABEL, bbox, loadData, loadLayer, type Data, type Geo, type RegionFeature, type Status } from "./data";
+import { INFRA, LAYERS, MODEL_LAYERS, RAMP, STATUSES, STATUS_LABEL, bbox, isBaseline, isPredicted, loadData, loadLayer, type Data, type Geo, type RegionFeature, type Status } from "./data";
 import { DEFAULT_FILTERS, inWindow, type Action, type Selection, type WindowSpec } from "./state";
 import MapView, { US_BOUNDS } from "./MapView";
 import { CountyView, InfraView, NationalView, NewsView, ProjectView, RoundsView, StateView, type ViewProps } from "./Panels";
@@ -63,6 +63,10 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
   const [drawer, setDrawer] = useState(false);
   const [tab, setTab] = useState<"info" | "agent">("info");
   const [messages, setMessages] = useState<ChatMessage[]>([]);
+  const noEvidence = useMemo(() => {
+    const cs = Object.values(data.counties);
+    return { predicted: cs.filter(isPredicted).length, baseline: cs.filter(isBaseline).length };
+  }, [data]);
   const [busy, setBusy] = useState(false);
 
   const regions = useMemo(() => {
@@ -320,12 +324,22 @@ function Dashboard({ data, geo, layerData }: { data: Data; geo: Geo; layerData: 
                 </button>
               )}
             </div>
-            <div className="legend-row">
-              <span className="swatches">
-                <i style={{ background: RAMP[RAMP.length - 2], opacity: 0.3 }} />
-              </span>
-              <span>no local evidence: state average</span>
-            </div>
+            {noEvidence.predicted > 0 && (
+              <div className="legend-row">
+                <span className="swatches">
+                  <i style={{ background: RAMP[RAMP.length - 2], opacity: 0.75 }} />
+                </span>
+                <span>no local evidence: predicted from nearby counties</span>
+              </div>
+            )}
+            {noEvidence.baseline > 0 && (
+              <div className="legend-row">
+                <span className="swatches">
+                  <i style={{ background: RAMP[RAMP.length - 2], opacity: 0.3 }} />
+                </span>
+                <span>no local evidence: state average</span>
+              </div>
+            )}
             {shownStatuses.length > 0 && (
               <div className="legend-projects">
                 <div className="legend-head">

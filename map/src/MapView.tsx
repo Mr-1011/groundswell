@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState, type RefObject } from "react";
 import Map, { Layer, ScaleControl, Source, useMap, type MapLayerMouseEvent, type MapRef } from "react-map-gl/maplibre";
 import type { ExpressionSpecification, MapMouseEvent } from "maplibre-gl";
 import type { FeatureCollection } from "geojson";
-import { LAYERS, OIM_ATTRIBUTION, OIM_TILES, RAMP, STATUSES, STATUS_LABEL, bbox, type Data, type Geo, type Project } from "./data";
+import { LAYERS, OIM_ATTRIBUTION, OIM_TILES, RAMP, STATUSES, STATUS_LABEL, bbox, isBaseline, isPredicted, type Data, type Geo, type Project } from "./data";
 import { inWindow, type Filters, type Selection } from "./state";
 import { hatchImage, infraImage, shapeImage } from "./shapes";
 import { GRATICULE, fmtLat, fmtLon, rangeRings } from "./overlays";
@@ -23,7 +23,7 @@ const scoreFill: ExpressionSpecification = [
   ...RAMP.flatMap((c, i) => [i / (RAMP.length - 1), c]),
 ] as ExpressionSpecification;
 
-const faint = (v: number): ExpressionSpecification => ["case", ["has", "base"], v * 0.3, v];
+const faint = (v: number): ExpressionSpecification => ["case", ["has", "base"], v * 0.3, ["has", "predicted"], v * 0.75, v];
 
 // Infrastructure tiles (OpenInfraMap): numbers arrive as strings or floats, so coerce.
 const VOLT = ["to-number", ["get", "voltage"], 0] as ExpressionSpecification;
@@ -134,7 +134,11 @@ export default function MapView(p: Props) {
           const c = p.data.counties[f.properties.id];
           const count = projectCount.get(f.properties.id) ?? 0;
           const prj = count ? `${count} ${count === 1 ? "PROJECT" : "PROJECTS"}` : "";
-          const pred = c?.prediction ? `${c.prediction.toUpperCase()}${c.confidence != null ? ` ${c.confidence.toFixed(2)}` : ""}` : "";
+          const pred = isPredicted(c)
+            ? `PREDICTED${c?.prediction ? ` ${c.prediction.toUpperCase()}` : ""}`
+            : c?.prediction
+              ? `${c.prediction.toUpperCase()}${c.confidence != null ? ` ${c.confidence.toFixed(2)}` : ""}`
+              : "";
           const score = f.properties.score != null ? `  ${f.properties.score.toFixed(2)}` : "";
           return {
             type: "Feature",
@@ -223,7 +227,13 @@ export default function MapView(p: Props) {
     const c = p.data.counties[String(pr.id)];
     const count = projectCount.get(String(pr.id));
     return [
-      pr.score == null ? "NO SCORE" : c?.confidence === 0 ? `STATE AVG ${Number(pr.score).toFixed(2)} · NO LOCAL EVIDENCE` : `RESISTANCE ${Number(pr.score).toFixed(2)}`,
+      pr.score == null
+        ? "NO SCORE"
+        : isPredicted(c)
+          ? `PREDICTED ${Number(pr.score).toFixed(2)} · NO LOCAL EVIDENCE`
+          : isBaseline(c)
+            ? `STATE AVG ${Number(pr.score).toFixed(2)} · NO LOCAL EVIDENCE`
+            : `RESISTANCE ${Number(pr.score).toFixed(2)}`,
       count ? `${count} ${count === 1 ? "PROJECT" : "PROJECTS"}` : null,
       c?.prediction ? `PRED ${c.prediction.toUpperCase()}` : null,
     ].filter(Boolean).join(" · ");

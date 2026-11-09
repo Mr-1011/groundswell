@@ -1,6 +1,6 @@
 // Detail views for the INFO tab and the floating windows.
 import { Fragment, useState, type CSSProperties, type ReactNode } from "react";
-import { STATUSES, STATUS_LABEL, rampColor, type County, type Data, type Emotion, type Stance, type Status } from "./data";
+import { STATUSES, STATUS_LABEL, isBaseline, isPredicted, rampColor, type County, type Data, type Emotion, type Stance, type Status } from "./data";
 import { inWindow, type Filters, type Selection, type WindowSpec } from "./state";
 import { Meter, OutcomeBar, RoundsChart, ScoreHistogram, StanceBar, Timeline } from "./charts";
 import { Shape } from "./shapes";
@@ -272,7 +272,10 @@ function CountyRows({ ids, data, withState, onPick }: { ids: string[]; data: Dat
                   {withState && <span className="muted">, {c.state}</span>}
                 </span>
                 {c.score != null ? <Meter value={c.score} color={rampColor(c.score)} /> : <span />}
-                <span className={c.confidence === 0 ? "mono num dim" : "mono num"} title={c.confidence === 0 ? "state average, no local evidence" : undefined}>
+                <span
+                  className={isBaseline(c) ? "mono num dim" : "mono num"}
+                  title={isPredicted(c) ? "predicted from nearby counties, no local evidence" : isBaseline(c) ? "state average, no local evidence" : undefined}
+                >
                   {c.score != null ? c.score.toFixed(2) : "-"}
                 </span>
                 <i className={pred ? PRED[pred] : "empty"} title={pred ? `predicted ${pred}` : "no prediction"} />
@@ -383,7 +386,7 @@ export function StateView({ id, data, filters, onSelect, onOpen, regionCenter }:
   );
 }
 
-export function CountyView({ id, data, filters, regionName, regionCenter, onOpen }: ViewProps & { id: string }) {
+export function CountyView({ id, data, filters, regionName, regionCenter, onSelect, onOpen }: ViewProps & { id: string }) {
   const c = data.counties[id];
   const projects = data.projects.filter((p) => p.fips === id);
   if (!c) return <p className="muted">No data for {regionName("county", id)} yet.</p>;
@@ -398,7 +401,12 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
           ["resistance", <Score v={c.score} />],
           [
             pred ?? "predicted",
-            pred ? (
+            pred && isPredicted(c) ? (
+              <span className="score" title={`predicted ${pred} from nearby counties, no local evidence`}>
+                <i className={PRED[pred]} />
+                model
+              </span>
+            ) : pred ? (
               <span className="score" title={`predicted ${pred}, confidence ${c.confidence ?? "-"}`}>
                 <i className={PRED[pred]} />
                 {c.confidence != null ? `${Math.round(c.confidence * 100)}%` : "-"}
@@ -412,6 +420,19 @@ export function CountyView({ id, data, filters, regionName, regionCenter, onOpen
         ]}
       />
       {c.summary && <Brief key={id} text={c.summary} />}
+      {isPredicted(c) && !!c.predicted_from?.length && (
+        <Section title="Predicted from">
+          <div className="rows">
+            {c.predicted_from.map((f) => (
+              <button key={f} className="row row-btn row-plain" onClick={() => onSelect({ kind: "county", id: f })}>
+                <span className="row-label">{regionName("county", f)}</span>
+                {data.counties[f]?.score != null && <Meter value={data.counties[f].score!} color={rampColor(data.counties[f].score!)} />}
+                <span className="mono num">{data.counties[f]?.score?.toFixed(2) ?? "-"}</span>
+              </button>
+            ))}
+          </div>
+        </Section>
+      )}
       {c.reasons.length > 0 && (
         <Section title="Reasons">
           <div className="rows">

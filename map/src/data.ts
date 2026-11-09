@@ -34,7 +34,13 @@ export type County = {
   updated: string | null;
   prediction?: "blocked" | "approved" | null; // agent's predicted outcome for a project here
   confidence?: number | null;
+  basis?: "evidence" | "predicted" | "baseline" | null; // predicted = no local sources, score from nearby evidence counties
+  predicted_from?: string[]; // FIPS the prediction leans on, most influential first
 };
+
+// No local sources: predicted from nearby counties, or (older exports) the state mean.
+export const isPredicted = (c: County | undefined) => c?.basis === "predicted";
+export const isBaseline = (c: County | undefined) => !!c && c.basis !== "predicted" && (c.basis === "baseline" || c.confidence === 0);
 
 export type Project = {
   name: string;
@@ -71,7 +77,7 @@ export type Data = {
 };
 
 type Shape = Polygon | MultiPolygon;
-export type RegionFeature = Feature<Shape, { id: string; name: string; state: string; score?: number; pred?: string; base?: boolean }>;
+export type RegionFeature = Feature<Shape, { id: string; name: string; state: string; score?: number; pred?: string; base?: boolean; predicted?: boolean }>;
 export type Geo = {
   counties: FeatureCollection<Shape, RegionFeature["properties"]>;
   states: FeatureCollection<Shape, RegionFeature["properties"]>;
@@ -107,7 +113,8 @@ function buildGeo(data: Data, atlas: Topology<{ counties: GeometryCollection; st
     f.properties = { id: fips, name: c?.name ?? f.properties.name, state: STATE_FIPS[fips.slice(0, 2)] ?? "" } as never;
     if (c?.score != null) (f.properties as RegionFeature["properties"]).score = c.score;
     if (c?.prediction) (f.properties as RegionFeature["properties"]).pred = c.prediction;
-    if (c?.confidence === 0) (f.properties as RegionFeature["properties"]).base = true; // score is the state average, no local evidence
+    if (isBaseline(c)) (f.properties as RegionFeature["properties"]).base = true; // score is the state average
+    if (isPredicted(c)) (f.properties as RegionFeature["properties"]).predicted = true;
   }
 
   const states = shapes("states");
