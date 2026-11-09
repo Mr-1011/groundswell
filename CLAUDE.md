@@ -12,10 +12,10 @@ The full spec lives in the Notion page "Groundswell (SF x MIT Energy Hack)". Its
 
 Two Claude sessions work in this repo at the same time:
 
-- Dashboard session: owns `map/` only. Reads only `map/data/`. Never edits `agent/` or `db/`.
+- Dashboard session: owns `map/` and `deploy/`, and runs both deploys. Reads only `map/data/`. Never edits `agent/` or `db/`.
 - Agent session: owns `agent/` and `db/`. Writes `map/data/`. Never edits `map/` UI files.
 
-The JSON files in `map/data/` are the contract, specified in `map/README.md`. A contract change goes into `map/README.md` first. The files there now are sample data (example.com URLs); `db/export.py` overwrites them.
+The JSON files in `map/data/` are the contract, specified in `map/README.md`. A contract change goes into `map/README.md` first. `db/export.py` overwrites them on every export; the agent session tells the dashboard session when an export is written, and the dashboard session redeploys.
 
 ## Commands
 
@@ -36,6 +36,8 @@ cd agent && npm run serve                        # POST /chat on :8787
 cd agent && npm run typecheck                    # tsc --noEmit
 sqlite3 db/groundswell.sqlite < db/schema.sql    # create the DB
 python3 db/export.py                             # DB -> map/data/{counties,projects,states,rounds}.json
+cd map && VITE_AGENT_URL=https://groundswell-agent.vercel.app npx vercel build --prod && npx vercel deploy --prebuilt --prod   # public map
+deploy/chat/deploy.sh                            # public chat server (container + DB snapshot)
 ```
 
 No tests and no linter exist yet.
@@ -47,9 +49,17 @@ Data flows one way: sources -> `documents` table -> extractor -> `items`, `proje
 - Sources (`agent/sources/`): one file per source (Tavily news, Exa, Apify Reddit/TikTok, Oriane TikTok, Supadata YouTube, county minutes). Each returns the same `SourceDocument` shape from `agent/sources/types.ts`, so the extractor and classifier never see source specifics. A source is switched on in `agent/config/sources.json`. Adding a source = one file + one config line.
 - Models (`agent/config/models.json`): Opus 5.5 orchestrator, scorer and reflector; Sonnet 5.5 region-researcher subagents, extractor, classifier and chat (Claude Agent SDK; direct Messages API calls with structured outputs for extractor/classifier/scorer). Stance classifier: `stance_provider` switches from Anthropic to any OpenAI-compatible endpoint (Fireworks, GMI Cloud) for a fine-tuned model; `agent/loop/export-labels.ts` writes the training JSONL.
 - Learning loop (`agent/loop/`): backtest on real past decisions in `cases.json` (built by `build-cases.ts` with web research; every third case held out). Research per case happens once with evidence before the decision date; rounds differ only in the rulebook. Accuracy per round goes to `rounds` -> `map/data/rounds.json`. The reflector rewrites `agent/loop/rulebook.md` between rounds. Target label: blocked yes/no.
-- Chat: the agent exposes `POST /chat` on :8787. It returns an answer plus map actions as structured output: `fly_to`, `highlight`, `set_filter`, `open_window`. The dashboard executes them in `runAction` (`map/src/App.tsx`). Request/response shapes are in `map/README.md`.
-- Dashboard (`map/`): Vite serves `map/data/` as its static root (`publicDir`), so the dashboard fetches `/counties.json` etc. County/state shapes come from `us-atlas` and get scores joined on FIPS in `map/src/data.ts`. MapLibre is excluded from Vite pre-bundling and its worker URL is set in `main.tsx`; without both the map stays blank ("Worker failed to load").
+- Chat: the agent exposes `POST /chat` on :8787. It returns an answer plus map actions as structured output: `fly_to`, `highlight`, `set_filter`, `open_window`. The dashboard executes them in `runAction` (`map/src/App.tsx`). Request/response shapes are in `map/README.md`. Stateless by decision: no session id, nothing stored. It is public, so it stays hardened: `db_query` runs on a read-only connection (a CTE can precede UPDATE/DELETE in SQLite, so a SELECT/WITH prefix check is not enough), message max 500 chars, `maxBudgetUsd` per request, and the chat agent gets no shell or file tools (the container holds the API key).
+- Dashboard (`map/`): Vite serves `map/data/` as its static root (`publicDir`), so the dashboard fetches `/counties.json` etc. County/state shapes come from `us-atlas` and get scores joined on FIPS in `map/src/data.ts`. MapLibre is excluded from Vite pre-bundling and its worker URL is set in `main.tsx`; without both the map stays blank ("Worker failed to load"). The AGENT tab exists only when `AGENT_URL` is set: the dev proxy `/api`, or `VITE_AGENT_URL` baked in at build time. Source links (news, posts, quotes, groups, project sources) open a `news` window (`NewsView` in `Panels.tsx`) instead of a tab; YouTube, TikTok (`embed/v2`), X and Reddit play inside it, news sites forbid framing. UI labels for project status come from `STATUS_LABEL` ("operating" shows as "built"); the contract keeps the ids.
+- Dashboard traps: react-map-gl exports a `Map` component that shadows the global `Map`, so use `globalThis.Map`. MapLibre layer order is fixed when a layer is added, so a reorder needs a page reload, not HMR.
 - Storage: SQLite now (`db/groundswell.sqlite`, gitignored), Postgres later.
+
+## Deploy
+
+Both parts run on Vercel (team `fluid-labs`) and deploy from this laptop with the CLI; neither project is connected to Git.
+
+- Map: project `groundswell`, https://groundswell-dun.vercel.app. Static build of `map/`, data from `map/data/` on disk at build time, so redeploy after each export. A build without `VITE_AGENT_URL` has no AGENT tab. The first request per edge after a deploy can take a minute; curl every file once to warm it.
+- Chat: project `groundswell-agent` (Container preset), https://groundswell-agent.vercel.app. `deploy/chat/deploy.sh` builds the image from `agent/` plus a read-only snapshot of the DB (non-root user, `PORT` 8080 must match the project env var `PORT`, `HOME=/tmp` for the Claude binary). `ANTHROPIC_API_KEY` is a sensitive project env var. Per-IP rate limits (6/min, 40/h on `POST /chat`) are Vercel firewall rules; the CLI stages firewall changes but only a human can publish them (dashboard or a TTY).
 
 ## Hard rules
 
