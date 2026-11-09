@@ -12,7 +12,7 @@
   "max_budget_usd_per_run": 25,
   "openai_compatible": {
     "base_url": "https://api.fireworks.ai/inference/v1",
-    "model": "",
+    "model": "accounts/furkan-6eo1n9w47cuf/models/groundswell-stance-v1",
     "env": "FIREWORKS_API_KEY"
   }
 }
